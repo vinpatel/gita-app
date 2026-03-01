@@ -43,7 +43,7 @@ Every shloka becomes actionable wisdom — not just understood intellectually, b
 - Multiple well-known commentaries exist: Adi Shankaracharya (Advaita), Ramanuja (Vishishtadvaita), Swami Prabhupada (ISKCON), Swami Chinmayananda, Eknath Easwaran, and others
 - Existing Gita apps/sites typically offer translation only — the practical life application angle is the differentiator
 - Public domain Sanskrit texts and several translations are freely available (Gita Press, sacred-texts.com, etc.)
-- V1 scope is one chapter done perfectly to prove the concept and establish the content template
+- V1 scope is chapters 1 and 2 fully polished to prove the concept and establish the content template
 
 ## Constraints
 
@@ -51,7 +51,7 @@ Every shloka becomes actionable wisdom — not just understood intellectually, b
 - **Hosting**: Must be fully static — no server, no database, GitHub Pages only
 - **Open Source**: MIT or similar permissive license — accessible to all contributors
 - **Content**: AI-generated from public domain sources — no copyrighted commentary text
-- **V1 Scope**: One chapter fully polished before expanding — prove the template works
+- **V1 Scope**: Chapters 1 and 2 fully polished before expanding — prove the template works
 
 ## Key Decisions
 
@@ -60,7 +60,7 @@ Every shloka becomes actionable wisdom — not just understood intellectually, b
 | Progressive reveal for shloka pages | Mirrors contemplative study — sit with Sanskrit first, then peel layers of meaning | — Pending |
 | Curated synthesis + expandable commentaries | Accessible for beginners, deep enough for scholars | — Pending |
 | AI-generated content | 700 shlokas x multiple sections is massive — manual curation doesn't scale for v1 | — Pending |
-| One chapter for v1 | Prove the concept and template before scaling to all 18 chapters | — Pending |
+| Chapters 1 & 2 for v1 | Two chapters proves the template and gives meaningful content to share | — Pending |
 | Static site on GitHub Pages | Open source, zero hosting cost, community contributions via PRs | — Pending |
 | Serene & minimal design | Spiritual text needs breathing room, not visual clutter | — Pending |
 | Astro as framework | Content collections for 700 shlokas, interactive islands for UI, static output for GitHub Pages. Phoenix/Elixir rejected — requires server | — Pending |
