@@ -115,7 +115,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 2/4 | In progress | - |
+| 1. Foundation | 3/4 | In Progress|  |
 | 2. Content Pipeline | 0/4 | Not started | - |
 | 3. Core Reading UI | 0/8 | Not started | - |
 | 4. Search and SEO | 0/4 | Not started | - |

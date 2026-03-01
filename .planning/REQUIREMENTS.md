@@ -16,7 +16,7 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 - [ ] **CONT-05**: Each shloka has expandable individual commentaries from 2-3 traditions (Shankaracharya, Prabhupada tradition, Chinmayananda)
 - [ ] **CONT-06**: Each shloka has practical life applications across 4 domains: Personal Growth, Career/Business, Health, Relationships
 - [ ] **CONT-07**: Each chapter has a summary with theme overview and key teachings
-- [ ] **CONT-08**: All content uses Gita Press (Gorakhpur) edition as canonical source for shloka numbering (700-verse structure)
+- [x] **CONT-08**: All content uses Gita Press (Gorakhpur) edition as canonical source for shloka numbering (700-verse structure)
 - [ ] **CONT-09**: Each shloka is tagged with life themes (stress, decision-making, loss, anger, purpose, duty, etc.) for problem-based search
 - [x] **CONT-10**: AI-generated content uses only public domain sources — no copyrighted commentary text reproduced
 
@@ -91,7 +91,7 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 | CONT-05 | Phase 2 | Pending |
 | CONT-06 | Phase 2 | Pending |
 | CONT-07 | Phase 2 | Pending |
-| CONT-08 | Phase 1 | Pending |
+| CONT-08 | Phase 1 | Complete |
 | CONT-09 | Phase 2 | Pending |
 | CONT-10 | Phase 1 | Complete |
 | NAV-01 | Phase 3 | Pending |
