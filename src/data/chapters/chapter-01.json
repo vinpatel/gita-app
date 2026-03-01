@@ -1,0 +1,35 @@
+[
+  {
+    "id": "BG-1.1",
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit": "धृतराष्ट्र उवाच |\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१॥",
+    "iast": "dhṛtarāṣṭra uvāca |\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ |\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ||1||",
+    "explanation": "King Dhritarashtra, blind and anxious, asks his minister Sanjaya to describe what is happening on the sacred battlefield of Kurukshetra, where his sons (the Kauravas) and the Pandavas have assembled ready to fight.",
+    "synthesis": "The opening question frames the entire Gita: can dharma (righteous duty) be upheld even when it requires fighting one's own family? Dhritarashtra's choice of the word 'dharmakshetra' (field of dharma) alongside 'Kurukshetra' (field of the Kurus) reveals the dual nature of the conflict — it is simultaneously a physical battle and a spiritual inquiry into the nature of right action. The blind king's question carries a subtext of fear: he senses that dharma will not favor his sons.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "The Advaita tradition notes that the battlefield is called a field of dharma because dharma itself will be the decisive factor. The question is not merely military but metaphysical — it asks what happens when duty and attachment collide."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "The Vishishtadvaita perspective emphasizes that Kurukshetra is a place made sacred by ancient rites and divine presence. The fact that both armies gathered here suggests a divine orchestration of events toward a righteous outcome."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "From the bhakti perspective, the Lord's very presence on the battlefield transforms a war into a sacred event. The question itself sets in motion Arjuna's eventual surrender to Krishna's guidance — devotion born from crisis."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Every significant life decision places us on our own 'Kurukshetra' — a field where competing values and loyalties must be reconciled. Clarity about your core dharma is the starting point for navigating any inner conflict.",
+      "career_business": "Business decisions often require choosing between loyalty to individuals (team members, partners) and loyalty to principles (ethics, mission). Identifying your organization's 'dharmakshetra' — its core values — helps navigate these conflicts with integrity.",
+      "health": "Physical and mental health often require facing uncomfortable truths about habits and relationships. The first step, like Dhritarashtra's question, is simply acknowledging that a conflict exists between where you are and where you need to be.",
+      "relationships": "Conflict in relationships is rarely only about the surface issue. Asking the deeper question — what values are actually in tension here? — opens the path to genuine resolution rather than temporary compromise."
+    },
+    "themes": ["duty", "conflict", "decision-making", "family", "dharma"]
+  }
+]
