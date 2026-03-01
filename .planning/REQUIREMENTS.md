@@ -43,11 +43,11 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 
 ### Infrastructure
 
-- [ ] **INF-01**: Fully static site built with Astro 5, deployed to GitHub Pages
+- [x] **INF-01**: Fully static site built with Astro 5, deployed to GitHub Pages
 - [ ] **INF-02**: GitHub Actions CI/CD auto-deploys on push to main
 - [x] **INF-03**: Open source repository with MIT license
 - [ ] **INF-04**: Clear CONTRIBUTING.md with content contribution guidelines
-- [ ] **INF-05**: Build completes under 5 minutes on GitHub Actions
+- [x] **INF-05**: Build completes under 5 minutes on GitHub Actions
 
 ## v2 Requirements
 
@@ -106,11 +106,11 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 | DES-02 | Phase 3 | Pending |
 | DES-03 | Phase 3 | Pending |
 | DES-04 | Phase 2 | Pending |
-| INF-01 | Phase 1 | Pending |
+| INF-01 | Phase 1 | Complete |
 | INF-02 | Phase 1 | Pending |
 | INF-03 | Phase 1 | Complete |
 | INF-04 | Phase 5 | Pending |
-| INF-05 | Phase 1 | Pending |
+| INF-05 | Phase 1 | Complete |
 
 **Coverage:**
 - v1 requirements: 27 total

@@ -31,7 +31,7 @@ Build a static Bhagavad Gita web application that makes every shloka actionable 
 **Plans**: 4 plans in 3 waves
 
 Plans:
-- [ ] 01-01-PLAN.md — Astro 5 project init with Tailwind v4, Preact, TypeScript strict, and folder structure (Wave 1)
+- [x] 01-01-PLAN.md — Astro 5 project init with Tailwind v4, Preact, TypeScript strict, and folder structure (Wave 1)
 - [ ] 01-02-PLAN.md — Content Collection schema (Zod) for shloka data with IAST enforcement and test shloka (Wave 2)
 - [ ] 01-03-PLAN.md — GitHub Actions CI/CD pipeline with caching and GitHub Pages deploy (Wave 3)
 - [x] 01-04-PLAN.md — MIT license, canonical source declaration, and AI content policy (Wave 1)
@@ -115,7 +115,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 1/4 | In progress | - |
+| 1. Foundation | 2/4 | In progress | - |
 | 2. Content Pipeline | 0/4 | Not started | - |
 | 3. Core Reading UI | 0/8 | Not started | - |
 | 4. Search and SEO | 0/4 | Not started | - |
