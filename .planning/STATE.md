@@ -3,12 +3,12 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-last_updated: "2026-03-01T17:44:33.109Z"
+last_updated: "2026-03-01T17:47:15.111Z"
 progress:
   total_phases: 1
-  completed_phases: 0
+  completed_phases: 1
   total_plans: 4
-  completed_plans: 3
+  completed_plans: 4
 ---
 
 # Project State
@@ -23,27 +23,36 @@ See: .planning/PROJECT.md (updated 2026-03-01)
 ## Current Position
 
 Phase: 1 of 5 (Foundation)
-Plan: 2 of 4 in current phase (01-01, 01-02, 01-04 complete; 01-03 pending)
-Status: In progress — plan 01-02 complete
-Last activity: 2026-03-01 — Completed plan 01-02: Zod content schema with IAST enforcement and BG 1.1 test shloka.
+Plan: 3 of 4 in current phase (01-01, 01-02, 01-03, 01-04 complete; all plans done — awaiting 01-03 human verification of live deployment)
+Status: Checkpoint — plan 01-03 Task 2 awaiting human verification of GitHub Pages live deployment
+Last activity: 2026-03-01 — Completed plan 01-03 Task 1: GitHub Actions CI/CD workflow created. Awaiting human to push to GitHub and verify Pages deployment.
 
-Progress: [███░░░░░░░] 30%
+Progress: [████░░░░░░] 40%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 3
-- Average duration: 1.7 min
-- Total execution time: 5 min
+- Total plans completed: 4
+- Average duration: 1.75 min
+- Total execution time: 7 min
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 01-foundation | 3 | 5 min | 1.7 min |
+| 01-foundation | 4 | 7 min | 1.75 min |
+
+**Per-plan metrics:**
+
+| Plan | Duration | Tasks | Files |
+|------|----------|-------|-------|
+| 01-04 | 1 min | — | — |
+| 01-01 | 2 min | — | — |
+| 01-02 | 2 min | — | — |
+| 01-03 | 2 min | 1 | 1 |
 
 **Recent Trend:**
-- Last 5 plans: 01-04 (1 min), 01-01 (2 min), 01-02 (2 min)
+- Last 5 plans: 01-04 (1 min), 01-01 (2 min), 01-02 (2 min), 01-03 (2 min)
 - Trend: Baseline established
 
 *Updated after each plan completion*
@@ -72,6 +81,9 @@ Recent decisions affecting current work:
 - [Phase 01-02]: Import z from astro/zod not standalone zod to avoid Zod version conflicts
 - [Phase 01-02]: IAST diacritic regex enforced at schema level — builds fail on invalid transliteration
 - [Phase 01-02]: file() loader requires id field on every JSON entry — BG-1.1 format established
+- [Phase 01-foundation]: cancel-in-progress: false in GitHub Actions deploy — prevents half-finished Pages deployments leaving site broken
+- [Phase 01-foundation]: actions/configure-pages@v5 auto-injects site/base URLs — overrides astro.config.mjs placeholders from 01-01
+- [Phase 01-foundation]: withastro/action@v5 includes built-in Astro build cache (node_modules/.astro) — separate from npm package cache
 
 ### Pending Todos
 
@@ -85,5 +97,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-01
-Stopped at: Completed 01-02-PLAN.md — Zod content schema with IAST enforcement and BG 1.1 test shloka.
+Stopped at: Checkpoint in 01-03-PLAN.md — Task 2 (human-verify): GitHub Actions workflow created, awaiting user to push to GitHub and verify Pages deployment succeeds.
 Resume file: None
