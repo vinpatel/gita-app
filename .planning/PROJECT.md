@@ -47,6 +47,7 @@ Every shloka becomes actionable wisdom — not just understood intellectually, b
 
 ## Constraints
 
+- **Tech Stack**: Astro with interactive islands — static output, GitHub Actions for CI/CD
 - **Hosting**: Must be fully static — no server, no database, GitHub Pages only
 - **Open Source**: MIT or similar permissive license — accessible to all contributors
 - **Content**: AI-generated from public domain sources — no copyrighted commentary text
@@ -62,6 +63,8 @@ Every shloka becomes actionable wisdom — not just understood intellectually, b
 | One chapter for v1 | Prove the concept and template before scaling to all 18 chapters | — Pending |
 | Static site on GitHub Pages | Open source, zero hosting cost, community contributions via PRs | — Pending |
 | Serene & minimal design | Spiritual text needs breathing room, not visual clutter | — Pending |
+| Astro as framework | Content collections for 700 shlokas, interactive islands for UI, static output for GitHub Pages. Phoenix/Elixir rejected — requires server | — Pending |
+| GitHub Actions for CI/CD | Automated builds and deploys on push | — Pending |
 
 ---
 *Last updated: 2026-03-01 after initialization*
