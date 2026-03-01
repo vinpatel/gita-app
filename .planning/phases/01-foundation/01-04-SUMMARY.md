@@ -78,7 +78,7 @@ Each task was committed atomically:
 1. **Task 1: Create MIT license file** - `92f9360` (chore)
 2. **Task 2: Create canonical sources document and AI content policy** - `70380a4` (docs)
 
-**Plan metadata:** _(to be added with final commit)_
+**Plan metadata:** `864f1f7` (docs: complete plan)
 
 ## Files Created/Modified
 
