@@ -18,7 +18,7 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 - [ ] **CONT-07**: Each chapter has a summary with theme overview and key teachings
 - [ ] **CONT-08**: All content uses Gita Press (Gorakhpur) edition as canonical source for shloka numbering (700-verse structure)
 - [ ] **CONT-09**: Each shloka is tagged with life themes (stress, decision-making, loss, anger, purpose, duty, etc.) for problem-based search
-- [ ] **CONT-10**: AI-generated content uses only public domain sources — no copyrighted commentary text reproduced
+- [x] **CONT-10**: AI-generated content uses only public domain sources — no copyrighted commentary text reproduced
 
 ### Navigation
 
@@ -45,7 +45,7 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 
 - [ ] **INF-01**: Fully static site built with Astro 5, deployed to GitHub Pages
 - [ ] **INF-02**: GitHub Actions CI/CD auto-deploys on push to main
-- [ ] **INF-03**: Open source repository with MIT license
+- [x] **INF-03**: Open source repository with MIT license
 - [ ] **INF-04**: Clear CONTRIBUTING.md with content contribution guidelines
 - [ ] **INF-05**: Build completes under 5 minutes on GitHub Actions
 
@@ -93,7 +93,7 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 | CONT-07 | Phase 2 | Pending |
 | CONT-08 | Phase 1 | Pending |
 | CONT-09 | Phase 2 | Pending |
-| CONT-10 | Phase 1 | Pending |
+| CONT-10 | Phase 1 | Complete |
 | NAV-01 | Phase 3 | Pending |
 | NAV-02 | Phase 3 | Pending |
 | NAV-03 | Phase 3 | Pending |
@@ -108,7 +108,7 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 | DES-04 | Phase 2 | Pending |
 | INF-01 | Phase 1 | Pending |
 | INF-02 | Phase 1 | Pending |
-| INF-03 | Phase 1 | Pending |
+| INF-03 | Phase 1 | Complete |
 | INF-04 | Phase 5 | Pending |
 | INF-05 | Phase 1 | Pending |
 

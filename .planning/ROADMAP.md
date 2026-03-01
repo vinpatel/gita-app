@@ -34,7 +34,7 @@ Plans:
 - [ ] 01-01-PLAN.md — Astro 5 project init with Tailwind v4, Preact, TypeScript strict, and folder structure (Wave 1)
 - [ ] 01-02-PLAN.md — Content Collection schema (Zod) for shloka data with IAST enforcement and test shloka (Wave 2)
 - [ ] 01-03-PLAN.md — GitHub Actions CI/CD pipeline with caching and GitHub Pages deploy (Wave 3)
-- [ ] 01-04-PLAN.md — MIT license, canonical source declaration, and AI content policy (Wave 1)
+- [x] 01-04-PLAN.md — MIT license, canonical source declaration, and AI content policy (Wave 1)
 
 ### Phase 2: Content Pipeline
 **Goal**: All 119 shlokas across chapters 1 and 2 exist as validated JSON files — reviewed for copyright compliance, theological accuracy, and transliteration consistency — ready for the UI to render
@@ -115,7 +115,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/4 | Planned | - |
+| 1. Foundation | 1/4 | In progress | - |
 | 2. Content Pipeline | 0/4 | Not started | - |
 | 3. Core Reading UI | 0/8 | Not started | - |
 | 4. Search and SEO | 0/4 | Not started | - |
