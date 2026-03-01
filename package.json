@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@astrojs/preact": "^4.1.1",
+    "@fontsource-variable/cormorant-garamond": "^5.2.6",
+    "@fontsource-variable/source-serif-4": "^5.2.9",
     "@fontsource/noto-serif-devanagari": "^5.1.2",
     "@fontsource/tiro-devanagari-sanskrit": "^5.1.1",
     "@tailwindcss/vite": "^4.0.0",

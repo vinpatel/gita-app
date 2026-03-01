@@ -28,6 +28,12 @@ const shlokaSchema = z.object({
     health: z.string().min(30),
     relationships: z.string().min(30),
   }),
+  questions: z.object({
+    personal_growth: z.array(z.string()).min(1),
+    career_business: z.array(z.string()).min(1),
+    health: z.array(z.string()).min(1),
+    relationships: z.array(z.string()).min(1),
+  }),
   themes: z.array(z.string()).min(1),
 });
 

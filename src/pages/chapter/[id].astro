@@ -1,0 +1,85 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const chapterData: Record<number, { sanskrit: string; name: string; verses: number }> = {
+  1: { sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47 },
+  2: { sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72 },
+};
+
+export function getStaticPaths() {
+  return [{ params: { id: '1' } }, { params: { id: '2' } }];
+}
+
+const chapterNum = Number(Astro.params.id);
+const ch = chapterData[chapterNum]!;
+const allShlokas = await getCollection('chapters');
+const shlokas = allShlokas.filter((s) => s.data.chapter === chapterNum);
+
+const placeholders = Array.from({ length: ch.verses }, (_, i) => {
+  const verse = i + 1;
+  const real = shlokas.find((s) => s.data.verse === verse);
+  return { verse, data: real?.data ?? null };
+});
+---
+<BaseLayout title={`Chapter ${chapterNum}: ${ch.name}`}>
+
+  <header class="pt-16 pb-12 px-6 text-center">
+    <a href={`${import.meta.env.BASE_URL}`} class="inline-block text-xs uppercase tracking-[0.3em] text-[--color-warm-400] hover:text-[--color-saffron] transition-colors mb-6">
+      ← All Chapters
+    </a>
+    <p class="font-[--font-devanagari] text-2xl sm:text-3xl text-[--color-warm-700] mb-2">{ch.sanskrit}</p>
+    <h1 class="font-[--font-display] text-4xl sm:text-5xl md:text-6xl font-light text-[--color-warm-900] leading-[1.1]">
+      Chapter {chapterNum}: {ch.name}
+    </h1>
+    <p class="mt-4 text-base text-[--color-warm-400]">{ch.verses} verses</p>
+    <div class="mt-6 mx-auto w-16 h-px bg-[--color-saffron-light]"></div>
+  </header>
+
+  <main class="max-w-3xl mx-auto px-6 pb-24">
+    <div class="space-y-3">
+      {placeholders.map(({ verse, data }) => (
+        data ? (
+          <a href={`${import.meta.env.BASE_URL}verse/${chapterNum}/${verse}/`}
+             class="group block rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-5 sm:p-6 shadow-sm hover:shadow-md hover:border-[--color-saffron-light] transition-all duration-300">
+            <div class="flex items-start gap-5">
+              <span class="font-[--font-display] text-3xl font-light text-[--color-saffron] shrink-0 w-12">{verse}</span>
+              <div class="min-w-0">
+                <p class="font-[--font-devanagari] text-lg text-[--color-warm-700] leading-relaxed truncate mb-1">
+                  {data.sanskrit.split('\n')[0]}
+                </p>
+                <p class="text-sm italic text-[--color-warm-500] truncate mb-2">
+                  {data.iast.split('\n')[0]}
+                </p>
+                <p class="text-sm text-[--color-warm-600] leading-relaxed line-clamp-2">
+                  {data.explanation}
+                </p>
+                <div class="mt-3 flex flex-wrap gap-1.5">
+                  {data.themes.slice(0, 3).map((t) => (
+                    <span class="rounded-full border border-[--color-warm-200] px-2.5 py-0.5 text-xs text-[--color-warm-400]">{t}</span>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </a>
+        ) : (
+          <div class="rounded-2xl bg-[--color-warm-50]/40 border border-[--color-warm-100]/40 p-5 sm:p-6 opacity-40">
+            <div class="flex items-start gap-5">
+              <span class="font-[--font-display] text-3xl font-light text-[--color-warm-300] shrink-0 w-12">{verse}</span>
+              <div>
+                <p class="text-sm text-[--color-warm-300]">Content coming soon</p>
+              </div>
+            </div>
+          </div>
+        )
+      ))}
+    </div>
+  </main>
+
+  <footer class="border-t border-[--color-warm-100] py-8 text-center">
+    <p class="text-xs text-[--color-warm-400] tracking-wide">
+      Gita Press (Gorakhpur) · IAST Transliteration · Open Source
+    </p>
+  </footer>
+
+</BaseLayout>

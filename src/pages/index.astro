@@ -1,9 +1,73 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+
+const chapters = [
+  { num: 1, sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47, available: true },
+  { num: 2, sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72, available: true },
+  { num: 3, sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43, available: false },
+  { num: 4, sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42, available: false },
+  { num: 5, sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29, available: false },
+  { num: 6, sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47, available: false },
+  { num: 7, sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30, available: false },
+  { num: 8, sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28, available: false },
+  { num: 9, sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34, available: false },
+  { num: 10, sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42, available: false },
+  { num: 11, sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55, available: false },
+  { num: 12, sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20, available: false },
+  { num: 13, sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35, available: false },
+  { num: 14, sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27, available: false },
+  { num: 15, sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20, available: false },
+  { num: 16, sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24, available: false },
+  { num: 17, sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28, available: false },
+  { num: 18, sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78, available: false },
+];
 ---
-<BaseLayout title="Home">
-  <main class="max-w-4xl mx-auto px-4 py-16">
-    <h1 class="text-4xl font-bold text-center">Bhagavad Gita</h1>
-    <p class="mt-4 text-lg text-center text-gray-600">Every shloka becomes actionable wisdom</p>
+<BaseLayout title="Chapters">
+
+  <header class="pt-20 pb-12 px-6 text-center">
+    <h1 class="font-[--font-display] text-5xl sm:text-6xl md:text-7xl font-light text-[--color-warm-900] leading-[1.1] tracking-tight">
+      Bhagavad Gītā
+    </h1>
+    <p class="mt-6 font-[--font-display] text-xl sm:text-2xl text-[--color-warm-500] italic">
+      700 verses · 18 chapters · One guide for all of life
+    </p>
+    <div class="mt-8 mx-auto w-16 h-px bg-[--color-saffron-light]"></div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-6 pb-24">
+
+    <div class="grid gap-4 sm:gap-5 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+      {chapters.map((ch) => (
+        ch.available ? (
+          <a href={`${import.meta.env.BASE_URL}chapter/${ch.num}/`}
+             class="group rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-6 sm:p-7 shadow-sm hover:shadow-md hover:border-[--color-saffron-light] transition-all duration-300">
+            <div class="flex items-baseline justify-between mb-3">
+              <span class="font-[--font-display] text-4xl font-light text-[--color-saffron]">{ch.num}</span>
+              <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400]">{ch.verses} verses</span>
+            </div>
+            <p class="font-[--font-devanagari] text-lg text-[--color-warm-700] mb-1">{ch.sanskrit}</p>
+            <h2 class="font-[--font-display] text-xl text-[--color-warm-900] group-hover:text-[--color-saffron] transition-colors">{ch.name}</h2>
+          </a>
+        ) : (
+          <div class="rounded-2xl bg-[--color-warm-50]/50 border border-[--color-warm-100]/50 p-6 sm:p-7 opacity-50">
+            <div class="flex items-baseline justify-between mb-3">
+              <span class="font-[--font-display] text-4xl font-light text-[--color-warm-300]">{ch.num}</span>
+              <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-300]">{ch.verses} verses</span>
+            </div>
+            <p class="font-[--font-devanagari] text-lg text-[--color-warm-300] mb-1">{ch.sanskrit}</p>
+            <h2 class="font-[--font-display] text-xl text-[--color-warm-300]">{ch.name}</h2>
+            <p class="mt-2 text-xs uppercase tracking-[0.2em] text-[--color-warm-300]">Coming soon</p>
+          </div>
+        )
+      ))}
+    </div>
+
   </main>
+
+  <footer class="border-t border-[--color-warm-100] py-8 text-center">
+    <p class="text-xs text-[--color-warm-400] tracking-wide">
+      Gita Press (Gorakhpur) · IAST Transliteration · Open Source
+    </p>
+  </footer>
+
 </BaseLayout>

@@ -30,6 +30,36 @@
       "health": "Physical and mental health often require facing uncomfortable truths about habits and relationships. The first step, like Dhritarashtra's question, is simply acknowledging that a conflict exists between where you are and where you need to be.",
       "relationships": "Conflict in relationships is rarely only about the surface issue. Asking the deeper question — what values are actually in tension here? — opens the path to genuine resolution rather than temporary compromise."
     },
+    "questions": {
+      "personal_growth": [
+        "How do I handle inner conflict about a big decision?",
+        "I feel torn between what I want and what's right",
+        "How do I find clarity when emotions cloud my thinking?",
+        "I'm stuck between two paths and don't know which is mine",
+        "How do I know what my real duty is?"
+      ],
+      "career_business": [
+        "Should I stay loyal to my team or do what's right?",
+        "How do I make ethical decisions under pressure?",
+        "I have to choose between profit and principles",
+        "My company values conflict with my personal values",
+        "How do I lead when the right path is unpopular?"
+      ],
+      "health": [
+        "I know what's bad for me but I can't stop",
+        "How do I face an uncomfortable health truth?",
+        "Why do I avoid dealing with what's clearly wrong?",
+        "I keep ignoring warning signs about my health",
+        "How do I start confronting habits I've been denying?"
+      ],
+      "relationships": [
+        "We keep fighting about the same things",
+        "How do I resolve conflict without losing the person?",
+        "What's really behind our disagreements?",
+        "Family loyalty is pulling me in opposite directions",
+        "How do I choose between people I love when they're in conflict?"
+      ]
+    },
     "themes": ["duty", "conflict", "decision-making", "family", "dharma"]
   }
 ]

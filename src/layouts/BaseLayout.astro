@@ -1,12 +1,16 @@
 ---
 import '../styles/global.css';
+import '@fontsource-variable/cormorant-garamond';
+import '@fontsource-variable/source-serif-4';
+import '@fontsource/tiro-devanagari-sanskrit';
+import '@fontsource/noto-serif-devanagari';
 
 interface Props {
   title: string;
   description?: string;
 }
 
-const { title, description = 'Bhagavad Gita - Every shloka becomes actionable wisdom' } = Astro.props;
+const { title, description = 'Bhagavad Gita — Every shloka becomes actionable wisdom for your life' } = Astro.props;
 ---
 <!doctype html>
 <html lang="en">
@@ -16,7 +20,7 @@ const { title, description = 'Bhagavad Gita - Every shloka becomes actionable wi
     <meta name="description" content={description} />
     <title>{title} | Bhagavad Gita</title>
   </head>
-  <body class="min-h-screen bg-white text-gray-900">
+  <body class="min-h-screen">
     <slot />
   </body>
 </html>

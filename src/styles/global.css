@@ -1,8 +1,51 @@
 @import "tailwindcss";
 @source "../../src/**/*.{astro,tsx,ts}";
 
-/* Design tokens for Gita app */
+/* Design tokens — crystal glass aesthetic */
 @theme {
+  /* Typography */
+  --font-display: 'Cormorant Garamond Variable', 'Georgia', serif;
+  --font-body: 'Source Serif 4 Variable', 'Georgia', serif;
   --font-devanagari: 'Tiro Devanagari Sanskrit', 'Noto Serif Devanagari', serif;
-  --font-size-devanagari-min: 1.25rem; /* 20px minimum per DES-03 */
+
+  /* Warm palette — parchment + ink */
+  --color-cream: #FAF7F2;
+  --color-warm-50: #F8F5EF;
+  --color-warm-100: #F0EBE1;
+  --color-warm-200: #E4DDD0;
+  --color-warm-300: #CCC3B2;
+  --color-warm-400: #A89B88;
+  --color-warm-500: #8A7D6B;
+  --color-warm-600: #6B5F4E;
+  --color-warm-700: #4A4035;
+  --color-warm-800: #332D24;
+  --color-warm-900: #1E1A14;
+
+  /* Accent — saffron gold */
+  --color-saffron: #C4832D;
+  --color-saffron-light: #E8B86D;
+  --color-saffron-muted: #D4A95A20;
+}
+
+/* Base styles */
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: var(--color-cream);
+    color: var(--color-warm-800);
+    line-height: 1.8;
+    letter-spacing: 0.01em;
+  }
+
+  /* Elegant selection */
+  ::selection {
+    background-color: var(--color-saffron-muted);
+    color: var(--color-warm-900);
+  }
 }
