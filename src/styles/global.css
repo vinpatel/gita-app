@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Design tokens for Gita app */
+@theme {
+  --font-devanagari: 'Tiro Devanagari Sanskrit', 'Noto Serif Devanagari', serif;
+  --font-size-devanagari-min: 1.25rem; /* 20px minimum per DES-03 */
+}
