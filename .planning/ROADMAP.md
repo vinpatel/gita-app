@@ -28,13 +28,13 @@ Build a static Bhagavad Gita web application that makes every shloka actionable 
   3. The schema enforces IAST transliteration standard and Gita Press verse numbering — a file with Harvard-Kyoto or wrong verse numbers fails validation
   4. The build completes in under 5 minutes on GitHub Actions with node_modules and .astro caching active
   5. The repository is public with MIT license and Gita Press declared as canonical source in project docs
-**Plans**: TBD
+**Plans**: 4 plans in 3 waves
 
 Plans:
-- [ ] 01-01: Astro 5 project init with Tailwind v4, Preact, TypeScript strict, and folder structure
-- [ ] 01-02: Content Collection schema (Zod) for shloka data — all fields, IAST enforcement, theme tags
-- [ ] 01-03: GitHub Actions CI/CD pipeline with caching and GitHub Pages deploy
-- [ ] 01-04: Legal source list, AI prompt constraints document, and copyright guardrails
+- [ ] 01-01-PLAN.md — Astro 5 project init with Tailwind v4, Preact, TypeScript strict, and folder structure (Wave 1)
+- [ ] 01-02-PLAN.md — Content Collection schema (Zod) for shloka data with IAST enforcement and test shloka (Wave 2)
+- [ ] 01-03-PLAN.md — GitHub Actions CI/CD pipeline with caching and GitHub Pages deploy (Wave 3)
+- [ ] 01-04-PLAN.md — MIT license, canonical source declaration, and AI content policy (Wave 1)
 
 ### Phase 2: Content Pipeline
 **Goal**: All 119 shlokas across chapters 1 and 2 exist as validated JSON files — reviewed for copyright compliance, theological accuracy, and transliteration consistency — ready for the UI to render
@@ -115,7 +115,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/4 | Not started | - |
+| 1. Foundation | 0/4 | Planned | - |
 | 2. Content Pipeline | 0/4 | Not started | - |
 | 3. Core Reading UI | 0/8 | Not started | - |
 | 4. Search and SEO | 0/4 | Not started | - |
