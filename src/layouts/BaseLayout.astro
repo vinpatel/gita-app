@@ -23,5 +23,16 @@ const { title, description = 'The Bhagavad Gītā — Every shloka becomes actio
   </head>
   <body class="min-h-screen flex flex-col">
     <slot />
+    <footer class="border-t border-[--color-warm-100] py-10 text-center mt-auto">
+      <p class="font-[--font-devanagari] text-sm text-[--color-warm-300] mb-2">
+        कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
+      </p>
+      <p class="text-xs text-[--color-warm-400] tracking-wide">
+        Multi-tradition synthesis &middot; IAST transliteration &middot; Open source
+      </p>
+      <a href={`${import.meta.env.BASE_URL}learn-sanskrit/`} class="inline-block mt-3 text-xs text-[--color-saffron] hover:text-[--color-warm-700] transition-colors tracking-wide">
+        Learn Sanskrit in 14 Days &rarr;
+      </a>
+    </footer>
   </body>
 </html>
