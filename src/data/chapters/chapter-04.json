@@ -6,7 +6,7 @@
     "sanskrit": "श्रीभगवानुवाच |\nइमं विवस्वते योगं प्रोक्तवानहमव्ययम् |\nविवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥१॥",
     "iast": "śrībhagavānuvāca |\nimaṃ vivasvate yogaṃ proktavānahamavyayam |\nvivasvānmanave prāha manurikṣvākave'bravīt ||1||",
     "explanation": "Lord Krishna declares that He originally taught this imperishable yoga to Vivasvan (the Sun-god), who passed it to Manu (the progenitor of humanity), and Manu in turn taught it to Ikshvaku (the founder of the Solar dynasty). This establishes the divine origin and ancient lineage of spiritual knowledge.",
-    "synthesis": "Krishna reveals that transcendent wisdom is not a recent invention but an eternal teaching passed through a sacred lineage. The Advaita tradition sees this as evidence that Self-knowledge is timeless and beyond history. The Vishishtadvaita tradition emphasizes that God Himself is the original teacher, establishing the guru-paramparā (chain of teachers). The Bhakti tradition highlights that the Lord personally initiates the transmission of saving knowledge out of compassion for all beings.",
+    "synthesis": "Krishna reveals that transcendent wisdom is not a recent invention but an eternal teaching passed through a sacred lineage. The Advaita tradition sees this as evidence that Self-knowledge is timeless. The Vishishtadvaita tradition emphasizes that God Himself is the original teacher. The Bhakti tradition highlights the Lord's compassion in personally transmitting saving knowledge. Madhvacharya stresses the hierarchical reality of this transmission — God is eternally distinct as the source, and souls receive knowledge only by His grace. Abhinavagupta sees this imperishable yoga as the recognition of one's consciousness as Shiva, transmitted as divine light. Vallabhacharya understands the parampara as a channel of divine grace through which the Lord's bliss enters creation. Tilak reads this as proof that the yoga of action was the original teaching for active leaders. Vivekananda emphasizes the universality of this knowledge — it belongs to all humanity.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -22,6 +22,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition cherishes the idea that the Lord personally teaches out of love. He does not delegate salvation to impersonal forces but initiates the chain of knowledge Himself, ensuring that every seeker can trace their lineage of learning back to God's own compassion."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya emphasizes that the imperishable yoga was taught by the Supreme Lord Vishnu, who is eternally distinct from all souls. The transmission from Vivasvan to Manu to Ikshvaku demonstrates a real hierarchy — God alone is the original teacher, and souls receive knowledge only through His grace."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets this imperishable yoga as the recognition of one's own consciousness as identical with Shiva. The transmission through Vivasvan represents the descent of divine light into the manifest world. The yoga is imperishable because consciousness itself is the unchanging substratum."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that the Lord's transmission of yoga to Vivasvan reveals His pushti-marga — the path of divine grace flowing into creation. The world is not illusory but real and divine, and this yoga teaches souls to recognize their real relationship with the Lord."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this verse as establishing that the yoga of action has divine sanction from the very beginning of creation. The fact that it was taught to rulers proves it was meant for active householders and leaders, not recluses."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would see here the universality of spiritual knowledge — it was not confined to any sect or era but given to the very forces of nature and the first rulers of humanity. Every person has a right to this imperishable wisdom."
       }
     ],
     "applications": {
@@ -56,7 +81,12 @@
         "Why do some family values endure across generations?"
       ]
     },
-    "themes": ["lineage", "eternal-knowledge", "guru-paramparā", "divine-teaching"]
+    "themes": [
+      "lineage",
+      "eternal-knowledge",
+      "guru-paramparā",
+      "divine-teaching"
+    ]
   },
   {
     "id": "BG-4.2",
@@ -65,7 +95,7 @@
     "sanskrit": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः |\nस कालेनेह महता योगो नष्टः परन्तप ॥२॥",
     "iast": "evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ |\nsa kāleneha mahatā yogo naṣṭaḥ parantapa ||2||",
     "explanation": "Krishna tells Arjuna that this yoga, received through the chain of disciplic succession, was known to the royal sages. But over the course of great time, this sacred knowledge was lost to the world.",
-    "synthesis": "Knowledge, no matter how sublime, can decay and vanish when the chain of transmission is broken. The Advaita tradition sees this as the cyclical concealment of Self-knowledge by māyā. The Vishishtadvaita tradition emphasizes the need for God to periodically restore the teaching through avatāra or ācārya. The Bhakti tradition sees in this verse the Lord's motivation for re-teaching the Gita — His compassion cannot bear to see humanity bereft of saving knowledge.",
+    "synthesis": "Knowledge can decay and vanish when the chain of transmission is broken. The Advaita tradition sees this as cyclical concealment of Self-knowledge by maya. Vishishtadvaita emphasizes God's periodic restoration through avatara or acharya. The Bhakti tradition sees the Lord's compassion motivating re-teaching. Madhvacharya points out that finite souls depend on God for knowledge — forgetfulness is natural to the jiva. Abhinavagupta views this as Shiva's act of concealment, part of the dynamic play of consciousness. Vallabhacharya understands restoration as the Lord's spontaneous grace re-entering the world. Tilak reads the loss as abandoning active dharma for empty ritual. Vivekananda attributes it to knowledge becoming a monopoly rather than being shared universally.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -81,6 +111,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti reading emphasizes that whenever the world forgets God's teaching, the Lord out of infinite grace re-reveals it. The loss of knowledge is never permanent because God's love for His devotees is eternal and unfailing."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that the loss of this yoga demonstrates that finite souls are prone to forgetfulness. Only Vishnu's grace can restore lost knowledge, since souls cannot independently access transcendent truth."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta views the loss of yoga as the natural process of concealment inherent in Shiva's five cosmic acts. Knowledge is periodically veiled so that it may be revealed anew, creating the dynamic play of consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya sees this loss as the soul's forgetting its divine nature due to maya's covering power. In pushti-marga, restoration comes through the Lord's spontaneous grace that re-reveals the path when the time is right."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets the loss as a consequence of society abandoning active duties in favor of empty ritualism. When people stop performing dharma with right understanding, karma yoga's living wisdom degrades."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would note that knowledge decays when it becomes the monopoly of a privileged class. The remedy is to democratize spiritual wisdom, making it accessible to every person regardless of caste or education."
       }
     ],
     "applications": {
@@ -115,7 +170,12 @@
         "How do I recommit to values I once shared with someone?"
       ]
     },
-    "themes": ["lineage", "knowledge-loss", "time", "renewal"]
+    "themes": [
+      "lineage",
+      "knowledge-loss",
+      "time",
+      "renewal"
+    ]
   },
   {
     "id": "BG-4.3",
@@ -124,7 +184,7 @@
     "sanskrit": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः |\nभक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ॥३॥",
     "iast": "sa evāyaṃ mayā te'dya yogaḥ proktaḥ purātanaḥ |\nbhakto'si me sakhā ceti rahasyaṃ hyetaduttamam ||3||",
     "explanation": "Krishna tells Arjuna: this same ancient yoga is now being taught to you by Me today, because you are My devotee and My dear friend. This is indeed a supreme secret.",
-    "synthesis": "The qualification for receiving the highest knowledge is not intellectual brilliance but devotion and friendship with the Divine. Shankara sees this as the requirement of śraddhā (faith) and viveka (discrimination). Ramanuja emphasizes that God selects the recipient based on love and surrender. The Bhakti tradition celebrates this verse as proof that the deepest truths are shared in the intimacy of divine friendship, not in the formality of a lecture hall.",
+    "synthesis": "Krishna shares this ancient yoga with Arjuna because of their intimate bond. The Advaita tradition sees Arjuna as a qualified student. Ramanuja emphasizes God's grace in re-revealing the teaching. The Bhakti tradition treasures the intimacy — God teaches those He loves. Madhvacharya stresses the Lord selects souls based on their real relationship with Him. Abhinavagupta sees shaktipata — grace descending into prepared consciousness. Vallabhacharya highlights divine vatsalya as the motive. Tilak notes the battlefield setting as proof this yoga is for active life. Vivekananda celebrates friendship between God and seeker as the ideal spiritual relationship.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -140,6 +200,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "This verse is deeply beloved in the Bhakti tradition because it shows that God shares His deepest secrets not with scholars but with those who love Him. The intimacy of friendship (sakhya) and the trust of devotion (bhakti) together unlock the supreme mystery."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya stresses that Krishna chooses Arjuna because of his qualification as both devotee and friend — the Lord selects worthy recipients who stand in a real, personal relationship with Him."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees Krishna's choice as the descent of grace (shaktipata) into a prepared vessel. The yoga is re-revealed through direct awakening of consciousness in the disciple, not mere intellectual transmission."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya emphasizes that the Lord teaches out of vatsalya (parental love) — Arjuna is chosen because of the Lord's affection, not primarily because of merit. Divine grace precedes and enables receptivity."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak highlights that the ancient yoga is being taught to a warrior on a battlefield — confirming this yoga is meant for active life amid challenges, not monastic seclusion."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would celebrate that Krishna calls Arjuna both devotee and friend, dissolving the distance between God and seeker. The highest knowledge comes through intimacy, not fear or subservience."
       }
     ],
     "applications": {
@@ -174,7 +259,13 @@
         "How do I create a safe space for vulnerability?"
       ]
     },
-    "themes": ["devotion", "friendship", "trust", "secret-knowledge", "divine-grace"]
+    "themes": [
+      "devotion",
+      "friendship",
+      "trust",
+      "secret-knowledge",
+      "divine-grace"
+    ]
   },
   {
     "id": "BG-4.4",
@@ -183,7 +274,7 @@
     "sanskrit": "अर्जुन उवाच |\nअपरं भवतो जन्म परं जन्म विवस्वतः |\nकथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ॥४॥",
     "iast": "arjuna uvāca |\naparaṃ bhavato janma paraṃ janma vivasvataḥ |\nkathametadvijānīyāṃ tvamādau proktavāniti ||4||",
     "explanation": "Arjuna questions Krishna: Your birth is recent, while the birth of Vivasvan (the Sun-god) was in the remote past. How am I to understand that You taught this yoga in the beginning?",
-    "synthesis": "Arjuna's question is the voice of rational inquiry — how can someone born in this age have taught in a previous era? This honest doubt sets the stage for Krishna's revelation of His divine, eternal nature. Shankara sees this as the necessary question that provokes the teaching on the unborn Self. Ramanuja reads it as Arjuna requesting clarification about the Lord's transcendent nature versus His incarnate form. The Bhakti tradition values Arjuna's willingness to ask humbly rather than pretend to understand.",
+    "synthesis": "Arjuna raises the natural objection about how Krishna could have taught Vivasvan ages ago. The Advaita tradition sees an invitation to reveal the eternal Self beyond time. Ramanuja explains the Lord's body is divine. The Bhakti tradition values honest questioning as genuine seeking. Madhvacharya clarifies that God's incarnation is voluntary, unlike karma-driven rebirth. Abhinavagupta sees the ordinary mind's inability to grasp timeless consciousness appearing as form. Vallabhacharya teaches divine appearance is fullness, not diminishment. Tilak appreciates rational questioning. Vivekananda sees the universal wonder at the infinite manifesting in the finite.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -199,6 +290,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition appreciates Arjuna's honest questioning as a model for all devotees. Rather than suppressing doubt, a true seeker brings confusion to the Lord directly. Krishna's willingness to answer shows that God welcomes sincere inquiry born of love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya explains that Arjuna's question is legitimate because God truly takes birth through His own will, unlike souls forced by karma. The distinction between voluntary incarnation and involuntary rebirth is fundamental."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees Arjuna's doubt as the ordinary mind's inability to grasp how timeless consciousness freely appears as limited form without losing its infinite nature. This is the central mystery of Pratyabhijna."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that the Lord's appearance in time is not limitation but expression of His fullness. The divine does not diminish by entering the world; rather, the world is elevated by His presence."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees Arjuna's question as representing the rational mind demanding historical consistency — a healthy attitude. A karma yogi should seek clarity and not blindly accept paradoxes."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would frame this as the universal question: how can the infinite manifest in the finite? The divine is capable of entering any time and place, answering this wonder through every avatar and saint."
       }
     ],
     "applications": {
@@ -233,7 +349,13 @@
         "When does questioning become nagging?"
       ]
     },
-    "themes": ["inquiry", "doubt", "humility", "divine-nature", "rational-questioning"]
+    "themes": [
+      "inquiry",
+      "doubt",
+      "humility",
+      "divine-nature",
+      "rational-questioning"
+    ]
   },
   {
     "id": "BG-4.5",
@@ -242,7 +364,7 @@
     "sanskrit": "श्रीभगवानुवाच |\nबहूनि मे व्यतीतानि जन्मानि तव चार्जुन |\nतान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ॥५॥",
     "iast": "śrībhagavānuvāca |\nbahūni me vyatītāni janmāni tava cārjuna |\ntānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||5||",
     "explanation": "The Lord says: Many births of Mine have passed, and so have yours, O Arjuna. I know them all, but you do not know yours, O scorcher of foes.",
-    "synthesis": "Krishna distinguishes between divine omniscience and human forgetfulness. Both the Lord and the individual soul have existed through many births, but only the Lord retains complete memory. Shankara uses this to distinguish the jīva (bound by ignorance) from Brahman (ever-knowing). Ramanuja sees the Lord's perfect memory as proof of His sovereignty over karma and time. The Bhakti tradition finds comfort here — the Lord remembers every devotee across every lifetime, never forgetting those who seek Him.",
+    "synthesis": "Krishna reveals His omniscience — He remembers all incarnations while Arjuna does not. The Advaita tradition sees the difference between unconditioned Self and conditioned jiva. Ramanuja explains the Lord's divine body carries perfect memory. The Bhakti tradition marvels at God's intimate care for every soul. Madhvacharya stresses the irreducible asymmetry between God's omniscience and the soul's limitation. Abhinavagupta sees Shiva's absolute freedom — consciousness knowing all manifestations simultaneously. Vallabhacharya teaches divine knowledge reflects sat-cit-ananda. Tilak reads this as establishing Krishna's authority. Vivekananda sees the soul's forgetfulness as a mercy allowing fresh starts.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -258,6 +380,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition treasures the fact that God remembers every soul across every lifetime. Even when we forget our relationship with the Divine, He never forgets us. This is the foundation of divine grace — an eternal, unbroken remembrance on God's part."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya emphasizes that Krishna's omniscience regarding all births proves His absolute supremacy. The asymmetry between God's knowledge and the soul's forgetfulness is an irreducible metaphysical fact."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets this as Shiva's svatantrya — absolute freedom — consciousness knows all its manifestations simultaneously, while individual awareness, contracted by maya, perceives only one life at a time."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that the Lord's knowledge of all births reflects His nature as sat-cit-ananda pervading all times. The soul's forgetfulness is a covering that divine grace removes."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as Krishna establishing His credibility as a teacher — He speaks from direct experience of cosmic cycles, not theory. A karma yogi trusts a guide who has walked the path."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize that the soul's forgetfulness of past lives is a mercy allowing fresh starts, while the divine memory connecting all lives points to the underlying unity of all experience."
       }
     ],
     "applications": {
@@ -292,7 +439,13 @@
         "How do I break a cycle I inherited from my parents?"
       ]
     },
-    "themes": ["omniscience", "rebirth", "memory", "divine-nature", "self-awareness"]
+    "themes": [
+      "omniscience",
+      "rebirth",
+      "memory",
+      "divine-nature",
+      "self-awareness"
+    ]
   },
   {
     "id": "BG-4.6",
@@ -301,7 +454,7 @@
     "sanskrit": "अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् |\nप्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ॥६॥",
     "iast": "ajo'pi sannavyayātmā bhūtānāmīśvaro'pi san |\nprakṛtiṃ svāmadhiṣṭhāya sambhavāmyātmamāyayā ||6||",
     "explanation": "Though I am unborn and imperishable, and though I am the Lord of all beings, I manifest by controlling My own divine nature (prakṛti) through My own māyā (divine creative power).",
-    "synthesis": "Krishna explains the paradox of divine incarnation: the birthless takes birth without losing His eternal nature. Shankara interprets māyā as the cosmic illusion that the Lord wields but is never subject to. Ramanuja sees the Lord's birth as a real but supernatural event — He assumes a divine body of His own will, not compelled by karma. The Bhakti tradition marvels that the infinite God voluntarily limits Himself to become accessible to His devotees.",
+    "synthesis": "Though unborn and imperishable, Krishna manifests by His own divine power. The Advaita tradition sees maya under the Lord's control. Ramanuja teaches the Lord's body is entirely spiritual. The Bhakti tradition celebrates divine willingness to enter creation. Madhvacharya stresses God's absolute sovereignty over prakriti. Abhinavagupta sees incarnation as Shiva's creative pulse — the unborn choosing to appear as born. Vallabhacharya holds that the Lord brings full divine nature into the world, making creation sacred. Tilak reads divine incarnation as the supreme model of disciplined selfless action. Vivekananda draws the practical lesson that everyone can transform through self-mastery.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -317,6 +470,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition is awestruck by the Lord's willingness to descend into the material world. The infinite becomes finite, the unborn takes birth — all so that devotees can see, touch, and relate to God directly. This is the supreme expression of divine love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that God's birth through His own maya demonstrates absolute sovereignty — He is never subject to prakriti the way souls are. The Lord controls nature; nature does not control Him."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees this as the supreme paradox: the unborn freely chooses to appear as born, just as Shiva manifests through reflective awareness (vimarsha) without losing essential nature. Incarnation is the creative pulse (spanda)."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya explains that the Lord incarnating brings the fullness of His divine nature into the world. His creative power is real, and His incarnation makes the world genuinely sacred."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes 'controlling my own nature' — even God acts with purposeful discipline. The divine incarnation is the supreme model of selfless action for cosmic welfare."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would highlight that if the unborn Lord manifests through self-mastery, every human being can transform their life through disciplined control of their own nature."
       }
     ],
     "applications": {
@@ -351,7 +529,13 @@
         "What does it mean to be strong enough to be soft?"
       ]
     },
-    "themes": ["divine-incarnation", "māyā", "voluntary-descent", "unborn", "divine-will"]
+    "themes": [
+      "divine-incarnation",
+      "māyā",
+      "voluntary-descent",
+      "unborn",
+      "divine-will"
+    ]
   },
   {
     "id": "BG-4.7",
@@ -360,7 +544,7 @@
     "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत |\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥७॥",
     "iast": "yadā yadā hi dharmasya glānirbhavati bhārata |\nabhyutthānamadharmasya tadātmānaṃ sṛjāmyaham ||7||",
     "explanation": "Whenever there is a decline of dharma (righteousness) and a rise of adharma (unrighteousness), O Bharata, at that time I manifest Myself. This is one of the most celebrated verses in the entire Gita.",
-    "synthesis": "This iconic verse establishes the doctrine of divine intervention in human history. The Lord does not remain indifferent to the moral state of the world. Shankara reads this cosmically — the Self reasserts itself whenever ignorance dominates. Ramanuja sees it as the Lord's concrete, historical descents (avatāras) to restore the cosmic order. The Bhakti tradition finds in this verse the assurance that God will never abandon the world to darkness — wherever dharma is threatened, the Lord will come.",
+    "synthesis": "Whenever dharma declines and adharma rises, the Lord manifests Himself. The Advaita tradition sees the Self restoring balance in maya. Ramanuja emphasizes God's sovereignty in choosing incarnation. The Bhakti tradition treasures the personal God who cannot bear creation's suffering. Madhvacharya insists the decline is real suffering requiring God's necessary intervention. Abhinavagupta views the cycle as Shiva's rhythm of concealment and revelation. Vallabhacharya teaches God incarnates from inseparable love for a real, divine world. Tilak reads this as the charter for social activism. Vivekananda broadens the avatar principle to include every reformer.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -376,6 +560,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "This is one of the most reassuring verses for devotees. No matter how dark the world becomes, the Lord promises to appear. The very existence of injustice contains within it the guarantee of divine response. The devotee need never despair."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that the decline of dharma is real — the world genuinely suffers when righteousness weakens. God's intervention is necessary because souls cannot restore cosmic order alone."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the rise and fall of dharma as Shiva's cosmic rhythm — concealment and revelation alternating in the play of consciousness. The divine descent is the absolute's creative freedom."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that God incarnates from inseparable love for the world. Since the world is real and divine, its suffering genuinely moves the Lord to act."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as the charter for social activism — whenever injustice rises, righteous people must act. No one, not even God, remains passive when dharma declines."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would interpret this broadly: every reformer who stands against injustice participates in the divine function of restoring dharma. The avatar principle manifests whenever courage meets challenge."
       }
     ],
     "applications": {
@@ -410,7 +619,14 @@
         "How do I restore trust after it's been broken?"
       ]
     },
-    "themes": ["dharma", "divine-incarnation", "avatāra", "crisis", "restoration", "hope"]
+    "themes": [
+      "dharma",
+      "divine-incarnation",
+      "avatāra",
+      "crisis",
+      "restoration",
+      "hope"
+    ]
   },
   {
     "id": "BG-4.8",
@@ -419,7 +635,7 @@
     "sanskrit": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् |\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥८॥",
     "iast": "paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām |\ndharmasaṃsthāpanārthāya sambhavāmi yuge yuge ||8||",
     "explanation": "For the protection of the righteous, the destruction of the wicked, and the establishment of dharma, I manifest Myself age after age. This verse completes the famous pair with 4.7.",
-    "synthesis": "The threefold purpose of divine incarnation is declared: protect the good, destroy evil, and re-establish dharma. Shankara sees the protection of the wise as creating conditions for Self-knowledge to flourish. Ramanuja emphasizes the Lord's personal engagement — He does not delegate the work of salvation but comes Himself. The Bhakti tradition sees the three purposes as expressions of divine love: shelter for devotees, justice against oppressors, and a moral order in which all beings can thrive.",
+    "synthesis": "Krishna states His mission across ages: protecting the righteous, destroying evildoers, establishing dharma. The Advaita tradition sees the cosmic Self restoring balance. Ramanuja emphasizes personal compassion. The Bhakti tradition sees God's love made visible. Madhvacharya highlights God's real, active governance. Abhinavagupta sees three purposes reflecting consciousness's eternal functions. Vallabhacharya understands the mission as divine love encompassing all beings. Tilak reads 'yuge yuge' as proof that dharma work is eternal. Vivekananda calls every person to be an instrument of dharma.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -435,6 +651,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For devotees, this verse is a source of immense comfort. The Lord promises to come age after age — not once but repeatedly, tirelessly. The protection of the righteous is listed first, showing that the Lord's primary motivation is love for His devotees, not merely punishment of the wicked."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya emphasizes the threefold purpose — protecting the good, destroying evil, establishing dharma — as reflecting God's real, active governance. God personally intervenes, demonstrating supreme agency."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets protection, destruction, and establishment as consciousness's three functions: sustenance, dissolution, and creation — constantly at work in every moment of awareness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya sees the avatar's mission as divine love encompassing all beings — the good are nourished, evil is redeemed, and dharma is restored for all souls' reconnection."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads 'yuge yuge' as proving the work of dharma is never finished — each generation must take up the task. Protecting the righteous and opposing injustice is an eternal duty."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize that protecting the good and destroying evil are models for human conduct. Each person is called to be an instrument of dharma."
       }
     ],
     "applications": {
@@ -469,7 +710,13 @@
         "What does it mean to fight for a relationship?"
       ]
     },
-    "themes": ["dharma", "divine-protection", "avatāra", "righteousness", "justice"]
+    "themes": [
+      "dharma",
+      "divine-protection",
+      "avatāra",
+      "righteousness",
+      "justice"
+    ]
   },
   {
     "id": "BG-4.9",
@@ -478,7 +725,7 @@
     "sanskrit": "जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः |\nत्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ॥९॥",
     "iast": "janma karma ca me divyamevaṃ yo vetti tattvataḥ |\ntyaktvā dehaṃ punarjanma naiti māmeti so'rjuna ||9||",
     "explanation": "One who truly understands the divine nature of My birth and activities, upon leaving the body, does not take rebirth but attains Me, O Arjuna. Knowing God's nature in truth is itself liberating.",
-    "synthesis": "Understanding the divine nature of Krishna's incarnation is not mere intellectual knowledge — it is transformative realization that breaks the cycle of rebirth. Shankara holds that this 'knowing in truth' means realizing one's identity with Brahman. Ramanuja interprets it as deep, loving contemplation of the Lord's divine qualities that draws the soul to God at death. The Bhakti tradition teaches that meditating on the Lord's līlā (divine play) purifies the heart so completely that the devotee naturally returns to God.",
+    "synthesis": "One who truly understands the divine nature of Krishna's birth and activities is liberated. The Advaita tradition sees culmination of Self-knowledge. Ramanuja teaches understanding God's transcendence over material nature. The Bhakti tradition emphasizes loving knowledge as the most powerful liberation. Madhvacharya insists on real knowledge of God's actual transcendence. Abhinavagupta sees liberation as recognition of divine activity within experience. Vallabhacharya teaches that knowing divine birth transforms embodied existence. Tilak emphasizes understanding divine action. Vivekananda draws the practical lesson of freedom from existential fear.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -494,6 +741,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees this as one of the most hopeful verses in the Gita. Simply understanding and contemplating the Lord's divine descents with love and faith is enough to guarantee liberation. No elaborate ritual is required — only true knowing born of devotion."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that understanding divine birth and actions is liberating — but this must be real knowledge of God's transcendence, not metaphorical reinterpretation."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets this as recognition of divine activity within one's own experience. When all birth and action are seen as expressions of consciousness, karma dissolves."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that knowing the Lord's birth as divine transforms one's relationship with embodied life. Since the Lord pervades the world, understanding His incarnation changes everything."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak notes that knowledge must include understanding divine action — mere theoretical knowledge without appreciation of God's purposeful activity is incomplete."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize that true understanding frees one from the fear of death and rebirth. Knowing the divine nature of existence brings practical freedom."
       }
     ],
     "applications": {
@@ -528,7 +800,13 @@
         "How do I know if I truly understand my partner?"
       ]
     },
-    "themes": ["liberation", "divine-knowledge", "rebirth", "realization", "grace"]
+    "themes": [
+      "liberation",
+      "divine-knowledge",
+      "rebirth",
+      "realization",
+      "grace"
+    ]
   },
   {
     "id": "BG-4.10",
@@ -537,7 +815,7 @@
     "sanskrit": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः |\nबहवो ज्ञानतपसा पूता मद्भावमागताः ॥१०॥",
     "iast": "vītarāgabhayakrodhā manmayā māmupāśritāḥ |\nbahavo jñānatapasā pūtā madbhāvamāgatāḥ ||10||",
     "explanation": "Free from attachment, fear, and anger, absorbed in Me, taking refuge in Me, purified by the austerity of knowledge — many have attained My state of being.",
-    "synthesis": "Krishna summarizes the path: freedom from the three great afflictions (attachment, fear, anger), absorption in the Divine, and purification through knowledge. Shankara sees this as the description of the jñānī who has transcended all mental modifications. Ramanuja emphasizes that taking refuge in the Lord (upāśritāḥ) is the central act. The Bhakti tradition highlights that many — not just a select few — have attained God through this path, making it accessible to all sincere seekers.",
+    "synthesis": "Many beings, freed from attachment, fear, and anger, attained God through the fire of knowledge. The Advaita tradition sees jnana-tapas burning ignorance. Ramanuja emphasizes taking refuge as the catalyst. The Bhakti tradition celebrates the many who found God through love. Madhvacharya teaches real ontological transformation enabled by grace. Abhinavagupta sees self-recognition burning away contractions. Vallabhacharya emphasizes surrender as key. Tilak draws courage from precedent. Vivekananda sees freedom from fear as a practical present-life transformation.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -553,6 +831,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition finds great encouragement in the word 'many' — countless souls have already traversed this path successfully. The combination of emotional purification (freedom from attachment, fear, anger) and loving refuge in God describes the complete devotee."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that this purification is real transformation — souls genuinely overcome attachment, fear, and anger through devoted knowledge of God, enabled by grace."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees freedom from attachment, fear, and anger as the natural state of pure consciousness. The fire of knowledge is self-recognition burning away contractions obscuring one's Shiva nature."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya emphasizes 'taking refuge in Me' as the key — purification happens through surrender to grace. Many have been purified this way, showing the path is accessible to all."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as encouragement: countless people have overcome passion and fear through disciplined knowledge. Liberation is achievable by anyone who commits to the path."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would highlight that freedom from fear and anger is a practical transformation available here and now through education, self-awareness, and courage."
       }
     ],
     "applications": {
@@ -587,7 +890,13 @@
         "What does a relationship free from fear look like?"
       ]
     },
-    "themes": ["detachment", "fearlessness", "purification", "knowledge", "refuge"]
+    "themes": [
+      "detachment",
+      "fearlessness",
+      "purification",
+      "knowledge",
+      "refuge"
+    ]
   },
   {
     "id": "BG-4.11",
@@ -596,7 +905,7 @@
     "sanskrit": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् |\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥११॥",
     "iast": "ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham |\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||11||",
     "explanation": "In whatever way people approach Me, I reward them accordingly. All paths ultimately follow My path, O Partha. This celebrated verse declares that God reciprocates with each devotee according to their approach.",
-    "synthesis": "This is one of the most inclusive statements in world scripture — God responds to each seeker according to their capacity and sincerity. Shankara reads this as the Self reflecting back whatever the mind projects upon it, validating both the path of knowledge and the path of devotion. Ramanuja sees it as the Lord's gracious willingness to meet each soul where they are while gently drawing them toward the highest truth. The Bhakti tradition celebrates this verse as proof of divine impartiality and infinite love — no sincere seeker is turned away.",
+    "synthesis": "In whatever way people approach the divine, they are reciprocally embraced. The Advaita tradition sees all paths dissolving into one Self. Ramanuja teaches God actively responds to each seeker's surrender. The Bhakti tradition treasures unconditional divine love. Madhvacharya emphasizes divine justice — all paths lead to Vishnu, though approaches with greater knowledge yield higher fruits. Abhinavagupta reads consciousness meeting itself in every seeker. Vallabhacharya sees the Lord's vatsalya meeting each soul at their level. Tilak sees divine fairness — sincere effort always yields results. Vivekananda celebrates the foundation for inter-faith harmony.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -612,6 +921,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition loves this verse for its radical inclusiveness. Whether you approach God as father, mother, friend, beloved, or master — He responds in kind. This is the basis for the many rasas (flavors) of devotion, each valid and complete in itself."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya explains that God rewards each soul according to their approach because He is just. The hierarchy of approaches is real — greater knowledge yields higher fruits. All paths lead to Vishnu."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads this as the ultimate inclusivism of consciousness — Shiva is approached in every form of worship. The reciprocal response reflects consciousness meeting itself in every seeker."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya sees the Lord's vatsalya meeting each child at their level. In pushti-marga, even imperfect devotion is accepted and nourished."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets this as divine fairness — whatever effort invested yields proportionate results. Sincere effort is never wasted."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would celebrate this as the Gita's declaration of religious pluralism. All paths lead to the same truth. No tradition has a monopoly on God."
       }
     ],
     "applications": {
@@ -646,7 +980,13 @@
         "How do I approach someone who has closed off to me?"
       ]
     },
-    "themes": ["divine-reciprocity", "inclusiveness", "many-paths", "grace", "approach"]
+    "themes": [
+      "divine-reciprocity",
+      "inclusiveness",
+      "many-paths",
+      "grace",
+      "approach"
+    ]
   },
   {
     "id": "BG-4.12",
@@ -655,7 +995,7 @@
     "sanskrit": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः |\nक्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥१२॥",
     "iast": "kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ |\nkṣipraṃ hi mānuṣe loke siddhirbhavati karmajā ||12||",
     "explanation": "Those who desire success in their actions worship the devas (celestial beings) in this world, for success born of action comes quickly in the human realm.",
-    "synthesis": "Krishna observes that most people pursue immediate, worldly results through ritualistic worship. This is not condemned but placed in context — such worship yields quick material results but not ultimate liberation. Shankara distinguishes between the desire-driven worshiper and the knowledge-seeker. Ramanuja notes that the Lord facilitates even material worship as a stepping-stone. The Bhakti tradition acknowledges that many begin their spiritual journey seeking worldly gains and gradually evolve toward pure devotion.",
+    "synthesis": "Those who desire quick results worship the devas. The Advaita tradition sees this as lower knowledge — valid but not ultimate. Ramanuja teaches such worship reaches God indirectly. The Bhakti tradition encourages moving beyond transactional worship. Madhvacharya notes deva worship yields limited results because those deities are subordinate to Vishnu. Abhinavagupta sees engaging particular aspects of one consciousness. Vallabhacharya recognizes desire-driven worship as an early stage the Lord uses. Tilak sees practical observation about material results. Vivekananda urges evolution from transaction to transformation.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -671,6 +1011,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition recognizes that most people begin their spiritual journey seeking tangible benefits — health, wealth, success. This is not condemned but seen as an early stage. The wise devotee gradually shifts from asking God for things to simply wanting God Himself."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya notes that worshipping lesser deities yields quick but limited results because those deities are subordinate to Vishnu. Only devotion to the Supreme yields eternal liberation."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees worship of devas as engaging particular aspects of one consciousness. Results come quickly because these are limited expressions. Recognizing the totality transcends partial worship."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that desire-driven worship is not condemned but recognized as an early stage. The Lord in the devas gradually draws the worshipper toward Himself."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as practical observation: ritual worship aimed at material goals produces quick results within the material domain. The karma yogi aspires beyond this to character transformation."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would observe that worshipping powers for worldly success is natural at a stage. But the highest aspiration is seeking truth for its own sake — religion must evolve from transaction to transformation."
       }
     ],
     "applications": {
@@ -705,7 +1070,13 @@
         "How do I build something that lasts instead of something that dazzles?"
       ]
     },
-    "themes": ["desire", "quick-results", "worship", "karma", "material-success"]
+    "themes": [
+      "desire",
+      "quick-results",
+      "worship",
+      "karma",
+      "material-success"
+    ]
   },
   {
     "id": "BG-4.13",
@@ -714,7 +1085,7 @@
     "sanskrit": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः |\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥१३॥",
     "iast": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ |\ntasya kartāramapi māṃ viddhyakartāramavyayam ||13||",
     "explanation": "The four-fold order (varṇa) was created by Me according to the divisions of qualities (guṇa) and actions (karma). Though I am the creator of this system, know Me to be the imperishable non-doer.",
-    "synthesis": "Krishna declares that the social order is based on innate qualities and natural aptitudes, not birth. Crucially, He then transcends even this creation — He is the non-doer. Shankara uses this to teach that the Self is actionless even while associated with the body. Ramanuja sees the Lord as the ultimate architect who delegates action while remaining personally untouched. The Bhakti tradition emphasizes that the original intent was a natural division of labor based on temperament, not a hierarchy of superiority.",
+    "synthesis": "Krishna declares the four-fold order created according to qualities and actions, yet He remains beyond it. The Advaita tradition sees the Self untouched by social distinction. Ramanuja teaches God is the cause but not subject to effects. The Bhakti tradition emphasizes devotion transcending all categories. Madhvacharya explains varna reflects real guna-karma differences. Abhinavagupta sees dynamic expressions of shakti. Vallabhacharya holds devotion dissolves all distinctions. Tilak and Vivekananda both read this as establishing merit-based order rooted in character, not birth.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -730,6 +1101,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition emphasizes that in the eyes of God, the division is purely functional — based on one's natural qualities and calling, not on family or social status. Devotion transcends all such categories, as the Lord accepts anyone who approaches with love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya explains that the four varnas reflect real differences in guna-karma composition. Though God created this system, He transcends all gunas. It organizes society according to inherent nature."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the four-fold order arising from the differentiation of universal consciousness into distinct creative modes. The yogi who recognizes consciousness as source transcends all divisions."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that while God created the varna system on qualities and actions, in devotion all distinctions dissolve — every soul has equal access to divine grace."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak strongly emphasizes that varna is based on guna and karma, not birth. This is the Gita's charter for a merit-based society where role is determined by character and contribution."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would read this as revolutionary: the perversion of quality-based order into birth-based discrimination betrays the Gita's teaching. Every person should be valued for their character."
       }
     ],
     "applications": {
@@ -764,7 +1160,13 @@
         "What if my partner and I have very different natures?"
       ]
     },
-    "themes": ["varṇa", "guṇa", "natural-aptitude", "non-doership", "self-knowledge"]
+    "themes": [
+      "varṇa",
+      "guṇa",
+      "natural-aptitude",
+      "non-doership",
+      "self-knowledge"
+    ]
   },
   {
     "id": "BG-4.14",
@@ -773,7 +1175,7 @@
     "sanskrit": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते ॥१४॥",
     "iast": "na māṃ karmāṇi limpanti na me karmaphale spṛhā |\niti māṃ yo'bhijānāti karmabhirna sa badhyate ||14||",
     "explanation": "Actions do not taint Me, nor do I have any desire for the fruits of action. One who understands Me thus is not bound by actions.",
-    "synthesis": "The Lord is not contaminated by action because He acts without desire for results. Anyone who truly understands this principle — and applies it — similarly becomes free from karmic bondage. Shankara sees this as the core teaching of actionless awareness. Ramanuja emphasizes that the Lord's desirelessness is the model for human action. The Bhakti tradition teaches that acting for God's sake, without personal desire, mirrors the Lord's own freedom.",
+    "synthesis": "Actions do not taint the Lord because He has no desire for fruits. The Advaita tradition sees pure consciousness as actionless even while appearing to act. Ramanuja emphasizes God's sovereignty over karma. The Bhakti tradition invites modeling detachment on God's example. Madhvacharya teaches this freedom is God's inherent nature. Abhinavagupta reads consciousness acting without being bound. Vallabhacharya sees divine action as expression of bliss and completeness. Tilak finds the philosophical foundation of karma yoga. Vivekananda draws the practical lesson that selfless actions cannot bind.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -789,6 +1191,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees this verse as the ultimate model for devotional action. Just as the Lord acts tirelessly for the world without any selfish desire, the devotee who offers all actions to God — expecting nothing in return — becomes free while still actively serving."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that God's freedom from karma is inherent to His supreme nature, not achieved through practice. Unlike souls who strive for detachment, the Lord is eternally untouched by action."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets this as the foundational principle: consciousness acts without being bound. Just as Shiva performs five cosmic acts without accruing karma, the realized yogi acts from the same freedom."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that the Lord's actions express bliss, not desire. Already complete, He needs no fruits. The devotee models action on divine play — acting from fullness, not lack."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees the philosophical foundation of karma yoga: if God acts without attachment, humans should strive likewise. The divine model of engaged yet unattached action."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would draw the practical lesson: actions without selfish motive cannot bind. The secret to freedom is not stopping action but stopping the craving for results."
       }
     ],
     "applications": {
@@ -823,7 +1250,13 @@
         "How do I love freely without being taken advantage of?"
       ]
     },
-    "themes": ["non-attachment", "desirelessness", "karma-freedom", "non-doership", "action"]
+    "themes": [
+      "non-attachment",
+      "desirelessness",
+      "karma-freedom",
+      "non-doership",
+      "action"
+    ]
   },
   {
     "id": "BG-4.15",
@@ -832,7 +1265,7 @@
     "sanskrit": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः |\nकुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम् ॥१५॥",
     "iast": "evaṃ jñātvā kṛtaṃ karma pūrvairapi mumukṣubhiḥ |\nkuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam ||15||",
     "explanation": "Knowing this, the ancient seekers of liberation also performed action. Therefore, you too should perform action, following the example of those ancients.",
-    "synthesis": "Krishna urges Arjuna to act, citing the example of the ancients who pursued liberation through engaged action, not withdrawal. Shankara notes that even those who had attained Self-knowledge continued to act for the benefit of the world. Ramanuja emphasizes that karma-yoga is the established path validated by all previous great souls. The Bhakti tradition reads this as encouragement — if the greatest sages acted in the world while remaining free, so can you.",
+    "synthesis": "Ancient seekers performed action with this understanding, and Krishna urges Arjuna to follow. The Advaita tradition sees karma yoga as preliminary purification. Ramanuja reads it as instruction for dharmic action as worship. The Bhakti tradition sees continuity from ancient devotees to present seekers. Madhvacharya emphasizes scriptural authority as essential. Abhinavagupta invites discovering the same recognition the ancients found. Vallabhacharya teaches the ancients acted as loving service. Tilak sees the definitive karma yoga instruction. Vivekananda points out sages continued serving after realization.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -848,6 +1281,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition encourages the devotee by pointing to predecessors. You are not walking an untested path — countless great souls before you combined action with devotion and achieved the highest. Their example is your assurance."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya emphasizes ancient precedent: great seekers performed action knowing God's transcendence. Tradition and scriptural authority are essential guides."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the ancient seekers as those who realized action performed in the light of consciousness is liberating. The instruction invites discovering the same recognition in one's own action."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that the ancient seekers acted in the spirit of offering to the Lord, and their liberation came through this devotional attitude."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees the definitive instruction: act, as the ancients did, knowing the truth. Renunciation of action is not the teaching; transformation through knowledge is."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would note that even the greatest sages continued serving after realization. This demolishes the excuse that spiritual attainment requires withdrawal."
       }
     ],
     "applications": {
@@ -882,7 +1340,13 @@
         "How do I translate good intentions into daily relationship habits?"
       ]
     },
-    "themes": ["action", "precedent", "karma-yoga", "liberation-through-action", "duty"]
+    "themes": [
+      "action",
+      "precedent",
+      "karma-yoga",
+      "liberation-through-action",
+      "duty"
+    ]
   },
   {
     "id": "BG-4.16",
@@ -891,7 +1355,7 @@
     "sanskrit": "किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः |\nतत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥१६॥",
     "iast": "kiṃ karma kimakarmeti kavayo'pyatra mohitāḥ |\ntatte karma pravakṣyāmi yajjñātvā mokṣyase'śubhāt ||16||",
     "explanation": "What is action? What is inaction? Even the wise are confused on this matter. I shall explain to you that action, knowing which you shall be freed from evil (the inauspicious).",
-    "synthesis": "Krishna acknowledges that the distinction between right action and inaction is one of the most confusing topics in philosophy — even the wise struggle with it. Shankara sees this as preparation for the subtle teaching that the Self is always actionless. Ramanuja views it as Krishna's promise to clarify the true nature of karma-yoga. The Bhakti tradition notes that confusion about action is natural; what matters is turning to God for clarity rather than pretending to have figured it out alone.",
+    "synthesis": "Even the wise are confused about action and inaction, and Krishna promises illumination. The Advaita tradition points to the actionless Self hidden behind activity. Ramanuja emphasizes divine instruction is needed. The Bhakti tradition trusts the Lord's clarity. Madhvacharya acknowledges genuine complexity requiring God's teaching. Abhinavagupta sees the deepest mystery of spanda. Vallabhacharya teaches the Lord simplifies what philosophy complicates. Tilak calls this the pivotal verse. Vivekananda affirms selfless action is the practical answer.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -907,6 +1371,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition finds comfort in knowing that confusion about right action is universal — even the wise struggle. The solution is not more intellectual analysis but surrendering the question to God. Krishna's willingness to clarify shows that the Lord guides those who honestly admit their confusion."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that confusion about action and inaction affects even the learned because God created a complex world. Only God's teaching through proper lineage resolves this."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the confusion arising from the fundamental mystery — how the actionless Self appears to act. This points to the paradox of spanda: both stillness and vibration."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that confusion about action is natural for the embodied soul. In pushti-marga, right action is whatever is offered to God with love."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak identifies this as the pivotal verse: the nature of action is the central problem. Krishna will resolve it by revealing how knowledgeable action liberates."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize that even the wise struggle with this question. The answer lies in the practical principle that selfless, dutiful action is always right action."
       }
     ],
     "applications": {
@@ -941,7 +1430,13 @@
         "Why is doing the right thing in relationships so confusing?"
       ]
     },
-    "themes": ["action", "inaction", "confusion", "discernment", "wisdom"]
+    "themes": [
+      "action",
+      "inaction",
+      "confusion",
+      "discernment",
+      "wisdom"
+    ]
   },
   {
     "id": "BG-4.17",
@@ -950,7 +1445,7 @@
     "sanskrit": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः |\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ॥१७॥",
     "iast": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ |\nakarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ ||17||",
     "explanation": "One must understand the nature of action (karma), the nature of forbidden action (vikarma), and the nature of inaction (akarma). The path of action is deep and difficult to understand.",
-    "synthesis": "Krishna introduces three categories: righteous action, prohibited action, and inaction — and declares that understanding their true nature is profoundly subtle. Shankara identifies the 'depth' as the paradox that true inaction coexists with external activity. Ramanuja sees the depth in understanding which actions bind and which liberate. The Bhakti tradition acknowledges the complexity while insisting that devotion simplifies it — act for God's sake, and the subtle distinctions take care of themselves.",
+    "synthesis": "One must understand action, forbidden action, and inaction — the path of action is deep. The Advaita tradition sees akarma as the Self's nature behind all doing. Ramanuja teaches knowing all three is essential. The Bhakti tradition counsels offering all to God. Madhvacharya insists on scriptural knowledge and guidance. Abhinavagupta sees all three as modes of one consciousness. Vallabhacharya teaches devotion clarifies what analysis cannot. Tilak emphasizes the practical need for threefold understanding. Vivekananda stresses honest self-examination before every action.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -966,6 +1461,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition recognizes the complexity of karma theory but offers a practical simplification: when in doubt, act with devotion. The depths of karma are unfathomable to the intellect alone, but love for God illuminates the path forward even in confusion."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that understanding action, forbidden action, and inaction requires scriptural knowledge and a qualified teacher. The three categories are objectively real."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees karma, vikarma, and akarma as three modes of consciousness in embodied experience. The yogi penetrates appearances to recognize the single awareness operating through all three."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya explains that forbidden action turns the soul from God, while inaction is abiding in divine presence. Devotion clarifies what analysis cannot."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes practical importance: one must understand right action, wrong action, and transcendent non-action. The karma yogi cannot act wisely without this threefold understanding."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would stress honest self-examination before acting: is this duty? Is it harmful? Is ego or truth the driver? Moral clarity comes from cultivated wisdom."
       }
     ],
     "applications": {
@@ -1000,7 +1520,13 @@
         "How do I develop relational wisdom about when to act?"
       ]
     },
-    "themes": ["action", "inaction", "forbidden-action", "discernment", "subtlety"]
+    "themes": [
+      "action",
+      "inaction",
+      "forbidden-action",
+      "discernment",
+      "subtlety"
+    ]
   },
   {
     "id": "BG-4.18",
@@ -1009,7 +1535,7 @@
     "sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः |\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥१८॥",
     "iast": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ |\nsa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||18||",
     "explanation": "One who sees inaction in action and action in inaction is truly wise among people. Such a person is a yogī and a true performer of all actions. This is one of the Gita's most profound and paradoxical teachings.",
-    "synthesis": "This celebrated verse contains the Gita's deepest paradox: the wise see stillness in the midst of activity and dynamic engagement in apparent stillness. Shankara reads this as the realization that the Self (Ātman) never acts — all action belongs to the guṇas. Ramanuja interprets it as performing action while maintaining the consciousness that God is the true agent. The Bhakti tradition sees the yogi who acts tirelessly for God while remaining internally at peace — the embodiment of devotion in action.",
+    "synthesis": "Seeing inaction in action and action in inaction is the mark of the wise. The Advaita tradition sees the actionless Self behind all movement. Ramanuja interprets God as the true agent. The Bhakti tradition sees the devotee without doership as most surrendered. Madhvacharya teaches recognizing God as the true agent constitutes wisdom. Abhinavagupta sees action as consciousness's stillness and inaction concealing spanda. Vallabhacharya understands action as the Lord's play. Tilak considers this the key verse. Vivekananda describes the practically wise person — intensely active yet calm.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1025,6 +1551,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition reads this as the state of the perfect devotee: one who works tirelessly in the world yet is inwardly absorbed in God (inaction in action), and one who understands that sitting still without devotion is not true renunciation (action in inaction)."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that seeing inaction in action means recognizing God, not the individual soul, as the true agent. All activity depends on the Lord's will and power."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees this as the supreme realization: apparent movement is the stillness of consciousness, and apparent stillness conceals Shiva's creative vibration (spanda). Perceiving this paradox is highest wisdom."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya explains that seeing inaction in action means recognizing all activity as the Lord's play. When God is seen as the real actor, personal doership dissolves into peaceful divine participation."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak considers this the key verse of the Gita: acting wholeheartedly while remaining inwardly free from doership is mastery of karma yoga — the highest engaged action."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would teach that this describes the truly effective person: intensely active but without ego-driven anxiety. Calm in the storm, efficient without stress, powerful without aggression."
       }
     ],
     "applications": {
@@ -1059,7 +1610,13 @@
         "How do I stop 'doing' in relationships and start 'being'?"
       ]
     },
-    "themes": ["inaction-in-action", "paradox", "wisdom", "non-doership", "presence"]
+    "themes": [
+      "inaction-in-action",
+      "paradox",
+      "wisdom",
+      "non-doership",
+      "presence"
+    ]
   },
   {
     "id": "BG-4.19",
@@ -1068,7 +1625,7 @@
     "sanskrit": "यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः |\nज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ॥१९॥",
     "iast": "yasya sarve samārambhāḥ kāmasaṅkalpavarjitāḥ |\njñānāgnidagdhakarmaṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ ||19||",
     "explanation": "One whose every undertaking is free from desire and selfish motive, whose actions are burned by the fire of knowledge — such a person is called a paṇḍita (truly wise) by the knowers of truth.",
-    "synthesis": "The truly wise person acts without selfish desire, and their accumulated karma is burnt away by the fire of knowledge. Shankara sees the 'fire of knowledge' as Self-realization that incinerates all karmic residue. Ramanuja interprets it as the purifying effect of performing all actions as service to God. The Bhakti tradition sees the fire of divine love consuming all selfish motive, leaving only pure, selfless action.",
+    "synthesis": "One whose undertakings are free from desire, whose karma is burned by the fire of knowledge, is called wise. The Advaita tradition sees jnanagni destroying accumulated karma. Ramanuja teaches desireless action becomes worship. The Bhakti tradition sees devotion consuming selfish karma. Madhvacharya teaches the fire is lit by God's grace. Abhinavagupta sees self-recognition incinerating impressions. Vallabhacharya identifies the Lord's luminosity. Tilak describes the ideal karma yogi acting from wisdom. Vivekananda points to selfless servants as examples.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1084,6 +1641,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees the fire of divine love as the ultimate purifier. When every action is motivated by love for God rather than selfish desire, the accumulated weight of past karma is burnt away. The devotee becomes light and free, acting out of joy rather than compulsion."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that abandoning desire and selfish resolve is possible only through God's grace. The fire of knowledge is lit by the Lord in the sincere devotee's heart."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the fire of knowledge as self-recognition blazing forth, incinerating accumulated impressions (samskaras). Desire-free action becomes spontaneous expression of consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that one whose undertakings are free from desire acts from the fullness of divine presence. The fire of knowledge is the Lord's luminosity transforming action into sacred offering."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak describes the ideal karma yogi — one who undertakes great works without personal agenda, acting from wisdom rather than want."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize that true greatness comes from acting without selfish motive. History's greatest servants had their personal ambitions burned away."
       }
     ],
     "applications": {
@@ -1118,7 +1700,13 @@
         "How does understanding dissolve old grievances?"
       ]
     },
-    "themes": ["desirelessness", "knowledge-fire", "wisdom", "purification", "selfless-action"]
+    "themes": [
+      "desirelessness",
+      "knowledge-fire",
+      "wisdom",
+      "purification",
+      "selfless-action"
+    ]
   },
   {
     "id": "BG-4.20",
@@ -1127,7 +1715,7 @@
     "sanskrit": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः |\nकर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ॥२०॥",
     "iast": "tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ |\nkarmaṇyabhipravṛtto'pi naiva kiñcitkaroti saḥ ||20||",
     "explanation": "Having abandoned attachment to the fruits of action, ever content, depending on nothing — such a person, even though fully engaged in action, does nothing at all.",
-    "synthesis": "The liberated person acts fully yet is untouched by action — a continuation of the paradox from 4.18. Content in the Self, requiring no external support, they perform actions that produce no karmic bondage. Shankara sees this as the jīvanmukta (liberated while living) who acts through prārabdha karma alone. Ramanuja sees the surrendered devotee who acts as God's instrument. The Bhakti tradition sees the devotee so absorbed in God that all action becomes effortless divine play.",
+    "synthesis": "Having abandoned attachment to fruits, ever content, depending on nothing — such a person incurs no karma. The Advaita tradition sees the Self-knower acting from fullness. Ramanuja emphasizes contentment from trust in providence. The Bhakti tradition sees joy from God alone. Madhvacharya finds independence in recognizing dependence on God. Abhinavagupta sees the jivanmukta resting in consciousness. Vallabhacharya describes action as overflow of divine bliss. Tilak sees the supremely effective active person. Vivekananda identifies true human freedom.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1143,6 +1731,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition pictures the ideal devotee: busy in God's service yet inwardly still, content not because of results but because of the joy of serving the Beloved. Such a person needs nothing from the world because they have everything in God."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya explains that true contentment arises from recognizing one's dependence on God. The soul that knows it depends on Vishnu becomes free from material dependence."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees this as the jivanmukta acting while resting in the fullness of consciousness. Being dependent on nothing means discovering the Self as the sole support."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that 'ever content' describes the soul resting in divine bliss. Action is the natural overflow of fullness, not response to lack."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as the ideal active person: fully engaged yet inwardly free. Equanimity makes action supremely effective."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would identify this as true human freedom — active, content, and independent. Working from strength, not craving."
       }
     ],
     "applications": {
@@ -1177,7 +1790,13 @@
         "Why is independence attractive and neediness repulsive?"
       ]
     },
-    "themes": ["contentment", "non-attachment", "self-sufficiency", "effortless-action", "freedom"]
+    "themes": [
+      "contentment",
+      "non-attachment",
+      "self-sufficiency",
+      "effortless-action",
+      "freedom"
+    ]
   },
   {
     "id": "BG-4.21",
@@ -1186,7 +1805,7 @@
     "sanskrit": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः |\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥२१॥",
     "iast": "nirāśīryatacittātmā tyaktasarvaparigrahaḥ |\nśārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam ||21||",
     "explanation": "Free from expectations, with mind and body controlled, having renounced all possessiveness — performing action merely for the body's maintenance — such a person incurs no sin.",
-    "synthesis": "The liberated person lives simply, acts only as needed for bodily sustenance, and remains free from the karmic consequences of action. Shankara describes this as the natural lifestyle of the jñānī who has transcended identification with the body. Ramanuja sees the ideal karma-yogī who has relinquished possessiveness and acts minimally for survival while devoting all energy to God's service. The Bhakti tradition sees the simplicity of the devotee whose only possession is love for God.",
+    "synthesis": "Free from expectations, performing action merely for the body — no sin is incurred. The Advaita tradition sees the sthitaprajna acting without ego. Ramanuja teaches using the body as God's instrument. The Bhakti tradition values simplicity. Madhvacharya views the body as a real instrument given by God. Abhinavagupta sees renunciation of possessiveness dissolving contracted selfhood. Vallabhacharya teaches everything belongs to God. Tilak advises simplifying needs to serve better. Vivekananda sees minimizing desires as the path to maximum strength.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1202,6 +1821,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition admires the simplicity of the true devotee who needs very little because their heart is full of God. Such a person does what is needed for the body without complaint or craving, saving all their energy and desire for devotional service."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that performing action merely for the body means maintaining the minimum for embodied existence while directing energy toward devotion to God."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees renunciation of possessiveness as dissolution of the contracted self (anava mala). Consciousness expands to its natural unlimited state."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that the devoted person holds nothing as their own — everything belongs to the Lord. Acting for maintenance is recognizing everything beyond necessity is God's."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as practical wisdom: simplify material needs and channel energy into meaningful work. Fewer possessions mean freer service."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize the power of simplicity: needing nothing from the world is the greatest strength. Minimizing desires maximizes power."
       }
     ],
     "applications": {
@@ -1236,7 +1880,13 @@
         "How does letting go of expectations improve connection?"
       ]
     },
-    "themes": ["simplicity", "non-possessiveness", "self-control", "minimal-action", "freedom-from-sin"]
+    "themes": [
+      "simplicity",
+      "non-possessiveness",
+      "self-control",
+      "minimal-action",
+      "freedom-from-sin"
+    ]
   },
   {
     "id": "BG-4.22",
@@ -1245,7 +1895,7 @@
     "sanskrit": "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः |\nसमः सिद्धावसिद्धौ च कृत्वापि न निबध्यते ॥२२॥",
     "iast": "yadṛcchālābhasantuṣṭo dvandvātīto vimatsaraḥ |\nsamaḥ siddhāvasiddhau ca kṛtvāpi na nibadhyate ||22||",
     "explanation": "Content with whatever comes unsought, transcending the pairs of opposites, free from envy, equal in success and failure — such a person, even while acting, is not bound.",
-    "synthesis": "This verse describes the liberated person's relationship with the world: they accept what comes without craving, are unshaken by life's dualities, harbor no jealousy, and remain balanced in all outcomes. Shankara sees this as the natural state of one established in the Self. Ramanuja sees the surrendered devotee who trusts God's provision completely. The Bhakti tradition celebrates the freedom of one who has entrusted all outcomes to the Beloved.",
+    "synthesis": "Content with whatever comes unsought, beyond dualities, free from envy, equal in success and failure — never bound. The Advaita tradition sees the Self-realized person's natural state. Ramanuja teaches equanimity from total surrender. The Bhakti tradition celebrates joy depending on God alone. Madhvacharya sees trust in God's governance. Abhinavagupta describes resting in spanda between dualities. Vallabhacharya reads living in grace. Tilak sees the mature karma yogi. Vivekananda highlights equanimity as the foundation of resilience.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1261,6 +1911,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees this as the portrait of the devotee who has completely entrusted their life to God. Whatever comes is received as God's gift. There is no envy because the devotee sees everyone as serving the same Lord. Success and failure are equally welcomed as God's will."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that contentment with whatever comes unsought reflects trust in God's providential governance. Absence of envy proves faith that each soul receives what God deems appropriate."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees transcending opposites as resting in spanda — the vibrationless vibration between all dualities. All differences arise within a single awareness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya explains that being content with what comes unsought is the sign of living in God's grace. Accepting what the Lord provides with joy is the essence of surrender."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads transcendence of dualities as the mature karma yogi who acts with steadiness regardless of circumstances — consistent character in every situation."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize the practical power of equanimity: not shaken by success or failure, the most resilient and effective. Freedom from envy removes poison from relationships."
       }
     ],
     "applications": {
@@ -1295,7 +1970,13 @@
         "What does equanimity in love actually look like?"
       ]
     },
-    "themes": ["contentment", "equanimity", "non-envy", "acceptance", "freedom"]
+    "themes": [
+      "contentment",
+      "equanimity",
+      "non-envy",
+      "acceptance",
+      "freedom"
+    ]
   },
   {
     "id": "BG-4.23",
@@ -1304,7 +1985,7 @@
     "sanskrit": "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः |\nयज्ञायाचरतः कर्म समग्रं प्रविलीयते ॥२३॥",
     "iast": "gatasaṅgasya muktasya jñānāvasthitacetasaḥ |\nyajñāyācarataḥ karma samagraṃ pravilīyate ||23||",
     "explanation": "For one who is free from attachment, who is liberated, whose mind is established in knowledge, and who acts as a sacrifice (yajña) — all karma is entirely dissolved.",
-    "synthesis": "When action is performed as sacrifice — without attachment, from a mind rooted in knowledge — all karmic residue dissolves completely. Shankara sees this as the complete cessation of karma through Self-knowledge. Ramanuja sees it as the purifying power of dedicating all action to God. The Bhakti tradition reads yajña as an offering of love — when every action is a love-offering to the Divine, no karma remains.",
+    "synthesis": "The liberated person acts as sacrifice, and all karma dissolves. The Advaita tradition sees action without doership. Ramanuja teaches dedicating action to God makes it yajna. The Bhakti tradition sees every act as love offering. Madhvacharya explains action serving God's cosmic order. Abhinavagupta sees offering individual consciousness into universal awareness. Vallabhacharya describes pure seva from the divine source. Tilak emphasizes liberation transforms rather than ends action. Vivekananda sees knowledge expressed as spontaneous service.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1320,6 +2001,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees every act of service, prayer, and devotion as a yajña that purifies the heart. When the devotee's mind is fixed on God and every action is offered at His feet, karma dissolves like morning dew in sunlight. Nothing binds the one who lives for the Beloved."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya explains that the liberated person's action is sacrifice because it is directed entirely toward God, serving cosmic order rather than personal interests."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees sacrifice as offering individual consciousness into universal awareness. Every deed becomes a ritual of self-recognition when knowledge is the foundation."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that liberated action is pure seva — living worship with knowledge and love that sustains the world by flowing from the divine source."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes that even the liberated person continues to act. Liberation transforms action into sacrifice — the highest form of worship."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would highlight that knowledge-established persons serve from spontaneous compassion. Their work costs the ego everything and benefits everyone."
       }
     ],
     "applications": {
@@ -1354,7 +2060,13 @@
         "What happens when I stop seeing compromise as sacrifice?"
       ]
     },
-    "themes": ["sacrifice", "yajña", "karma-dissolution", "knowledge", "liberation"]
+    "themes": [
+      "sacrifice",
+      "yajña",
+      "karma-dissolution",
+      "knowledge",
+      "liberation"
+    ]
   },
   {
     "id": "BG-4.24",
@@ -1363,7 +2075,7 @@
     "sanskrit": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् |\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥२४॥",
     "iast": "brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam |\nbrahmaiva tena gantavyaṃ brahmakarmasamādhinā ||24||",
     "explanation": "The offering is Brahman, the oblation is Brahman, offered by Brahman into the fire of Brahman. Brahman alone is to be reached by one who sees Brahman in every action. This profoundly non-dual verse sees the entire act of sacrifice as pervaded by the one reality.",
-    "synthesis": "This is one of the most celebrated verses of Advaita Vedanta — everything in the act of offering is Brahman: the instrument, the offering, the fire, the offerer, and the result. Shankara sees this as the ultimate statement of non-duality applied to action. Ramanuja reads it as seeing God's presence pervading every aspect of worship and life. The Bhakti tradition finds here the vision of a world saturated with the Divine — every action, every object, every moment drenched in God.",
+    "synthesis": "The offering is Brahman, the oblation is Brahman, offered by Brahman into the fire of Brahman. The Advaita tradition sees everything as the one Self. Ramanuja teaches Brahman pervades every element as inner controller. The Bhakti tradition sees the devotee's entire life as offering. Madhvacharya maintains God pervades all while remaining distinct. Abhinavagupta considers this the supreme yoga of awareness. Vallabhacharya reads pure Shuddhadvaita — the world is divine reality. Tilak sees the practical key to non-bondage. Vivekananda celebrates it as the pinnacle of Gita philosophy.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1379,6 +2091,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition reads this as the vision of a God-intoxicated soul for whom everything is God. Eating becomes an offering to the divine fire within. Working becomes worship. Breathing becomes prayer. When everything is seen as Brahman, all of life becomes a sacred ceremony."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that every element of sacrifice is pervaded by God's presence. God pervades all but is not identical with everything — the devotee sees God in all while maintaining Creator-creation distinction."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta considers this among the most important verses for non-dual Shaivism: when every element of action is recognized as consciousness, the entire field becomes a seamless act of self-offering."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya reads this as the fullest Shuddhadvaita expression: everything is Brahman, so the world is divine reality, not illusion. Sacrifice celebrates divine fullness pervading all things."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets this as the karma yogi's vision transforming ordinary work into sacred ritual. Seeing the divine in instrument, material, and result makes every act a holy offering."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would celebrate this as the pinnacle of Gita philosophy — the entire universe is divine. When lived, every action becomes worship and separation between spiritual and mundane dissolves."
       }
     ],
     "applications": {
@@ -1413,7 +2150,13 @@
         "Why does reverence transform how we treat each other?"
       ]
     },
-    "themes": ["brahman", "non-duality", "sacred-action", "unity", "offering"]
+    "themes": [
+      "brahman",
+      "non-duality",
+      "sacred-action",
+      "unity",
+      "offering"
+    ]
   },
   {
     "id": "BG-4.25",
@@ -1422,7 +2165,7 @@
     "sanskrit": "दैवमेवापरे यज्ञं योगिनः पर्युपासते |\nब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ॥२५॥",
     "iast": "daivamevāpare yajñaṃ yoginaḥ paryupāsate |\nbrahmāgnāvapare yajñaṃ yajñenaivopajuhvati ||25||",
     "explanation": "Some yogis worship the devas through sacrifice; others offer the self as sacrifice into the fire of Brahman. Krishna begins enumerating the many forms of yajña (sacrifice), showing that the spirit of offering is more important than the specific form.",
-    "synthesis": "Krishna begins listing various types of sacrifice to demonstrate that the principle of yajña pervades all spiritual practice. Shankara sees two approaches: ritualistic worship of the devas and the higher offering of the individual self into the universal Self. Ramanuja distinguishes between external worship and internal surrender. The Bhakti tradition appreciates the diversity — God accepts offerings in countless forms, from formal ritual to total self-surrender.",
+    "synthesis": "Krishna enumerates many forms of sacrifice. The Advaita tradition sees all culminating in knowledge-sacrifice. Ramanuja values each as worship. The Bhakti tradition treasures diversity of devotional expression. Madhvacharya teaches genuinely different levels for each qualification. Abhinavagupta sees consciousness offering itself to itself in varied forms. Vallabhacharya teaches the Lord accepts every sincere offering. Tilak emphasizes inclusiveness. Vivekananda appreciates pluralism preventing elitism.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1438,6 +2181,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees in this verse God's acceptance of all forms of worship. Whether through elaborate ritual or simple self-offering, the Lord receives every sincere sacrifice. The diversity of paths reflects the diversity of human temperaments."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that various sacrifices represent genuinely different levels of practice, each appropriate to the practitioner's qualification. The hierarchy is real and meaningful."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the variety as expressions of the many ways consciousness turns back upon itself. Form varies but essence is one."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that all sacrifices are valid with devotion, reflecting the Lord's accommodation of different temperaments."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes inclusiveness: every form of selfless offering counts. Dedicated work in any field can be sacrifice."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would appreciate the pluralism preventing spiritual elitism: different people approach the divine through different practices, all valid."
       }
     ],
     "applications": {
@@ -1472,7 +2240,13 @@
         "Why do couples struggle when they have different ways of showing care?"
       ]
     },
-    "themes": ["sacrifice", "diversity-of-paths", "worship", "self-offering", "yajña"]
+    "themes": [
+      "sacrifice",
+      "diversity-of-paths",
+      "worship",
+      "self-offering",
+      "yajña"
+    ]
   },
   {
     "id": "BG-4.26",
@@ -1481,7 +2255,7 @@
     "sanskrit": "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति |\nशब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ॥२६॥",
     "iast": "śrotrādīnīndriyāṇyanye saṃyamāgniṣu juhvati |\nśabdādīnviṣayānanye indriyāgniṣu juhvati ||26||",
     "explanation": "Some offer the senses (hearing, etc.) into the fire of restraint; others offer sense objects (sound, etc.) into the fire of the senses. Both approaches — withdrawal and mindful engagement — are forms of sacrifice.",
-    "synthesis": "Two complementary approaches to mastering the senses are presented: restraining the senses from their objects, or consciously offering the objects to the senses as a sacred act. Shankara sees both as forms of sense-control serving Self-knowledge. Ramanuja sees disciplined engagement with the world as a form of worship. The Bhakti tradition finds here the possibility of transforming sensory experience itself into a divine offering.",
+    "synthesis": "Some offer senses into restraint; others offer sense objects into the senses. The Advaita tradition sees both as sense mastery methods. Ramanuja teaches disciplining senses to focus on God. The Bhakti tradition sees transforming sensory experience into worship. Madhvacharya explains complementary disciplines. Abhinavagupta reinterprets through tantra — sensory experience as awakening. Vallabhacharya teaches senses as instruments to offer to God. Tilak sees practical balance. Vivekananda emphasizes sensory mastery as foundation for all achievement.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1497,6 +2271,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition appreciates that even sensory experience can become an offering to God. When a devotee sees beauty, hears music, or tastes food as God's gifts, the senses become instruments of devotion rather than sources of bondage."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya explains that offering senses into restraint and offering sense objects into senses represent complementary disciplines, both requiring divine guidance."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reinterprets through tantra: sensory experience itself can be a means of awakening. When perceived as expressions of Shiva, the senses become altars of recognition."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that both restraint and engagement are valid when directed toward God. Senses are instruments to be purified and offered to the Lord."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets these as practical disciplines: sometimes control sensory input, sometimes engage fully. Balance is the art of disciplined living."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize that mastery over the senses is essential for strong character and all achievement, whether through restraint or conscious engagement."
       }
     ],
     "applications": {
@@ -1531,7 +2330,13 @@
         "How do I give my full attention as an act of love?"
       ]
     },
-    "themes": ["sense-control", "sacrifice", "restraint", "mindful-engagement", "discipline"]
+    "themes": [
+      "sense-control",
+      "sacrifice",
+      "restraint",
+      "mindful-engagement",
+      "discipline"
+    ]
   },
   {
     "id": "BG-4.27",
@@ -1540,7 +2345,7 @@
     "sanskrit": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे |\nआत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ॥२७॥",
     "iast": "sarvāṇīndriyakarmāṇi prāṇakarmāṇi cāpare |\nātmasaṃyamayogāgnau juhvati jñānadīpite ||27||",
     "explanation": "Others offer all the activities of the senses and the activities of the vital breath (prāṇa) into the fire of self-restraint kindled by knowledge. This describes the yogic practice of withdrawing all sensory and vital activity into meditative absorption.",
-    "synthesis": "This verse describes the highest form of inner sacrifice — offering all mental, sensory, and vital functions into the fire of self-discipline illuminated by knowledge. Shankara sees this as the practice of dhyāna-yoga leading to Self-realization. Ramanuja sees it as the integration of all faculties in single-pointed devotion to God. The Bhakti tradition reads this as total absorption in the Divine, where every breath and thought becomes an offering.",
+    "synthesis": "Others offer sensory and vital activities into the fire of self-restraint kindled by knowledge. The Advaita tradition sees pranayama leading to stillness. Ramanuja teaches prana control as worship. The Bhakti tradition values inner discipline for deeper devotion. Madhvacharya emphasizes sustained effort aided by grace. Abhinavagupta interprets the fire as awakened kundalini. Vallabhacharya sees energies redirected toward God. Tilak reads inner discipline as foundation of effective action. Vivekananda stresses concentration as the secret of all achievement.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1556,6 +2361,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees this as the state of the devotee in deep meditation — every sense, every breath, every thought offered to God. This total offering of one's entire being is the highest form of devotion, where nothing is held back from the Beloved."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that the sacrifice of sensory and vital activity into self-restraint is genuine discipline requiring sustained effort aided by the Lord's grace."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets the fire of self-restraint as awakened kundalini absorbing all sensory and pranic activities — the internal sacrifice (antaryaga) of Kashmir Shaivism."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya sees the offering as the soul's turning from external distractions toward its inner divine nature — energies redirected to God within, not destroyed."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as the discipline of pranayama and self-control supporting outer work. Inner discipline is the foundation of effective outer action."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would stress that concentration — gathering scattered energies into single focus — is the secret behind all human achievement in science, art, or spirituality."
       }
     ],
     "applications": {
@@ -1590,7 +2420,13 @@
         "What happens when I'm fully present with my partner?"
       ]
     },
-    "themes": ["meditation", "prāṇāyāma", "concentration", "self-restraint", "inner-sacrifice"]
+    "themes": [
+      "meditation",
+      "prāṇāyāma",
+      "concentration",
+      "self-restraint",
+      "inner-sacrifice"
+    ]
   },
   {
     "id": "BG-4.28",
@@ -1599,7 +2435,7 @@
     "sanskrit": "द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे |\nस्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ॥२८॥",
     "iast": "dravyayajñāstapoyajñā yogayajñāstathāpare |\nsvādhyāyajñānayajñāśca yatayaḥ saṃśitavratāḥ ||28||",
     "explanation": "Some offer material possessions as sacrifice; some offer austerity; some offer yoga as sacrifice; while others, strict in their vows, offer study of scriptures and knowledge as sacrifice.",
-    "synthesis": "Krishna catalogues diverse forms of sacrifice: material generosity, ascetic discipline, yogic practice, scriptural study, and the pursuit of knowledge. All are valid paths. Shankara notes the progression from external to internal forms of sacrifice. Ramanuja appreciates that the Lord validates many temperaments and approaches. The Bhakti tradition sees the key commonality — all these sacrifices involve offering something precious in service of spiritual growth.",
+    "synthesis": "Multiple forms of sacrifice: material, austere, yogic, and knowledge-based. The Advaita tradition sees knowledge sacrifice as supreme. Ramanuja values all as worship. The Bhakti tradition emphasizes devotion behind every offering. Madhvacharya arranges them in real hierarchy. Abhinavagupta sees consciousness recognizing itself through human effort. Vallabhacharya teaches the Lord accepts all with earnest devotion. Tilak sees a catalog of active commitments. Vivekananda advocates integrating all dimensions into complete spiritual life.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1615,6 +2451,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition finds encouragement here for all devotees. Whether you can offer wealth, physical discipline, meditation, or intellectual study — every form of sacrifice is accepted. The Lord looks at the sincerity of the offering, not its worldly value."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya categorizes sacrifices hierarchically: material lowest, austerity and yoga intermediate, study with knowledge highest. Each reflects spiritual maturity."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees all varied sacrifices as faces of one supreme worship — consciousness recognizing itself through every mode of human effort."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches all sacrifices are accepted with devotion. The Lord values earnestness above specific form."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees a catalog of active commitments: charity, austerity, discipline, study. All require effort — none is passive."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would appreciate the comprehensiveness: complete spiritual life integrates giving, self-discipline, focused effort, and rigorous study."
       }
     ],
     "applications": {
@@ -1649,7 +2510,13 @@
         "Why does sacrifice in love feel different from sacrifice elsewhere?"
       ]
     },
-    "themes": ["sacrifice", "diversity-of-practice", "discipline", "study", "commitment"]
+    "themes": [
+      "sacrifice",
+      "diversity-of-practice",
+      "discipline",
+      "study",
+      "commitment"
+    ]
   },
   {
     "id": "BG-4.29",
@@ -1658,7 +2525,7 @@
     "sanskrit": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे |\nप्राणापानगती रुद्ध्वा प्राणायामपरायणाः ॥२९॥",
     "iast": "apāne juhvati prāṇaṃ prāṇe'pānaṃ tathāpare |\nprāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ ||29||",
     "explanation": "Some offer the outgoing breath (prāṇa) into the incoming breath (apāna), and the incoming into the outgoing, restraining the movement of both — devoted to the practice of prāṇāyāma (breath control).",
-    "synthesis": "Krishna describes prāṇāyāma — the yogic science of breath regulation — as a form of sacrifice. By offering one breath into another and eventually suspending both, the yogi gains mastery over the vital forces. Shankara sees this as a preparatory discipline for meditation. Ramanuja views it as a legitimate form of worship that purifies the body-mind complex. The Bhakti tradition values prāṇāyāma as a tool that calms the mind for deeper devotion.",
+    "synthesis": "Some offer outgoing breath into incoming and vice versa. The Advaita tradition sees pranayama as means to still the mind. Ramanuja values it as devotional discipline. The Bhakti tradition sees conscious breathing as offering life-breath to God. Madhvacharya teaches pranayama genuinely purifies the subtle body. Abhinavagupta sees harmonizing prana and apana as entering the madhya of pure awareness. Vallabhacharya sees each breath as worship. Tilak values breath control for mental clarity. Vivekananda teaches it as a scientific method for building mental strength.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1674,6 +2541,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition honors prāṇāyāma as a tool that quiets the restless mind, making it receptive to God's presence. When the breath is steady, the mind is steady; when the mind is steady, the heart opens to divine love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that pranayama is genuine spiritual discipline purifying the subtle body and preparing for meditation on God."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets mutual offering of prana and apana as balancing consciousness's two fundamental currents. When harmonized, the yogi enters the madhya where pure awareness shines."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya sees breath regulation as offering one's life-force to God. Each breath becomes worship when consciously directed toward the Lord."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak values pranayama as a practical tool for mental clarity and emotional balance before demanding work."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda taught pranayama as a scientific method for calming the nervous system, sharpening the intellect, and building mental strength."
       }
     ],
     "applications": {
@@ -1708,7 +2600,13 @@
         "Why does a deep breath prevent so many regrettable words?"
       ]
     },
-    "themes": ["prāṇāyāma", "breath-control", "vital-energy", "sacrifice", "self-regulation"]
+    "themes": [
+      "prāṇāyāma",
+      "breath-control",
+      "vital-energy",
+      "sacrifice",
+      "self-regulation"
+    ]
   },
   {
     "id": "BG-4.30",
@@ -1717,7 +2615,7 @@
     "sanskrit": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति |\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ॥३०॥",
     "iast": "apare niyatāhārāḥ prāṇānprāṇeṣu juhvati |\nsarve'pyete yajñavido yajñakṣapitakalmaṣāḥ ||30||",
     "explanation": "Others, regulating their food intake, offer the vital breaths into the vital breaths. All of these are knowers of sacrifice, whose sins are destroyed by sacrifice.",
-    "synthesis": "Dietary discipline is presented as another form of sacrifice, and Krishna affirms that all these diverse practitioners are purified by their respective sacrifices. Shankara sees regulated diet as essential support for meditation. Ramanuja emphasizes that all sincere forms of sacrifice destroy accumulated sin. The Bhakti tradition celebrates the universality — whatever form your sincere offering takes, it purifies.",
+    "synthesis": "Others regulate diet and offer vital breaths as sacrifice. The Advaita tradition sees dietary regulation supporting the sattvic mind. Ramanuja values it as devotional discipline. The Bhakti tradition sees food as sacred prasada. Madhvacharya teaches diet genuinely affects consciousness. Abhinavagupta sees the body as a temple of awareness. Vallabhacharya treats eating as sacramental. Tilak emphasizes practical health for effective action. Vivekananda sees moderation as foundational self-mastery.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1733,6 +2631,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition is encouraged by Krishna's affirmation that all sincere sacrificers are purified. Whether your offering is breathwork, fasting, study, or meditation, the Lord accepts it and destroys impurities. The key is sincerity, not the specific form."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that regulating food is genuine spiritual discipline because the body affects the mind. Proper diet offered to God purifies body and consciousness."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets the harmonizing of vital functions as the body becoming a self-sustaining fire of awareness — a temple of consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that food offered to the Lord as prasada makes eating a sacramental act sustaining the body for devotional service."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes practical importance of diet for demanding work. The karma yogi takes care of the body as an instrument for effective action."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would stress that moderation in diet is foundational to all achievement. An undisciplined body houses an undisciplined mind."
       }
     ],
     "applications": {
@@ -1767,7 +2690,13 @@
         "What happens when we eat together mindfully?"
       ]
     },
-    "themes": ["dietary-discipline", "sacrifice", "purification", "fasting", "moderation"]
+    "themes": [
+      "dietary-discipline",
+      "sacrifice",
+      "purification",
+      "fasting",
+      "moderation"
+    ]
   },
   {
     "id": "BG-4.31",
@@ -1776,7 +2705,7 @@
     "sanskrit": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् |\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ॥३१॥",
     "iast": "yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam |\nnāyaṃ loko'styayajñasya kuto'nyaḥ kurusattama ||31||",
     "explanation": "Those who partake of the nectar that remains after sacrifice reach the eternal Brahman. Not even this world is for the non-sacrificer — how then the other world, O best of the Kurus?",
-    "synthesis": "The remnants of sacrifice (prasāda) are likened to immortal nectar. Those who live in the spirit of sacrifice attain the eternal. Without sacrifice, one cannot even enjoy this world, let alone the next. Shankara sees sacrifice as essential for spiritual purification. Ramanuja emphasizes that a life without offering is empty and leads nowhere. The Bhakti tradition reads prasāda as divine grace — the sweetness that remains after you offer your best to God.",
+    "synthesis": "Those who partake of the nectar remaining after sacrifice reach eternal Brahman. The Advaita tradition sees the nectar as Self-knowledge from purified action. Ramanuja teaches God's grace flows back to the sincere worshipper. The Bhakti tradition treasures reciprocal love. Madhvacharya identifies the nectar as divine grace. Abhinavagupta sees pure awareness remaining when limitations are consumed. Vallabhacharya identifies it with prasada. Tilak reads a strong injunction against self-centered living. Vivekananda affirms that selfless service brings its own deep reward.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1792,6 +2721,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition treasures the concept of prasāda — the grace that flows back after offering. When you give your best to God, what returns is sweeter than what you gave. A life without sacrifice is joyless because it misses the sweetness of divine reciprocity."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that the nectar of sacrifice is divine grace remaining after sincere sacrifice pleases the Lord. Without sacrifice, even worldly life is incomplete."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the nectar as residual awareness persisting when all limited identifications are consumed — the taste of pure consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya identifies the nectar with prasada — grace the Lord returns after receiving the offering. Spiritual life is sustained by this reciprocal exchange of love."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads a strong injunction: those who live entirely for themselves have no fulfillment. Only sacrifice-oriented living yields lasting satisfaction."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize that selfless living brings its own reward. Those who give and serve are nourished by meaning. Self-centered existence leads to spiritual starvation."
       }
     ],
     "applications": {
@@ -1826,7 +2780,13 @@
         "What is the 'nectar' of a relationship built on mutual offering?"
       ]
     },
-    "themes": ["prasāda", "sacrifice", "nectar", "fulfillment", "brahman"]
+    "themes": [
+      "prasāda",
+      "sacrifice",
+      "nectar",
+      "fulfillment",
+      "brahman"
+    ]
   },
   {
     "id": "BG-4.32",
@@ -1835,7 +2795,7 @@
     "sanskrit": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे |\nकर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ॥३२॥",
     "iast": "evaṃ bahuvidhā yajñā vitatā brahmaṇo mukhe |\nkarmajānviddhi tānsarvānevaṃ jñātvā vimokṣyase ||32||",
     "explanation": "Thus, many forms of sacrifice are spread at the mouth of Brahman (the Vedas). Know them all to be born of action. Knowing this, you shall be liberated.",
-    "synthesis": "Krishna summarizes the catalogue of sacrifices: all are born from action, all are sanctioned by the Vedas, and understanding this leads to liberation. Shankara emphasizes that knowing the true nature of all these sacrifices — that they purify the mind for Self-knowledge — is liberating. Ramanuja sees this as validating the many paths while pointing to the unifying knowledge behind them all. The Bhakti tradition sees God at the center of all forms of sacrifice, unifying them in purpose.",
+    "synthesis": "Many sacrifices are spread before Brahman, all born of action — knowing this liberates. The Advaita tradition points to knowledge transcending ritual. Ramanuja teaches understanding the divine basis purifies. The Bhakti tradition values diversity of offerings. Madhvacharya teaches all Vedic sacrifices engage the soul in discipline. Abhinavagupta sees all arising from consciousness's creative dynamism. Vallabhacharya understands sacrifice as having divine origin. Tilak reinforces the primacy of action. Vivekananda frees the modern person to find their own selfless work.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1851,6 +2811,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees all forms of sacrifice as different expressions of the soul's innate desire to offer itself to God. Knowing this unifying truth — that all paths are offerings to the one Divine — brings freedom from the confusion of competing claims about the 'right' way."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that the many Vedic sacrifices originate from action and engage the soul in purifying discipline directed toward God."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees 'born of action' as indicating all sacrifice arises from consciousness's creative dynamism, revealing rituals as movements of the absolute."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that all sacrifices emerge from the Lord's creative activity and are pathways back to Him. Understanding this divine origin ennobles every act of worship."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes the crucial phrase 'born of action': every sacrifice requires doing something. Knowledge without action is incomplete."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would highlight that knowing the full range of sacrifices frees you from narrow-mindedness. Any form of selfless work is valid spiritual practice."
       }
     ],
     "applications": {
@@ -1885,7 +2870,13 @@
         "What is the common thread behind all acts of love?"
       ]
     },
-    "themes": ["diversity-of-sacrifice", "vedic-teaching", "liberation", "action", "unity"]
+    "themes": [
+      "diversity-of-sacrifice",
+      "vedic-teaching",
+      "liberation",
+      "action",
+      "unity"
+    ]
   },
   {
     "id": "BG-4.33",
@@ -1894,7 +2885,7 @@
     "sanskrit": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप |\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ॥३३॥",
     "iast": "śreyāndravyamayādyajñājjñānayajñaḥ parantapa |\nsarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate ||33||",
     "explanation": "Superior to the sacrifice of material things is the sacrifice of knowledge, O scorcher of foes. All actions in their entirety, O Partha, culminate in knowledge. This famous verse declares knowledge-sacrifice as the highest form of offering.",
-    "synthesis": "After enumerating many forms of sacrifice, Krishna declares that the sacrifice of knowledge (jñāna-yajña) surpasses all material offerings. All action finds its completion in knowledge. Shankara sees this as the decisive statement that jñāna is the ultimate goal. Ramanuja understands knowledge here as devotional knowledge of God's supreme nature. The Bhakti tradition reads this as affirming that wisdom born of devotion is the crowning jewel of all spiritual practice.",
+    "synthesis": "Knowledge-sacrifice is superior to all material sacrifice. The Advaita tradition sees direct Brahman realization. Ramanuja teaches knowledge as the fruit of all sacrifices. The Bhakti tradition values loving knowledge as the highest offering. Madhvacharya teaches knowledge gives direct understanding of God. Abhinavagupta affirms all practices culminate in recognition. Vallabhacharya sees knowledge revealing all-pervading bliss. Tilak emphasizes knowledge transforms action. Vivekananda sees education as the greatest offering.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1910,6 +2901,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition understands jñāna-yajña as the sacrifice of knowing and loving God fully. Mere material offerings cannot compare to the offering of one's entire understanding to the Divine. The culmination of all devotion is the knowledge that dissolves the separation between lover and Beloved."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that knowledge-sacrifice is superior because it gives direct understanding of God's nature. Material offerings are means; knowledge is the end."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads this as affirming all practices culminate in recognition that consciousness is sole reality. When recognition is complete, all actions are already accomplished."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that knowledge-sacrifice reveals the Lord's nature as all-pervading bliss. Every previous sacrifice was a step toward this revelation."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets carefully: knowledge-sacrifice is superior because it transforms action, not replaces it. Work illuminated by understanding is the pinnacle."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would agree knowledge is the highest sacrifice — education and pursuit of truth benefit not only the individual but all humanity."
       }
     ],
     "applications": {
@@ -1944,7 +2960,13 @@
         "Why is emotional intelligence more valuable than material generosity?"
       ]
     },
-    "themes": ["knowledge-sacrifice", "jñāna", "supremacy-of-knowledge", "culmination", "wisdom"]
+    "themes": [
+      "knowledge-sacrifice",
+      "jñāna",
+      "supremacy-of-knowledge",
+      "culmination",
+      "wisdom"
+    ]
   },
   {
     "id": "BG-4.34",
@@ -1953,7 +2975,7 @@
     "sanskrit": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया |\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥३४॥",
     "iast": "tadviddhi praṇipātena paripraśnena sevayā |\nupadekṣyanti te jñānaṃ jñāninastattvadarśinaḥ ||34||",
     "explanation": "Learn that knowledge by prostration (humility), by inquiry, and by service. The wise ones who have seen the truth will teach you knowledge. This celebrated verse prescribes the threefold approach to a teacher.",
-    "synthesis": "Having declared the supremacy of knowledge, Krishna now tells Arjuna how to obtain it: approach a realized teacher with humility (praṇipāta), sincere questioning (paripraśna), and dedicated service (sevā). Shankara sees this as the indispensable guru-disciple relationship for attaining Self-knowledge. Ramanuja emphasizes that truth must be received from those who have directly seen it. The Bhakti tradition reads this as the path of surrender to a teacher who embodies divine wisdom.",
+    "synthesis": "Seek knowledge through humility, inquiry, and service. The Advaita tradition sees the classic method of approaching a guru. Ramanuja emphasizes qualified teachers in the transmission chain. The Bhakti tradition values surrender to the guru as devotion. Madhvacharya stresses all three elements as essential. Abhinavagupta values the guru relationship for awakening. Vallabhacharya sees serving the guru as devotional practice. Tilak gives practical advice. Vivekananda emphasizes humility, curiosity, and willingness as conditions for all learning.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1969,6 +2991,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition treasures the guru-disciple relationship as sacred. The three approaches mirror the devotee's relationship with God: humility, heartfelt prayer, and loving service. A true guru is one who has seen (darśinaḥ) the truth — their teaching flows from direct experience, not secondhand learning."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya emphasizes the threefold approach — prostration, inquiry, and service — as essential. The teacher is a real intermediary, and humility reflects the soul's dependence on those who know God."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta values the guru-disciple relationship as the vehicle for transmitting self-recognition. The teacher awakens what is already present through prostration, questioning, and service."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that approaching the teacher mirrors approaching God. The guru is the Lord's representative in pushti-marga."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads practical advice: approach with respect, ask genuine questions, serve. These three attitudes transform the student for receptivity."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize that learning requires humility, curiosity, and willingness to work. This combination creates ideal conditions for any kind of learning."
       }
     ],
     "applications": {
@@ -2003,7 +3050,13 @@
         "Why does ego prevent me from learning about the people I love?"
       ]
     },
-    "themes": ["guru", "humility", "inquiry", "service", "knowledge-transmission"]
+    "themes": [
+      "guru",
+      "humility",
+      "inquiry",
+      "service",
+      "knowledge-transmission"
+    ]
   },
   {
     "id": "BG-4.35",
@@ -2012,7 +3065,7 @@
     "sanskrit": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव |\nयेन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ॥३५॥",
     "iast": "yajjñātvā na punarmohamevaṃ yāsyasi pāṇḍava |\nyena bhūtānyaśeṣeṇa drakṣyasyātmanyatho mayi ||35||",
     "explanation": "Having known that truth, you shall never again fall into delusion, O Pandava. By that knowledge, you will see all beings without exception in the Self — and then in Me.",
-    "synthesis": "True knowledge permanently destroys delusion and reveals the unity of all beings in the Self and in God. Shankara reads this as the vision of non-duality — all beings are the one Self. Ramanuja sees it as the vision that all beings are the body of God, inseparable from Him. The Bhakti tradition sees the ultimate vision: first recognizing all beings as connected, then seeing them all in the Beloved Lord.",
+    "synthesis": "Having known this truth, you will see all beings in the Self and in God. The Advaita tradition sees the climax of Self-knowledge. Ramanuja teaches seeing the Lord as inner controller of every soul. The Bhakti tradition celebrates divine unity. Madhvacharya reads cosmic unity within real distinction. Abhinavagupta sees progressive recognition that all is Shiva. Vallabhacharya teaches the world is the Lord's form. Tilak sees the foundation for ethical action. Vivekananda celebrates the spiritual basis for universal justice.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -2028,6 +3081,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition reads a beautiful progression: first, you see all beings in yourself (empathy and unity), and then you see them all in God (divine vision). This double vision — human compassion crowned by divine love — is the fruit of true spiritual knowledge."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that the knowledge preventing delusion is direct realization of God's supremacy. Seeing all beings in God means recognizing every soul exists within Vishnu's dominion."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets seeing all beings in the Self as progressive recognition that individual awareness is Shiva and all manifestation is His body. Delusion ends when nothing is outside consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that the knowledge ending delusion reveals the Lord as inner reality of all beings. The world is not illusion — it is the Lord's form."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as the motivating vision for karma yoga: seeing the same Self in all beings makes selfless service natural. The philosophical foundation of ethical action."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would celebrate this as the grand vision of oneness transforming ethics and social life. When you see all as one, discrimination and exploitation become impossible."
       }
     ],
     "applications": {
@@ -2062,7 +3140,13 @@
         "Can empathy, once deeply awakened, ever be lost?"
       ]
     },
-    "themes": ["non-delusion", "unity-vision", "self-in-all", "permanent-knowledge", "empathy"]
+    "themes": [
+      "non-delusion",
+      "unity-vision",
+      "self-in-all",
+      "permanent-knowledge",
+      "empathy"
+    ]
   },
   {
     "id": "BG-4.36",
@@ -2071,7 +3155,7 @@
     "sanskrit": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः |\nसर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ॥३६॥",
     "iast": "api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ |\nsarvaṃ jñānaplavenaiva vṛjinaṃ santariṣyasi ||36||",
     "explanation": "Even if you are the worst sinner among all sinners, you shall cross over all sin by the boat of knowledge alone. This is one of the Gita's most compassionate and hopeful declarations.",
-    "synthesis": "No amount of past sin can obstruct the power of true knowledge to liberate. Shankara sees knowledge as destroying all karma — past, present, and future — because it reveals that the Self was never truly a doer. Ramanuja sees the Lord's grace as the boat of knowledge that carries even the worst sinner to safety. The Bhakti tradition finds in this verse the ultimate assurance: no soul is beyond redemption.",
+    "synthesis": "Even the greatest sinner crosses all evil by the boat of knowledge. The Advaita tradition sees jnana as sovereign over all karma. Ramanuja teaches divine grace empowers knowledge to redeem. The Bhakti tradition celebrates God's infinite compassion. Madhvacharya teaches knowledge must include recognition of God's supremacy. Abhinavagupta affirms self-recognition dissolves all bondage instantly. Vallabhacharya teaches divine love overcomes any debt. Tilak draws courage — past failures need not define the future. Vivekananda proclaims radical hope for every person.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -2087,6 +3171,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "This verse is a source of infinite hope for the Bhakti tradition. No matter what you've done, God's knowledge-grace can carry you across the ocean of sin. The worst sinner who turns to God with genuine understanding is immediately eligible for liberation. Divine love knows no limits."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that knowledge carries even the worst sinner across because it reveals God's capacity to forgive. But knowledge must include recognition of God's supremacy."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads the radical promise: no matter how heavy one's karma, the moment of self-recognition instantly dissolves all accumulated bondage. Awareness is absolute."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that God's grace activated through knowledge overcomes any sin. No one is beyond redemption when the Lord reveals Himself. Divine love is greater than any karmic debt."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak draws courage: past failures do not determine future potential. Knowledge and right action can redeem completely."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would encourage the despairing: no one is condemned forever. Every person has the potential for complete transformation. This is radical hope."
       }
     ],
     "applications": {
@@ -2121,7 +3230,14 @@
         "Can understanding truly heal what seems beyond repair?"
       ]
     },
-    "themes": ["redemption", "knowledge-as-boat", "sin", "hope", "grace", "forgiveness"]
+    "themes": [
+      "redemption",
+      "knowledge-as-boat",
+      "sin",
+      "hope",
+      "grace",
+      "forgiveness"
+    ]
   },
   {
     "id": "BG-4.37",
@@ -2130,7 +3246,7 @@
     "sanskrit": "यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन |\nज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥३७॥",
     "iast": "yathaidhāṃsi samiddho'gnirbhasmasātkurute'rjuna |\njñānāgniḥ sarvakarmāṇi bhasmasātkurute tathā ||37||",
     "explanation": "As a blazing fire reduces firewood to ashes, O Arjuna, so does the fire of knowledge reduce all karma to ashes.",
-    "synthesis": "The metaphor is vivid: knowledge is a fire that incinerates accumulated karma completely. Shankara sees this as the definitive statement that Self-knowledge destroys all karmic bondage — past, present, and potential future karma. Ramanuja sees the fire of devotional knowledge consuming the fuel of sin. The Bhakti tradition loves the image of a fierce, cleansing fire that leaves nothing but purity behind.",
+    "synthesis": "As fire reduces firewood to ashes, the fire of knowledge reduces all karma to ashes. The Advaita tradition sees the absolute power of Self-knowledge. Ramanuja teaches knowledge ignited by grace is unstoppable. The Bhakti tradition sees devotional knowledge as the most powerful purifier. Madhvacharya teaches the fire is powered by God's grace. Abhinavagupta sees expanded awareness consuming false constructions. Vallabhacharya teaches knowledge reveals karma as belonging to the Lord. Tilak draws supreme encouragement. Vivekananda emphasizes education's liberating power.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -2146,6 +3262,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees the fire of divine love-knowledge as the most powerful purifying force in existence. No amount of accumulated karma can withstand the blaze of genuine devotion and understanding. The devotee emerges from this fire completely cleansed and free."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that the fire of knowledge is powered by God — it requires the Lord's grace to blaze forth. Karma is reduced to ashes by God's energy working through devotion."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the fire as blazing awareness burning false constructions of limited selfhood. Karma is a construction of contracted awareness, consumed when awareness expands."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that the divine fire reveals all karma as belonging to the Lord. The soul's burden is transferred to God, who alone is the true doer."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads supreme encouragement: no amount of past karma resists the purifying power of knowledge combined with right action."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would emphasize the liberating power of education and self-knowledge to destroy the weight of past conditioning and habits."
       }
     ],
     "applications": {
@@ -2180,7 +3321,13 @@
         "What am I not understanding about my partner that keeps us stuck?"
       ]
     },
-    "themes": ["knowledge-fire", "karma-destruction", "purification", "transformation", "metaphor"]
+    "themes": [
+      "knowledge-fire",
+      "karma-destruction",
+      "purification",
+      "transformation",
+      "metaphor"
+    ]
   },
   {
     "id": "BG-4.38",
@@ -2189,7 +3336,7 @@
     "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते |\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥३८॥",
     "iast": "na hi jñānena sadṛśaṃ pavitramiha vidyate |\ntatsvayaṃ yogasaṃsiddhaḥ kālenātmani vindati ||38||",
     "explanation": "There is nothing in this world as purifying as knowledge. One who is perfected in yoga finds it spontaneously within oneself in due course of time. This is another of the chapter's most celebrated declarations.",
-    "synthesis": "Knowledge is declared the supreme purifier — nothing in existence matches it. And it arises naturally within the yogi who is devoted to practice, in due time. Shankara sees this as confirmation that Self-knowledge is the ultimate goal. Ramanuja emphasizes that this knowledge comes through yoga perfected over time. The Bhakti tradition reads this as assurance that devoted practice will inevitably yield the highest realization — patience and faith are rewarded.",
+    "synthesis": "Nothing purifies like knowledge; the perfected yogi finds it within. The Advaita tradition confirms Brahman-knowledge as supreme purifier. Ramanuja teaches knowledge of God removes all impurity. The Bhakti tradition values intimate discovery of God within. Madhvacharya teaches knowledge comes through God's grace. Abhinavagupta reads knowledge as self-luminous. Vallabhacharya sees the Lord revealing Himself from within. Tilak sees knowledge as fruit of sustained practice. Vivekananda declares education as the highest purification.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -2205,6 +3352,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition finds deep encouragement here: keep practicing, keep serving, keep loving God — and in time, the supreme purifying knowledge will arise within you of its own accord. The devotee need not strain for enlightenment; it comes naturally to the faithful heart."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that knowledge is the most purifying because it reveals God's nature and the soul's relationship to Him. The yogi finds knowledge through God's grace illuminating the individual soul."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads knowledge as self-luminous — it arises spontaneously as the natural radiance of consciousness when obstacles are removed through practice."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that nothing purifies like knowledge because it reveals the soul's divine nature. The Lord reveals Himself from within when the time is right."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees this as the fruit of sustained practice: knowledge arises naturally from disciplined action over time. Patience and persistence are the keys."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would declare that nothing purifies like knowledge — not ritual, not penance. Education and self-awareness are the highest purification for any human being."
       }
     ],
     "applications": {
@@ -2239,7 +3411,13 @@
         "How do I trust the slow unfolding of a relationship?"
       ]
     },
-    "themes": ["knowledge-as-purifier", "patience", "yoga", "self-discovery", "time"]
+    "themes": [
+      "knowledge-as-purifier",
+      "patience",
+      "yoga",
+      "self-discovery",
+      "time"
+    ]
   },
   {
     "id": "BG-4.39",
@@ -2248,7 +3426,7 @@
     "sanskrit": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः |\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥३९॥",
     "iast": "śraddhāvāṃllabhate jñānaṃ tatparaḥ saṃyatendriyaḥ |\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ||39||",
     "explanation": "The one who has faith (śraddhā), who is devoted to it, and who has mastered the senses, attains knowledge. Having attained knowledge, one quickly reaches supreme peace.",
-    "synthesis": "Three prerequisites for knowledge are given: faith, dedication, and self-mastery. When these converge, knowledge arises and supreme peace follows swiftly. Shankara defines śraddhā as trust in the words of the guru and scripture. Ramanuja sees it as wholehearted commitment to the spiritual path. The Bhakti tradition reads faith as the heart's natural trust in God — the beginning, middle, and fruit of the spiritual journey.",
+    "synthesis": "One who has faith, is devoted, and has mastered the senses attains supreme peace. The Advaita tradition sees the three pillars of the qualified student. Ramanuja emphasizes faith in God's teaching. The Bhakti tradition values heartfelt devotion as catalyst. Madhvacharya teaches all three address different obstacles. Abhinavagupta sees faith as recognition, devotion as contemplation, sense mastery as withdrawing attention. Vallabhacharya teaches faith opens the heart. Tilak emphasizes practical cultivability. Vivekananda sees universal prerequisites for achievement.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -2264,6 +3442,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition places śraddhā (faith) first because it is the seed of all spiritual growth. Without faith, there is no beginning. With faith, dedication, and self-mastery, the devotee quickly reaches the supreme peace of knowing and being known by God."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that faith, devotion, and sense mastery address different obstacles — doubt, inconstancy, and distraction. All three empowered by grace yield liberation."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees faith as initial recognition that consciousness is reality, devotion as sustained contemplation, and sense mastery as withdrawing attention from objects — together constituting complete practice."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that faith opens the heart, devotion keeps it open, and sense control removes distractions. Supreme peace is the bliss of dwelling in God's presence."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes these are practical and cultivable: faith through truthful teaching, devotion through practice, sense mastery through daily discipline."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would stress that faith, dedication, and self-control are universal prerequisites for achievement — practical character traits anyone can develop."
       }
     ],
     "applications": {
@@ -2298,7 +3501,13 @@
         "How do faith and self-control create peace in love?"
       ]
     },
-    "themes": ["faith", "dedication", "self-mastery", "peace", "knowledge"]
+    "themes": [
+      "faith",
+      "dedication",
+      "self-mastery",
+      "peace",
+      "knowledge"
+    ]
   },
   {
     "id": "BG-4.40",
@@ -2307,7 +3516,7 @@
     "sanskrit": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति |\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः ॥४०॥",
     "iast": "ajñaścāśraddadhānaśca saṃśayātmā vinaśyati |\nnāyaṃ loko'sti na paro na sukhaṃ saṃśayātmanaḥ ||40||",
     "explanation": "The ignorant, the faithless, and the doubter are destroyed. For the doubting soul, there is neither this world, nor the next, nor happiness.",
-    "synthesis": "After praising faith, Krishna warns against its opposite: chronic doubt. Three types of spiritual failure are named — ignorance, lack of faith, and habitual doubt. The doubter is singled out as the most tragic, unable to enjoy this world or the next. Shankara sees doubt as the ultimate obstacle to Self-knowledge. Ramanuja warns that doubt about God's promises leads to paralysis. The Bhakti tradition distinguishes healthy questioning (like Arjuna's) from corrosive doubt that refuses any resolution.",
+    "synthesis": "The ignorant, faithless, and doubting soul face destruction — doubt is worst. The Advaita tradition sees doubt as the final obstacle. Ramanuja warns doubting God's word prevents liberation. The Bhakti tradition sees faith as the gateway to grace. Madhvacharya teaches without faith, there is no means of liberation. Abhinavagupta sees doubt as consciousness's fundamental contraction. Vallabhacharya teaches doubt closes the hands that should receive grace. Tilak warns doubt paralyzes action. Vivekananda declares doubt the enemy of all achievement.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -2323,6 +3532,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition distinguishes between Arjuna's honest questioning (which led to illumination) and the corrosive doubt described here (which leads to destruction). Bringing doubts to God is healthy; nursing doubts in isolation — refusing to seek answers — is spiritual suicide."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that without faith in God, the soul has no means of liberation. The doubter is worst because doubt actively undermines knowledge."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees doubt as the fundamental contraction of consciousness refusing to rest in its own nature. The antidote is direct experience leaving no room for vacillation."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya teaches that doubt prevents receiving the Lord's grace. The Lord always offers love, but the doubting soul's hands are closed."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak warns that doubt paralyzes action. Better to act imperfectly with faith than remain frozen by doubt."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would declare doubt the enemy of all achievement. Build life on faith in your own divine nature and act from that foundation."
       }
     ],
     "applications": {
@@ -2357,7 +3591,13 @@
         "Why is living in doubt worse than making a decision?"
       ]
     },
-    "themes": ["doubt", "faith", "destruction", "commitment", "paralysis"]
+    "themes": [
+      "doubt",
+      "faith",
+      "destruction",
+      "commitment",
+      "paralysis"
+    ]
   },
   {
     "id": "BG-4.41",
@@ -2366,7 +3606,7 @@
     "sanskrit": "योगसन्न्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् |\nआत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ॥४१॥",
     "iast": "yogasannyastakarmāṇaṃ jñānasañchinnasaṃśayam |\nātmavantaṃ na karmāṇi nibadhnanti dhanañjaya ||41||",
     "explanation": "One who has renounced actions through yoga, whose doubts have been cut asunder by knowledge, and who is self-possessed — actions do not bind such a person, O Dhananjaya (Arjuna).",
-    "synthesis": "The fully integrated person — who renounces through yoga, destroys doubt through knowledge, and is established in the Self — is completely free from karmic bondage. Shankara sees this as the jīvanmukta who has united karma-yoga, jñāna-yoga, and ātma-niṣṭhā. Ramanuja sees the devotee who has surrendered action to God, resolved all doubts about His nature, and is established in self-awareness. The Bhakti tradition reads this as the triumphant culmination: yoga, knowledge, and self-possession together create total freedom.",
+    "synthesis": "One who renounces through yoga, cuts doubt with knowledge, and is self-possessed — actions do not bind. The Advaita tradition sees the jivanmukta. Ramanuja teaches dedicating all to God makes action non-binding. The Bhakti tradition celebrates the surrendered devotee. Madhvacharya emphasizes freedom through God's power. Abhinavagupta describes dissolved doership and full self-possession. Vallabhacharya sees the pushti-marga summit. Tilak reads karma yoga's vindication. Vivekananda highlights three-fold freedom.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -2382,6 +3622,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition sees this verse as describing the complete devotee: one who has offered all actions to God, whose heart is free from the torment of doubt, and who is established in their identity as God's beloved. Such a person acts joyfully and freely in the world."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that renunciation through yoga means dedicating all actions to God. When doubts are cut and the soul is self-possessed, no action creates bondage. Freedom comes by God's power."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads this as the perfectly realized being: doership dissolved, doubts destroyed through self-recognition, consciousness fully self-possessed — the living embodiment of Shiva."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya describes the pushti-marga devotee at the summit: actions offered to God, doubts resolved, the soul resting in its divine identity. Actions cannot bind one held by the Lord."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as karma yoga's vindication: actions cannot bind the wise because knowledge has cut doubt. Total mastery within action, not withdrawal."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would highlight three-fold freedom: non-attachment, destruction of doubt, and self-possession. This combination makes a person truly invincible."
       }
     ],
     "applications": {
@@ -2416,7 +3681,13 @@
         "What does emotional freedom within partnership look like?"
       ]
     },
-    "themes": ["integration", "doubt-destruction", "self-possession", "freedom", "karma-yoga"]
+    "themes": [
+      "integration",
+      "doubt-destruction",
+      "self-possession",
+      "freedom",
+      "karma-yoga"
+    ]
   },
   {
     "id": "BG-4.42",
@@ -2425,7 +3696,7 @@
     "sanskrit": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः |\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ॥४२॥",
     "iast": "tasmādajñānasambhūtaṃ hṛtsthaṃ jñānāsinātmanaḥ |\nchittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata ||42||",
     "explanation": "Therefore, with the sword of knowledge, cut asunder this doubt in your heart born of ignorance. Take refuge in yoga. Arise, O Bharata! This powerful closing verse is Krishna's rallying call to action through knowledge.",
-    "synthesis": "The chapter concludes with a stirring command: take the sword of knowledge, cut through the doubt that lives in your heart, stand firm in yoga, and rise to action. Shankara sees this as the final instruction to realize the Self and act from that realization. Ramanuja sees it as the Lord's urgent call to surrender doubt and commit to the path. The Bhakti tradition reads 'uttiṣṭha' (arise!) as the same battle cry that will echo through the Gita — God calling the soul to awaken, to fight, to live fully.",
+    "synthesis": "With the sword of knowledge, cut doubt, take refuge in yoga, arise! The Advaita tradition sees the final call to Self-knowledge. Ramanuja teaches taking refuge means surrendering to God. The Bhakti tradition hears the Lord's personal appeal. Madhvacharya teaches the sword of knowledge is understanding God's supremacy. Abhinavagupta sees the thunderclap of awakening severing ignorance. Vallabhacharya hears the Lord's loving command to arise. Tilak calls this the definitive karma yoga imperative. Vivekananda makes it a rallying cry for courage and engagement.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -2441,6 +3712,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The Bhakti tradition hears in 'Arise, O Bharata!' the Lord's eternal call to every sleeping soul. Doubt is the chain that keeps us bound; knowledge is the sword that frees us. But we must wield it — we must rise, act, and live. The Lord gives the sword; we must swing it."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhvacharya teaches that the sword of knowledge is understanding God's supremacy. Arjuna is urged to fight because right action in God's service is the highest dharma."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the thunderclap of awakening: the sword of knowledge severs the knot of ignorance in one decisive stroke. Taking refuge in yoga means resting in consciousness's natural state."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabhacharya reads this as the Lord's loving command: cut doubt, take refuge in devotion, and arise for divine-inspired action. Pushti-marga in its fullest expression."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees the climax of Chapter 4 and the definitive karma yoga statement: cut doubt, stand up, act. Knowledge destroys doubt and frees the warrior."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda would make this a rallying cry: Arise! Cut through doubts with the sword of knowledge! This embodies courage, clarity, and vigorous engagement with life."
       }
     ],
     "applications": {
@@ -2475,6 +3771,13 @@
         "How do I arise and show up fully in this relationship?"
       ]
     },
-    "themes": ["sword-of-knowledge", "doubt-destruction", "arise", "action", "yoga", "courage"]
+    "themes": [
+      "sword-of-knowledge",
+      "doubt-destruction",
+      "arise",
+      "action",
+      "yoga",
+      "courage"
+    ]
   }
 ]
