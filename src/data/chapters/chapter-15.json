@@ -6,7 +6,7 @@
     "sanskrit": "श्रीभगवानुवाच |\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् |\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥१॥",
     "iast": "śrībhagavānuvāca |\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam |\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||1||",
     "explanation": "The Supreme Lord said: They speak of an imperishable ashvattha (sacred fig) tree with its roots above and branches below, whose leaves are the Vedic hymns. One who knows this tree truly knows the Vedas.",
-    "synthesis": "This iconic metaphor of the inverted banyan tree encapsulates the entire structure of manifest existence. The roots above signify Brahman — the transcendent source — while the downward branches represent the manifold world of names and forms. The Vedic hymns are the leaves that nourish and sustain the tree through ritualistic action. Across traditions, this image conveys that the material world, though appearing solid and permanent, is actually a reflection of a higher reality. True Vedic knowledge is not mere scholarship but the understanding of this cosmic structure and one's place within it. The tree is called 'ashvattha' — that which will not remain the same tomorrow — hinting at impermanence even within seeming permanence.",
+    "synthesis": "This iconic metaphor of the inverted ashvattha tree encapsulates the entire structure of manifest existence. The roots above signify Brahman — the transcendent source — while the downward branches represent the manifold world of names and forms. Shankara explains the tree as an appearance (vivarta) of Brahman, neither fully real nor fully unreal. Ramanuja sees the roots above as the Supreme Brahman (Narayana) from whom creation proceeds, with the tree as real but dependent on God. The Bhakti tradition sees Krishna revealing the secret architecture of creation to inspire devotion to its Root. Madhva explains the tree as a real representation of the cosmic order created by God, with Vedic hymns sustaining dharmic action under divine governance. Abhinavagupta sees it as consciousness manifesting downward from its transcendent source — the roots in Shiva, the branches in Shakti's creative expression. Vallabha teaches that the tree is rooted in Brahman as a real expression of divine being, not illusion. Tilak interprets it practically as the vast field of action rooted in transcendent purpose. Vivekananda sees it as a powerful image: the visible world grows from invisible roots, and true knowledge means understanding this cosmic architecture.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -22,6 +22,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition sees this verse as Krishna revealing the secret architecture of creation to inspire detachment from the world-tree and attachment to its Root — God Himself. Just as a tree's leaves provide shade, the Vedas provide temporary shelter through rituals, but the real fruit is devotion to the Lord who is the source of all."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains the inverted ashvattha tree as a real representation of the cosmic order created and sustained by God. Its roots above signify Brahman as the real, supreme cause; its downward branches are the real created realms. The Vedic hymns sustain the tree by prescribing dharmic action under God's governance."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the inverted tree as a symbol of consciousness manifesting downward from its transcendent source into the multiplicity of experience. The roots in the Absolute are Shiva; the branches are Shakti's creative self-expression. Knowing this tree means recognizing the entire manifest world as a projection of one's own awareness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that the cosmic tree is rooted in Brahman because the entire world is a real expression of God's being. Unlike Advaita, the tree is not illusion but divine reality manifesting downward. The Vedic leaves sustain the tree because scriptural worship keeps creation connected to its divine source."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets the ashvattha tree practically: the cosmos is a vast field of action rooted in a transcendent purpose. The Vedic hymns as leaves indicate that right action (karma) sustains the world. Knowing this tree means understanding the relationship between cosmic purpose and individual duty."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda sees this as a powerful image for understanding reality's structure: the visible world grows from invisible roots. True Vedic knowledge is not textual scholarship but understanding this cosmic architecture. Every person, by investigating the nature of experience, can discover these roots and become truly wise."
       }
     ],
     "applications": {
@@ -56,7 +81,13 @@
         "How do I address the real source of tension, not just symptoms?"
       ]
     },
-    "themes": ["cosmic tree", "samsara", "Vedic knowledge", "impermanence", "root cause"]
+    "themes": [
+      "cosmic tree",
+      "samsara",
+      "Vedic knowledge",
+      "impermanence",
+      "root cause"
+    ]
   },
   {
     "id": "BG-15.2",
@@ -65,7 +96,7 @@
     "sanskrit": "श्रीभगवानुवाच |\nअधश्चोर्ध्वं प्रसृतास्तस्य शाखा गुणप्रवृद्धा विषयप्रवालाः |\nअधश्च मूलान्यनुसन्ततानि कर्मानुबन्धीनि मनुष्यलोके ॥२॥",
     "iast": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ |\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||2||",
     "explanation": "The branches of this tree extend both downward and upward, nourished by the three gunas, with sense objects as its tender shoots. Its secondary roots also spread downward into the human world, binding one to action and its consequences.",
-    "synthesis": "This verse elaborates the cosmic tree metaphor, revealing how desire and karma create an ever-expanding web. The three gunas (sattva, rajas, tamas) act as nutrients causing the branches to proliferate across higher and lower realms of existence. Sense objects are compared to new shoots — fresh buds of temptation that constantly emerge. The secondary roots growing downward into the human world represent karmic bonds that keep one entangled in the cycle of action and reaction. The human realm is singled out because it is uniquely the locus of volitional karma — where choices are made that bind or liberate.",
+    "synthesis": "This verse elaborates the cosmic tree metaphor, revealing how desire and karma create an ever-expanding web. Shankara explains that the branches represent various forms of life produced by the gunas, with secondary roots of vasanas perpetuating samsara. Ramanuja notes that the gunas nourish the tree's expansion and that human choices, not fate, perpetuate bondage. The Bhakti tradition sees every alluring sense object as a shoot of the world-tree that the devotee must redirect toward Krishna. Madhva explains the branches as the real hierarchy of beings nourished by the gunas, with secondary roots of karma as genuine bonds severable only by divine grace. Abhinavagupta reads the branches as proliferating experience across all realms, with secondary roots as vasanas binding consciousness to particular patterns. Vallabha teaches that the expansion is God's creative abundance, problematic only when the soul forgets its relationship with God. Tilak sees this as mapping the field of human action. Vivekananda draws the practical lesson that desires multiply endlessly, and understanding this structure is the beginning of conscious living.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -81,6 +112,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "From the bhakti standpoint, this verse reveals why the world is so captivating — its branches reach everywhere, its shoots are ever-fresh and appealing. Yet these are all distractions from the one Root. The devotee learns to see every alluring sense object as a shoot of the world-tree and redirects that attraction toward Krishna."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains the branches extending upward and downward as the real hierarchy of beings — from devas to humans to animals — all nourished by the gunas under God's direction. The secondary roots of karma in the human world are genuine bonds that only divine grace can sever."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads the branches as the proliferation of experience across all realms, nourished by the gunas as modes of Shakti. The secondary roots growing downward are the vasanas (latent impressions) that bind consciousness to particular patterns. Cutting these roots requires the sword of recognition (pratyabhijna)."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that the world-tree's expansion through the gunas is God's creative abundance, not a cosmic error. The sense objects as shoots are divine provisions for experience. The secondary roots of karma become problematic only when the soul forgets its relationship with God."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees this verse as mapping the field of human action: the gunas nourish all activity, sense objects constantly tempt, and karma creates secondary roots that bind. The karma yogi must understand this network to act within it wisely and without creating new bonds of attachment."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda draws a practical lesson: desires multiply endlessly, branching in every direction, creating an ever-expanding web of attachment. Understanding this structure — how one desire spawns others and how karma creates binding roots — is the beginning of conscious living."
       }
     ],
     "applications": {
@@ -115,7 +171,13 @@
         "Why do my relationship problems keep multiplying?"
       ]
     },
-    "themes": ["desire", "karma", "gunas", "entanglement", "sense objects"]
+    "themes": [
+      "desire",
+      "karma",
+      "gunas",
+      "entanglement",
+      "sense objects"
+    ]
   },
   {
     "id": "BG-15.3",
@@ -124,7 +186,7 @@
     "sanskrit": "न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च सम्प्रतिष्ठा |\nअश्वत्थमेनं सुविरूढमूलमसङ्गशस्त्रेण दृढेन छित्त्वा ॥३॥",
     "iast": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā |\naśvatthamenaṃ suvirūḍhamūlamasaṅgaśastreṇa dṛḍhena chittvā ||3||",
     "explanation": "The real form of this tree cannot be perceived here in this world — neither its end, nor its beginning, nor its foundation. Having cut down this deep-rooted ashvattha tree with the strong weapon of detachment (non-attachment)...",
-    "synthesis": "This verse — which continues into the next — delivers one of the Gita's most powerful practical instructions: the tree of samsara cannot be fully comprehended by the intellect entangled within it, so one must simply cut it down with the axe of non-attachment (asanga-shastra). The tree's form, origin, and foundation are elusive because the mind itself is part of the tree. This is not nihilistic destruction but liberation — cutting through the illusion of permanence that keeps one bound. The weapon is 'firm detachment,' indicating that casual renunciation is insufficient; only resolute, unwavering vairagya severs the bonds.",
+    "synthesis": "The real form of this tree cannot be perceived here — neither its end, beginning, nor foundation. Having cut it with the strong weapon of detachment, one must seek that state from which there is no return. Shankara teaches that viveka (discrimination) is the weapon that severs attachment to the unreal. Ramanuja sees detachment combined with devotion as the means of cutting through material bondage. The Bhakti tradition trusts that devotion to the Lord is the sharpest axe. Madhva teaches that only God has complete knowledge of creation, and the weapon of detachment must be sharpened by scripture and grace. Abhinavagupta interprets detachment as viveka-shakti — the discriminative power that severs identification with the world-tree. Vallabha teaches that for the pushti devotee, this axe is the warmth of divine love that loosens worldly attachment. Tilak reads it as severing attachment to results, not abandoning action itself. Vivekananda emphasizes that the 'weapon of detachment' is the courage to observe life objectively and cut through comfortable illusions.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -140,6 +202,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition teaches that the world-tree is so vast and enchanting that no amount of intellectual analysis can fully map it. The only way out is the sharp blade of detachment from everything except God. When the devotee cuts attachment to the tree, what remains is pure love for the Divine Root."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva teaches that the tree's form cannot be perceived in its entirety because only God has complete knowledge of creation. Human beings must use the weapon of detachment — sharpened by scriptural knowledge and God's grace — to cut through their attachment to the tree and seek the Supreme."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets the 'strong weapon of detachment' as viveka-shakti — the discriminative power of consciousness that severs identification with the world-tree. This is not emotional withdrawal but the recognition that the tree has no independent reality apart from the awareness that projects it."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that the tree cannot be fully understood through human intellect alone — its beginning, end, and foundation are beyond ordinary perception. The axe of detachment, for the pushti devotee, is not cold withdrawal but the warmth of divine love that naturally loosens worldly attachment."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads the command to 'cut this tree with the strong weapon of detachment' as a call to sever attachment to results, not to abandon action itself. The karma yogi wields detachment as a practical tool — working without clinging — to navigate the world-tree without becoming entangled."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda emphasizes that the tree's imperceptible form represents the bewildering complexity of worldly life. Most people never see the full picture of what drives them. The 'weapon of detachment' is the courage to step back, observe your own life objectively, and cut through comfortable illusions."
       }
     ],
     "applications": {
@@ -174,7 +261,13 @@
         "How do I break free from a pattern I can't even fully see?"
       ]
     },
-    "themes": ["detachment", "vairagya", "illusion", "decisive action", "liberation"]
+    "themes": [
+      "detachment",
+      "vairagya",
+      "illusion",
+      "decisive action",
+      "liberation"
+    ]
   },
   {
     "id": "BG-15.4",
@@ -183,7 +276,7 @@
     "sanskrit": "ततः पदं तत्परिमार्गितव्यं यस्मिन्गता न निवर्तन्ति भूयः |\nतमेव चाद्यं पुरुषं प्रपद्ये यतः प्रवृत्तिः प्रसृता पुराणी ॥४॥",
     "iast": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ |\ntameva cādyaṃ puruṣaṃ prapadye yataḥ pravṛttiḥ prasṛtā purāṇī ||4||",
     "explanation": "Then one must seek that supreme abode, having reached which one never returns. One should surrender to that Primeval Person from whom this ancient creation has streamed forth.",
-    "synthesis": "After cutting the tree of worldly attachment, the seeker must actively pursue the supreme goal — not merely renounce, but redirect. The verse prescribes both the destination (the supreme abode from which there is no return to samsara) and the method (surrender to the Primeval Purusha, the original source of all creation). This combines jnana (knowing what to seek), vairagya (cutting the old), and bhakti (surrendering to the source). The word 'prapadye' (I take refuge) is the same word used in the Gita's final instruction (18.66), bookending the teaching with surrender.",
+    "synthesis": "Having cut the tree, one must seek that supreme abode from which there is no return, surrendering to that primal Person from whom the entire creation flows. Shankara identifies the supreme abode as Brahman — the non-dual reality. Ramanuja sees it as Vaikuntha, the Lord's eternal abode. The Bhakti tradition celebrates surrender to the primal Person as the culmination of devotion. Madhva explains the supreme abode as Vaikuntha and surrender as exclusive devotion to Vishnu. Abhinavagupta teaches that the 'abode from which there is no return' is the recognition of one's nature as Shiva — the unchanging awareness. Vallabha interprets it as Krishna's divine realm of eternal bliss and permanent loving service. Tilak reads it as the karma yogi's ultimate goal: acting in the world while directing the heart toward liberation. Vivekananda interprets the primal Person as the ultimate reality, and the unreturnable state as a realization so complete that nothing can shake it.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -199,6 +292,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For the bhakti tradition, this is the Gita's promise of eternal refuge. After cutting worldly attachment, the devotee does not float in a void but runs toward the loving embrace of the Primeval Person. The supreme abode is not emptiness but the fullness of divine love — a home from which the soul never wishes to leave."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains that the supreme abode from which there is no return is Vaikuntha — God's eternal realm. 'Surrendering to that primal Person' means exclusive devotion to Vishnu, from whom the entire creation — including the cosmic tree — has its origin and continuance."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta teaches that the 'abode from which there is no return' is the recognition of one's own nature as Shiva — the unchanging awareness from which the cosmic tree of manifestation emerges. Surrendering to the 'primal Person' means dissolving the ego back into the infinite consciousness that is its source."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha interprets the supreme abode as Krishna's own divine realm of eternal bliss. Surrendering to the primal Person from whom the world-tree flows means entering into a permanent relationship of loving service with God — the ultimate goal of pushti marga."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads 'seeking that supreme abode' as the karma yogi's ultimate goal: performing duty in the world while directing the heart toward liberation. The surrender to the primal Person integrates action and devotion — one acts in the world but belongs to God."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda interprets the primal Person as the ultimate reality from which all existence flows. Seeking the state from which there is no return means achieving a realization so complete that no subsequent experience can shake it. This is the goal of all genuine spiritual practice."
       }
     ],
     "applications": {
@@ -233,7 +351,13 @@
         "After healing from past wounds, how do I open up again?"
       ]
     },
-    "themes": ["supreme abode", "surrender", "prapatti", "no return", "primeval source"]
+    "themes": [
+      "supreme abode",
+      "surrender",
+      "prapatti",
+      "no return",
+      "primeval source"
+    ]
   },
   {
     "id": "BG-15.5",
@@ -242,7 +366,7 @@
     "sanskrit": "निर्मानमोहा जितसङ्गदोषा अध्यात्मनित्या विनिवृत्तकामाः |\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्गच्छन्त्यमूढाः पदमव्ययं तत् ॥५॥",
     "iast": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ |\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñairgacchantyamūḍhāḥ padamavyayaṃ tat ||5||",
     "explanation": "Free from pride and delusion, having conquered the fault of attachment, ever devoted to the Supreme Self, with desires completely turned away, liberated from the pairs of opposites known as pleasure and pain — such undeluded persons reach that imperishable abode.",
-    "synthesis": "This verse paints the portrait of a liberated soul, listing the qualities that open the door to the supreme abode. It is a precise checklist: freedom from pride (nirmana) and delusion (moha), conquest of attachment (jita-sanga-dosha), constant absorption in the Self (adhyatma-nitya), cessation of selfish desire (vinivrtta-kama), and freedom from the dualities of pleasure and pain. These are not sequential steps but simultaneous qualities of one whose consciousness has shifted from the tree of samsara to its eternal Root. The word 'amudha' (undeluded) summarizes them all — clarity itself is the passport to the imperishable.",
+    "synthesis": "Free from pride and delusion, having conquered attachment, ever devoted to the Supreme Self, desires extinguished, free from dualities — the undeluded reach that eternal goal. Shankara lists these as the marks of the jivanmukta who has transcended ignorance. Ramanuja sees them as the qualities of the soul prepared by devotion for God's eternal abode. The Bhakti tradition celebrates these as the fruits of complete surrender to the Lord. Madhva lists these as genuine spiritual accomplishments enabled by God's grace. Abhinavagupta reads them as descriptions of consciousness in its natural, unconstricted state — the sahaja state of spontaneous liberation. Vallabha teaches that these qualities come through God's grace, transforming the devotee through divine love. Tilak reads them as the ethical profile of the liberated karma yogi. Vivekananda sees these as universal qualities of the realized person regardless of tradition.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -258,6 +382,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition sees this verse as describing the natural state of an advanced devotee — one who has tasted the sweetness of divine love and therefore has no appetite for lesser pleasures. Pride dissolves in humility before God, delusion vanishes in His light, and attachment to the world fades in the warmth of His presence."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva lists the qualifications for reaching the supreme abode: freedom from pride and delusion, conquest of attachment, devotion to the Supreme Self, renunciation of desires, and freedom from the dualities of pleasure and pain. These are genuine spiritual accomplishments enabled by God's grace."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads these qualifications as descriptions of consciousness in its natural, unconstricted state. Without pride (the ego's inflation), without delusion (mistaken identity), free from attachment (Shakti no longer binding), beyond dualities (the play of opposites resolved) — this is the sahaja state of spontaneous liberation."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that freedom from pride, delusion, and attachment comes through God's grace, not human effort alone. When the Lord's pushti descends, the devotee naturally becomes humble, clear-sighted, and detached — not through ascetic struggle but through the transforming power of divine love."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as the ethical profile of the liberated karma yogi: free from pride in accomplishments, free from delusion about one's role, having conquered attachment to outcomes, and devoted to the highest good. These are practical virtues achieved through a lifetime of selfless action."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda sees these as universal qualities of the realized person regardless of tradition: humility born of genuine self-knowledge, clarity born of honest inquiry, freedom from the tyranny of desire, and stability beyond the oscillations of pleasure and pain."
       }
     ],
     "applications": {
@@ -292,7 +441,13 @@
         "How do I stop the emotional rollercoaster in my relationships?"
       ]
     },
-    "themes": ["liberation", "ego dissolution", "dvandva", "equanimity", "qualifications"]
+    "themes": [
+      "liberation",
+      "ego dissolution",
+      "dvandva",
+      "equanimity",
+      "qualifications"
+    ]
   },
   {
     "id": "BG-15.6",
@@ -301,7 +456,7 @@
     "sanskrit": "न तद्भासयते सूर्यो न शशाङ्को न पावकः |\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥६॥",
     "iast": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ |\nyadgatvā na nivartante taddhāma paramaṃ mama ||6||",
     "explanation": "Neither the sun, nor the moon, nor fire illuminates that place. Having reached it, one does not return. That is My supreme abode.",
-    "synthesis": "This celebrated verse describes the supreme abode of God as self-luminous — beyond the reach of any physical light source. The sun, moon, and fire, which illuminate the entire material world, cannot reach there because that abode is not material. It is consciousness itself, the light by which all other lights are perceived. The promise 'having reached it, one does not return' echoes through the Upanishads (Katha, Mundaka, Shvetashvatara) and establishes that liberation is permanent, not a temporary state. Krishna claims this realm as 'My supreme abode' (mama paramam dhama), directly identifying Himself as the ultimate reality.",
+    "synthesis": "Neither the sun, the moon, nor fire illuminates that supreme abode — having reached it, one does not return. Shankara explains that Brahman is self-luminous (svayam-jyotis) and needs no external illumination. Ramanuja sees God's abode as transcending all material light. The Bhakti tradition meditates on the Lord's self-luminous realm as the ultimate destination of the soul. Madhva identifies this as Vaikuntha — God's self-luminous eternal abode beyond the material cosmos. Abhinavagupta interprets it as the self-luminous nature of consciousness — awareness that illumines sun, moon, and fire but is not illumined by any of them. Vallabha teaches that God's abode is constituted entirely of divine radiance. Tilak sees the ultimate goal as transcending all material existence. Vivekananda interprets this as the deepest nature of awareness — always present, always luminous, not a distant place but your own consciousness.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -317,6 +472,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For devotees, this verse is among the most cherished promises in all scripture. Krishna's supreme abode is not a cold, abstract state but a realm of eternal love, beauty, and divine play. It is illuminated by Krishna's own effulgence. The devotee longs for this home — and Krishna assures that once there, the soul never has to leave."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva identifies 'that place' which neither sun, moon, nor fire illumines as Vaikuntha — God's self-luminous eternal abode that has no need of external sources of light. This is a real, transcendent realm that exists beyond the material cosmos."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets 'that place' as the self-luminous nature of consciousness (svaprakasha) — the awareness that illumines sun, moon, and fire but is not illumined by any of them. It is not a location but a state of recognition: the abode is awareness itself."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that God's supreme abode is self-luminous because it is constituted entirely of God's own radiance. No external light is needed because everything there is a direct expression of divine consciousness and bliss. This is the eternal home of the liberated devotee."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as indicating that the ultimate goal transcends all material existence — even the most luminous physical phenomena (sun, moon, fire) are surpassed. The karma yogi works in the world illumined by material lights while aspiring to the self-luminous truth beyond."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda interprets this as describing the nature of consciousness itself: awareness illumines everything but cannot be illumined by anything external. The 'supreme abode' is not a place you travel to but the deepest nature of your own awareness, always present, always luminous."
       }
     ],
     "applications": {
@@ -351,7 +531,13 @@
         "How do I find a partnership that feels like coming home permanently?"
       ]
     },
-    "themes": ["supreme abode", "self-luminosity", "no return", "transcendence", "divine light"]
+    "themes": [
+      "supreme abode",
+      "self-luminosity",
+      "no return",
+      "transcendence",
+      "divine light"
+    ]
   },
   {
     "id": "BG-15.7",
@@ -360,7 +546,7 @@
     "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः |\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥७॥",
     "iast": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ |\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||7||",
     "explanation": "An eternal fragment of Myself becomes the living entity in the world of life, and it draws to itself the six senses — the five senses and the mind — which rest in material nature.",
-    "synthesis": "This verse is one of the most theologically significant in the Gita, establishing the relationship between God and the individual soul. The jiva (living being) is declared to be an eternal (sanatana) fragment (amsha) of Krishna — not a temporary creation, not an illusion, but an eternal part of the Divine. Yet this eternal fragment, when embodied in material nature, identifies with the mind and senses and becomes bound. The word 'karshati' (draws, struggles with) suggests the soul's constant engagement with the senses is an effort, not its natural state. This verse is the foundation for understanding both bondage and liberation — the soul is divine in essence but entangled in practice.",
+    "synthesis": "An eternal fragment of Myself becomes the living entity in the world of life, drawing to itself the mind and five senses existing in Prakriti. Shankara explains the 'eternal fragment' as the reflection of Brahman in the individual mind. Ramanuja identifies it as the real individual soul, an eternal part of God. The Bhakti tradition celebrates the divine origin of every soul. Madhva explains the soul as an eternally dependent part of God — not broken off but permanently related, drawing senses and mind around itself. Abhinavagupta reads it as consciousness appearing to be limited, voluntarily contracting while its true nature remains infinite. Vallabha teaches that each soul is a complete expression of God, not a diminished portion. Tilak reads this as establishing every individual's divine dignity — the senses are tools, not masters. Vivekananda finds the Gita's strongest declaration of human divinity: every being carries the divine nature, establishing the foundation of all human rights.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -376,6 +562,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition celebrates this verse as Krishna's declaration of intimate kinship with every soul. Every living being is a spark of God's own being — never separate, always beloved. The soul's suffering in material existence is like a prince lost in a foreign land, forgetting his royal identity. Devotion is the path of remembering who you truly are."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains that the individual soul is an eternal fragment of God — not a piece broken off but a permanently dependent part of the infinite whole. The soul draws the senses and mind around itself in material existence while remaining distinct from both God and matter."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads 'an eternal fragment of Myself' as consciousness appearing to be limited — not actually fragmented but voluntarily contracting to experience individual existence. The soul draws the senses and mind as instruments of experience, but its true nature remains identical with the infinite consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that the soul as an 'eternal part' of God is forever connected to the divine while appearing as a distinct individual. This is not fragmentation but divine self-multiplication — each soul is a complete expression of God, not a diminished portion."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as establishing the divine dignity of every individual: as a fragment of God, every soul carries infinite worth. The senses and mind are drawn around this divine spark as instruments for action in the world — they are tools to be used, not masters to be obeyed."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda finds here the Gita's strongest declaration of human divinity: every living being is an eternal part of God. This means every person — regardless of birth, class, or condition — carries the divine nature within. This truth is the foundation of all human rights and dignity."
       }
     ],
     "applications": {
@@ -410,7 +621,13 @@
         "How do I love the eternal in someone, not just their personality?"
       ]
     },
-    "themes": ["eternal soul", "divine fragment", "jiva", "identity", "senses"]
+    "themes": [
+      "eternal soul",
+      "divine fragment",
+      "jiva",
+      "identity",
+      "senses"
+    ]
   },
   {
     "id": "BG-15.8",
@@ -419,7 +636,7 @@
     "sanskrit": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ॥८॥",
     "iast": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ |\ngṛhītvaitāni saṃyāti vāyurgandhānivāśayāt ||8||",
     "explanation": "When the soul (the lord of the body) acquires a new body or leaves one, it carries the senses and mind along with it, just as the wind carries scents from their source.",
-    "synthesis": "Krishna uses a beautiful and precise simile: just as wind picks up fragrances from flowers and carries them to new locations, the soul carries its accumulated mental impressions (vasanas) and sense-tendencies from one body to the next. The soul is called 'ishvara' (lord, controller) here — it is the master of its body, not a passive passenger. This verse reveals the mechanism of transmigration: it is not a random reassignment but a continuity of consciousness with its samskaras intact. The mind and senses are the subtle body that bridges death and rebirth, carrying the essence of who you were into who you will become.",
+    "synthesis": "When the soul acquires a new body or leaves one, it carries the senses and mind like the wind carrying fragrance from a flower. Shankara explains transmigration as the subtle body moving from one gross body to another. Ramanuja sees the soul genuinely transitioning under God's governance. The Bhakti tradition uses this to teach that devotional impressions travel with the soul across lives. Madhva explains this as real transmigration under God's governance based on karma. Abhinavagupta sees the essential awareness remaining unchanged while the subtle body of impressions moves between forms. Vallabha teaches that the soul's acquired impressions — devotional tendencies and karmic patterns — travel with it across lives. Tilak finds practical motivation: since mental dispositions travel beyond death, invest in cultivating selfless habits. Vivekananda uses this to explain diverse human capacities: each soul carries accumulated impressions, making us the builders of our own future character.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -435,6 +652,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti perspective finds in this verse both a sobering truth and a hopeful one. The sobering truth: we carry our mental and emotional habits beyond death. The hopeful truth: if we saturate our minds with devotion, that fragrance travels with us too. A life steeped in love for God creates a perfume that the soul carries eternally."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains that the soul carries its mental impressions (senses and mind) from one body to another, just as the wind carries fragrance from a flower. This transmigration is real — the soul genuinely transitions between bodies under God's governance based on its karma."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the soul carrying senses and mind like wind carrying scent as a beautiful image of consciousness's mobility. The essential awareness remains unchanged while the subtle body of impressions moves from one gross form to another, like the same light reflected in different mirrors."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that the soul's journey from body to body is governed by God's will and the soul's own karma. The wind-fragrance metaphor shows that the soul's acquired impressions — its devotional tendencies and karmic patterns — travel with it, making each life a continuation of spiritual development."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak finds in this verse a practical motivation: since your mental dispositions travel with you beyond death, invest in cultivating selfless habits, sattvic tendencies, and devotional attitudes. The karma yogi's work shapes not just this life but all future ones."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda uses this verse to explain the diversity of human capacities: people are born with different talents and tendencies because each soul carries its accumulated impressions from past experiences. This is not fatalism but empowerment — you are always building your future character."
       }
     ],
     "applications": {
@@ -469,7 +711,13 @@
         "What would it take to truly start fresh in love?"
       ]
     },
-    "themes": ["transmigration", "vasanas", "subtle body", "wind and scent", "continuity"]
+    "themes": [
+      "transmigration",
+      "vasanas",
+      "subtle body",
+      "wind and scent",
+      "continuity"
+    ]
   },
   {
     "id": "BG-15.9",
@@ -478,7 +726,7 @@
     "sanskrit": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च |\nअधिष्ठाय मनश्चायं विषयानुपसेवते ॥९॥",
     "iast": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca |\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||9||",
     "explanation": "Presiding over the ears, eyes, skin, tongue, nose, and mind, the living entity enjoys the objects of the senses.",
-    "synthesis": "This verse describes how the embodied soul engages with the material world through the gateway of the senses and mind. The word 'adhishthaya' (presiding over, taking charge of) indicates that the soul doesn't passively receive sensory data — it actively directs attention through specific channels. The mind is listed as the sixth sense because it is the coordinating faculty that gives meaning to sensory input. The word 'upasevate' (serves, indulges in) reveals the soul's active participation in sensory experience — it is not a victim of the senses but their willing employer. Understanding this active role is essential because it means the soul also has the power to redirect its attention.",
+    "synthesis": "Presiding over the senses and mind, the soul enjoys the objects of the senses. Shankara explains that the soul appears to enjoy through identification with the subtle body. Ramanuja teaches that the soul genuinely experiences pleasure and pain through its God-given senses. The Bhakti tradition redirects enjoyment toward God — every sensory experience can become devotion. Madhva teaches that the soul genuinely experiences sense objects, but only when directed toward God do these experiences serve their proper purpose. Abhinavagupta sees each act of perception as consciousness enjoying its own manifestation — recognition transforms sensory experience into meditation. Vallabha teaches that enjoyment becomes bondage only when disconnected from God; offered to Krishna, the senses become instruments of worship. Tilak reads this practically: the karma yogi directs sensory experience purposefully in service of duty. Vivekananda emphasizes that the soul is the master of the senses, not their slave — this distinction is the essence of self-mastery.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -494,6 +742,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition sees the senses as gifts meant to experience the Divine — eyes to see God's beauty, ears to hear His name, tongue to taste prasadam. The problem is not sensory experience itself but its misdirection away from God. A devotee uses the same six faculties but orients them toward Krishna, transforming bondage into worship."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva teaches that the soul, presiding over the senses, genuinely experiences sense objects — this is not illusion but real experience of a real world. However, only when the soul directs these experiences toward the service and knowledge of God do they serve their proper purpose."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the soul 'presiding over' the senses as consciousness animating the instruments of perception. Each act of seeing, hearing, tasting is consciousness enjoying its own creative manifestation through the senses. When this is recognized, every sensory experience becomes a form of meditation."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that the soul's enjoyment of sense objects is not inherently sinful — it becomes bondage only when disconnected from God. When the devotee offers every experience to Krishna, the senses become instruments of worship and every enjoyment becomes a form of divine service."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this practically: the soul uses the mind and senses as instruments. The karma yogi does not suppress sensory experience but directs it purposefully — using sight, hearing, and thought in service of duty and the welfare of others, not for selfish indulgence."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda emphasizes that the soul is the master, not the slave, of the senses. The mind and senses are tools — powerful and necessary, but tools nonetheless. The strong person uses them consciously; the weak person is used by them. This distinction is the essence of self-mastery."
       }
     ],
     "applications": {
@@ -528,7 +801,13 @@
         "How do I stop half-listening in my relationships?"
       ]
     },
-    "themes": ["senses", "attention", "mind", "sensory experience", "conscious engagement"]
+    "themes": [
+      "senses",
+      "attention",
+      "mind",
+      "sensory experience",
+      "conscious engagement"
+    ]
   },
   {
     "id": "BG-15.10",
@@ -537,7 +816,7 @@
     "sanskrit": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ॥१०॥",
     "iast": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam |\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||10||",
     "explanation": "The deluded do not perceive the soul as it departs from the body, remains in it, or enjoys experiences in association with the gunas. But those who possess the eye of knowledge see it clearly.",
-    "synthesis": "This verse draws a sharp line between two ways of seeing. The 'deluded' (vimudha) cannot perceive the soul even though it is present in three obvious situations: at the moment of death (departing), during life (remaining), and while experiencing the world (enjoying through the gunas). The soul is not hidden in some distant realm — it is right here, animating every moment of experience. Yet it takes the 'eye of knowledge' (jnana-chakshu) to see it, much as ultraviolet light is present but invisible without the right instrument. This teaching democratizes spiritual perception — it is not about having mystical visions but about developing the discernment to see what is already present.",
+    "synthesis": "The deluded do not perceive the soul as it departs from the body, remains in it, or enjoys experience in connection with the gunas. Those with the eye of knowledge see it. Shankara attributes this blindness to avidya (ignorance) and the vision to viveka (discrimination). Ramanuja sees the 'eye of knowledge' as God-given spiritual perception. The Bhakti tradition teaches that only devotees can perceive the soul's movements. Madhva explains that only those with scripture-informed knowledge and God's grace perceive these subtle realities. Abhinavagupta teaches that the deluded are identified with the body-mind and cannot see the awareness that animates it. Vallabha explains that the 'eye of knowledge' is vision granted by God's grace, opening perception to spiritual realities. Tilak notes that this knowledge distinguishes the conscious karma yogi from the unconscious worker. Vivekananda calls for cultivating deeper perception through education, meditation, and self-inquiry.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -553,6 +832,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition emphasizes that seeing the soul in all beings is a fruit of devotional love. When the heart is purified by bhakti, the devotee perceives the divine spark in everyone — in the departing, the living, and the enjoying. This is not intellectual knowledge but heart-knowledge, the vision of love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains that the deluded cannot perceive the soul departing from or dwelling in the body because they lack the spiritual vision that comes from scriptural knowledge and God's grace. Only those with the 'eye of knowledge' can perceive these subtle spiritual realities."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta teaches that the deluded cannot perceive the soul's movements because they are identified with the body-mind and cannot see the awareness that animates it. Those with the 'eye of knowledge' (jnana-chakshu) have recognized consciousness as distinct from its instruments."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha explains that the deluded, lacking devotion, cannot perceive the divine soul within the body. The 'eye of knowledge' is not merely intellectual understanding but the vision granted by God's grace — the pushti that opens the devotee's eyes to spiritual realities hidden from ordinary perception."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak notes that the 'eye of knowledge' is what distinguishes the conscious karma yogi from the unconscious worker. Both act in the world, but only the knowledgeable one perceives the soul's true nature — witnessing how consciousness uses the senses without being consumed by them."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda reads this as a call to cultivate deeper perception: most people live their entire lives without ever truly seeing the consciousness that animates them. Education, meditation, and self-inquiry develop the 'eye of knowledge' that perceives what the senses alone cannot reveal."
       }
     ],
     "applications": {
@@ -587,7 +891,13 @@
         "What am I not seeing about the people closest to me?"
       ]
     },
-    "themes": ["knowledge", "perception", "delusion", "jnana-chakshu", "discernment"]
+    "themes": [
+      "knowledge",
+      "perception",
+      "delusion",
+      "jnana-chakshu",
+      "discernment"
+    ]
   },
   {
     "id": "BG-15.11",
@@ -596,7 +906,7 @@
     "sanskrit": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् |\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ॥११॥",
     "iast": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam |\nyatanto'pyakṛtātmāno nainaṃ paśyantyacetasaḥ ||11||",
     "explanation": "Striving yogis perceive the Self established within themselves. But those whose minds are unpurified, even though striving, do not perceive it.",
-    "synthesis": "This verse adds an important nuance: effort alone is not enough. Two types of strivers are contrasted — the yogis who succeed in perceiving the Self and the 'akrita-atmanah' (those with unpurified minds) who fail despite effort. The key difference is not the intensity of striving but the preparation of the inner instrument. An unpurified mind is like a dirty mirror — no amount of light will produce a clear reflection until the surface is cleaned. The term 'acetasah' (without proper awareness/intelligence) suggests that mere mechanical practice without the right understanding and inner purification remains fruitless. Spiritual effort must be accompanied by ethical living, mental discipline, and right knowledge.",
+    "synthesis": "Striving yogis perceive the Self established within themselves, but those whose minds are unpurified, even though striving, do not perceive the Self. Shankara teaches that purification of mind through karma yoga and upasana prepares the ground for Self-knowledge. Ramanuja sees devotion as the purifying agent that enables Self-perception. The Bhakti tradition teaches that purification comes primarily through love of God. Madhva explains that genuine spiritual practice under God's guidance enables Self-perception, while those without God's revealing grace cannot see even with effort. Abhinavagupta teaches that yogis perceive the Self when mental modifications are stilled, and Self-recognition requires the ripening of awareness through practice and grace. Vallabha distinguishes those who receive God's grace from those who do not yet — devotion attracts God's revealing grace. Tilak reads this practically: the karma yogi purifies the mind through selfless action, developing the capacity for Self-knowledge. Vivekananda emphasizes the democratic aspect: anyone who makes sincere effort can develop the inner perception that reveals the divine Self.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -612,6 +922,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition teaches that the mind is purified primarily through devotion — chanting, service, association with saints. Intellectual striving without heart-purification is compared to trying to see the sun with dirty glasses. The devotee who has cleansed the heart with love sees God everywhere effortlessly, while the dry yogi struggles despite tremendous effort."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains that striving yogis see the Self within themselves because they engage in genuine spiritual practice under God's guidance. Those with unpurified minds — regardless of effort — cannot perceive the Self because God's revealing grace has not yet descended upon them."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta teaches that yogis perceive the Self because their practice has stilled the mental modifications that usually obscure awareness. The 'unpurified mind' is one still contracted by the gunas. Self-recognition requires not just effort but the ripening of awareness through sustained practice and grace."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha sees this as distinguishing those who receive God's grace (pushti) from those who do not yet. The striving yogis perceive the Self because God reveals Himself to them. Those with impure minds, lacking this grace, cannot see even with effort. Devotion attracts God's revealing grace."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this practically: spiritual perception develops through disciplined practice and purified intention. The karma yogi purifies the mind through selfless action, gradually developing the capacity to perceive the Self. Purification of mind through action is a prerequisite for Self-knowledge."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda emphasizes the democratic aspect: 'striving yogis' — anyone who makes sincere effort — can perceive the Self. The obstacle is not birth or status but impurity of mind. Through education, ethical living, and practice, anyone can develop the inner perception that reveals the divine Self."
       }
     ],
     "applications": {
@@ -646,7 +981,13 @@
         "Why am I doing everything right but still struggling?"
       ]
     },
-    "themes": ["effort", "purification", "inner readiness", "yoga", "self-perception"]
+    "themes": [
+      "effort",
+      "purification",
+      "inner readiness",
+      "yoga",
+      "self-perception"
+    ]
   },
   {
     "id": "BG-15.12",
@@ -655,7 +996,7 @@
     "sanskrit": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ॥१२॥",
     "iast": "yadādityagataṃ tejo jagadbhāsayate'khilam |\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||12||",
     "explanation": "The light of the sun which illuminates the entire world, the light in the moon, and the light in fire — know that radiance to be Mine.",
-    "synthesis": "Krishna now reveals His immanent presence in the cosmos through its most visible manifestation — light. The sun that illuminates the world, the moon that soothes the night, and fire that sustains human life are all expressions of a single divine radiance. This teaching moves from the metaphysical (the inverted tree, the soul's journey) to the immediate and tangible. Every photon of light you perceive is, in Krishna's teaching, a manifestation of divine energy. This vision sacralizes the everyday — the morning sun, a candle flame, moonlight — transforming them from physical phenomena into reminders of the Divine presence permeating all of nature.",
+    "synthesis": "The light of the sun that illuminates the entire world, and the light in the moon and in fire — know that radiance to be Mine. Shankara reads this as Brahman's luminous power manifesting through material objects. Ramanuja sees God's energy as the source of all cosmic illumination. The Bhakti tradition worships Krishna as the supreme light behind all visible lights. Madhva teaches that God's energy genuinely produces all cosmic illumination — this describes His actual sustaining activity. Abhinavagupta reads this as the light of consciousness being the source of all physical light — every photon is ultimately a ray of consciousness. Vallabha teaches that all light in the universe is an expression of God's own radiance. Tilak sees this as revealing the divine dimension of natural forces that the karma yogi works with reverently. Vivekananda draws a grand vision: the energy powering the sun, the moon, and fire comes from one infinite source — revealing the unity of nature.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -671,6 +1012,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For the devotee, this verse transforms the entire visible world into a love letter from God. Every sunrise is Krishna showing His radiance, every moonlit night is His gentle presence, every warm fire is His care. The devotee who sees this way lives in constant communion with the Beloved without needing to close their eyes."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva teaches that the light in the sun, moon, and fire is God's real luminous power manifesting through material instruments. God's energy genuinely produces all cosmic illumination — this is not metaphor but a description of God's actual sustaining activity in the universe."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads this as a declaration that the light of consciousness (prakasha) is the source of all physical light. The sun, moon, and fire are gross manifestations of the self-luminous awareness that is Shiva. Every photon of light is ultimately a ray of consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that all light in the universe — from the sun, the moon, and fire — is an expression of God's own radiance. The Lord is the original light from which all illumination derives. Recognizing this transforms every experience of light into an encounter with the divine."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees this as revealing the divine dimension of the natural world: the sun that enables agriculture, the fire that enables industry — all are expressions of divine energy. The karma yogi works with these forces knowing they are sustained by the Supreme, adding reverence to efficiency."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda draws a grand vision: the energy that powers the sun, the light of the moon, the warmth of fire — all come from one infinite source. This scientific and spiritual truth reveals the unity of nature. Understanding this fills every activity with a sense of connection to the cosmic whole."
       }
     ],
     "applications": {
@@ -705,7 +1071,13 @@
         "What if my capacity to love is unlimited at the source?"
       ]
     },
-    "themes": ["divine light", "immanence", "sun moon fire", "cosmic presence", "unity"]
+    "themes": [
+      "divine light",
+      "immanence",
+      "sun moon fire",
+      "cosmic presence",
+      "unity"
+    ]
   },
   {
     "id": "BG-15.13",
@@ -714,7 +1086,7 @@
     "sanskrit": "गामाविश्य च भूतानि धारयाम्यहमोजसा |\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ॥१३॥",
     "iast": "gāmāviśya ca bhūtāni dhārayāmyahamojasā |\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||13||",
     "explanation": "Entering the earth, I sustain all beings with My energy. Becoming the watery moon (soma), I nourish all plants with the essence of life.",
-    "synthesis": "Krishna reveals Himself as the sustaining force of all terrestrial life. He enters the earth (gam) and holds all beings with His 'ojas' (vital power, energy), and He becomes the moon — the source of soma, the nourishing essence — that makes plants grow. This is a profoundly ecological statement: the earth's capacity to support life and the moon's influence on vegetation and tides are described as divine functions. The verse presents God not as a distant creator but as an active sustainer, intimately involved in the most basic biological processes. The word 'rasatmakah' (essence of flavor, sap, nourishment) connects divine energy to the tangible experience of taste — every fruit and grain carries divine rasa.",
+    "synthesis": "Entering the earth, I sustain all beings with My energy; becoming the watery moon (soma), I nourish all vegetation. Shankara explains God's sustaining presence as Brahman's power pervading the material world. Ramanuja sees God actively entering and sustaining creation. The Bhakti tradition celebrates the Lord's intimate involvement in nourishing all life. Madhva explains this as real divine immanence — God genuinely pervades creation with sustaining energy. Abhinavagupta sees consciousness pervading all material reality, with Shakti's nurturing function sustaining all life at every level. Vallabha teaches that every fruit and herb draws life from God's energy, making eating an act of receiving grace. Tilak finds sanctification of labor: participation in agriculture and food production is participation in God's sustaining work. Vivekananda sees this as uniting science and spirituality — the forces sustaining life are expressions of divine energy, motivating environmental responsibility.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -730,6 +1102,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For the devotee, eating becomes a sacred act when one realizes that every morsel of food contains Krishna's nourishing presence. He is the rasa — the flavor, the juice, the life-giving essence — in every plant. This transforms meals into communion and agriculture into a form of worship. The Lord feeds all beings through His love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains that God entering the earth and sustaining all beings is a description of real divine immanence — God genuinely pervades creation with His sustaining energy. As soma (the moon), He nourishes all vegetation. This is God's actual, ongoing involvement in maintaining the world."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees God entering the earth as consciousness pervading all material reality. The nourishing of plants through the soma-principle is Shakti's nurturing function — the creative energy of awareness sustaining all life at every level, from mineral to vegetable to animal."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that God entering the earth and nourishing all plants reveals that the entire natural world is sustained by divine presence. Every fruit, every herb draws its life from God's energy. Eating food becomes, for the devotee, an act of receiving God's grace."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak finds here a sanctification of the farmer's and worker's labor: since God sustains all vegetation and nourishes all life, participation in agriculture and the production of food is participation in God's sustaining work. The karma yogi sees all productive labor as sacred service."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda sees this as uniting science and spirituality: the forces that sustain life on earth — gravity, nutrition, the water cycle — are all expressions of one divine energy. Understanding this creates reverence for nature and motivates environmental responsibility as a spiritual duty."
       }
     ],
     "applications": {
@@ -764,7 +1161,13 @@
         "How do I nourish my relationships, not just maintain them?"
       ]
     },
-    "themes": ["divine sustenance", "earth", "moon", "nourishment", "ecology"]
+    "themes": [
+      "divine sustenance",
+      "earth",
+      "moon",
+      "nourishment",
+      "ecology"
+    ]
   },
   {
     "id": "BG-15.14",
@@ -773,7 +1176,7 @@
     "sanskrit": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः |\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ॥१४॥",
     "iast": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ |\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||14||",
     "explanation": "Becoming the digestive fire (Vaishvanara) dwelling in the bodies of all living beings, and united with the outgoing and incoming breath, I digest the four kinds of food.",
-    "synthesis": "Krishna identifies Himself with the most intimate biological process — digestion. He is the Vaishvanara fire (the universal digestive flame) within every living body, working in concert with prana (outgoing breath) and apana (incoming breath) to process the four types of food (chewed, swallowed, licked, and sucked). This is not poetic metaphor — it is a declaration that the divine is present in the most mundane, bodily functions. Every meal digested is God at work within you. This verse has profound implications: if the Divine dwells in your stomach as fire, then your body is literally a temple, and eating is a sacred act. The Vedic tradition of offering food to the inner fire before eating stems from this understanding.",
+    "synthesis": "Becoming the digestive fire in all living beings, united with the incoming and outgoing breath, I digest the four kinds of food. Shankara explains this as Brahman functioning through the biological processes that sustain life. Ramanuja sees God intimately present in every creature's biological functions. The Bhakti tradition is awed by the Lord's presence in the humblest bodily process. Madhva explains that God genuinely operates within every creature through digestion, proving omnipresence and care. Abhinavagupta sees the digestive fire as consciousness functioning at the biological level — the same Shakti that creates universes also digests food. Vallabha teaches that God dwelling as the digestive fire makes every meal sustained by divine presence — eating becomes worship. Tilak finds this deeply practical: God is present in the most mundane function, sanctifying the body and its maintenance. Vivekananda demolishes the false divide between sacred and profane: if God is the fire digesting food, no bodily function is unspiritual.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -789,6 +1192,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For the devotee, this verse makes every meal a meeting with God. Krishna Himself sits within as the fire of hunger and the warmth of digestion. When the devotee offers food to the Lord and then eats, they are not merely performing a ritual — they are feeding the Beloved who dwells within. This transforms the most ordinary act into the deepest worship."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains that God as the digestive fire (Vaishvanara) in all living beings is a description of real divine activity — God genuinely operates within every creature, sustaining life through the biological process of digestion. This intimate involvement proves God's omnipresence and care."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the digestive fire as consciousness functioning at the biological level — the same Shakti that creates universes also digests food in every belly. The four types of food represent the four categories of experience that consciousness 'digests' and assimilates at every level of being."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that God dwelling as the digestive fire in every body means that every meal is sustained by divine presence. The pushti devotee offers food to God before eating, recognizing that it is God's own energy within that transforms food into life — every act of eating becomes worship."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak finds this verse deeply practical: God is present in the most mundane biological function — digestion. This sanctifies the body and its maintenance. The karma yogi takes care of health and nutrition not as mere self-interest but as tending the divine fire within."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda uses this to demolish the false divide between sacred and profane: if God is the fire that digests your food, then no bodily function is unspiritual. The entire biological life is sustained by divine energy. True spirituality embraces the whole of life, not just its 'higher' aspects."
       }
     ],
     "applications": {
@@ -823,7 +1251,13 @@
         "What's the equivalent of 'digestive fire' in a relationship?"
       ]
     },
-    "themes": ["digestive fire", "Vaishvanara", "prana", "sacred mundane", "bodily divinity"]
+    "themes": [
+      "digestive fire",
+      "Vaishvanara",
+      "prana",
+      "sacred mundane",
+      "bodily divinity"
+    ]
   },
   {
     "id": "BG-15.15",
@@ -832,7 +1266,7 @@
     "sanskrit": "सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनं च |\nवेदैश्च सर्वैरहमेव वेद्यो वेदान्तकृद्वेदविदेव चाहम् ॥१५॥",
     "iast": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohaanaṃ ca |\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15||",
     "explanation": "I am seated in the hearts of all beings. From Me come memory, knowledge, and forgetfulness. I alone am to be known through all the Vedas. I am the author of Vedanta, and I am the knower of the Vedas.",
-    "synthesis": "This is one of the most famous and far-reaching verses in the entire Gita. Krishna makes four extraordinary claims: (1) He dwells in every heart as the inner witness, (2) He is the source of memory, knowledge, and even forgetfulness, (3) He is the ultimate object of all Vedic knowledge, and (4) He is both the creator of Vedanta and its supreme knower. The inclusion of 'apohanam' (forgetfulness, removal of knowledge) is striking — God is responsible not only for illumination but also for the selective concealment that makes the drama of life possible. Without forgetting our divine nature, the play of samsara could not unfold. This verse positions the Divine not as external authority but as the innermost companion — closer than breath, more intimate than thought.",
+    "synthesis": "I am seated in the hearts of all beings; from Me come memory, knowledge, and forgetfulness. I alone am to be known by all the Vedas; I am the author of Vedanta and the knower of the Vedas. Shankara reads this as Brahman being the inner light of all cognitive activity. Ramanuja sees God as the inner controller governing all mental functions. The Bhakti tradition celebrates this as the most intimate declaration — the Lord in every heart. Madhva teaches that God's presence as the source of all cognitive acts proves His intimate involvement in every thought. Abhinavagupta reads this as consciousness declaring itself the source of all mental functions — every form of knowledge is ultimately a self-revelation of awareness. Vallabha sees this as one of the Gita's most intimate verses: God in every heart enabling every thought, with all scripture pointing to this indwelling Lord. Tilak reads this as establishing the divine foundation of all intellectual activity — the karma yogi's intelligence is a gift to be used in selfless service. Vivekananda finds the ultimate source of human potential: the divine seated in your own heart is the source of all knowledge, accessible to every mind.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -848,6 +1282,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For devotees, this verse is the ultimate comfort: Krishna is not far away but seated right in your heart. Every moment of clarity is His gift; every flash of insight is His whisper. Even forgetfulness serves His purpose — He lets us forget our divinity so we can have the joy of rediscovering it. All spiritual paths and all scriptures are simply His ways of calling the soul back home."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva teaches that God seated in the hearts of all beings as the source of memory, knowledge, and forgetfulness proves His intimate involvement in every cognitive act. God is the real author of the Vedas and their true meaning — the soul knows through God's enabling power."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads this as consciousness declaring itself the source of all mental functions. Memory, knowledge, and even forgetfulness are modes of awareness. 'I am to be known by all the Vedas' means that every form of knowledge, sacred or secular, is ultimately a self-revelation of consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha sees this as one of the most intimate verses in the Gita: God is in every heart, enabling every thought. Memory, knowledge, and forgetfulness all operate by His will. The Vedas exist to lead the soul back to this indwelling Lord — all scripture points to the God within."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads this as establishing the divine foundation of all intellectual activity: every insight, every memory, every act of understanding is enabled by the divine presence in the heart. The karma yogi's intelligence and judgment are gifts from the Supreme — to be used in selfless service."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda finds here the ultimate source of human potential: the divine is not far away but seated in your own heart, the source of your memory, knowledge, and capacity to learn. Every human mind has access to this infinite reservoir. Education means learning to draw from this inner source."
       }
     ],
     "applications": {
@@ -882,7 +1341,14 @@
         "What happens when two people relate from their deepest center?"
       ]
     },
-    "themes": ["heart dweller", "memory", "knowledge", "forgetfulness", "Vedanta", "inner witness"]
+    "themes": [
+      "heart dweller",
+      "memory",
+      "knowledge",
+      "forgetfulness",
+      "Vedanta",
+      "inner witness"
+    ]
   },
   {
     "id": "BG-15.16",
@@ -891,7 +1357,7 @@
     "sanskrit": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च |\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥१६॥",
     "iast": "dvāvimau puruṣau loke kṣaraścākṣara eva ca |\nkṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate ||16||",
     "explanation": "There are two types of beings (purushas) in the world — the perishable (kshara) and the imperishable (akshara). All material beings are perishable; the unchanging is called imperishable.",
-    "synthesis": "Krishna introduces a fundamental ontological distinction that will build toward the chapter's climax. The world contains two categories: kshara (the perishable, mutable, ever-changing) — which includes all material beings and forms — and akshara (the imperishable, immutable) — which refers to the unchanging principle underlying all change. The term 'kutastha' (standing like an anvil, unchanged despite hammering) poetically describes the imperishable as that which remains constant regardless of what happens to the perishable. This verse sets up the revolutionary teaching of verse 18: that there is a third category — the Supreme Person — who transcends both.",
+    "synthesis": "There are two purushas in the world — the perishable and the imperishable. All beings are the perishable; the unchanging essence is called the imperishable. Shankara distinguishes the ever-changing phenomenal world from the unchanging witness-consciousness. Ramanuja identifies the perishable as the body-matter complex and the imperishable as the individual soul. The Bhakti tradition sees this distinction as preparation for understanding the Supreme who transcends both. Madhva explains these as genuinely distinct categories — perishable beings subject to change, and the imperishable unchanging essence of souls — with God transcending both. Abhinavagupta reads them as two aspects of consciousness: the kshara identified with changing forms, and the akshara in its undifferentiated state. Vallabha teaches that both are real and divine, but God as Purushottama transcends both as the complete reality. Tilak finds this essential: the world of action is real, eternal principles are unchanging, and the Supreme gives ultimate meaning to both. Vivekananda sees this as the Gita's clearest philosophical framework: change, changelessness, and the Absolute beyond both.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -907,6 +1373,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition uses this verse to distinguish between the passing world of material experience and the eternal soul that witnesses it all. Everything you can see, touch, and lose is kshara. The part of you that has never changed — your deepest witness — is akshara. But the Beloved Lord is beyond both, as the next verses will reveal."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains the two purushas — perishable (kshara) and imperishable (akshara) — as genuinely distinct categories. The perishable includes all individual beings subject to change; the imperishable is the unchanging essence of souls. God as Purushottama transcends both categories entirely."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads the two purushas as two aspects of consciousness: the kshara is consciousness identified with changing forms (the world), and the akshara is consciousness in its unchanging, undifferentiated state. Both are modes of the one reality, which in its fullness is Purushottama — the supreme Shiva."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that the perishable (all created beings) and the imperishable (their eternal essence) are both real and both divine. But God as Purushottama transcends both — He is the complete reality of which perishable and imperishable are partial expressions. This is the hierarchy of divine being."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak finds this verse essential for the karma yogi's worldview: the world of action (kshara) is real and important; the eternal principles behind it (akshara) are unchanging. But the Supreme Person who transcends both gives ultimate meaning to all activity — duty connects the changing to the changeless."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda sees this as the Gita's clearest philosophical framework: everything changes (kshara), something never changes (akshara), and the Supreme transcends both categories. This threefold understanding — change, changelessness, and the Absolute beyond both — is the complete metaphysical picture."
       }
     ],
     "applications": {
@@ -941,7 +1432,13 @@
         "How do I build a relationship on what doesn't change?"
       ]
     },
-    "themes": ["kshara", "akshara", "perishable", "imperishable", "kutastha"]
+    "themes": [
+      "kshara",
+      "akshara",
+      "perishable",
+      "imperishable",
+      "kutastha"
+    ]
   },
   {
     "id": "BG-15.17",
@@ -950,7 +1447,7 @@
     "sanskrit": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः |\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ॥१७॥",
     "iast": "uttamaḥ puruṣastvanyaḥ paramātmetyudāhṛtaḥ |\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||17||",
     "explanation": "But there is another, the Supreme Person, called the Paramatma (Supreme Self), the imperishable Lord who pervades and sustains the three worlds.",
-    "synthesis": "Having established two categories — the perishable beings and the imperishable principle — Krishna now reveals a third: the Uttama Purusha (Supreme Person), who transcends both. This is not an abstract absolute but a personal being — called Paramatma, the imperishable Lord — who enters all three worlds and sustains them from within. The word 'anyah' (another, distinct) is crucial: the Supreme Person is categorically different from both the changing world and the unchanging substrate. He is not merely the sum of kshara and akshara but their source, sustainer, and transcendent reality. This verse is the philosophical foundation for the name of the chapter itself: Purushottama Yoga.",
+    "synthesis": "But there is another, the Supreme Person (Purushottama), the imperishable Lord who enters the three worlds and sustains them. Shankara identifies Purushottama with the supreme Brahman beyond all dualities. Ramanuja sees this as the Lord who is distinct from and superior to both matter and souls. The Bhakti tradition worships Purushottama as Krishna — the personal God who transcends and sustains all. Madhva explains that Purushottama is utterly distinct from both the perishable and imperishable — the definitive statement of God's absolute supremacy. Abhinavagupta reads Purushottama as Paramashiva — the absolute consciousness that includes and transcends both dynamic and static aspects. Vallabha identifies Purushottama as Krishna Himself, the Supreme Person who encompasses but exceeds both categories. Tilak sees this as establishing the supreme reference point for all action — ultimate loyalty belongs to the Supreme Person. Vivekananda interprets Purushottama as the highest conception of reality, harmonizing personal and impersonal conceptions of God.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -966,6 +1463,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition hears this verse as the revelation of the Beloved's true nature: He is not just a force or principle but a Supreme Person who lovingly enters all creation to sustain it. He is 'another' — unique, beyond comparison — yet He pervades everything intimately. The devotee loves this Person, not an abstraction."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva explains that Purushottama (the Supreme Person) is utterly distinct from both the perishable and the imperishable — He is the transcendent Lord who enters and sustains all three worlds. This is the definitive statement of God's absolute supremacy over all other categories of reality."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads Purushottama as Paramashiva — the absolute consciousness that includes and transcends both the dynamic (kshara) and the static (akshara) aspects of reality. He enters the three worlds not by moving but by being the awareness in which all worlds appear."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha identifies Purushottama as Krishna Himself — the Supreme Person whose nature encompasses but exceeds both the perishable world and the imperishable soul. He sustains all three worlds through His omnipresent being. This is the ultimate object of devotion in pushti marga."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees this as establishing the supreme reference point for all action: the karma yogi's ultimate loyalty is not to the changing world or even to unchanging principles but to the Supreme Person who transcends both. This gives action its deepest possible grounding and purpose."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda interprets Purushottama as the highest conception of reality — beyond both the phenomenal world and the abstract absolute. This teaching harmonizes the personal and impersonal conceptions of God, showing that the ultimate reality includes but transcends both categories."
       }
     ],
     "applications": {
@@ -1000,7 +1522,13 @@
         "How do I open to something transcendent in partnership?"
       ]
     },
-    "themes": ["Paramatma", "Supreme Person", "transcendence", "three worlds", "immanence"]
+    "themes": [
+      "Paramatma",
+      "Supreme Person",
+      "transcendence",
+      "three worlds",
+      "immanence"
+    ]
   },
   {
     "id": "BG-15.18",
@@ -1009,7 +1537,7 @@
     "sanskrit": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः |\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ॥१८॥",
     "iast": "yasmātkṣaramatīto'hamakṣarādapi cottamaḥ |\nato'smi loke vede ca prathitaḥ puruṣottamaḥ ||18||",
     "explanation": "Because I transcend the perishable and am beyond even the imperishable, I am celebrated in the world and in the Vedas as the Purushottama — the Supreme Person.",
-    "synthesis": "This is the climactic declaration of the chapter and the source of its name. Krishna states with absolute clarity: I am beyond the perishable (all changing beings) and superior even to the imperishable (the unchanging principle). Therefore I am known everywhere — in the world and in scripture — as Purushottama, the Supreme Person. This is not mere theology but an ontological revelation: ultimate reality is personal, not merely abstract. The Absolute is not a cold void beyond the pairs but a Supreme Person who encompasses, transcends, and yet remains intimately present within all of existence. The word 'prathitah' (widely celebrated, renowned) suggests this is not a secret teaching but an open truth recognized across all traditions, though perhaps by different names.",
+    "synthesis": "Because I transcend the perishable and am beyond even the imperishable, I am celebrated in the world and in the Vedas as the Supreme Person (Purushottama). Shankara sees this as Brahman declaring its transcendence of all categories. Ramanuja reads it as the Lord affirming His supreme status as the ground of all existence. The Bhakti tradition celebrates this as Krishna's ultimate self-revelation. Madhva teaches that this is not mere title but a description of God's actual metaphysical supremacy. Abhinavagupta sees this as the ultimate self-declaration: consciousness transcending all its own manifestations and even its unmanifest ground. Vallabha explains that Krishna being Purushottama confirms the personal God as the highest truth. Tilak reads 'celebrated in the world and the Vedas' as meaning the Supreme is recognized through both scripture and lived experience. Vivekananda interprets this as affirming that the highest truth is both scripturally grounded and experientially verifiable — a universal reality.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1025,6 +1553,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For devotees, this verse is the supreme revelation: the Ultimate Reality is not an impersonal void but a Supreme Person — one who can be loved, known, served, and surrendered to. Krishna is not just a teacher or avatar but the Purushottama — the highest being in all existence. The devotee's heart leaps: the one I love is the Absolute itself."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva teaches that Krishna's transcendence of both the perishable and the imperishable establishes Him as the Purushottama celebrated in the Vedas and by the wise. This is not mere title but a description of God's actual metaphysical status as the supreme reality."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees this as the ultimate self-declaration of consciousness: I transcend all my own manifestations (kshara) and even my own unmanifest ground (akshara). The name Purushottama points to awareness in its absolute fullness — the state beyond all states that is the true nature of reality."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha explains that Krishna being celebrated as Purushottama in both scripture and the world confirms that the personal God is the highest truth. The impersonal Brahman is an aspect of His being, not the reverse. This is the definitive statement of theistic Vedanta."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads 'celebrated in the world and in the Vedas' as indicating that the Supreme Person is recognized not only in scripture but in the living experience of those who act with devotion. The karma yogi encounters Purushottama through dedicated service, not through scholarship alone."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda interprets this as the Gita's affirmation that the highest truth is both scripturally grounded and experientially verifiable. Purushottama is not a sectarian concept but a universal reality known to all traditions that have probed deeply enough into the nature of existence."
       }
     ],
     "applications": {
@@ -1059,7 +1612,13 @@
         "What makes some relationships feel genuinely transcendent?"
       ]
     },
-    "themes": ["Purushottama", "Supreme Person", "transcendence", "ultimate reality", "divine identity"]
+    "themes": [
+      "Purushottama",
+      "Supreme Person",
+      "transcendence",
+      "ultimate reality",
+      "divine identity"
+    ]
   },
   {
     "id": "BG-15.19",
@@ -1068,7 +1627,7 @@
     "sanskrit": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |\nस सर्वविद्भजति मां सर्वभावेन भारत ॥१९॥",
     "iast": "yo māmevamasammūḍho jānāti puruṣottamam |\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||19||",
     "explanation": "One who, without delusion, knows Me as the Purushottama (Supreme Person) — that person, knowing everything, worships Me with their whole being, O Bharata.",
-    "synthesis": "Krishna describes the fruit of understanding the Purushottama teaching: total, wholehearted devotion arising from clear knowledge. The undeluded person (asammudha) who recognizes Krishna as the Supreme Person becomes 'sarvavit' — a knower of everything essential. This is not encyclopedic knowledge but the realization that, having known the Supreme, nothing else remains to be known (as stated in the Upanishads: 'knowing which, all is known'). Such knowledge naturally produces worship 'with the whole being' (sarvabhavena) — not just with the intellect, or the emotions, or the body, but with every dimension of one's existence. Knowledge of the Supreme is not theoretical — it transforms the entire being into an instrument of devotion.",
+    "synthesis": "One who, without delusion, knows Me as Purushottama — that all-knowing person worships Me with their entire being. Shankara sees this as the culmination of jnana yoga — complete knowledge dissolving into complete devotion. Ramanuja reads it as knowledge and devotion united in the realization of God's supreme nature. The Bhakti tradition celebrates the undeluded devotee whose every breath is worship. Madhva teaches that knowing Krishna as Purushottama is the culmination of all understanding — not partial knowledge but complete wisdom. Abhinavagupta sees this as the supreme recognition — undeluded awareness recognizing its own nature as the absolute, with every act becoming self-recognition. Vallabha interprets this as the fulfillment of pushti marga: total devotion flowing from complete divine knowledge. Tilak reads 'worships Me in every way' as the karma yogi's ideal: every action becomes worship when performed with knowledge of the Supreme. Vivekananda emphasizes that genuine knowledge dispels all confusion, and the person who truly knows worships through every act of life.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1084,6 +1643,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "The bhakti tradition sees this as the description of prema-bhakti — the highest love. When you truly know someone as the Supreme Person, love is not a choice but an overflow. The devotee who knows Krishna as Purushottama doesn't 'practice' devotion — devotion pours from every pore. Their whole being sings, serves, and surrenders."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva teaches that one who knows Krishna as Purushottama without delusion is a true knower who worships God with complete devotion in every way. This is not partial knowledge but the culmination of all understanding — knowing God as supreme over all categories of reality."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees 'knowing Me as Purushottama' as the supreme recognition (pratyabhijna) — the undeluded awareness that recognizes its own nature as the absolute consciousness beyond all categories. This knower 'worships Me in every way' because every act of awareness is now seen as an act of self-recognition."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha interprets this as the fulfillment of pushti marga: the devotee who knows Krishna as Purushottama — without any doubt or delusion — naturally worships Him with every fiber of being. This total devotion is the sign of complete divine knowledge and the prerequisite for liberation."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak reads 'worships Me in every way' as the karma yogi's ideal: every action becomes worship when performed with the knowledge that the Supreme Person pervades all. Work, family, service — everything becomes an offering to Purushottama when this knowledge is alive."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda emphasizes 'without delusion' — genuine knowledge dispels all confusion about the nature of reality. The person who truly knows the Supreme worships through every act of life — eating, working, loving, serving — because they see the divine in everything."
       }
     ],
     "applications": {
@@ -1118,7 +1702,13 @@
         "How do I give my whole self to a relationship?"
       ]
     },
-    "themes": ["wholehearted devotion", "sarvabhava", "complete knowledge", "undeluded", "total worship"]
+    "themes": [
+      "wholehearted devotion",
+      "sarvabhava",
+      "complete knowledge",
+      "undeluded",
+      "total worship"
+    ]
   },
   {
     "id": "BG-15.20",
@@ -1127,7 +1717,7 @@
     "sanskrit": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ॥२०॥",
     "iast": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha |\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||20||",
     "explanation": "Thus, this most secret teaching has been revealed by Me, O sinless one. Understanding this, a person becomes truly wise and has accomplished all that needs to be accomplished, O Bharata.",
-    "synthesis": "Krishna concludes Chapter 15 by declaring it the 'most secret teaching' (guhyatamam shastram) — the superlative form indicating this surpasses even the 'secret' and 'more secret' teachings elsewhere in the Gita. The promise is extraordinary: whoever truly understands this teaching becomes 'buddhiman' (genuinely wise) and 'krita-kritya' (one who has done what needs to be done — completely fulfilled). This means that the Purushottama teaching is not one doctrine among many but the culminating insight that makes all other spiritual practices complete. The chapter that began with cutting the tree of worldly attachment ends with the fullness of divine knowledge — detachment and devotion united in the recognition of the Supreme Person.",
+    "synthesis": "Thus this most secret teaching has been revealed by Me, O sinless one. Understanding this, a person becomes truly wise and has accomplished all that is to be accomplished. Shankara sees this as the Gita confirming that knowledge of Purushottama is the highest wisdom. Ramanuja reads it as God's assurance that this teaching contains everything needed for liberation. The Bhakti tradition treasures this as the most intimate teaching reserved for the purest devotees. Madhva concludes that this reveals God's supreme status as Purushottama — the capstone of the Gita's theology. Abhinavagupta reads the 'most secret teaching' as the final revelation of consciousness to itself — recognizing what has always been true. Vallabha teaches that knowing Krishna as the Supreme Person beyond both perishable and imperishable is the most intimate revelation. Tilak sees this as declaring that true wisdom naturally leads to right action — the enlightened karma yogi has accomplished everything. Vivekananda reads this as the Gita's assurance that understanding the Supreme brings complete fulfillment — clear seeing of ultimate reality is what makes a person truly wise.",
     "commentaries": [
       {
         "tradition": "advaita",
@@ -1143,6 +1733,31 @@
         "tradition": "bhakti",
         "teacher": "Traditional Bhakti perspective",
         "text": "For the bhakti tradition, this verse seals the chapter with a kiss: Krishna calls Arjuna 'sinless one' (anagha) and shares His deepest secret — that He is the Supreme Person, the goal of all paths. The devotee who receives this teaching with an open heart has nothing left to achieve. Life becomes not a striving but a celebration of the Beloved's presence."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva concludes that this most secret teaching reveals God's supreme status as Purushottama. The person who understands this has fulfilled the purpose of all knowledge and all scripture. Madhva sees this as the capstone of the Gita's theology — God's absolute supremacy over all."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads the 'most secret teaching' as the final revelation of consciousness to itself: you are the Purushottama, the supreme awareness beyond all categories. Understanding this is not gaining new information but recognizing what has always been true. This recognition is the accomplishment of all accomplishments."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha teaches that this chapter's secret teaching — that Krishna is the Supreme Person beyond both the perishable and imperishable — is the most intimate revelation of the Gita. The devotee who understands this has found the goal of all seeking and becomes truly wise through God's grace."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees this final verse as declaring that true wisdom — understanding the Purushottama — naturally leads to right action. The enlightened karma yogi has accomplished everything worth accomplishing because they act from the deepest possible understanding of reality's nature."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda reads this as the Gita's assurance that genuine understanding of the Supreme brings complete fulfillment. Not material success, not scholarly reputation, but the clear seeing of ultimate reality — this is what makes a person truly accomplished and wise."
       }
     ],
     "applications": {
@@ -1177,6 +1792,12 @@
         "How do I move from working on my relationship to enjoying it?"
       ]
     },
-    "themes": ["most secret teaching", "completion", "wisdom", "krita-kritya", "fulfillment"]
+    "themes": [
+      "most secret teaching",
+      "completion",
+      "wisdom",
+      "krita-kritya",
+      "fulfillment"
+    ]
   }
 ]
