@@ -2,13 +2,29 @@
 import BaseLayout from '@layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
-const chapterData: Record<number, { sanskrit: string; name: string; verses: number }> = {
-  1: { sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47 },
-  2: { sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72 },
+const chapterData: Record<number, { sanskrit: string; name: string; verses: number; summary: string }> = {
+  1: { sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47, summary: 'On the battlefield of Kurukshetra, Arjuna sees his relatives, teachers, and friends on both sides. Overwhelmed by sorrow and moral confusion, he drops his bow and refuses to fight.' },
+  2: { sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72, summary: 'Krishna begins his teaching: the soul is eternal, the body is temporary. He introduces the core philosophy of the Gita, including detachment from results and the nature of a person of steady wisdom.' },
+  3: { sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43, summary: 'Krishna explains why action is superior to inaction. One must perform duties without attachment to results, maintaining equanimity in success and failure.' },
+  4: { sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42, summary: 'Krishna reveals the ancient lineage of this teaching and explains how divine knowledge destroys the bondage of karma. He describes various forms of sacrifice and spiritual practice.' },
+  5: { sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29, summary: 'The paths of renunciation and selfless action are compared. Krishna teaches that true renunciation is internal — acting without ego and desire while remaining engaged in the world.' },
+  6: { sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47, summary: 'Detailed instructions on meditation practice: posture, focus, diet, and lifestyle. Krishna addresses what happens to those who begin the spiritual path but do not complete it in one lifetime.' },
+  7: { sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30, summary: 'Krishna reveals his divine nature — both the material and spiritual dimensions of reality. He explains why few truly know him and describes four types of seekers.' },
+  8: { sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28, summary: 'The nature of the imperishable Brahman, the process of death and rebirth, and how one\'s final thoughts determine the next destination. Krishna teaches the path beyond return.' },
+  9: { sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34, summary: 'The most confidential knowledge: Krishna pervades all creation yet remains transcendent. Simple devotion — offering a leaf, flower, or water with love — reaches the divine directly.' },
+  10: { sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42, summary: 'Krishna describes his divine manifestations throughout creation — the best, the most powerful, the most beautiful in every category. Everything extraordinary is a spark of his splendor.' },
+  11: { sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55, summary: 'Arjuna is granted divine vision to behold Krishna\'s universal form — infinite, all-encompassing, terrifying and beautiful. He sees all of creation, destruction, and time itself.' },
+  12: { sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20, summary: 'Krishna declares devotion as the supreme path and describes the qualities of his dearest devotees: compassionate, humble, content, forgiving, and unwavering in faith.' },
+  13: { sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35, summary: 'The distinction between the body (the field) and the soul (the knower of the field). Krishna explains the elements of material nature and the qualities that lead to true knowledge.' },
+  14: { sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27, summary: 'The three qualities of material nature — sattva (goodness), rajas (passion), and tamas (ignorance) — and how they bind the soul. Krishna teaches how to transcend all three.' },
+  15: { sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20, summary: 'The metaphor of the cosmic banyan tree, rooted above and branching below. Krishna reveals himself as the Supreme Person, beyond both the perishable and imperishable.' },
+  16: { sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24, summary: 'Two types of human tendencies: divine qualities (fearlessness, purity, compassion) and demonic qualities (arrogance, anger, ignorance). Krishna urges cultivation of divine nature.' },
+  17: { sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28, summary: 'Faith itself comes in three types, shaped by the gunas. Krishna examines how food, worship, austerity, and charity differ based on whether they arise from goodness, passion, or ignorance.' },
+  18: { sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78, summary: 'The grand conclusion: Krishna summarizes all paths, reveals his most confidential teaching, and gives Arjuna the freedom to choose. Arjuna\'s doubt is destroyed; he is ready to act.' },
 };
 
 export function getStaticPaths() {
-  return [{ params: { id: '1' } }, { params: { id: '2' } }];
+  return Array.from({ length: 18 }, (_, i) => ({ params: { id: String(i + 1) } }));
 }
 
 const chapterNum = Number(Astro.params.id);
@@ -21,34 +37,83 @@ const placeholders = Array.from({ length: ch.verses }, (_, i) => {
   const real = shlokas.find((s) => s.data.verse === verse);
   return { verse, data: real?.data ?? null };
 });
+
+const loadedCount = shlokas.length;
+
+// Navigation to prev/next chapters
+const prevChapter = chapterNum > 1 ? chapterNum - 1 : null;
+const nextChapter = chapterNum < 18 ? chapterNum + 1 : null;
 ---
 <BaseLayout title={`Chapter ${chapterNum}: ${ch.name}`}>
 
-  <header class="pt-16 pb-12 px-6 text-center">
-    <a href={`${import.meta.env.BASE_URL}`} class="inline-block text-xs uppercase tracking-[0.3em] text-[--color-warm-400] hover:text-[--color-saffron] transition-colors mb-6">
-      ← All Chapters
-    </a>
-    <p class="font-[--font-devanagari] text-2xl sm:text-3xl text-[--color-warm-700] mb-2">{ch.sanskrit}</p>
+  <!-- Top navigation -->
+  <nav class="sticky top-0 z-10 bg-[--color-cream]/90 backdrop-blur-md border-b border-[--color-warm-100]/60">
+    <div class="max-w-3xl mx-auto px-6 py-3 flex items-center justify-between">
+      <a href={`${import.meta.env.BASE_URL}`}
+         class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400] hover:text-[--color-saffron] transition-colors duration-200">
+        All Chapters
+      </a>
+      <span class="font-[--font-display] text-sm text-[--color-warm-600]">
+        Chapter {chapterNum}
+      </span>
+      <div class="flex gap-3">
+        {prevChapter && (
+          <a href={`${import.meta.env.BASE_URL}chapter/${prevChapter}/`}
+             class="text-xs uppercase tracking-[0.15em] text-[--color-warm-400] hover:text-[--color-saffron] transition-colors duration-200"
+             title={`Chapter ${prevChapter}`}>
+            Prev
+          </a>
+        )}
+        {nextChapter && (
+          <a href={`${import.meta.env.BASE_URL}chapter/${nextChapter}/`}
+             class="text-xs uppercase tracking-[0.15em] text-[--color-warm-400] hover:text-[--color-saffron] transition-colors duration-200"
+             title={`Chapter ${nextChapter}`}>
+            Next
+          </a>
+        )}
+      </div>
+    </div>
+  </nav>
+
+  <!-- Chapter header -->
+  <header class="pt-12 sm:pt-16 pb-10 sm:pb-12 px-6 text-center">
+    <p class="text-xs uppercase tracking-[0.3em] text-[--color-warm-400] mb-4">
+      Chapter {chapterNum} of 18
+    </p>
+    <p class="font-[--font-devanagari] text-2xl sm:text-3xl text-[--color-warm-600] mb-3">{ch.sanskrit}</p>
     <h1 class="font-[--font-display] text-4xl sm:text-5xl md:text-6xl font-light text-[--color-warm-900] leading-[1.1]">
-      Chapter {chapterNum}: {ch.name}
+      {ch.name}
     </h1>
-    <p class="mt-4 text-base text-[--color-warm-400]">{ch.verses} verses</p>
-    <div class="mt-6 mx-auto w-16 h-px bg-[--color-saffron-light]"></div>
+    <div class="mt-6 mx-auto w-20 h-px bg-gradient-to-r from-transparent via-[--color-saffron-light] to-transparent"></div>
+
+    <!-- Chapter summary -->
+    <div class="mt-8 max-w-2xl mx-auto">
+      <p class="text-base sm:text-lg text-[--color-warm-600] leading-relaxed italic">
+        {ch.summary}
+      </p>
+    </div>
+
+    <p class="mt-6 text-sm text-[--color-warm-400]">
+      {loadedCount} of {ch.verses} verses available
+    </p>
   </header>
 
-  <main class="max-w-3xl mx-auto px-6 pb-24">
+  <!-- Verse list -->
+  <main class="max-w-3xl mx-auto px-6 pb-24 flex-1">
     <div class="space-y-3">
       {placeholders.map(({ verse, data }) => (
         data ? (
           <a href={`${import.meta.env.BASE_URL}verse/${chapterNum}/${verse}/`}
-             class="group block rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-5 sm:p-6 shadow-sm hover:shadow-md hover:border-[--color-saffron-light] transition-all duration-300">
+             class="group block rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-5 sm:p-6 shadow-sm hover:shadow-lg hover:border-[--color-saffron-light]/60 hover:-translate-y-px transition-all duration-300">
             <div class="flex items-start gap-5">
-              <span class="font-[--font-display] text-3xl font-light text-[--color-saffron] shrink-0 w-12">{verse}</span>
-              <div class="min-w-0">
-                <p class="font-[--font-devanagari] text-lg text-[--color-warm-700] leading-relaxed truncate mb-1">
+              <span class="font-[--font-display] text-3xl font-light text-[--color-saffron] shrink-0 w-12 group-hover:text-[--color-saffron-light] transition-colors duration-300">
+                {verse}
+              </span>
+              <div class="min-w-0 flex-1">
+                <p class="font-[--font-devanagari] text-base sm:text-lg text-[--color-warm-700] leading-relaxed truncate mb-1">
                   {data.sanskrit.split('\n')[0]}
                 </p>
-                <p class="text-sm italic text-[--color-warm-500] truncate mb-2">
+                <p class="text-sm italic text-[--color-warm-400] truncate mb-2.5">
                   {data.iast.split('\n')[0]}
                 </p>
                 <p class="text-sm text-[--color-warm-600] leading-relaxed line-clamp-2">
@@ -56,29 +121,57 @@ const placeholders = Array.from({ length: ch.verses }, (_, i) => {
                 </p>
                 <div class="mt-3 flex flex-wrap gap-1.5">
                   {data.themes.slice(0, 3).map((t) => (
-                    <span class="rounded-full border border-[--color-warm-200] px-2.5 py-0.5 text-xs text-[--color-warm-400]">{t}</span>
+                    <span class="rounded-full border border-[--color-warm-200]/80 px-2.5 py-0.5 text-[11px] text-[--color-warm-400] tracking-wide">{t}</span>
                   ))}
+                  {data.themes.length > 3 && (
+                    <span class="text-[11px] text-[--color-warm-300]">+{data.themes.length - 3}</span>
+                  )}
                 </div>
               </div>
             </div>
           </a>
         ) : (
-          <div class="rounded-2xl bg-[--color-warm-50]/40 border border-[--color-warm-100]/40 p-5 sm:p-6 opacity-40">
+          <div class="rounded-2xl bg-[--color-warm-50]/30 border border-[--color-warm-100]/30 p-5 sm:p-6 opacity-30">
             <div class="flex items-start gap-5">
               <span class="font-[--font-display] text-3xl font-light text-[--color-warm-300] shrink-0 w-12">{verse}</span>
               <div>
-                <p class="text-sm text-[--color-warm-300]">Content coming soon</p>
+                <p class="text-sm text-[--color-warm-300]">Coming soon</p>
               </div>
             </div>
           </div>
         )
       ))}
     </div>
+
+    <!-- Bottom chapter navigation -->
+    <nav class="flex items-center justify-between pt-10 mt-10 border-t border-[--color-warm-100]">
+      {prevChapter ? (
+        <a href={`${import.meta.env.BASE_URL}chapter/${prevChapter}/`}
+           class="group flex flex-col items-start">
+          <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400] mb-1">Previous Chapter</span>
+          <span class="font-[--font-display] text-base text-[--color-warm-600] group-hover:text-[--color-saffron] transition-colors duration-200">
+            {chapterData[prevChapter]?.name}
+          </span>
+        </a>
+      ) : <div />}
+      {nextChapter ? (
+        <a href={`${import.meta.env.BASE_URL}chapter/${nextChapter}/`}
+           class="group flex flex-col items-end">
+          <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400] mb-1">Next Chapter</span>
+          <span class="font-[--font-display] text-base text-[--color-warm-600] group-hover:text-[--color-saffron] transition-colors duration-200">
+            {chapterData[nextChapter]?.name}
+          </span>
+        </a>
+      ) : <div />}
+    </nav>
   </main>
 
-  <footer class="border-t border-[--color-warm-100] py-8 text-center">
+  <footer class="border-t border-[--color-warm-100] py-10 text-center mt-auto">
+    <p class="font-[--font-devanagari] text-sm text-[--color-warm-300] mb-2">
+      कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
+    </p>
     <p class="text-xs text-[--color-warm-400] tracking-wide">
-      Gita Press (Gorakhpur) · IAST Transliteration · Open Source
+      Multi-tradition synthesis &middot; IAST transliteration &middot; Open source
     </p>
   </footer>
 

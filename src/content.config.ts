@@ -1,10 +1,11 @@
 // src/content.config.ts
 import { defineCollection } from 'astro:content';
-import { file } from 'astro/loaders';
 import { z } from 'astro/zod';
+import { readdir, readFile } from 'node:fs/promises';
+import { join } from 'node:path';
 
 const shlokaSchema = z.object({
-  id: z.string(),                    // "BG-1.1" format — required by file() loader
+  id: z.string(),                    // "BG-1.1" format — required by loader
   chapter: z.number().int().min(1).max(18),
   verse: z.number().int().min(1),
   sanskrit: z.string().regex(/[\u0900-\u097F]/, {
@@ -17,11 +18,20 @@ const shlokaSchema = z.object({
   synthesis: z.string().min(100),
   commentaries: z.array(
     z.object({
-      tradition: z.enum(['advaita', 'vishishtadvaita', 'bhakti']),
+      tradition: z.enum([
+        'advaita',              // Adi Shankaracharya — non-dualism
+        'vishishtadvaita',      // Ramanujacharya — qualified non-dualism
+        'dvaita',               // Madhvacharya — dualism
+        'bhakti',               // Broad devotional traditions
+        'kashmir-shaivism',     // Abhinavagupta
+        'shuddhadvaita',       // Vallabhacharya — pure non-dualism
+        'karma-yoga',           // Tilak, Gandhi — action-oriented
+        'practical-vedanta',    // Vivekananda — universal application
+      ]),
       teacher: z.string(),
       text: z.string().min(50),
     })
-  ).min(2).max(3),
+  ).min(3).max(8),
   applications: z.object({
     personal_growth: z.string().min(30),
     career_business: z.string().min(30),
@@ -39,8 +49,26 @@ const shlokaSchema = z.object({
 
 export type Shloka = z.infer<typeof shlokaSchema>;
 
+// Custom loader: reads all chapter-*.json files from src/data/chapters/
 const chapters = defineCollection({
-  loader: file('src/data/chapters/chapter-01.json'),
+  loader: {
+    name: 'chapters-loader',
+    load: async ({ store, logger }) => {
+      const dir = 'src/data/chapters';
+      const files = (await readdir(dir))
+        .filter((f) => f.startsWith('chapter-') && f.endsWith('.json'))
+        .sort();
+
+      for (const f of files) {
+        const raw = await readFile(join(dir, f), 'utf-8');
+        const entries = JSON.parse(raw);
+        for (const entry of entries) {
+          store.set({ id: entry.id, data: entry });
+        }
+        logger.info(`Loaded ${entries.length} verses from ${f}`);
+      }
+    },
+  },
   schema: shlokaSchema,
 });
 

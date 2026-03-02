@@ -1,62 +1,93 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
 
-const chapters = [
-  { num: 1, sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47, available: true },
-  { num: 2, sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72, available: true },
-  { num: 3, sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43, available: false },
-  { num: 4, sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42, available: false },
-  { num: 5, sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29, available: false },
-  { num: 6, sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47, available: false },
-  { num: 7, sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30, available: false },
-  { num: 8, sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28, available: false },
-  { num: 9, sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34, available: false },
-  { num: 10, sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42, available: false },
-  { num: 11, sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55, available: false },
-  { num: 12, sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20, available: false },
-  { num: 13, sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35, available: false },
-  { num: 14, sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27, available: false },
-  { num: 15, sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20, available: false },
-  { num: 16, sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24, available: false },
-  { num: 17, sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28, available: false },
-  { num: 18, sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78, available: false },
+const allShlokas = await getCollection('chapters');
+const chaptersWithData = new Set(allShlokas.map((s) => s.data.chapter));
+
+const chapterMeta = [
+  { num: 1, sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47 },
+  { num: 2, sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72 },
+  { num: 3, sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43 },
+  { num: 4, sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42 },
+  { num: 5, sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29 },
+  { num: 6, sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47 },
+  { num: 7, sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30 },
+  { num: 8, sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28 },
+  { num: 9, sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34 },
+  { num: 10, sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42 },
+  { num: 11, sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55 },
+  { num: 12, sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20 },
+  { num: 13, sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35 },
+  { num: 14, sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27 },
+  { num: 15, sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20 },
+  { num: 16, sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24 },
+  { num: 17, sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28 },
+  { num: 18, sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78 },
 ];
----
-<BaseLayout title="Chapters">
 
-  <header class="pt-20 pb-12 px-6 text-center">
-    <h1 class="font-[--font-display] text-5xl sm:text-6xl md:text-7xl font-light text-[--color-warm-900] leading-[1.1] tracking-tight">
-      Bhagavad Gītā
-    </h1>
-    <p class="mt-6 font-[--font-display] text-xl sm:text-2xl text-[--color-warm-500] italic">
-      700 verses · 18 chapters · One guide for all of life
-    </p>
-    <div class="mt-8 mx-auto w-16 h-px bg-[--color-saffron-light]"></div>
+const chapters = chapterMeta.map((ch) => ({
+  ...ch,
+  available: chaptersWithData.has(ch.num),
+  loadedVerses: allShlokas.filter((s) => s.data.chapter === ch.num).length,
+}));
+
+const totalVerses = allShlokas.length;
+---
+<BaseLayout title="Home">
+
+  <!-- Hero -->
+  <header class="relative pt-24 sm:pt-32 pb-16 sm:pb-20 px-6 text-center overflow-hidden">
+    <!-- Subtle decorative element -->
+    <div class="absolute inset-0 pointer-events-none" aria-hidden="true">
+      <div class="absolute top-12 left-1/2 -translate-x-1/2 w-64 h-64 rounded-full bg-[--color-saffron-light] opacity-[0.06] blur-3xl"></div>
+    </div>
+
+    <div class="relative">
+      <p class="font-[--font-devanagari] text-lg sm:text-xl text-[--color-warm-400] mb-4 animate-fade-in">
+        श्रीमद्भगवद्गीता
+      </p>
+      <h1 class="font-[--font-display] text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-light text-[--color-warm-900] leading-[1.05] tracking-tight animate-slide-up">
+        The Bhagavad Gītā
+      </h1>
+      <div class="mt-8 mx-auto w-20 h-px bg-gradient-to-r from-transparent via-[--color-saffron-light] to-transparent"></div>
+      <p class="mt-8 font-[--font-display] text-lg sm:text-xl md:text-2xl text-[--color-warm-500] italic max-w-lg mx-auto leading-relaxed animate-fade-in">
+        700 verses of timeless wisdom, made actionable for modern life
+      </p>
+      <p class="mt-4 text-sm text-[--color-warm-400] tracking-wide">
+        18 chapters &middot; {totalVerses} verses loaded &middot; 8 commentary traditions
+      </p>
+    </div>
   </header>
 
-  <main class="max-w-5xl mx-auto px-6 pb-24">
+  <!-- Chapter Grid -->
+  <main class="max-w-5xl mx-auto px-6 pb-24 flex-1">
 
     <div class="grid gap-4 sm:gap-5 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
       {chapters.map((ch) => (
         ch.available ? (
           <a href={`${import.meta.env.BASE_URL}chapter/${ch.num}/`}
-             class="group rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-6 sm:p-7 shadow-sm hover:shadow-md hover:border-[--color-saffron-light] transition-all duration-300">
+             class="group relative rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-6 sm:p-7 shadow-sm hover:shadow-lg hover:border-[--color-saffron-light]/60 hover:-translate-y-0.5 transition-all duration-300">
             <div class="flex items-baseline justify-between mb-3">
-              <span class="font-[--font-display] text-4xl font-light text-[--color-saffron]">{ch.num}</span>
-              <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400]">{ch.verses} verses</span>
+              <span class="font-[--font-display] text-4xl font-light text-[--color-saffron] group-hover:text-[--color-saffron-light] transition-colors duration-300">{ch.num}</span>
+              <span class="text-xs uppercase tracking-[0.15em] text-[--color-warm-400]">
+                {ch.loadedVerses < ch.verses ? `${ch.loadedVerses}/${ch.verses}` : ch.verses} verses
+              </span>
             </div>
-            <p class="font-[--font-devanagari] text-lg text-[--color-warm-700] mb-1">{ch.sanskrit}</p>
-            <h2 class="font-[--font-display] text-xl text-[--color-warm-900] group-hover:text-[--color-saffron] transition-colors">{ch.name}</h2>
+            <p class="font-[--font-devanagari] text-lg text-[--color-warm-600] mb-1.5 leading-snug">{ch.sanskrit}</p>
+            <h2 class="font-[--font-display] text-xl text-[--color-warm-800] group-hover:text-[--color-saffron] transition-colors duration-300">{ch.name}</h2>
+            <!-- Hover accent line -->
+            <div class="absolute bottom-0 left-6 right-6 h-px bg-gradient-to-r from-transparent via-[--color-saffron-light] to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
           </a>
         ) : (
-          <div class="rounded-2xl bg-[--color-warm-50]/50 border border-[--color-warm-100]/50 p-6 sm:p-7 opacity-50">
+          <div class="rounded-2xl bg-[--color-warm-50]/40 border border-[--color-warm-100]/40 p-6 sm:p-7 opacity-40">
             <div class="flex items-baseline justify-between mb-3">
               <span class="font-[--font-display] text-4xl font-light text-[--color-warm-300]">{ch.num}</span>
-              <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-300]">{ch.verses} verses</span>
+              <span class="text-xs uppercase tracking-[0.15em] text-[--color-warm-300]">{ch.verses} verses</span>
             </div>
-            <p class="font-[--font-devanagari] text-lg text-[--color-warm-300] mb-1">{ch.sanskrit}</p>
+            <p class="font-[--font-devanagari] text-lg text-[--color-warm-300] mb-1.5">{ch.sanskrit}</p>
             <h2 class="font-[--font-display] text-xl text-[--color-warm-300]">{ch.name}</h2>
-            <p class="mt-2 text-xs uppercase tracking-[0.2em] text-[--color-warm-300]">Coming soon</p>
+            <p class="mt-3 text-xs uppercase tracking-[0.15em] text-[--color-warm-300]">Coming soon</p>
           </div>
         )
       ))}
@@ -64,9 +95,12 @@ const chapters = [
 
   </main>
 
-  <footer class="border-t border-[--color-warm-100] py-8 text-center">
+  <footer class="border-t border-[--color-warm-100] py-10 text-center mt-auto">
+    <p class="font-[--font-devanagari] text-sm text-[--color-warm-300] mb-2">
+      कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
+    </p>
     <p class="text-xs text-[--color-warm-400] tracking-wide">
-      Gita Press (Gorakhpur) · IAST Transliteration · Open Source
+      Multi-tradition synthesis &middot; IAST transliteration &middot; Open source
     </p>
   </footer>
 

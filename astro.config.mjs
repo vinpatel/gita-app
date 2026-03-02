@@ -4,8 +4,9 @@ import preact from '@astrojs/preact';
 
 export default defineConfig({
   site: 'https://placeholder.github.io',
-  base: '/gita-app',
+  base: '/gita-app/',
   output: 'static',
+  devToolbar: { enabled: false },
   integrations: [preact()],
   vite: {
     plugins: [tailwindcss()],

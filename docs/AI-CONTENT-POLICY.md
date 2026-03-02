@@ -16,11 +16,19 @@ To ensure that all AI-generated commentary, synthesis, and interpretive content 
 
 ## Permitted Philosophical Traditions
 
-AI-generated content may synthesize perspectives from the following traditions as **philosophical schools**, not as specific copyrighted texts:
+AI-generated content may synthesize perspectives from the following 8 traditions as **philosophical schools**, not as specific copyrighted texts:
 
-- **Advaita Vedanta** — associated with Adi Shankaracharya; non-dual interpretation of Brahman and Atman
-- **Vishishtadvaita** — associated with Ramanujacharya; qualified non-dualism and devotional theism
+### Classical Commentators (Pre-1600, Public Domain)
+- **Advaita Vedanta** — Adi Shankaracharya (~8th c.); non-dual interpretation — Brahman alone is real, the world is appearance, the self is Brahman
+- **Vishishtadvaita** — Ramanujacharya (~11th c.); qualified non-dualism — the soul and world are real but dependent on God
+- **Dvaita** — Madhvacharya (~13th c.); dualism — God, souls, and matter are eternally distinct; devotion through understanding God's supremacy
 - **Bhakti traditions** — broad devotional perspectives rooted in the Vaishnava and other bhakti movements
+- **Kashmir Shaivism** — Abhinavagupta (~10th c.); non-dual Shaiva perspective — consciousness (Spanda) as the foundation of all reality; Pratyabhijñā (recognition) philosophy
+- **Shuddhadvaita** — Vallabhacharya (~16th c.); pure non-dualism — the world is real and divine; puṣṭi mārga (path of grace); sevā-bhāva (service devotion)
+
+### Modern Interpreters (Referenced for Context, Paraphrased Only)
+- **Karma Yoga emphasis** — Bal Gangadhar Tilak (~1915); action-oriented interpretation — duty in the world, social responsibility, practical ethics. Also draws on Gandhi's Anāsakti Yoga
+- **Practical Vedanta** — Swami Vivekananda (~1896); universal spirituality — strength-based interpretation, service to humanity as worship, fearlessness as the mark of the spiritual life
 
 ---
 

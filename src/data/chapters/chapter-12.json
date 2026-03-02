@@ -1,0 +1,1807 @@
+[
+  {
+    "id": "BG-12.1",
+    "chapter": 12,
+    "verse": 1,
+    "sanskrit": "अर्जुन उवाच |\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ॥१॥",
+    "iast": "arjuna uvāca |\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate |\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||1||",
+    "explanation": "Arjuna asks Krishna a pivotal question: between those devotees who worship You with constant devotion in Your personal form, and those who worship the imperishable, unmanifested Absolute — who are better versed in yoga? This question arises from the teachings of the previous chapter where Krishna revealed His cosmic form, prompting Arjuna to seek clarity on the relative merit of two paths of spiritual practice.",
+    "synthesis": "This opening verse frames the central inquiry of Chapter 12: is the path of personal devotion superior to the path of formless meditation? Across the eight traditions, this question resonates differently. Shankaracharya's Advaita sees both paths as valid but differing in difficulty, while Ramanujacharya's Vishishtadvaita holds that personal devotion engages the whole being more completely. Madhva's Dvaita reads the question as already implying the supremacy of saguna worship. Abhinavagupta's Kashmir Shaivism transcends the dichotomy, seeing personal and formless as two faces of the same Consciousness. Vallabha's Shuddhadvaita points toward grace-fueled devotion as the most natural path. Tilak's karma yoga perspective asks which path better supports an active life, while Vivekananda's practical Vedanta affirms that most seekers naturally begin with the personal. The Bhakti tradition celebrates this question as the doorway through which Krishna reveals the supremacy of love over abstraction. Arjuna's use of 'satatayuktā' (constantly united) shows he understands that both paths require unwavering commitment — the question is not about effort but about the most effective direction for that effort.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains that Arjuna's question concerns two classes of seekers — those devoted to the personal form (saguna) and those devoted to the formless Absolute (nirguna Brahman). Both ultimately lead to liberation, but the question is about which path is more accessible and effective for embodied beings."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya interprets this question as setting the stage for Krishna to declare the supremacy of bhakti directed toward the personal Lord. The word 'paryupāsate' implies a complete, loving worship that encompasses body, mind, and soul — not mere intellectual contemplation."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees Arjuna as the ideal devotee who asks the question burning in every seeker's heart: is it enough to love God as a person, or must I transcend form altogether? Krishna's forthcoming answer will validate the path of the heart as not merely sufficient but supreme."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva reads this question as arising from Arjuna's recognition that the personal Lord possesses infinite auspicious qualities, making devotion to His form inherently more meaningful than meditation on the attributeless. The question itself reflects the hierarchy Madhva sees between saguna and nirguna worship."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta views this not as an either-or question but as a reflection of two modes of recognizing the same Consciousness. The personal form and the formless Absolute are two faces of Shiva-Shakti, and the mature seeker embraces both as expressions of universal awareness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha interprets Arjuna's question as pointing toward the supremacy of pushti-bhakti — grace-fueled devotion to the personal Lord. Since the Lord is the only independent reality and all souls are His parts, worship of His personal form is the most natural and direct path to divine union."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak sees this question as fundamentally practical: which path allows a person to remain engaged in worldly duties while progressing spiritually? The answer will confirm that personal devotion, compatible with an active life, is more accessible than abstract meditation requiring complete withdrawal."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda reads this verse as the eternal question of humanity: do we seek God through the heart or through the intellect? He affirms that both are valid expressions of the same divine impulse, but for most human beings, the personal approach is more natural and immediately transformative."
+      }
+    ],
+    "applications": {
+      "personal_growth": "When you face a choice between approaches to self-improvement — structured discipline versus intuitive flow, intellectual study versus experiential practice — the real question is which approach you can sustain with full engagement. The best path is the one you can walk wholeheartedly.",
+      "career_business": "Organizations often debate between pursuing abstract ideals (innovation, disruption) and focusing on tangible, relatable goals (serving specific customers, solving concrete problems). The most effective teams are those who can connect their daily work to something they genuinely care about.",
+      "health": "The health world presents countless approaches — should you follow strict protocols and data-driven methods, or listen to your body's intuitive signals? The verse suggests that the method you can practice with consistent devotion matters more than theoretical superiority.",
+      "relationships": "In relationships, do you express love through grand philosophical understanding of the other person, or through consistent, tangible acts of devotion? This verse opens the question of whether abstract appreciation or concrete, personal engagement builds deeper bonds."
+    },
+    "questions": {
+      "personal_growth": [
+        "Which spiritual path is right for me?",
+        "Is meditation on the formless better than devotion to a personal God?",
+        "How do I choose between different spiritual practices?",
+        "I feel overwhelmed by too many approaches to self-growth",
+        "What's the best way to connect with the divine?"
+      ],
+      "career_business": [
+        "Should I pursue abstract innovation or solve concrete problems?",
+        "How do I choose between big-picture vision and hands-on execution?",
+        "Is it better to follow a system or follow my passion at work?",
+        "I can't decide between two equally valid career approaches"
+      ],
+      "health": [
+        "Should I follow strict health protocols or trust my body?",
+        "How do I choose between different wellness approaches?",
+        "Is data-driven health better than intuitive self-care?",
+        "I keep switching between health methods and nothing sticks"
+      ],
+      "relationships": [
+        "Is it better to understand my partner intellectually or show love through actions?",
+        "How do I express love when I'm not sure what form it should take?",
+        "My partner and I have completely different love languages",
+        "Should I love unconditionally or with clear expectations?"
+      ]
+    },
+    "themes": [
+      "devotion",
+      "spiritual-inquiry",
+      "form-vs-formless",
+      "yoga-paths",
+      "seeking"
+    ]
+  },
+  {
+    "id": "BG-12.2",
+    "chapter": 12,
+    "verse": 2,
+    "sanskrit": "श्रीभगवानुवाच |\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |\nश्रद्धया परयोपेताः ते मे युक्ततमा मताः ॥२॥",
+    "iast": "śrībhagavānuvāca |\nmayyāveśya mano ye māṃ nityayuktā upāsate |\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||2||",
+    "explanation": "The Supreme Lord declares: Those who fix their minds on Me, who worship Me with constant devotion and supreme faith — I consider them to be the most perfect in yoga. This is Krishna's direct and unambiguous answer to Arjuna's question, establishing personal devotion as the highest path.",
+    "synthesis": "Krishna's reply is immediate and decisive — those who worship Him with their minds absorbed in Him, endowed with supreme faith, are the most accomplished yogis. The word 'yuktatamā' (most united) is superlative, establishing a clear hierarchy. Shankaracharya acknowledges the validity of this path for embodied beings. Ramanujacharya sees the superlative as definitive — devotees are not merely equal but the best. Madhva considers this verse proof of the absolute supremacy of bhakti directed at Vishnu's personal form. Abhinavagupta interprets supreme union as the most integrated state of consciousness. Vallabha sees it as describing pushti-marga, where absorption arises through grace rather than effort alone. Tilak reads supreme faith as compatible with an active life, while Vivekananda celebrates love as the most direct route to the divine. Across all traditions, this verse establishes that personal devotion — combining emotional love, intellectual conviction, and constant remembrance — is the most powerful and accessible means of spiritual realization.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya notes that while both paths lead to liberation, the path of personal devotion is declared superior for those in embodied existence. The mind naturally seeks an object of focus, and the personal form of the Lord provides the most effective anchor for concentration and spiritual absorption."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya emphasizes that 'yuktatamā' — the most perfectly united — is the highest superlative. Krishna does not say devotees are merely equal to those who worship the formless; He says they are the best. Faith (śraddhā) and constancy (nityayuktā) together form the unshakeable foundation of bhakti."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "This verse is the beating heart of Bhakti Yoga. God Himself declares that those who love Him personally, with unwavering faith and constant remembrance, are dearest and most accomplished. It validates the devotee's longing, tears, and love as the highest spiritual attainment — not a lesser substitute for philosophical knowledge."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva considers this verse the definitive declaration of the supremacy of bhakti directed at the personal God. The superlative 'yuktatamā' establishes an absolute hierarchy — devotion to Vishnu's personal form with all His infinite qualities is the highest spiritual attainment, not merely one option among equals."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets 'yuktatamā' as indicating the most integrated state of consciousness where the devotee's awareness merges with Shiva's own self-awareness. Supreme faith and constant union describe the state of pratyabhijñā — recognition of one's own divine nature through devoted contemplation."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha reads this as Krishna establishing pushti-marga: those whose devotion is sustained by divine grace, whose minds are effortlessly absorbed in the Lord's sweetness, are the most perfected. This absorption is not the result of human effort alone but of the Lord's own drawing power."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets supreme faith and constant devotion as qualities fully compatible with active life. The truly devoted person does not need to renounce the world; unwavering mental focus on the divine can be maintained even amid daily responsibilities, making bhakti the most practical path."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda celebrates this verse as affirming that the path of love is the most direct route to the divine. Intellectual knowledge may be grand, but it is the person whose every heartbeat resonates with devotion who reaches the highest union. Love concentrates the whole being on God."
+      }
+    ],
+    "applications": {
+      "personal_growth": "When you find something you believe in deeply and commit to it with full faith and consistency, you achieve more than someone who intellectually understands many paths but walks none wholeheartedly. Total engagement surpasses partial understanding.",
+      "career_business": "The most successful professionals are not necessarily the most talented but those who bring unwavering dedication and genuine passion to their work. Faith in your mission combined with consistent effort creates results that sporadic brilliance cannot match.",
+      "health": "Consistent, faith-driven health practices — a routine you believe in and follow daily — produce better results than perfect knowledge applied inconsistently. The person who walks every morning with devotion to their well-being outperforms the one who knows every diet theory.",
+      "relationships": "Relationships thrive not on grand gestures but on constant, faithful presence. The partner who shows up every day with genuine love and attention is more deeply connected than one who offers occasional brilliance but lacks consistency."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I develop unwavering faith in my spiritual practice?",
+        "What does it mean to be constantly devoted?",
+        "Is personal devotion really the highest path?",
+        "How do I keep my mind fixed on what matters most?"
+      ],
+      "career_business": [
+        "How do I stay committed to my work when motivation fades?",
+        "Is passion more important than talent in career success?",
+        "How do I build unshakeable faith in my professional mission?",
+        "What matters more — knowing a lot or being deeply dedicated?"
+      ],
+      "health": [
+        "How do I build a health routine I actually stick to?",
+        "Is consistency more important than the perfect plan?",
+        "How do I develop faith in my healing journey?",
+        "Why does simple consistency beat complicated programs?"
+      ],
+      "relationships": [
+        "How do I show up consistently for the people I love?",
+        "Is faithful presence more important than grand gestures?",
+        "How do I deepen my commitment to my partner?",
+        "What does unwavering devotion look like in daily life?"
+      ]
+    },
+    "themes": [
+      "devotion",
+      "faith",
+      "consistency",
+      "supreme-yoga",
+      "personal-God"
+    ]
+  },
+  {
+    "id": "BG-12.3",
+    "chapter": 12,
+    "verse": 3,
+    "sanskrit": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |\nसर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम् ॥३॥",
+    "iast": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate |\nsarvatragamacintyaṃ ca kūṭasthamacalaṃ dhruvam ||3||",
+    "explanation": "But those who worship the imperishable, the indefinable, the unmanifested, the all-pervading, the inconceivable, the unchanging, the immovable, and the eternal — Krishna begins describing the path of those who seek the formless Absolute, using a cascade of negative and transcendent attributes to convey something beyond all description.",
+    "synthesis": "This verse describes the path of nirguna upāsanā — worship of the attributeless Absolute — through seven transcendent descriptors that strip away all conceptual limitation. Shankaracharya identifies these as classical markers of nirguna Brahman, the highest philosophical truth. Ramanujacharya notes that worship of something so completely abstract is extraordinarily difficult for embodied beings. Madhva argues that these negative attributes, while true, represent an incomplete understanding compared to the positive qualities of the personal Lord. Abhinavagupta sees the formless as Shiva's transcendent aspect, inseparable from His immanent manifestation. Vallabha maintains that the positive reality — the Lord's personal, blissful nature — is more fundamental than any negation. Tilak observes that the formless provides no practical anchor for ethical action, while Vivekananda recommends beginning with the personal and letting the impersonal reveal itself naturally. The Bhakti tradition notes the profound challenge: how does the human heart love what it cannot conceive? Each tradition acknowledges the validity of the formless path while noting its extraordinary demands.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya identifies these attributes as the classical markers of nirguna Brahman — the Absolute beyond all qualities. The terms akṣara (imperishable), avyakta (unmanifest), and acintya (inconceivable) describe reality as it is beyond the mind's projections. This is the highest truth, though approaching it requires purified intellect."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya acknowledges these attributes but notes that worship of such a completely abstract reality is extraordinarily difficult for embodied beings. The very qualities that make this Absolute supreme — its formlessness, incomprehensibility — also make it nearly impossible to meditate upon with sustained focus."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition respects the formless path but observes that the sheer number of negations in this verse — indefinable, inconceivable, unmanifest — reveals the challenge: how does the human heart love what it cannot conceive? Devotion needs a beloved, and these attributes describe something the heart cannot easily embrace."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva notes that this cascade of negative attributes — imperishable, indefinable, unmanifest — describes Brahman only in its most abstract aspect. Such worship, while acknowledged, cannot engage with the infinite positive qualities of the personal Lord, making it inherently less complete than saguna bhakti."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees these attributes as describing Shiva in His transcendent aspect (Shiva-tattva), beyond all manifestation. However, Kashmir Shaivism holds that the transcendent is never truly separate from the immanent — the formless eternally expresses itself through form, and recognizing both is the fullest realization."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha interprets these negative attributes as indicating what the Absolute is not, but argues that the positive reality — the Lord's blissful, personal nature — is more fundamental. Brahman is not merely 'not this'; Brahman is the fullness of sat-chit-ananda expressed as the personal Lord."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak observes that worshipping something inconceivable and indefinable provides no practical anchor for action. The active person needs a tangible ideal to guide ethical choices and motivate selfless work. The formless path, while philosophically valid, offers little guidance for life in the world."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda acknowledges that the Absolute described here is the ultimate philosophical truth, but notes that the human mind, conditioned by name and form, struggles to hold what is beyond all categories. He recommends starting with the personal and gradually realizing its identity with the impersonal."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Pursuing abstract perfection — trying to become an indefinable ideal rather than a specific, grounded version of yourself — can leave you striving for something you cannot grasp. Clarity comes when you give your aspiration a concrete, relatable form.",
+      "career_business": "Companies that pursue purely abstract goals like 'maximizing shareholder value' or 'disrupting industries' often struggle with alignment. When the mission is too abstract to feel, people cannot rally around it. The unchanging and inconceivable needs a face.",
+      "health": "Health goals framed in abstract terms — 'be healthier,' 'reduce stress' — are harder to achieve than concrete, personal ones like 'play with my children without getting tired.' The formless goal needs embodiment to become actionable.",
+      "relationships": "Loving an ideal or concept of a person rather than the actual, imperfect person in front of you creates distance. Abstract love — loving humanity in general — is far harder than loving one specific person deeply and consistently."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I meditate on something formless and beyond thought?",
+        "Is it possible to connect with the Absolute without any form?",
+        "I struggle with abstract spiritual concepts — is that okay?",
+        "How do advanced meditators perceive the formless reality?"
+      ],
+      "career_business": [
+        "Our company mission is too abstract — how do we make it real?",
+        "How do I rally a team around an intangible vision?",
+        "Is it better to have a concrete goal or an inspiring abstraction?",
+        "My work feels disconnected from any tangible purpose"
+      ],
+      "health": [
+        "My health goals are too vague to act on",
+        "How do I turn 'be healthier' into something concrete?",
+        "Why do abstract health goals always fail?",
+        "I know what health looks like in theory but can't practice it"
+      ],
+      "relationships": [
+        "I love the idea of love but struggle with real people",
+        "How do I stop idealizing my partner and love them as they are?",
+        "I find it easier to love humanity than specific individuals",
+        "Why does abstract compassion feel easier than daily kindness?"
+      ]
+    },
+    "themes": [
+      "formless-worship",
+      "nirguna-brahman",
+      "transcendence",
+      "abstraction",
+      "spiritual-challenge"
+    ]
+  },
+  {
+    "id": "BG-12.4",
+    "chapter": 12,
+    "verse": 4,
+    "sanskrit": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ॥४॥",
+    "iast": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ |\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||4||",
+    "explanation": "Having restrained all the senses, being even-minded everywhere, and engaged in the welfare of all beings — they also reach Me alone. Krishna confirms that those who follow the formless path do attain Him, provided they have complete sense control, equanimity, and universal compassion.",
+    "synthesis": "Krishna confirms that the formless path leads to Him, but the conditions are formidable: complete sense mastery, unwavering equanimity, and genuine dedication to universal welfare. Shankaracharya affirms the validity of the jñāna path while acknowledging its demands. Ramanujacharya reads 'māmeva' (Me alone) as confirmation that even formless worshippers ultimately reach the personal Lord. Madhva agrees that the destination is the same but considers the formless route unnecessarily arduous. Abhinavagupta sees universal compassion as a natural expression of recognizing Shiva in all beings. Vallabha acknowledges this path but emphasizes that pushti-marga achieves the same result through grace, without demanding superhuman self-control. Tilak highlights 'sarvabhūtahite ratāḥ' as proof that even the formless path demands active service. Vivekananda reads universal welfare as the practical test of genuine realization. The Bhakti tradition notes the beautiful irony: even those who worship the formless must cultivate compassion — which is itself a form of love, showing that the heart's engagement cannot be bypassed on any genuine spiritual path.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya affirms that seekers of the formless Absolute who practice complete sense restraint, maintain equal vision toward all, and work for universal welfare do indeed attain the same Supreme. The jñāna path is valid and leads to the same liberation, though it demands extraordinary discipline."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya reads 'māmeva' (Me alone) as significant — even the formless worshippers ultimately reach the personal Lord. The path may differ in method, but the destination is the same. However, the stringent requirements of sense control and universal equanimity make this path suitable only for the most advanced seekers."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition notes the beautiful irony: even those who worship the formless must cultivate compassion for all beings — which is itself a form of love. This shows that bhakti (love) is unavoidable on any genuine spiritual path. The heart's engagement cannot be bypassed, only redirected."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva reads 'māmeva' (Me alone) as confirmation that even formless worshippers ultimately reach the personal Lord Vishnu. Their path, though roundabout, terminates in the same supreme Person. The conditions — sense restraint, equanimity, universal welfare — are far more demanding than the path of direct devotion."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees universal compassion ('sarvabhūtahite ratāḥ') as a natural expression of recognizing Shiva in all beings. When the seeker perceives the one Consciousness pervading everything, concern for all beings arises spontaneously — not as a moral obligation but as a natural extension of self-recognition."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha acknowledges that this path reaches the Lord but emphasizes that the conditions required — total sense mastery and perfect equanimity — make it suitable only for exceptional souls. The path of grace (pushti-marga) achieves the same result through the Lord's own initiative, without demanding such superhuman self-control."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak highlights 'sarvabhūtahite ratāḥ' — engaged in the welfare of all beings — as the most important phrase. Even the formless path demands active service, confirming that no authentic spirituality can be purely withdrawn. Service to others is the universal requirement regardless of one's metaphysical orientation."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda reads this verse as affirming that even the most abstract spiritual pursuit must manifest as universal compassion. He sees 'engaged in the welfare of all beings' as the practical test of genuine realization — if your spirituality does not make you more compassionate, it is incomplete."
+      }
+    ],
+    "applications": {
+      "personal_growth": "If you choose the harder, more abstract path of growth — pure self-discipline without emotional engagement — you can still succeed, but it requires extraordinary consistency, fairness in all situations, and genuine concern for others. These conditions are themselves a form of devotion.",
+      "career_business": "Leaders who manage through pure logic and systems without personal connection can be effective, but only if they maintain absolute fairness and genuine concern for every stakeholder. The purely analytical approach requires even more discipline than the personally engaged one.",
+      "health": "A purely discipline-based health approach — willpower without enjoyment — can work but demands total sense mastery. Most people find that connecting health to something they love (family, joy, purpose) makes the journey more sustainable than brute-force self-control.",
+      "relationships": "You can maintain relationships through pure fairness and goodwill without deep emotional investment, but it requires unwavering equanimity and genuine concern for the other's welfare. Eventually, this caring itself becomes a form of love."
+    },
+    "questions": {
+      "personal_growth": [
+        "Can I grow spiritually through discipline alone without devotion?",
+        "How do I develop true equanimity in all situations?",
+        "Is sense control really necessary for spiritual progress?",
+        "How do I cultivate genuine concern for all beings?"
+      ],
+      "career_business": [
+        "Can I lead effectively through systems alone without personal connection?",
+        "How do I maintain fairness across all relationships at work?",
+        "Is pure analytical leadership sustainable long-term?",
+        "How do I balance detachment with genuine concern for my team?"
+      ],
+      "health": [
+        "Can willpower alone sustain a health practice?",
+        "How do I maintain discipline without enjoying the process?",
+        "Is self-control enough or do I need to actually love being healthy?",
+        "Why does pure discipline eventually burn out?"
+      ],
+      "relationships": [
+        "Can fairness substitute for emotional connection in relationships?",
+        "How do I show care when I'm not naturally emotional?",
+        "Is it possible to love through actions alone without feelings?",
+        "I care for everyone equally — but no one feels special to me"
+      ]
+    },
+    "themes": [
+      "sense-control",
+      "equanimity",
+      "universal-welfare",
+      "formless-path",
+      "discipline"
+    ]
+  },
+  {
+    "id": "BG-12.5",
+    "chapter": 12,
+    "verse": 5,
+    "sanskrit": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् |\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ॥५॥",
+    "iast": "kleśo'dhikatarasteṣāmavyaktāsaktacetasām |\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||5||",
+    "explanation": "Greater is the difficulty of those whose minds are attached to the unmanifested, for the path of the unmanifested is arduous and painful for embodied beings. Krishna reveals the practical truth: while the formless path is valid, it causes more suffering for those who inhabit physical bodies because the mind cannot easily grasp what has no form.",
+    "synthesis": "This verse delivers Krishna's practical verdict: the formless path is not wrong but harder — 'kleśo'dhikataraḥ' means 'greater affliction.' For beings with bodies and senses, fixing the mind on something without form or quality is an agonizing struggle. Shankaracharya honestly acknowledges this difficulty. Ramanujacharya sees it as divine guidance toward the more natural path of devotion. Madhva considers this definitive proof of the formless path's inferiority in practice. Abhinavagupta interprets the difficulty as arising from denying form rather than recognizing the divine within form. Vallabha sees the suffering as a consequence of going against the soul's essential nature as a lover of God. Tilak emphasizes the practical impossibility of the formless path for householders and workers. Vivekananda advises beginning with the personal and letting the impersonal reveal itself naturally. The Bhakti tradition reads this as divine compassion — God does not want His children to suffer needlessly when a joyful path exists. This is not philosophical judgment but a tender observation about human nature from the One who created that nature.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Even Shankaracharya, the great proponent of the formless Absolute, acknowledges that the path of nirguna meditation is exceedingly difficult for embodied beings. The body, senses, and mind naturally seek objects of experience. To direct them toward the objectless requires extraordinary preparation and purification of the intellect."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya interprets this as Krishna's clear recommendation against the formless path for most seekers. The word 'duḥkham' (suffering/pain) is significant — God does not desire His devotees to suffer. The personal path of devotion aligns with human nature rather than fighting against it."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition treasures this verse as Krishna's compassionate recognition that we are not disembodied intellects — we are beings with hearts, senses, and emotions. A loving God provides a path suited to our nature. Devotion through love, song, remembrance, and service is that natural path, free from the torment of trying to grasp the ungraspable."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva considers this verse definitive proof that the formless path is inferior in practice. The word 'kleśa' (affliction) indicates real suffering, not merely difficulty. God Himself declares that this path causes pain to embodied souls, making devotion to His personal form the compassionate recommendation."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets this difficulty as arising from the attempt to deny form rather than recognize the divine within form. Kashmir Shaivism holds that the world of form is not an obstacle to realization but the very field in which Shiva recognizes Himself. Rejecting form creates unnecessary struggle."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha sees this as the Lord's tender concern for His devotees. Since the individual soul is a real part of the personal Lord, trying to merge with an impersonal Absolute contradicts the soul's own nature. The suffering arises from going against one's essential constitution as a lover of God."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes the practical impossibility of the formless path for those engaged in worldly duties. Householders, warriors, workers — all have bodies and responsibilities. A path that requires transcending embodiment entirely is simply not available to the vast majority, making karma-bhakti the realistic alternative."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda agrees that the formless path, while philosophically the highest, is practically the hardest. He often advised seekers to begin with the personal and let the impersonal reveal itself naturally. Forcing the mind beyond form before it is ready creates frustration rather than illumination."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Choosing a path of growth that fights against your nature — forcing yourself into a mode of being that causes constant strain — leads to burnout and suffering. Sustainable transformation works with your temperament, not against it. Difficulty is not always a sign of virtue.",
+      "career_business": "Pursuing a career purely for abstract rewards (prestige, wealth) while ignoring what genuinely moves you causes deep suffering over time. The most sustainable career paths align with your natural inclinations and allow you to engage personally with your work.",
+      "health": "Health approaches that feel like constant punishment — extreme diets, brutal exercise regimes you hate — create more suffering than they alleviate. The best health practice is one that respects your embodied nature and brings some measure of joy, not just results.",
+      "relationships": "Trying to love in a way that feels unnatural to you — suppressing your need for connection, forcing yourself to be emotionally detached — causes unnecessary pain. Authentic relationships honor your nature rather than requiring you to become someone you are not."
+    },
+    "questions": {
+      "personal_growth": [
+        "Why does my spiritual practice feel like constant struggle?",
+        "Am I on the wrong path if it causes so much suffering?",
+        "How do I know if difficulty means growth or wrong direction?",
+        "Is there a more natural way to grow spiritually?"
+      ],
+      "career_business": [
+        "Why does my career feel like constant uphill battle?",
+        "Should work always be this hard?",
+        "Am I forcing myself into the wrong profession?",
+        "How do I find a career that aligns with my nature?"
+      ],
+      "health": [
+        "Why does every health plan feel like punishment?",
+        "Is there a way to get healthy without hating the process?",
+        "I keep quitting because the discipline is too painful",
+        "How do I find a health approach that suits my nature?"
+      ],
+      "relationships": [
+        "Why does this relationship feel like constant effort?",
+        "Should love really be this hard?",
+        "Am I forcing a connection that isn't natural?",
+        "How do I stop fighting my own nature in relationships?"
+      ]
+    },
+    "themes": [
+      "difficulty",
+      "embodiment",
+      "compassion",
+      "natural-path",
+      "formless-struggle"
+    ]
+  },
+  {
+    "id": "BG-12.6",
+    "chapter": 12,
+    "verse": 6,
+    "sanskrit": "ये तु सर्वाणि कर्माणि मयि सन्न्यस्य मत्पराः |\nअनन्येनैव योगेन मां ध्यायन्त उपासते ॥६॥",
+    "iast": "ye tu sarvāṇi karmāṇi mayi sannyasya matparāḥ |\nananyenaiva yogena māṃ dhyāyanta upāsate ||6||",
+    "explanation": "But those who surrender all actions to Me, regarding Me as the supreme goal, and worship Me with exclusive, undivided devotion, meditating on Me — Krishna now describes the devotees He favors. The key words are 'sannyasya' (surrendering), 'matparāḥ' (devoted to Me as supreme), and 'ananyena' (without any other object).",
+    "synthesis": "Having established that the formless path is harder, Krishna describes the path He recommends: complete surrender of all actions, single-pointed devotion, and constant meditation. Shankaracharya sees this as karma yoga combined with upāsanā. Ramanujacharya emphasizes the completeness of prapatti — unconditional surrender. Madhva interprets surrender as recognizing the soul's natural dependence on the independent Lord. Abhinavagupta reads it as recognizing that all action already arises from universal Consciousness. Vallabha sees this as describing seva — divine service where every action becomes an offering. Tilak considers this the perfect synthesis of karma and bhakti, allowing the seeker to fulfill worldly duties while progressing spiritually. Vivekananda interprets total surrender as the highest form of worship for active people, collapsing the distinction between sacred and secular. The Bhakti tradition celebrates the beauty of a life lived entirely for the Beloved. Together, these perspectives reveal that surrender is not passive resignation but the most active and joyful engagement with life — every breath, every task, every moment transformed into worship.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya interprets this as the combination of karma yoga (surrendering all actions) with focused meditation (dhyāna). The seeker offers every action as worship and maintains constant contemplation of the Lord. This integrated approach purifies the mind and leads to knowledge of the Self."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya highlights 'sarvāṇi karmāṇi mayi sannyasya' — surrendering ALL actions, not just ritual ones. Every breath, every meal, every task becomes an offering. Combined with 'ananyena yogena' (yoga without any other object), this describes prapatti — total, unconditional surrender to the Lord."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "For the Bhakti tradition, this verse describes the life of a true devotee: every action is done for God, every thought is directed toward God, every moment is an act of worship. There is no sacred and secular — all of life becomes prayer. This is the summit of devotion, where the boundary between the devotee and devotion dissolves."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva interprets 'sarvāṇi karmāṇi mayi sannyasya' as dedicating all actions to Vishnu as the supreme independent reality. Since all souls depend on the Lord for their very existence, surrendering actions to Him is not loss of autonomy but recognition of the fundamental relationship between the dependent soul and the independent Lord."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads this surrender not as giving up agency but as recognizing that all action already arises from the universal Consciousness. When the seeker realizes that Shiva is the true agent behind every action, the ego's false ownership dissolves, and what remains is spontaneous, joyful participation in divine play."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha sees this verse as describing the ideal of seva (divine service). In pushti-marga, every action — eating, sleeping, working — becomes an offering to the Lord. This is not renunciation of action but consecration of action. The Lord accepts even the humblest offering when made with exclusive love."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak considers this the perfect synthesis of karma and bhakti. Actions are not renounced but redirected — performed in the world with full energy yet offered to God without attachment to results. This nishkama karma bhakti allows the seeker to fulfill worldly duties while progressing spiritually."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda interprets total surrender of actions as the highest form of worship available to active people. When every deed becomes an offering, the distinction between sacred and secular collapses. Work itself becomes worship, and the worker becomes a devotee without withdrawing from life."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Dedicating all your actions to a purpose greater than yourself transforms mundane tasks into meaningful practice. When cleaning, working, or even resting is done as an offering to your highest ideal, nothing is wasted and everything becomes sacred.",
+      "career_business": "When every action at work — from answering emails to making strategic decisions — is done with single-pointed dedication to your mission, the quality of your work transforms. Undivided focus on purpose eliminates the drain of competing motivations.",
+      "health": "Treating every health-related action as an offering — cooking nourishing food as an act of care for the body that serves your purpose, exercising as a form of gratitude — transforms obligation into devotion and makes consistency natural.",
+      "relationships": "When you dedicate yourself completely to the well-being of your relationship — making every action an expression of love, every conversation an act of devotion — the relationship becomes a spiritual practice rather than a negotiation."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I surrender all my actions to a higher purpose?",
+        "What does it mean to live with undivided devotion?",
+        "How do I make every moment a form of worship?",
+        "I want to dedicate my life to something but don't know how"
+      ],
+      "career_business": [
+        "How do I bring single-pointed focus to my work?",
+        "What does it mean to offer all my work to a higher purpose?",
+        "How do I eliminate distractions and competing motivations?",
+        "I want my work to feel like a calling, not just a job"
+      ],
+      "health": [
+        "How do I make healthy living feel like devotion, not duty?",
+        "Can I transform my health routine into something sacred?",
+        "How do I bring mindfulness to every health choice?",
+        "I want to care for my body as an act of gratitude"
+      ],
+      "relationships": [
+        "How do I make my relationship a spiritual practice?",
+        "What does total devotion to a partner actually look like?",
+        "How do I dedicate myself fully without losing myself?",
+        "I want to love with my whole being — how do I start?"
+      ]
+    },
+    "themes": [
+      "surrender",
+      "exclusive-devotion",
+      "action-as-worship",
+      "single-pointed-focus",
+      "total-dedication"
+    ]
+  },
+  {
+    "id": "BG-12.7",
+    "chapter": 12,
+    "verse": 7,
+    "sanskrit": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ॥७॥",
+    "iast": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt |\nbhavāmi nacirātpārtha mayyāveśitacetasām ||7||",
+    "explanation": "For those whose minds are absorbed in Me, O Partha, I become the swift deliverer from the ocean of death and rebirth. This is Krishna's extraordinary promise: He personally intervenes to liberate those who surrender to Him. The word 'nacirāt' (without delay, soon) conveys divine urgency — God does not make His devotees wait.",
+    "synthesis": "This verse contains one of the most powerful promises in spiritual literature. Krishna says 'I Myself become their deliverer, and quickly' — the metaphor of saṃsāra as an ocean of death captures the vastness of worldly suffering, while Krishna's personal intervention transforms the spiritual journey from solitary struggle to a relationship of trust. Shankaracharya sees grace facilitating liberation. Ramanujacharya treasures this as the essence of divine anugraha. Madhva reads it as expressing the Lord's inherent nature as the rescuer of dependent souls. Abhinavagupta sees liberation as the dissolution of the illusion of separateness — one was never actually drowning. Vallabha finds here the heart of pushti — God actively reaching down to lift the soul. Tilak interprets divine deliverance as freedom from the binding effects of self-centered action. Vivekananda reads it as assurance that sincere effort activates a greater force. The Bhakti tradition weeps with gratitude: God Himself comes to save the one who loves Him. Across all traditions, this verse affirms that the divine response to human devotion is immediate, personal, and transformative.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains that the Lord's grace (anugraha) accelerates the process of liberation for devoted seekers. When the mind is fully absorbed in the Supreme, the accumulated karma that binds one to the cycle of birth and death is swiftly dissolved. The Lord becomes the direct cause of their freedom."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya considers this verse the supreme assurance of divine grace. 'Ahaṃ samuddhartā' — I Myself am the deliverer — means liberation is not merely the result of the devotee's effort but of God's active intervention. The Lord does not wait for perfection; He responds to sincere devotion immediately."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "This is the verse that makes devotees weep with gratitude. God says: you don't have to cross the ocean alone — I will come and carry you across. The word 'nacirāt' (soon, without delay) is God's urgency. The moment the devotee's heart turns fully toward Him, the Lord moves. This is the radical promise of bhakti: your love for God activates God's love for you."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva reads 'ahaṃ samuddhartā' as expressing the Lord's inherent nature as the rescuer of dependent souls. Liberation is not self-achieved but God-granted. The Lord's promise to deliver devotees quickly reflects His supremely independent power and His natural compassion toward those who recognize their dependence on Him."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the 'ocean of saṃsāra' as the misperception of separateness. When the devotee's consciousness is fully absorbed in Shiva, the illusion of being a separate entity drowning in worldly existence dissolves. Liberation is not rescue from an external ocean but recognition that one was never actually drowning."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha treasures this verse as the heart of pushti (divine grace). The Lord does not wait for the devotee to become perfect; He actively reaches down to lift the soul out of worldly bondage. This is the supreme act of divine love — God becoming the personal savior of each devoted heart."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets divine deliverance as the freedom from the binding effects of karma that comes when all actions are offered to God. The 'ocean of death' is not literal reincarnation alone but the cycle of attachment, anxiety, and suffering that accompanies self-centered action. Selfless action dissolves this cycle."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda reads this promise as the assurance that sincere effort is never wasted. The divine responds to human aspiration with a power that far exceeds the seeker's own capacity. When the devotee does their part with full commitment, a greater force takes over and carries them to freedom."
+      }
+    ],
+    "applications": {
+      "personal_growth": "When you fully commit to a purpose larger than yourself, help arrives from unexpected places. The universe seems to conspire in support of the deeply committed. Total dedication activates a kind of grace — resources, teachers, and opportunities appear as if drawn by your sincerity.",
+      "career_business": "When a team or leader is completely absorbed in their mission, momentum builds in ways that seem disproportionate to the effort. Customers appear, partnerships form, and obstacles dissolve. Total commitment creates a gravitational pull that attracts support and accelerates success.",
+      "health": "When you fully commit to healing — not halfheartedly, but with your whole being — the body's recuperative power is remarkable. The mind focused entirely on recovery marshals resources you didn't know you had. Deep commitment to wellness activates the body's own intelligence.",
+      "relationships": "When you truly give yourself to a relationship without reservation, a kind of alchemy occurs. The other person feels your complete presence and responds in kind. Deep commitment breaks through barriers that years of half-hearted effort cannot penetrate."
+    },
+    "questions": {
+      "personal_growth": [
+        "How does divine grace work in spiritual life?",
+        "If I surrender completely, will God really help me?",
+        "How do I trust that I'll be supported on this path?",
+        "Can total commitment really accelerate my spiritual progress?"
+      ],
+      "career_business": [
+        "How do I attract support for my mission?",
+        "Does total commitment really create momentum?",
+        "I feel like I'm drowning at work — how do I find rescue?",
+        "How do I trust that things will work out if I fully commit?"
+      ],
+      "health": [
+        "Can deep commitment to healing accelerate my recovery?",
+        "How do I fully surrender to the healing process?",
+        "I feel lost in the ocean of health problems — where is help?",
+        "Does the body really respond to total commitment to wellness?"
+      ],
+      "relationships": [
+        "If I give myself fully, will I be met halfway?",
+        "How does total devotion transform a relationship?",
+        "I feel like I'm drowning in relationship problems",
+        "Can complete commitment break through long-standing barriers?"
+      ]
+    },
+    "themes": [
+      "divine-grace",
+      "liberation",
+      "divine-promise",
+      "surrender",
+      "swift-deliverance"
+    ]
+  },
+  {
+    "id": "BG-12.8",
+    "chapter": 12,
+    "verse": 8,
+    "sanskrit": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ॥८॥",
+    "iast": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya |\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||8||",
+    "explanation": "Fix your mind on Me alone, let your intellect dwell in Me — you shall hereafter live in Me alone; of this there is no doubt. This famous verse is Krishna's direct instruction: place both the emotional mind (manas) and the rational intellect (buddhi) in Him. The reward is permanent union — 'nivasiṣyasi' means 'you will dwell, you will live.' It is not a temporary experience but an eternal state.",
+    "synthesis": "This is one of the most beloved verses of the Gita. Krishna asks for both dimensions of consciousness: the feeling mind (manas) and the discerning intellect (buddhi) — total engagement of the whole being. Shankaracharya sees this as making God the sole object of meditation and inquiry. Ramanujacharya emphasizes the exclusivity of 'mayyeva' (in Me alone), appearing twice. Madhva interprets the dual instruction as requiring both emotional and cognitive devotion. Abhinavagupta sees the convergence of mind and intellect as leading to samāvesha — total immersion in Shiva-consciousness. Vallabha reads 'you shall live in Me' as the promise of eternal intimate residence in the Lord's blissful reality. Tilak emphasizes that the certainty of 'na saṃśayaḥ' eliminates doubt when emotional and rational alignment is total. Vivekananda reads this as the integration of jñāna and bhakti into an unshakeable spiritual foundation. The Bhakti tradition hears this as the Beloved's invitation: give Me your whole self, and I will give you My whole self. Across traditions, this verse teaches that partial devotion — heart without understanding, or understanding without heart — is incomplete.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains that fixing both manas (the deliberating mind) and buddhi (the determining intellect) on the Lord constitutes complete mental absorption. When both the emotional and rational faculties are unified in contemplation of the Supreme, there remains nothing to distract the seeker. The result is certain union with Brahman."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya reads this as the Lord's most intimate instruction. 'Mayyeva' (in Me alone) appears twice, emphasizing exclusivity. The Lord asks for the devotee's complete inner being — thoughts, feelings, reasoning, decisions — all directed toward Him. The emphatic 'na saṃśayaḥ' (no doubt) is God's guarantee, not a suggestion."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "This verse is recited, memorized, and meditated upon by devotees across all traditions. It is at once the simplest instruction and the most profound: give Me everything — your thoughts, your understanding, your whole being — and you will live in Me forever. The promise is not heaven after death but living union now and always. This is the essence of bhakti in one verse."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva interprets the dual instruction — fix both mind and intellect — as indicating that devotion must be both emotional and cognitive. True bhakti involves constant meditation on the Lord's infinite auspicious qualities (guṇas) through both loving contemplation and theological understanding of His supreme nature."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees 'fixing mind and intellect' as the practice of dhāraṇā leading to samāvesha — total immersion in Shiva-consciousness. When both the rational and intuitive faculties converge on the divine, the boundaries of individual identity become transparent, and one begins to 'live' in universal awareness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha reads 'nivasiṣyasi mayyeva' (you shall live in Me) as the ultimate promise of pushti-marga — eternal intimate residence in the Lord's own being. The devotee does not merge and lose identity but lives within the Lord's blissful reality as a distinct, beloved participant in divine līlā."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes 'na saṃśayaḥ' (no doubt) as the certainty that comes from total alignment of purpose. When both the emotional and rational dimensions of a person are directed toward their highest duty, doubt is eliminated and action flows with clarity and power."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda reads this as the integration of jñāna and bhakti — knowledge and love converging on the same divine reality. He taught that the highest state is not mere intellectual understanding or mere emotional fervor but the union of both, creating an unshakeable spiritual foundation."
+      }
+    ],
+    "applications": {
+      "personal_growth": "When you give your complete attention — both heart and mind — to your deepest purpose, you begin to live in that purpose. You don't just practice occasionally; your entire being becomes oriented toward your highest aspiration. Doubt dissolves when commitment is total.",
+      "career_business": "The professionals who achieve mastery are those who bring both passion (manas) and analytical rigor (buddhi) to their craft. When your emotional engagement and intellectual focus converge on a single mission, you don't just work in your field — you live it. Excellence becomes inevitable.",
+      "health": "Healing requires both emotional commitment and intelligent understanding. Wanting to be healthy (mind) and knowing how to be healthy (intellect) must work together. When both are aligned toward wellness, doubt about the outcome dissolves and transformation follows naturally.",
+      "relationships": "Deep connection requires both emotional presence and thoughtful understanding. Give your partner both your heart and your best thinking. When you engage with both feeling and reason — loving them and understanding them — you create a bond that transcends doubt."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I give my complete attention to my highest goal?",
+        "What does it mean to fix my mind on God?",
+        "How do I align my heart and mind toward one purpose?",
+        "I believe intellectually but my heart isn't in it"
+      ],
+      "career_business": [
+        "How do I bring both passion and analysis to my work?",
+        "I'm good at my job but my heart isn't in it",
+        "How do I become so immersed in my work that doubt disappears?",
+        "What does it look like to truly live your profession?"
+      ],
+      "health": [
+        "I know what to do for my health but I'm not emotionally committed",
+        "How do I align my desire and my discipline for health?",
+        "How do I remove doubt from my healing journey?",
+        "My mind says one thing about health and my heart another"
+      ],
+      "relationships": [
+        "How do I give both my heart and mind to my partner?",
+        "I love them but I don't understand them — or vice versa",
+        "How do I create unshakeable commitment in my relationship?",
+        "What does it mean to truly live in a relationship?"
+      ]
+    },
+    "themes": [
+      "mind-fixation",
+      "total-engagement",
+      "divine-certainty",
+      "heart-and-intellect",
+      "living-union"
+    ]
+  },
+  {
+    "id": "BG-12.9",
+    "chapter": 12,
+    "verse": 9,
+    "sanskrit": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् |\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ॥९॥",
+    "iast": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram |\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||9||",
+    "explanation": "If you cannot fix your mind steadily on Me, then seek to reach Me through the yoga of regular practice (abhyāsa yoga), O Dhananjaya. Krishna compassionately acknowledges human limitation: if total absorption is not immediately possible, then disciplined, repeated practice is the next best approach.",
+    "synthesis": "This verse begins Krishna's beautiful descending ladder of practice — a cascade of compassionate alternatives for those who cannot achieve instant absorption. Shankaracharya connects abhyāsa yoga to Patanjali's emphasis on practice and dispassion. Ramanujacharya sees divine compassion in providing alternatives for struggling devotees. Madhva reads regular practice as the natural means for the finite soul to cultivate its relationship with the infinite Lord. Abhinavagupta interprets abhyāsa not as mechanical repetition but as repeated acts of self-recognition that gradually become permanent. Vallabha sees the Lord's grace working through disciplined repetition, transforming practice into spontaneous love. Tilak values consistency of daily practice alongside worldly duties. Vivekananda strongly advocates abhyāsa yoga, comparing spiritual practice to physical training — regular exercise that strengthens capacity over time. The Bhakti tradition loves this verse because it validates imperfect devotion: God does not say 'if you cannot focus perfectly, give up' — He says 'try again and again.' This tenderness reveals a divine teacher who knows that consistent, imperfect practice outweighs occasional perfection.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya connects this to the Yoga Sutras, where Patanjali defines yoga as the cessation of mental fluctuations achieved through practice (abhyāsa) and dispassion (vairāgya). If steady absorption is not immediately possible, repeated practice gradually stabilizes the mind and prepares it for deeper states of meditation."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya sees this verse as a revelation of divine compassion. The Lord does not abandon the struggling devotee but provides a practical alternative. Regular practice — daily worship, prayer, and meditation — builds the capacity for the deeper absorption described in the previous verse. Progress is gradual and certain."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition loves this verse because it validates imperfect devotion. God does not say 'if you cannot focus perfectly, give up.' He says 'try again, and again, and again.' This is the tenderness of the divine teacher who knows that consistent, imperfect practice is worth more than occasional perfection. Every time you return to your practice after wandering, you grow."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva sees abhyāsa yoga as the practical discipline of repeatedly directing the mind toward the Lord's qualities and form. Since the individual soul is eternally distinct from and dependent upon God, this repeated practice is the natural means by which the finite soul cultivates its eternal relationship with the infinite Lord."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets abhyāsa not as mechanical repetition but as the repeated act of self-recognition — turning awareness back to its source again and again until the recognition becomes permanent. Each return to awareness strengthens the groove of pratyabhijñā until it becomes the default state."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha reads this as the Lord's compassionate accommodation. Even when natural, spontaneous devotion (sahaja bhakti) has not yet arisen, the seeker can cultivate it through regular practice. The Lord's grace works through disciplined repetition, gradually transforming practice into spontaneous love."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak values this verse as validating disciplined daily practice for those who cannot achieve instant absorption. The karma yogi maintains regular spiritual practice — prayer, meditation, study — alongside worldly duties. Consistency of effort matters more than intensity of any single session."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda strongly advocates abhyāsa yoga, teaching that spiritual power, like any other capacity, develops through regular exercise. He compared it to physical training: just as muscles grow through repeated use, the spiritual faculties strengthen through daily practice, regardless of how scattered the mind initially feels."
+      }
+    ],
+    "applications": {
+      "personal_growth": "If you cannot maintain constant mindfulness or perfect discipline, commit to regular practice instead. Show up every day, even imperfectly. A daily ten-minute meditation practiced faithfully for years transforms more than occasional marathon sessions of perfect focus.",
+      "career_business": "If you cannot achieve breakthrough performance immediately, commit to consistent practice. The professionals who reach mastery do so not through flashes of genius but through showing up every day and doing the work. Reliable practice beats sporadic inspiration every time.",
+      "health": "If you cannot maintain a perfect diet or exercise routine, commit to consistent, moderate practice. Walking every day is better than running a marathon once a year. Regular, imperfect action creates lasting change; perfect plans executed sporadically create nothing.",
+      "relationships": "If you cannot be perfectly present and loving at every moment, commit to regular practices of connection — daily conversation, weekly dates, consistent small gestures. Relationships are built not on perfect moments but on faithful, repeated acts of care."
+    },
+    "questions": {
+      "personal_growth": [
+        "I can't meditate without my mind wandering — what do I do?",
+        "How do I build a spiritual practice when I keep failing?",
+        "Is inconsistent practice better than no practice?",
+        "How long does it take for regular practice to show results?"
+      ],
+      "career_business": [
+        "I can't maintain focus on my goals — how do I build consistency?",
+        "How do I develop mastery when I keep getting distracted?",
+        "Is showing up every day really more important than talent?",
+        "How do I build professional discipline when motivation fades?"
+      ],
+      "health": [
+        "I keep starting and stopping health routines",
+        "How do I build exercise consistency when I hate it?",
+        "Is doing something small every day really enough?",
+        "I can't stick to any plan perfectly — should I even try?"
+      ],
+      "relationships": [
+        "I forget to show up for my partner — how do I build consistency?",
+        "How do I maintain connection when life gets busy?",
+        "What are small daily practices that strengthen relationships?",
+        "I want to be more present but my mind is always elsewhere"
+      ]
+    },
+    "themes": [
+      "practice",
+      "discipline",
+      "consistency",
+      "compassion",
+      "gradual-progress"
+    ]
+  },
+  {
+    "id": "BG-12.10",
+    "chapter": 12,
+    "verse": 10,
+    "sanskrit": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ॥१०॥",
+    "iast": "abhyāse'pyasamartho'si matkarmaparamo bhava |\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||10||",
+    "explanation": "If you are unable even to practice regularly, then be intent on performing actions for My sake. Even by performing actions dedicated to Me, you shall attain perfection. Krishna descends another step on the ladder: if even regular practice is beyond you, then simply do your worldly work as service to the divine.",
+    "synthesis": "Krishna continues the descending ladder: if regular practice is too much, simply perform your actions for His sake. Shankaracharya sees action offered to God as purifying the mind for deeper practice. Ramanujacharya reads this as the Lord's progressive accommodation of human limitations. Madhva interprets dedicating actions to Vishnu as accumulating spiritual merit even without meditative capacity. Abhinavagupta sees it as a form of karma-dhāraṇā — maintaining awareness of Shiva as the true agent. Vallabha reads this as describing seva-dharma, where even humble daily tasks become divine offerings. Tilak considers this the cornerstone of karma yoga within bhakti — transforming existing actions into service for a higher cause. Vivekananda sees this as the democratization of spirituality: work is worship when performed with right intention, accessible to all regardless of temperament. The Bhakti tradition celebrates that God accepts even the smallest offering made with love. Together, these perspectives affirm that no one is excluded from the spiritual path — every action, however mundane, can become a vehicle for divine connection.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains that karma yoga — performing actions as service to the Lord — purifies the mind without requiring the capacity for sustained meditation. When all actions are dedicated to the divine, they lose their binding power and instead become instruments of liberation. This is accessible to every person regardless of spiritual capacity."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya highlights the radical accessibility of this teaching: even if meditation and regular worship are beyond your current ability, simply doing your daily work for God's sake is enough. 'Siddhim avāpsyasi' — you will attain perfection. Not partial progress, but perfection, through consecrated action."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "This verse reveals the boundless generosity of divine love. God does not demand what you cannot give. If you cannot meditate, work for Him. If you cannot sit still, serve Him through action. Every honest act of work — cooking, cleaning, teaching, building — becomes a prayer when offered with love. The whole world becomes a temple for the one who works for God."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva interprets 'mat-karma-kṛt' (performing actions for My sake) as the dedication of all righteous deeds to Vishnu. Even without deep meditative capacity, the soul that orients its daily actions toward serving the Lord accumulates spiritual merit and gradually purifies the heart for deeper devotion."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees dedicating actions to the divine as a form of karma-dhāraṇā — holding awareness of Shiva as the true agent while performing worldly acts. This practice transforms ordinary activity into a contemplative discipline, gradually dissolving the ego's claim to doership."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha reads this as describing seva-dharma — the path of loving service. When the devotee cannot meditate or practice regularly, simply performing daily duties as service to the Lord becomes the path. In pushti-marga, even cooking, cleaning, and working become divine offerings when done for Krishna."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak considers this verse the cornerstone of karma yoga within bhakti. Not everyone can meditate or practice austerities, but everyone can act. Transforming one's existing actions into service for a higher cause is the most universal spiritual practice, accessible to all regardless of temperament or circumstance."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda sees this as the democratization of spirituality. Work is worship when performed with the right intention. The laborer, the teacher, the farmer — all can reach God through their daily work when it is dedicated to a higher purpose. No special conditions or qualifications are needed."
+      }
+    ],
+    "applications": {
+      "personal_growth": "If formal spiritual practice is beyond your current capacity, transform your daily work into a spiritual offering. Do your tasks with excellence and intention, dedicating them to something larger than personal gain. Your everyday life becomes your practice.",
+      "career_business": "If you cannot find time for separate personal development, let your work itself be your development. Approach every task as service — to clients, to your team, to society. When work is done as offering rather than obligation, it transforms both the worker and the output.",
+      "health": "If structured health programs overwhelm you, simply do whatever physical activity your day requires with full attention and care. Walk mindfully, eat thoughtfully, rest intentionally. When daily actions are performed with conscious care, health improves without a formal program.",
+      "relationships": "If you cannot carve out special time for relationships, infuse your everyday shared activities with intention. Cooking together, commuting together, doing chores together — these become acts of connection when done with awareness and dedication to the relationship's well-being."
+    },
+    "questions": {
+      "personal_growth": [
+        "I can't maintain any spiritual practice — am I hopeless?",
+        "How do I make my daily work a form of spiritual growth?",
+        "Is working for a good cause the same as meditation?",
+        "Can I grow spiritually just by doing my job well?"
+      ],
+      "career_business": [
+        "How do I transform mundane work into meaningful service?",
+        "Can my career itself be my spiritual practice?",
+        "I have no time for separate development — is work enough?",
+        "How do I dedicate my professional actions to something higher?"
+      ],
+      "health": [
+        "I can't follow any structured health program",
+        "How do I stay healthy without a formal routine?",
+        "Can everyday movement be enough for fitness?",
+        "I'm overwhelmed by health advice — what's the simplest approach?"
+      ],
+      "relationships": [
+        "We have no time for date nights — how do we connect?",
+        "Can shared daily tasks strengthen our relationship?",
+        "How do I show love through ordinary activities?",
+        "I'm too exhausted for grand gestures — what can I do?"
+      ]
+    },
+    "themes": [
+      "karma-yoga",
+      "action-as-offering",
+      "accessibility",
+      "work-as-worship",
+      "divine-compassion"
+    ]
+  },
+  {
+    "id": "BG-12.11",
+    "chapter": 12,
+    "verse": 11,
+    "sanskrit": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः |\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ॥११॥",
+    "iast": "athaitadapyaśakto'si kartuṃ madyogamāśritaḥ |\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||11||",
+    "explanation": "If you are unable even to do this, then taking refuge in My yoga, renounce the fruits of all actions with self-control. Krishna reaches the final rung of the ladder: if you cannot even dedicate your work to God, simply give up attachment to the results of whatever you do. This is the most accessible practice — pure detachment from outcomes.",
+    "synthesis": "Krishna reaches the most accessible rung of the ladder: simply renounce the fruits of all actions. Shankaracharya sees fruit-renunciation as preparatory purification for deeper knowledge. Ramanujacharya reads it as the beginning of surrender. Madhva interprets it as acknowledging that all results ultimately belong to the Lord. Abhinavagupta sees the renunciation of fruits as dissolving the ego's attachment to outcomes, expanding consciousness. Vallabha reads this as the Lord providing the most minimal opening through which grace can enter. Tilak identifies this as the essential teaching of nishkama karma — active engagement freed from anxiety about results. Vivekananda taught that renunciation of fruits is the most practical spiritual discipline for modern life. The Bhakti tradition sees even this minimal detachment as the seed from which full devotion can grow. Across all eight traditions, the message converges: you do not need to stop acting, stop trying, or achieve perfect meditation. Simply release your grip on the results of your actions, and peace immediately follows. This is the Gita's most universal and immediately applicable teaching.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya identifies this as nishkama karma — action without desire for results — which is the foundational teaching of the Gita. Even without devotion or knowledge, simply acting without attachment to outcomes purifies the mind and naturally leads to higher states. This is the most universal and accessible spiritual practice."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya emphasizes 'madyogam āśritaḥ' — even this renunciation of fruits should be done taking refuge in divine yoga. The Lord provides support even for those at the most basic level of practice. Renouncing attachment to results, combined with even a thread of connection to the divine, is enough to begin the journey home."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees in this verse the ultimate divine humility: God comes down to the level of the weakest seeker and says, 'just let go of grasping — that is enough to begin.' If you cannot love Me, if you cannot worship Me, if you cannot even work for Me — simply stop clinging to the results of your actions. This minimal letting go opens a crack through which grace can enter."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva interprets renunciation of fruits as acknowledging that all results ultimately belong to the Lord, who is the supreme controller. The individual soul acts, but the outcome rests with God. This recognition — that results are not in one's hands — cultivates humility and deepens dependence on the Lord."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees the renunciation of fruits as the dissolution of the ego's attachment to outcomes. When the seeker realizes that outcomes arise from the interplay of universal forces (Shiva's creative power), clinging to specific results is recognized as a contraction of consciousness. Letting go expands awareness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha reads this as the Lord providing yet another accessible step on the path. Even if one cannot perform actions specifically for God, simply releasing attachment to the results purifies the heart. This is the beginning of surrender, and the Lord's grace works even through this minimal opening."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak identifies this as the essential teaching of nishkama karma — action without desire for personal reward. This is not passive resignation but active engagement freed from the anxiety of outcomes. The karma yogi gives their best effort while accepting whatever result follows, maintaining equanimity in success and failure."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda taught that renunciation of the fruits of action is the most practical spiritual discipline for modern life. It does not require changing what you do but transforming why you do it. Working without obsessive attachment to results brings peace, improves performance, and opens the door to higher spiritual experience."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The simplest and most powerful practice for any human being: do your best, then let go of the outcome. Release the need for specific results. This single shift — from attachment to detachment from fruits — transforms anxiety into peace and paralysis into action.",
+      "career_business": "Focus on the quality of your work and release attachment to outcomes like promotions, recognition, or specific revenue targets. Paradoxically, when you stop grasping at results and pour yourself into excellent work, the results often exceed what you anxiously pursued.",
+      "health": "Do your best with diet, exercise, and rest, then release attachment to specific numbers on the scale or timeline for recovery. Obsessing over results creates the very stress that undermines health. Trust the process, do the work, release the outcome.",
+      "relationships": "Love without keeping score. Give without calculating returns. Release the expectation of specific responses from your partner. When you stop measuring what you get back for what you give, love flows naturally and the relationship finds its own beautiful equilibrium."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I let go of attachment to results?",
+        "I do everything right but outcomes keep disappointing me",
+        "How do I stop being anxious about the future?",
+        "What does renunciation of fruits actually mean in daily life?"
+      ],
+      "career_business": [
+        "How do I work hard without being attached to outcomes?",
+        "I'm obsessed with results and it's destroying my peace",
+        "How do I find motivation without attachment to rewards?",
+        "Can I be ambitious without being attached to success?"
+      ],
+      "health": [
+        "I'm obsessed with health metrics and it's making me anxious",
+        "How do I trust the process without fixating on results?",
+        "I do everything right but my health isn't improving fast enough",
+        "How do I let go of health anxiety?"
+      ],
+      "relationships": [
+        "How do I love without keeping score?",
+        "I give so much but feel I get nothing back",
+        "How do I stop expecting specific responses from my partner?",
+        "Can I be fully committed without being attached to outcomes?"
+      ]
+    },
+    "themes": [
+      "renunciation-of-fruits",
+      "detachment",
+      "letting-go",
+      "accessibility",
+      "nishkama-karma"
+    ]
+  },
+  {
+    "id": "BG-12.12",
+    "chapter": 12,
+    "verse": 12,
+    "sanskrit": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ॥१२॥",
+    "iast": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate |\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12||",
+    "explanation": "Knowledge is superior to mere practice; meditation is superior to knowledge; renunciation of the fruits of action is superior to meditation — for from renunciation, peace follows immediately. This famous verse establishes a hierarchy that culminates not in the most difficult practice but in the most liberating one. Peace (śānti) follows immediately from letting go.",
+    "synthesis": "This verse presents a hierarchy: knowledge surpasses practice, meditation surpasses knowledge, and renunciation of the fruits of action surpasses meditation — because peace follows immediately from non-attachment. Shankaracharya sees a progression of increasing internalization. Ramanujacharya reads it as stages of deepening surrender. Madhva sees ascending levels of inner orientation toward the Lord. Abhinavagupta interprets the hierarchy as stages where consciousness progressively dissolves the ego's grip. Vallabha sees the culmination as the release into divine hands that defines pushti-marga. Tilak gives this verse central importance for karma yoga: peace is the natural fruit of non-attachment to results. Vivekananda uses this verse to demonstrate that spirituality is progressive, not all-or-nothing — each step prepares you for the next. The Bhakti tradition reads this as reassurance: wherever you are on the ladder, you are on the path. Together, these traditions affirm that the spiritual journey accommodates all levels of capacity, and that the deepest peace comes not from the perfection of technique but from the simplest and most radical act — letting go of the need to control outcomes.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains this ascending hierarchy as a progression toward the heart of spiritual realization. Mechanical practice without understanding is limited. Understanding without deep internalization through meditation remains intellectual. But even meditation is surpassed by the complete renunciation of attachment to results, because this letting go directly produces the peace that is the goal of all spiritual endeavor."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya highlights the word 'anantaram' — immediately, without any gap. Other practices produce results gradually, but the renunciation of fruits brings peace at once. This reveals the essence of surrender: the moment you let go of grasping, suffering ends. This is not a future promise but a present reality available in every moment."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition reads this verse as the distillation of all spiritual teaching into a single act: let go. Release your grip on outcomes. Surrender the fruits. In that moment — not after years of practice, not after accumulating knowledge, not after mastering meditation — in that very moment of letting go, peace arrives. This is the gift of a compassionate God who places liberation within everyone's immediate reach."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva reads this hierarchy — knowledge over practice, meditation over knowledge, renunciation of fruits over meditation — as describing ascending levels of inner orientation toward the Lord. Each step brings the soul closer to its natural state of dependence on and devotion to God."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets this ascending ladder as stages of internalization. Practice purifies the body, knowledge illuminates the mind, meditation stabilizes awareness, and renunciation of fruits dissolves the ego's last foothold. The final peace arises when consciousness rests in its own nature without grasping at outcomes."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha sees this verse as describing the progression from external practice to internal surrender. The culmination — peace from renunciation — mirrors pushti-marga's teaching that the deepest rest comes not from effort but from releasing everything into the Lord's hands and trusting His arrangement completely."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak gives this verse central importance: the final step — renunciation of the fruits of action — brings immediate peace. This confirms that the essence of all yoga is not withdrawal from action but transformation of one's relationship to action's results. Peace is the natural fruit of non-attachment."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda uses this verse to demonstrate that spirituality is progressive, not all-or-nothing. If you cannot renounce results, meditate. If you cannot meditate, study. If you cannot study, practice. Start wherever you are. The hierarchy is also a ladder — each step prepares you for the next."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The hierarchy of growth is clear: doing without understanding is limited, understanding without reflection is incomplete, but the greatest breakthrough comes simply from releasing attachment to outcomes. You can find peace right now — not after more preparation, but by letting go right now.",
+      "career_business": "In business: blindly following processes is inferior to understanding why they work; understanding is inferior to deep strategic insight; but the greatest competitive advantage is the ability to take decisive action without being paralyzed by attachment to specific outcomes. Detached excellence outperforms anxious brilliance.",
+      "health": "Following health protocols blindly is limited. Understanding the science is better. Mindful awareness of your body is better still. But the most immediate relief from health anxiety comes from doing your best and releasing the obsession with results. Peace of mind is itself the most powerful health intervention.",
+      "relationships": "Going through the motions in a relationship is limited. Understanding your partner is better. Deep emotional attunement is better still. But the most immediate transformation comes from releasing expectations — loving without demanding specific returns. From that release, peace comes instantly."
+    },
+    "questions": {
+      "personal_growth": [
+        "What's more important — knowledge, meditation, or letting go?",
+        "How can peace come immediately from just letting go?",
+        "I've studied so much but still don't have peace — why?",
+        "Is spiritual knowledge without practice useless?",
+        "What is the fastest path to inner peace?"
+      ],
+      "career_business": [
+        "I know everything about my field but still feel anxious",
+        "How do I take action without being paralyzed by possible outcomes?",
+        "Is strategic thinking overrated compared to just letting go?",
+        "What brings more success — planning or detachment?"
+      ],
+      "health": [
+        "I know all the health science but still feel terrible",
+        "How do I stop being anxious about health outcomes?",
+        "Is peace of mind really the best health strategy?",
+        "Knowledge isn't helping — what will bring me health peace?"
+      ],
+      "relationships": [
+        "I understand my partner perfectly but we still aren't at peace",
+        "How do I find immediate peace in my relationship?",
+        "Is letting go of expectations really the key to happiness?",
+        "We've tried everything — could simply surrendering expectations help?"
+      ]
+    },
+    "themes": [
+      "hierarchy-of-practice",
+      "knowledge",
+      "meditation",
+      "renunciation",
+      "immediate-peace"
+    ]
+  },
+  {
+    "id": "BG-12.13",
+    "chapter": 12,
+    "verse": 13,
+    "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च |\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥१३॥",
+    "iast": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca |\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||13||",
+    "explanation": "He who is free from hatred toward all beings, who is friendly and compassionate, free from possessiveness and ego, equal in pleasure and pain, and forgiving — Krishna begins one of the most beautiful passages in all of scripture: the description of the ideal devotee. These verses (12.13-20) paint a portrait of spiritual perfection through qualities of character rather than techniques of practice.",
+    "synthesis": "This verse begins the famous description of the ideal devotee's qualities. Shankaracharya sees freedom from hatred and universal friendliness as expressions of seeing the one Self in all. Ramanujacharya reads these as the natural virtues of one surrendered to the Lord. Madhva sees them as recognizing the Lord's presence in all beings. Abhinavagupta interprets them as the natural state of expanded consciousness — when one recognizes Shiva in every being, hostility becomes impossible. Vallabha reads them as the devotee radiating the Lord's own warmth after tasting His sweetness. Tilak emphasizes that non-hatred and friendliness are active principles guiding every interaction, not passive sentiments. Vivekananda sees these qualities as the practical test of spiritual attainment — philosophy means nothing without compassion. The Bhakti tradition treasures these verses as painting the portrait of what divine love looks like in human form. Together, these perspectives reveal that the ideal devotee is not someone withdrawn from the world but someone so deeply connected to the divine source that their presence naturally radiates peace, compassion, and genuine warmth to all beings.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains that these qualities arise naturally from the knowledge of the Self in all beings. When you see yourself in everyone, hatred becomes impossible, friendship and compassion become natural, and ego dissolves. These are not moral commandments to be forced but spontaneous expressions of Self-realization."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya presents these qualities as the signs of genuine surrender to God. Freedom from hatred, possessiveness, and ego are the natural consequences of recognizing that everything belongs to the Lord. The devotee who has truly surrendered holds nothing as 'mine' and sees all beings as equally precious to God."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees these qualities as the fragrance of devotion — just as a flower need not try to be fragrant, a heart full of love for God naturally radiates friendliness, compassion, and forgiveness toward all beings. The ideal devotee does not cultivate these qualities through effort; they overflow from a heart that is already full of divine love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva sees these qualities — freedom from hatred, friendliness, compassion — as natural expressions of recognizing the Lord's presence in all beings. The ideal devotee treats everyone as a servant of Vishnu deserving of respect. These are not imposed virtues but spontaneous outpourings of one who knows God."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets freedom from hatred and universal friendliness as the natural state of expanded consciousness. When one recognizes Shiva in every being, hostility becomes impossible and compassion becomes effortless. These qualities are not ethical achievements but symptoms of awakened awareness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha reads these qualities as describing the devotee who has experienced the Lord's sweetness and now relates to all beings through that sweetness. Free from possessiveness because everything belongs to Krishna, free from ego because the self is Krishna's, the ideal devotee radiates the Lord's own warmth."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes that these qualities — especially being 'free from possessiveness and ego' — define the karma yogi in daily life. Non-hatred and friendliness are not passive sentiments but active principles that guide every interaction, making the devotee an effective and harmonious worker in the world."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda sees these verses as the practical test of spiritual attainment. Philosophy and meditation mean nothing if they do not produce compassion, equanimity, and freedom from ego. The true mark of a spiritual person is not knowledge but character — these qualities visible in daily conduct."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The truest measure of your spiritual growth is not how long you can meditate but how you treat the people around you. Freedom from hatred, genuine friendliness, compassion, absence of possessiveness and ego, and the ability to forgive — these are the real markers of an evolved human being.",
+      "career_business": "The most respected leaders are those who harbor no resentment, who are genuinely friendly and compassionate, who do not claim credit for themselves, who remain balanced in success and failure, and who forgive mistakes. These qualities create trust, loyalty, and a culture where people do their best work.",
+      "health": "Emotional qualities directly affect physical health. Releasing hatred reduces stress and inflammation. Cultivating friendliness and compassion activates healing neurochemistry. Letting go of ego and possessiveness reduces anxiety. Forgiveness literally lowers blood pressure and cortisol.",
+      "relationships": "This verse is a blueprint for healthy relationships: no harbored resentment, genuine warmth and care, no possessiveness, no ego battles, equanimity in good times and bad, and the willingness to forgive. A person with these qualities is a gift to everyone in their life."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I become free from hatred and resentment?",
+        "How do I develop genuine compassion for everyone?",
+        "What does it mean to be truly free from ego?",
+        "How do I cultivate the ability to forgive?",
+        "What are the real signs of spiritual progress?"
+      ],
+      "career_business": [
+        "How do I lead without ego getting in the way?",
+        "How do I stay compassionate in competitive environments?",
+        "What does forgiveness look like in a professional setting?",
+        "How do I remain balanced when things go wrong at work?"
+      ],
+      "health": [
+        "How does holding grudges affect my physical health?",
+        "Can forgiveness actually improve my health?",
+        "How does ego drive stress and burnout?",
+        "Is there a connection between compassion and longevity?"
+      ],
+      "relationships": [
+        "How do I let go of resentment toward my partner?",
+        "I'm too possessive — how do I give space?",
+        "How do I stay calm when my partner triggers me?",
+        "How do I forgive someone who has hurt me deeply?"
+      ]
+    },
+    "themes": [
+      "ideal-devotee",
+      "compassion",
+      "forgiveness",
+      "ego-freedom",
+      "equanimity"
+    ]
+  },
+  {
+    "id": "BG-12.14",
+    "chapter": 12,
+    "verse": 14,
+    "sanskrit": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः |\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ॥१४॥",
+    "iast": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ |\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||14||",
+    "explanation": "Ever content, steady in meditation, self-controlled, possessed of firm conviction, with mind and intellect offered to Me — such a devotee is dear to Me. Krishna concludes the first couplet of the ideal devotee portrait with the phrase that will echo through the remaining verses: 'sa me priyaḥ' — that one is dear to Me.",
+    "synthesis": "This verse continues the portrait: ever content, steady in meditation, self-controlled, firmly resolved, with mind and intellect offered to God. Shankaracharya sees these as the marks of one established in Self-knowledge. Ramanujacharya reads 'dṛḍha-niśchayaḥ' as the unshakeable conviction born of surrender. Madhva interprets contentment as arising naturally from recognizing God's perfect arrangement. Abhinavagupta sees perpetual contentment as the hallmark of one established in the fullness of Consciousness. Vallabha reads firm conviction as arising from grace, not intellectual argumentation. Tilak highlights self-control and firm conviction as essential for decisive action amid uncertainty. Vivekananda emphasizes these as practical strengths, not otherworldly virtues. The Bhakti tradition sees the offering of mind and intellect as the culmination of devotion — giving God not just actions but one's very capacity for thought. These eight perspectives converge: the ideal devotee combines inner stability with active engagement, drawing unshakeable peace from the divine relationship while remaining fully present in the world.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya identifies contentment (santuṣṭa), steadiness (yogī), and firm conviction (dṛḍhaniścaya) as the marks of one established in Self-knowledge. Such a person needs nothing from the world because they have found fullness within. Their mind and intellect naturally rest in the Supreme because they have realized their identity with it."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya dwells on 'sa me priyaḥ' — that one is dear to Me. This is not metaphorical but literal: God genuinely loves His devotees. The relationship between the Lord and the devotee is one of mutual affection. The devotee offers mind and intellect; the Lord responds with love. This reciprocal love is the essence of bhakti."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "For the Bhakti tradition, 'sa me priyaḥ' is the most precious phrase in scripture. God Himself says: you are dear to Me. Not 'you are useful to Me' or 'you serve Me well' — but 'you are dear, you are beloved.' The ideal devotee does not earn God's love through qualities; rather, these qualities are the natural expression of one who is already held in divine love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva reads 'santuṣṭaḥ satatam' (ever content) as the natural state of one who recognizes that the Lord provides everything needed. Contentment arises not from having enough but from knowing that God's arrangement is always perfect. Firm conviction reflects unshakeable trust in the Lord's sovereignty."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees perpetual contentment as the hallmark of one established in the fullness of Consciousness. When awareness rests in its own completeness, there is nothing to seek or avoid. 'Mind and intellect offered to Me' describes sahaja samādhi — natural, effortless abidance in Shiva-consciousness."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha interprets 'dṛḍha-niśchayaḥ' (firm conviction) as the unshakeable certainty that arises from the Lord's own grace, not from intellectual argumentation. The devotee who has tasted the Lord's sweetness needs no further proof. Their contentment and steadiness flow from an inner experience that nothing can shake."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak highlights self-control and firm conviction as essential for the karma yogi who must act decisively amid uncertainty. Contentment does not mean passivity but peace amid action — the ability to work with full energy while remaining internally undisturbed by outcomes."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda emphasizes that contentment and self-control are not otherworldly virtues but practical strengths. The person who is ever content and firmly resolved brings an unshakeable presence to every situation. These qualities make one effective in the world, not withdrawn from it."
+      }
+    ],
+    "applications": {
+      "personal_growth": "True contentment — not complacency, but deep satisfaction with the present while working toward growth — is one of the rarest and most valuable human qualities. Combined with firm conviction and self-discipline, it creates a person who is both peaceful and powerful.",
+      "career_business": "The most effective professionals are those who combine contentment (not chasing every new opportunity) with firm conviction (clear about their values and direction) and self-control (disciplined in execution). This combination creates consistent, trustworthy excellence.",
+      "health": "Contentment with your body and health as they are — even while working to improve them — reduces the stress that undermines wellness. Combined with the firm conviction that you will take care of yourself and the discipline to follow through, it creates sustainable health.",
+      "relationships": "Being content in your relationship (not constantly comparing or wanting something different) while maintaining firm commitment and self-control creates the stability that love needs to deepen. The partner who is genuinely content and firmly committed is precious beyond measure."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I cultivate lasting contentment without becoming complacent?",
+        "What does firm spiritual conviction look like in daily life?",
+        "How do I maintain self-control without being rigid?",
+        "What does it mean to be 'dear to God'?"
+      ],
+      "career_business": [
+        "How do I stay content at work without losing ambition?",
+        "How do I develop unshakeable conviction in my mission?",
+        "Is contentment at odds with professional drive?",
+        "How do I become the kind of leader people are drawn to?"
+      ],
+      "health": [
+        "How do I accept my body while still trying to improve it?",
+        "Can contentment and health goals coexist?",
+        "How do I develop firm conviction about my health journey?",
+        "Is self-acceptance the foundation of self-improvement?"
+      ],
+      "relationships": [
+        "How do I stay content in my relationship without settling?",
+        "What does firm commitment look like in practice?",
+        "How do I balance satisfaction with desire for growth?",
+        "Am I too content or not content enough in my relationship?"
+      ]
+    },
+    "themes": [
+      "contentment",
+      "firm-conviction",
+      "self-control",
+      "divine-love",
+      "dear-to-God"
+    ]
+  },
+  {
+    "id": "BG-12.15",
+    "chapter": 12,
+    "verse": 15,
+    "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः |\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥१५॥",
+    "iast": "yasmānnodvijate loko lokānnodvijate ca yaḥ |\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||15||",
+    "explanation": "He by whom the world is not disturbed and who is not disturbed by the world, who is free from the agitations of joy, anger, fear, and anxiety — such a person is dear to Me. Krishna describes a remarkable quality: the ideal devotee neither causes disturbance to others nor is disturbed by them. This is bidirectional peace.",
+    "synthesis": "The devotee described here neither disturbs the world nor is disturbed by it — a state of dynamic equilibrium that all eight traditions celebrate. Shankaracharya sees it as the stability of Self-knowledge. Ramanujacharya reads it as the peace of one protected by the Lord. Madhva interprets it as trust in the Lord's sovereign control. Abhinavagupta sees it as dynamic equilibrium — full engagement with life yet internal stillness. Vallabha describes the devotee as moving through life like a breeze — touching everything gently without attachment. Tilak values this as engaged non-reactivity, enabling clear, decisive action. Vivekananda interprets it as true strength — being so deeply centered that external events cannot shake one's inner equilibrium. The Bhakti tradition sees freedom from agitation as the natural state of one who has given everything to God and has nothing left to fear or grasp. Together, these traditions paint a portrait of spiritual maturity that is not withdrawal from life but the deepest possible engagement — undisturbed by the world's turbulence because anchored in something infinitely stable.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains that one established in the Self is naturally free from the four agitations because their sense of identity does not depend on external circumstances. Since they expect nothing and fear nothing from the world, they are never thrown off balance. Their steadiness naturally creates a calming effect on everyone around them."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya highlights the bidirectional nature of this peace: not only is the devotee undisturbed, but they do not disturb others. This is the social dimension of spiritual attainment — the truly devoted person is a source of comfort and peace to every being they encounter. Their presence heals rather than harms."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this as the hallmark of a heart fully given to God. When all emotional energy is directed toward the divine Beloved, worldly agitations lose their power. The devotee does not suppress joy, anger, fear, or anxiety — they simply have no room for them because their heart is full. Such a person becomes a refuge for others, radiating the peace of God."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva interprets freedom from agitation as reflecting the devotee's complete trust in the Lord's sovereign control. One who knows that Vishnu orchestrates all events has no reason to be disturbed by worldly changes. This equanimity is a direct fruit of understanding the Lord's supreme independence."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta reads 'not disturbed by the world and not disturbing the world' as the state of dynamic equilibrium — the yogi who is fully engaged in life yet internally unmoved. This is not detachment from life but a deeper participation, where awareness remains centered in Shiva even amid worldly turbulence."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha sees this as describing the devotee who lives in the world as Krishna's instrument — neither causing disturbance nor being affected by it. Such a person moves through life like a breeze — touching everything gently without attachment, leaving freshness wherever they go."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak values this verse highly because it describes the ideal of engaged non-reactivity. The karma yogi remains active in society but does not create ripples of ego, anxiety, or conflict. Freedom from joy's intoxication and fear's paralysis enables clear, decisive action in any circumstance."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda interprets this as the mark of true strength. The person who is not disturbed by the world is not cold or indifferent but so deeply centered that external events cannot shake their inner equilibrium. Such a person becomes a source of stability and calm for everyone around them."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Becoming a person who neither causes disturbance nor is easily disturbed is one of the highest achievements of personal development. It means mastering your emotional reactions — not suppressing them but being so centered that external events cannot shake your core. Your presence becomes healing for others.",
+      "career_business": "The most valuable team members and leaders are those who do not create drama and are not derailed by it. A person who remains calm under pressure, does not react with anger or fear, and whose presence stabilizes rather than agitates the environment is an irreplaceable asset in any organization.",
+      "health": "Chronic emotional reactivity — swinging between elation and anger, fear and anxiety — is a primary driver of stress-related disease. The person who achieves emotional equanimity protects their nervous system, immune function, and cardiovascular health. Inner peace is preventive medicine.",
+      "relationships": "The partner who does not create unnecessary drama and is not easily rattled by yours is a profound gift. This verse describes the ideal relationship partner: someone whose presence calms rather than agitates, who does not react with excessive emotion, and who provides stability without suppressing authentic feeling."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I stop being so easily triggered by other people?",
+        "How do I become a calming presence instead of a disruptive one?",
+        "I'm constantly anxious — how do I find inner stability?",
+        "How do I master my emotional reactions without suppressing them?"
+      ],
+      "career_business": [
+        "How do I stay calm when everything at work is chaotic?",
+        "I cause tension in my team — how do I become a stabilizing force?",
+        "How do I handle workplace conflict without getting agitated?",
+        "My emotional reactions are hurting my career — what do I do?"
+      ],
+      "health": [
+        "Is my emotional reactivity making me sick?",
+        "How does chronic anxiety affect my physical health?",
+        "Can emotional mastery actually prevent disease?",
+        "I swing between highs and lows — how does this affect my body?"
+      ],
+      "relationships": [
+        "How do I stop triggering my partner and being triggered by them?",
+        "I want to be a calming presence, not a source of drama",
+        "How do we break the cycle of mutual agitation?",
+        "My emotional reactions are destroying my relationship"
+      ]
+    },
+    "themes": [
+      "emotional-mastery",
+      "non-disturbance",
+      "peace",
+      "equanimity",
+      "relational-harmony"
+    ]
+  },
+  {
+    "id": "BG-12.16",
+    "chapter": 12,
+    "verse": 16,
+    "sanskrit": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः |\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ॥१६॥",
+    "iast": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ |\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||16||",
+    "explanation": "He who is free from expectations, pure, skillful, impartial, free from distress, and who has renounced all selfish undertakings — such a devotee is dear to Me. Krishna adds another layer to the portrait: the ideal devotee is not passive but skillful (dakṣa), not indifferent but truly impartial (udāsīna), and renounces not action itself but selfish motivation behind action.",
+    "synthesis": "This verse describes the devotee as free from expectations, pure, skilled, impartial, free from distress, and renouncing all selfish undertakings. Shankaracharya sees these as the marks of desirelessness that precede liberation. Ramanujacharya reads them as the fruits of surrender. Madhva interprets freedom from expectations as depending entirely on the Lord. Abhinavagupta sees it as the dissolution of the ego's agenda, allowing effortless alignment with universal flow. Vallabha interprets purity as the transparency of one with nothing to hide. Tilak crucially highlights 'dakṣaḥ' (skilled, capable) — the ideal is not incompetent renunciation but excellent action free from selfish motive. Vivekananda agrees that these describe an active, effective person, not a passive renunciant. The Bhakti tradition sees these qualities as the natural aroma of devotion — the devotee who expects nothing from the world because they have everything in God. Together, these perspectives reveal a revolutionary ideal: spiritual advancement does not diminish worldly capability but enhances it. The truly devoted person is more skilled, more effective, and more impartial precisely because they are free from the distortions of selfish expectation.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya emphasizes that 'sarvārambhaparityāgī' means renouncing the personal will behind actions, not the actions themselves. The sage continues to act — skillfully and efficiently (dakṣa) — but without the ego-driven intention of personal gain. This is the living embodiment of nishkama karma: expert action without selfish motive."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya notes the combination of freedom from expectations with purity and skill. The devotee is not someone who has withdrawn from the world but someone who engages with it expertly while remaining inwardly free. Impartiality (udāsīna) does not mean coldness but the ability to see clearly without personal bias."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this verse as proof that devotion does not produce passive, otherworldly people. The ideal devotee is dakṣa — competent, efficient, and skilled. Their freedom from selfish expectations does not make them inactive but makes their action supremely effective. When you are not distorted by personal agenda, you see clearly and act precisely."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva reads 'anapekṣaḥ' (free from expectations) as the natural state of one who depends entirely on the Lord for everything. Purity, skill, and impartiality arise from recognizing God as the sole doer and provider. The devotee renounces selfish undertakings because all action is offered to Vishnu."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees freedom from expectations as the dissolution of the ego's agenda. When the seeker realizes that all outcomes arise from the spontaneous play of Consciousness, personal expectations are recognized as contractions. The 'skilled' devotee navigates life with the effortless precision of one aligned with universal flow."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha interprets 'śuciḥ' (purity) not merely as ritual cleanliness but as the transparency that comes from having no hidden agenda. The devotee who has surrendered everything to Krishna has nothing to hide and nothing to seek — this inner transparency is the deepest purity."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak highlights 'dakṣaḥ' (skilled, capable) as crucial — the ideal is not incompetent renunciation but skilled, capable action free from selfish motive. The karma yogi is not someone who does not care about quality but someone who delivers excellence without personal attachment to the outcome."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda emphasizes that these qualities describe not a passive renunciant but an active, effective person. Being free from expectations while remaining skilled and capable — this combination produces the most powerful kind of worker: one who gives their best without anxiety about rewards."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Develop competence and skill while releasing attachment to outcomes. The most effective people are those who combine excellence in execution with freedom from personal agenda. Be good at what you do — but do it for the right reasons, not to satisfy ego.",
+      "career_business": "The ideal professional is competent (dakṣa), impartial in judgment (udāsīna), free from political maneuvering (sarvārambhaparityāgī), and untroubled by setbacks (gatavyatha). These qualities make someone not just effective but trustworthy — the rarest and most valued combination in any organization.",
+      "health": "Approach your health with skill and knowledge (dakṣa) but without anxious expectations (anapekṣa). Be impartial in evaluating what works (udāsīna) and let go of distress about setbacks (gatavyatha). This combination of competence and equanimity is the foundation of sustainable well-being.",
+      "relationships": "Approach relationships with skill and care but without hidden agendas or constant expectations. The partner who is competent, fair, and free from distress about outcomes creates a relationship of trust and ease. Let go of selfish undertakings in love — act from genuine care, not personal need."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I become free from expectations without becoming apathetic?",
+        "Can I be skillful and accomplished without being driven by ego?",
+        "How do I act without personal agenda?",
+        "What does true impartiality look like in daily life?"
+      ],
+      "career_business": [
+        "How do I stay effective at work without political maneuvering?",
+        "Can I be ambitious and impartial at the same time?",
+        "How do I build skill without attachment to recognition?",
+        "What does it mean to renounce selfish undertakings at work?"
+      ],
+      "health": [
+        "How do I pursue health goals without anxious expectations?",
+        "Can I be disciplined about health and relaxed about outcomes?",
+        "How do I evaluate health approaches without bias?",
+        "I'm distressed about my health — how do I find peace while still trying?"
+      ],
+      "relationships": [
+        "How do I love skillfully without manipulating?",
+        "Can I be invested in my relationship without expectations?",
+        "How do I stop having hidden agendas in love?",
+        "What does selfless action look like in a relationship?"
+      ]
+    },
+    "themes": [
+      "skillfulness",
+      "impartiality",
+      "purity",
+      "expectation-freedom",
+      "selfless-action"
+    ]
+  },
+  {
+    "id": "BG-12.17",
+    "chapter": 12,
+    "verse": 17,
+    "sanskrit": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति |\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ॥१७॥",
+    "iast": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati |\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||17||",
+    "explanation": "He who neither rejoices excessively nor hates, neither grieves nor craves, who has renounced both good and evil — such a devotee, full of bhakti, is dear to Me. Krishna describes a state beyond the pairs of opposites: the devotee is not tossed between elation and hatred, grief and craving, or even the distinction between auspicious and inauspicious.",
+    "synthesis": "The devotee who neither rejoices excessively nor hates, who has renounced both good and evil — this describes transcendence of the dualistic framework itself. Shankaracharya sees it as abidance in the non-dual Self beyond all pairs of opposites. Ramanujacharya reads it as equanimity born of total surrender. Madhva interprets it as accepting all outcomes as the Lord's will. Abhinavagupta sees transcendence of good and evil as acting from a depth that precedes moral categorization. Vallabha reads it as living from love alone, making selfish calculations irrelevant. Tilak interprets it as freedom from attachment to favorable results — doing dharma without calculating personal benefit. Vivekananda reads it as the highest ethical maturity, where righteous action flows from character rather than external categories. The Bhakti tradition sees such a devotee as one so absorbed in God that worldly dualities simply cannot reach them. Across all traditions, this verse describes not moral nihilism but moral transcendence — acting from such a deep alignment with the divine that the ego's classifications of gain and loss, pleasure and pain, become transparent and non-binding.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains that one who has transcended the three guṇas (sattva, rajas, tamas) naturally goes beyond the pairs of opposites. Neither elation nor hatred, neither grief nor craving can touch the one established in the non-dual Self. The renunciation of 'śubha' and 'aśubha' (good and evil) signifies transcendence of all mental conditioning."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya notes that the word 'bhaktimān' (full of bhakti) appears alongside this transcendence of dualities, showing that it is not dry detachment but devotion-soaked equanimity. The devotee goes beyond joy and sorrow not by suppressing emotions but by being so absorbed in divine love that worldly fluctuations cannot reach them."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition reads this as the state of a heart so completely given to God that nothing else has power over it. The devotee does not hate because they see God in all. They do not grieve because they trust God's plan. They do not crave because they already possess the supreme treasure. And they transcend even moral calculation because their actions flow spontaneously from divine love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva sees the renunciation of 'good and evil' not as moral nihilism but as transcending attachment to the pleasant and unpleasant dualities. The devotee who has surrendered to Vishnu accepts all outcomes as the Lord's will, neither grasping at favorable results nor recoiling from unfavorable ones."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets 'renouncing good and evil' as transcending the dualistic framework entirely. In the non-dual vision of Kashmir Shaivism, good and evil are relative constructs within the play of Consciousness. The realized being acts from a depth that precedes such categorization."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha reads this verse as describing the devotee who has transcended the ordinary moral calculus because their every action is motivated solely by love for Krishna. When love is the only motive, the categories of selfish gain and loss become irrelevant, and the devotee lives in a state of natural, uncalculating devotion."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets the renunciation of good and evil as the abandonment of attachment to results classified as favorable or unfavorable. The karma yogi does what is right (dharma) without calculating personal benefit. This is not indifference to ethics but freedom from the ego's classification of outcomes."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda reads this as the highest ethical maturity: acting from duty and love rather than from calculation of reward and punishment. The truly spiritual person has internalized morality so deeply that they no longer need external categories of good and evil — righteous action flows naturally from their character."
+      }
+    ],
+    "applications": {
+      "personal_growth": "True maturity means moving beyond the constant swing between elation and despair, craving and aversion. This does not mean becoming emotionless but achieving a depth of being where surface events cannot destabilize your core. The goal is not flatness but depth — still waters that run deep.",
+      "career_business": "The most resilient professionals are those who do not ride the emotional rollercoaster of every business cycle. They remain steady through market ups and downs, celebrate success without losing perspective, and face setbacks without despair. This equanimity enables clear decision-making in any circumstance.",
+      "health": "Emotional extremes — euphoria and despair, craving and aversion — create biochemical chaos in the body. Equanimity is not emotional suppression but emotional stability — a calm baseline that allows the body's systems to function optimally without the constant disruption of extreme states.",
+      "relationships": "The partner who does not swing wildly between ecstasy and resentment, who does not oscillate between desperate craving and cold rejection, creates the stability that deep love requires. Emotional equanimity in relationships is not lack of passion but a steady flame that endures all weather."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I stop swinging between emotional highs and lows?",
+        "Is it possible to transcend the need for pleasure and avoidance of pain?",
+        "How do I go beyond grief and craving?",
+        "What does it mean to renounce both good and evil?"
+      ],
+      "career_business": [
+        "How do I maintain composure through business highs and lows?",
+        "I celebrate wins but crash with every failure — how do I stabilize?",
+        "How do I make decisions without being swayed by excitement or fear?",
+        "Is emotional detachment an asset or a liability in business?"
+      ],
+      "health": [
+        "How do emotional extremes affect my physical health?",
+        "Can emotional stability actually improve my body's functioning?",
+        "I'm always in crisis mode — how does this affect my health?",
+        "How do I develop a calm emotional baseline?"
+      ],
+      "relationships": [
+        "How do I stop the cycle of intense highs and painful lows?",
+        "My emotional swings are exhausting my partner",
+        "How do I love steadily instead of wildly?",
+        "Is it possible to be passionate without being volatile?"
+      ]
+    },
+    "themes": [
+      "transcendence-of-duality",
+      "emotional-equanimity",
+      "beyond-opposites",
+      "bhakti",
+      "inner-freedom"
+    ]
+  },
+  {
+    "id": "BG-12.18",
+    "chapter": 12,
+    "verse": 18,
+    "sanskrit": "समः शत्रौ च मित्रे च तथा मानापमानयोः |\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ॥१८॥",
+    "iast": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ |\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||18||",
+    "explanation": "Equal toward friend and foe, equal in honor and dishonor, equal in cold and heat, pleasure and pain, free from all attachment — Krishna continues the portrait with perhaps the most challenging quality: treating friends and enemies, praise and insult, comfort and discomfort with the same inner balance.",
+    "synthesis": "Equal toward friend and foe, equal in honor and dishonor, in heat and cold, pleasure and pain — this sweeping equanimity is the hallmark of the mature devotee. Shankaracharya sees it as Self-realization making all dualities transparent. Ramanujacharya reads it as the peace of one whose identity is secured in God. Madhva interprets equanimity as recognizing all beings as servants of the Lord, beyond the shifting categories of social life. Abhinavagupta sees all dualities as surface ripples on the infinite ocean of non-dual Consciousness. Vallabha reads freedom from attachment as the devotee's wholehearted belonging to Krishna alone. Tilak highlights equanimity in honor and dishonor as essential for public service and leadership. Vivekananda sees equanimity as practical spiritual strength — mastery that transcends circumstances. The Bhakti tradition describes this as the freedom of one who has given everything to God: when nothing belongs to you, nothing can be taken from you. These eight traditions converge on a profound insight: equanimity is not indifference but the deepest engagement with life, made possible by an identity anchored in something that the world's fluctuations cannot reach.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains that equanimity toward friends and enemies arises from seeing the same Self in both. Honor and dishonor are equally irrelevant to one who knows their identity is not the body or the social persona but the unchanging Ātman. Physical dualities of heat and cold, pleasure and pain, affect the body but not the Self."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya interprets this equanimity as arising from total surrender to God. When all outcomes — whether they come through friends or enemies, honor or dishonor — are accepted as God's will, equanimity becomes natural. The devotee's happiness depends solely on the Lord, making worldly fluctuations irrelevant."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this equanimity as the natural consequence of being in love with God. When your heart is full of the Beloved, the world's praise cannot inflate you and its criticism cannot deflate you. Friends and enemies are equally vessels of God's play. Heat and cold touch the body but not the soul resting in divine love."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva reads equanimity toward friend and foe as reflecting the understanding that all beings are servants of the Lord, regardless of their current behavior toward you. The devotee treats all with dignity because their primary relationship is with God, not with the shifting categories of human social life."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees equanimity in all dualities — honor and dishonor, cold and heat — as the natural state of one established in the non-dual Consciousness. When the seeker recognizes that all experiences arise within the one Shiva, the apparent differences between opposites are seen as surface ripples on an infinite ocean."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha interprets freedom from attachment as the devotee's wholehearted belonging to Krishna alone. When the heart is given entirely to the Lord, worldly dualities lose their power to disturb. Heat and cold, praise and blame — none of these can reach the core of one who dwells in Krishna's love."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak highlights equanimity in honor and dishonor as essential for anyone engaged in public service or leadership. The karma yogi who is unmoved by praise and criticism acts with greater clarity and effectiveness. Freedom from attachment to outcomes enables the most courageous and impartial action."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda sees these qualities as the practical marks of spiritual strength. The person who remains equal in heat and cold, pleasure and pain, demonstrates a mastery that transcends circumstances. This equanimity is not numbness but a deeper engagement with life from an unshakeable center."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The ultimate test of equanimity is how you treat those who oppose you versus those who support you. Can you maintain the same inner composure when insulted as when praised? This capacity — not cold indifference but warm balance — is the hallmark of genuine inner freedom.",
+      "career_business": "The leader who treats supportive colleagues and difficult ones with the same respect and fairness, who is not inflated by praise or crushed by criticism, and who performs consistently regardless of comfort or recognition — this person is unshakeable and deeply trusted by all.",
+      "health": "Physical equanimity — the ability to tolerate discomfort without distress and enjoy comfort without attachment — creates a resilient constitution. The person who is not enslaved by the need for perfect conditions maintains health regardless of circumstances.",
+      "relationships": "Being equal toward friends and adversaries does not mean treating your partner the same as a stranger. It means that your inner stability is not dependent on anyone's behavior. This paradoxically makes you a better partner — your love is freely given, not extracted as payment for good behavior."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I treat friends and enemies with the same equanimity?",
+        "How do I stop caring about what people think of me?",
+        "I'm devastated by criticism and addicted to praise",
+        "How do I become truly independent of external validation?"
+      ],
+      "career_business": [
+        "How do I handle office politics without taking sides?",
+        "I'm too affected by my boss's opinion of me",
+        "How do I perform consistently regardless of recognition?",
+        "Can I treat competitors and allies with the same respect?"
+      ],
+      "health": [
+        "How do I develop tolerance for physical discomfort?",
+        "I can't function unless conditions are perfect",
+        "How does attachment to comfort affect my health?",
+        "Can equanimity toward pain actually reduce suffering?"
+      ],
+      "relationships": [
+        "How do I stay balanced when someone I love hurts me?",
+        "I treat my friends well but hold grudges against those who wrong me",
+        "How do I respond to betrayal without becoming bitter?",
+        "Can I love my enemies without being a doormat?"
+      ]
+    },
+    "themes": [
+      "equanimity",
+      "friend-and-foe",
+      "honor-and-dishonor",
+      "non-attachment",
+      "inner-freedom"
+    ]
+  },
+  {
+    "id": "BG-12.19",
+    "chapter": 12,
+    "verse": 19,
+    "sanskrit": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ॥१९॥",
+    "iast": "tulyanindāstutirmaunī santuṣṭo yena kenacit |\naniketaḥ sthiramatibhaktimānme priyo naraḥ ||19||",
+    "explanation": "Equal in blame and praise, silent and contemplative, content with whatever comes, without a fixed abode, steady of mind, full of devotion — such a person is dear to Me. Krishna paints the portrait of a soul so free that they need no permanent home, no praise, no specific conditions to be complete.",
+    "synthesis": "Equal in blame and praise, silent, content with whatever comes, without a fixed abode, steady of mind — these final qualities complete the portrait of the ideal devotee. Shankaracharya sees silence as the maturity of one who has gone beyond words. Ramanujacharya reads contentment as trust in God's provision. Madhva interprets steady-mindedness as anchoring in the eternal Lord. Abhinavagupta sees 'without a fixed abode' as being at home everywhere — in universal Consciousness itself. Vallabha reads contentment as the natural response to total surrender. Tilak emphasizes steady-mindedness as essential for sustained action over decades. Vivekananda interprets 'without a fixed abode' metaphorically as psychological non-attachment — not being fixed in any one identity or role. The Bhakti tradition sees the devotee's silence as fullness, not emptiness — one whose mind is always conversing with the Lord needs no idle speech. These perspectives together paint a picture of someone who has found their true home — not in any place or circumstance but in the divine itself — and who therefore moves through the world with the lightness, contentment, and unshakeable steadiness that comes from being eternally held.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya interprets 'aniketa' as one who has no fixed dwelling place — either literally as a renunciant or metaphorically as one who does not identify with any external situation. True 'home' is the Self, and one who knows this is at home everywhere. 'Maunī' refers to the contemplative silence that arises from the cessation of mental chatter."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya reads this verse as describing total freedom from worldly dependencies. The devotee is content with whatever God provides ('yena kenacit'), unaffected by praise or blame, inwardly silent and steady. Their only 'home' is the Lord's presence, which they carry within them wherever they go."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this verse as a description of the ultimate spiritual freedom: a person who needs nothing from the world because they carry God within them. They are content because God provides. They are silent because they commune with God. They have no fixed home because wherever God is, they are home. This is not renunciation of the world but fulfillment beyond it."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva sees the devotee who is 'content with whatever comes' as expressing supreme trust in Vishnu's providential care. Silence reflects not emptiness but fullness — the devotee whose mind is always conversing with the Lord has no need for idle speech. Steadiness of mind comes from anchoring in the eternal Lord."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta interprets 'without a fixed abode' as the state of one whose home is universal Consciousness itself. Not being attached to any particular location or condition, the realized being moves freely through all circumstances while remaining centered in Shiva. This is the ultimate freedom — being at home everywhere."
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha reads 'content with whatever comes' as the fruit of total surrender to Krishna's will. When the devotee trusts that everything is Krishna's arrangement — every meal, every shelter, every experience — contentment is not a discipline but a natural response to divine love and provision."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak emphasizes 'sthira-matiḥ' (steady-minded) as the quality most essential for sustained action in the world. The karma yogi who is steady amid changing fortunes, content with whatever circumstances arise, can maintain their commitment to duty across decades without burnout or disillusionment."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda interprets 'without a fixed abode' metaphorically as psychological non-attachment — not being mentally fixed in any one identity, role, or circumstance. The truly free person adapts to every situation while maintaining inner stability. This makes them resilient, versatile, and genuinely content."
+      }
+    ],
+    "applications": {
+      "personal_growth": "True freedom means being content with whatever life brings, maintaining inner silence amid outer noise, and not clinging to any fixed identity or situation. When your sense of home comes from within — from your deepest values and convictions — you can thrive anywhere and in any circumstance.",
+      "career_business": "The most adaptable professionals are those who do not cling to specific roles, titles, or environments. Being 'without fixed abode' in your career means being able to excel in any situation, content with whatever assignment you receive, and steady regardless of external feedback.",
+      "health": "Contentment with your current situation, inner silence, and the ability to adapt to changing conditions are powerful health resources. The person who does not need perfect conditions to feel well, who maintains inner peace in any environment, has a resilient constitution that thrives anywhere.",
+      "relationships": "The partner who does not need constant external validation, who is content within themselves, and whose stability does not depend on the relationship being a certain way — this person brings freedom and strength to love. They love you because they choose to, not because they need to."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I become content with whatever life gives me?",
+        "What does inner silence mean in a noisy world?",
+        "How do I stop needing external conditions to be happy?",
+        "I cling to my comfort zone — how do I let go?"
+      ],
+      "career_business": [
+        "How do I adapt to any work environment without losing myself?",
+        "I'm too attached to my title and role — how do I let go?",
+        "How do I stay steady when praise and criticism come equally?",
+        "Can I thrive professionally without a fixed career identity?"
+      ],
+      "health": [
+        "How do I maintain well-being in any circumstances?",
+        "I need perfect conditions to feel healthy — is that a problem?",
+        "How does contentment affect my physical health?",
+        "Can I be healthy without a fixed routine?"
+      ],
+      "relationships": [
+        "How do I love without needing constant reassurance?",
+        "My partner is very independent — does that mean they don't care?",
+        "How do I stop needing the relationship to be a certain way?",
+        "What does it mean to be content in love?"
+      ]
+    },
+    "themes": [
+      "contentment",
+      "silence",
+      "adaptability",
+      "freedom",
+      "inner-stability"
+    ]
+  },
+  {
+    "id": "BG-12.20",
+    "chapter": 12,
+    "verse": 20,
+    "sanskrit": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |\nश्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ॥२०॥",
+    "iast": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate |\nśraddadhānā matparamā bhaktāste'tīva me priyāḥ ||20||",
+    "explanation": "But those who follow this immortal dharma as I have declared it, endowed with faith, regarding Me as the supreme goal — such devotees are exceedingly dear to Me. The chapter's final verse intensifies the refrain with 'atīva me priyāḥ' — not just dear, but exceedingly dear, supremely dear. This is the highest expression of divine love for the devotee in the entire Gita.",
+    "synthesis": "This magnificent concluding verse declares that those who follow this 'immortal dharma' with faith, regarding the Lord as supreme, are exceedingly dear to Him. Shankaracharya sees it as the culmination of the devotional path. Ramanujacharya reads 'atīva priyāḥ' (exceedingly dear) as the highest possible divine commendation. Madhva sees faith and supreme devotion to Vishnu as securing the highest spiritual reward. Abhinavagupta reads the 'immortal dharma' as the dharma of recognition — living in awareness of one's divine nature. Vallabha identifies this immortal dharma as pushti-bhakti, declaring that those who follow it with faith receive the Lord's highest grace. Tilak interprets it as validating the life of engaged righteousness — selfless action with devotion. Vivekananda sees it as a universal invitation requiring no special birth, education, or capacity — only faith and sincerity. The Bhakti tradition hears in 'exceedingly dear' the most intimate declaration of divine love. Across all eight traditions, this verse affirms that the path of devoted, selfless, equanimous living — open to every human being — is the supreme path, and those who walk it with faith are held in the highest regard by the divine itself.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankaracharya explains 'dharmyāmṛtam' as the immortal dharma that liberates — the entire teaching of this chapter, which combines devotion, equanimity, and selfless action. Those who practice these teachings with faith naturally progress toward the knowledge of the Self. The superlative 'atīva' indicates the highest commendation possible."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanujacharya considers this the most significant verse of the chapter, indeed one of the most important in the entire Gita. 'Atīva me priyāḥ' — supremely dear to Me — reveals that the Lord's love for the devotee is not merely responsive but overflowing. The word 'amṛtam' (immortal nectar) shows that this path itself is the goal — it is already liberation, already bliss."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "For the Bhakti tradition, this verse is the ultimate treasure. God Himself declares that His devotees who walk the path of love, faith, and surrender are 'atīva priya' — exceedingly dear, supremely beloved. This surpasses even liberation in its significance — for what devotee wants liberation when they can have the love of God? To be called 'supremely dear' by the Lord of the universe — this is the highest attainment, the final goal, and the eternal reward of the path of devotion."
+      },
+      {
+        "tradition": "dvaita",
+        "teacher": "Madhvacharya",
+        "text": "Madhva reads this concluding verse as establishing that the devotee who follows this 'immortal dharma' with faith and supreme devotion to Vishnu attains the highest spiritual reward. The qualifier 'matparamāḥ' (regarding Me as supreme) is essential — the path requires recognizing the Lord's absolute supremacy."
+      },
+      {
+        "tradition": "kashmir-shaivism",
+        "teacher": "Abhinavagupta",
+        "text": "Abhinavagupta sees this final verse as Shiva's invitation to live the dharma of recognition (pratyabhijñā). Those who practice these qualities with faith, recognizing the divine as both the goal and the ground of their practice, achieve the permanent state of Shiva-consciousness that is the 'immortal dharma.'"
+      },
+      {
+        "tradition": "shuddhadvaita",
+        "teacher": "Vallabhacharya",
+        "text": "Vallabha concludes that this 'immortal dharma' is none other than pushti-bhakti — the path of grace-fueled devotion. Those who follow it with faith, regarding Krishna as the supreme goal of life, receive the Lord's highest grace. They are 'exceedingly dear' because their love mirrors the Lord's own love."
+      },
+      {
+        "tradition": "karma-yoga",
+        "teacher": "Bal Gangadhar Tilak",
+        "text": "Tilak interprets 'immortal dharma' as the eternal principle of selfless action performed with devotion. This chapter's teaching — that devoted service is superior to abstract contemplation — validates the life of engaged righteousness. Those who act selflessly with faith reach the highest, regardless of their metaphysical sophistication."
+      },
+      {
+        "tradition": "practical-vedanta",
+        "teacher": "Swami Vivekananda",
+        "text": "Vivekananda sees this closing verse as a universal invitation: this path of devotion, character, and selfless service is open to all. No special birth, education, or capacity is required — only faith and the sincere desire to make God the supreme goal. This democratization of spirituality is the Gita's greatest gift."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The culmination of personal growth is not achievement but becoming the kind of person who embodies these qualities: compassionate, balanced, devoted, skillful, and free. When you walk this path with faith, you discover that the path itself is the nectar — the journey and the destination are one.",
+      "career_business": "The culmination of professional excellence is not a title or achievement but the embodiment of these qualities in your work: integrity, equanimity, skill without ego, and dedication to something greater than yourself. Those who bring these qualities to their work create a legacy that endures beyond any individual success.",
+      "health": "The ultimate health is not the absence of disease but the presence of wholeness — the integration of body, mind, and spirit described throughout this chapter. When you pursue health as an expression of devotion to life itself, with faith and constancy, the body responds with vitality that transcends mere physical fitness.",
+      "relationships": "The most beautiful relationships are those where both partners strive to embody these qualities: free from ego, compassionate, forgiving, content, faithful, and deeply devoted. Following this 'immortal dharma' of love transforms a relationship from a human arrangement into something sacred and eternal."
+    },
+    "questions": {
+      "personal_growth": [
+        "What is the highest goal of spiritual life?",
+        "How do I follow the path of devotion with complete faith?",
+        "What does it mean to be 'dear to God'?",
+        "How do I make my spiritual practice immortal and enduring?",
+        "I want to walk this path but my faith wavers — what do I do?"
+      ],
+      "career_business": [
+        "How do I make my professional legacy enduring?",
+        "What does it mean to bring devotion to my life's work?",
+        "How do I build a career that embodies these timeless qualities?",
+        "Can my work be a form of immortal dharma?"
+      ],
+      "health": [
+        "What does true wholeness look like beyond physical health?",
+        "How do I pursue health as a spiritual practice?",
+        "Can devotion to wellness create lasting transformation?",
+        "What is the nectar of health — the essence that truly heals?"
+      ],
+      "relationships": [
+        "How do I build a love that is truly enduring?",
+        "What makes a relationship sacred rather than merely functional?",
+        "How do I become the partner described in these verses?",
+        "What does 'immortal dharma' look like in a relationship?",
+        "We want our love to be more than ordinary — where do we start?"
+      ]
+    },
+    "themes": [
+      "supreme-devotion",
+      "immortal-dharma",
+      "divine-love",
+      "faith",
+      "exceedingly-dear"
+    ]
+  }
+]

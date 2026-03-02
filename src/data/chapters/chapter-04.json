@@ -1,0 +1,2480 @@
+[
+  {
+    "id": "BG-4.1",
+    "chapter": 4,
+    "verse": 1,
+    "sanskrit": "श्रीभगवानुवाच |\nइमं विवस्वते योगं प्रोक्तवानहमव्ययम् |\nविवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥१॥",
+    "iast": "śrībhagavānuvāca |\nimaṃ vivasvate yogaṃ proktavānahamavyayam |\nvivasvānmanave prāha manurikṣvākave'bravīt ||1||",
+    "explanation": "Lord Krishna declares that He originally taught this imperishable yoga to Vivasvan (the Sun-god), who passed it to Manu (the progenitor of humanity), and Manu in turn taught it to Ikshvaku (the founder of the Solar dynasty). This establishes the divine origin and ancient lineage of spiritual knowledge.",
+    "synthesis": "Krishna reveals that transcendent wisdom is not a recent invention but an eternal teaching passed through a sacred lineage. The Advaita tradition sees this as evidence that Self-knowledge is timeless and beyond history. The Vishishtadvaita tradition emphasizes that God Himself is the original teacher, establishing the guru-paramparā (chain of teachers). The Bhakti tradition highlights that the Lord personally initiates the transmission of saving knowledge out of compassion for all beings.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that this yoga of Self-knowledge is called imperishable (avyaya) because it is the eternal nature of the Self. It was taught to Vivasvan not as new information but as a revelation of what always is. The paramparā ensures this knowledge is transmitted without distortion."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja emphasizes that the Lord Himself is the original teacher of this yoga, establishing that all authentic spiritual knowledge traces back to God. The teaching to Vivasvan shows that even celestial beings require divine instruction to attain liberation."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition cherishes the idea that the Lord personally teaches out of love. He does not delegate salvation to impersonal forces but initiates the chain of knowledge Himself, ensuring that every seeker can trace their lineage of learning back to God's own compassion."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The greatest wisdom is not invented in a single lifetime but received through a living tradition. Seek teachers who stand within an authentic lineage and honor the chain of mentors who shaped your understanding.",
+      "career_business": "In business, institutional knowledge passed through generations of experienced leaders is invaluable. Mentorship programs and knowledge-transfer systems preserve organizational wisdom the way paramparā preserves spiritual wisdom.",
+      "health": "Healing traditions — Ayurveda, traditional Chinese medicine, modern clinical practice — all rely on knowledge passed down through generations of practitioners. Trust systems that have been tested and refined over time.",
+      "relationships": "Family wisdom, values, and traditions passed down through generations shape who we are. Honoring those who came before while adapting their teachings for the present keeps relationships rooted and resilient."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I find a genuine teacher or mentor?",
+        "Why is lineage important in spiritual learning?",
+        "Can ancient wisdom still be relevant today?",
+        "How do I connect with a tradition bigger than myself?"
+      ],
+      "career_business": [
+        "How do I preserve institutional knowledge when leaders retire?",
+        "Why does mentorship matter so much in career growth?",
+        "How can I build a culture of knowledge-sharing at work?",
+        "What makes some organizations wise across generations?"
+      ],
+      "health": [
+        "Should I trust traditional healing systems?",
+        "How do I combine ancient health wisdom with modern medicine?",
+        "Why do some health practices endure for thousands of years?",
+        "How do I find a trustworthy health practitioner?"
+      ],
+      "relationships": [
+        "How do I honor family traditions without losing my own identity?",
+        "What wisdom from my parents is worth passing on?",
+        "How do I learn from elders without blindly following them?",
+        "Why do some family values endure across generations?"
+      ]
+    },
+    "themes": ["lineage", "eternal-knowledge", "guru-paramparā", "divine-teaching"]
+  },
+  {
+    "id": "BG-4.2",
+    "chapter": 4,
+    "verse": 2,
+    "sanskrit": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः |\nस कालेनेह महता योगो नष्टः परन्तप ॥२॥",
+    "iast": "evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ |\nsa kāleneha mahatā yogo naṣṭaḥ parantapa ||2||",
+    "explanation": "Krishna tells Arjuna that this yoga, received through the chain of disciplic succession, was known to the royal sages. But over the course of great time, this sacred knowledge was lost to the world.",
+    "synthesis": "Knowledge, no matter how sublime, can decay and vanish when the chain of transmission is broken. The Advaita tradition sees this as the cyclical concealment of Self-knowledge by māyā. The Vishishtadvaita tradition emphasizes the need for God to periodically restore the teaching through avatāra or ācārya. The Bhakti tradition sees in this verse the Lord's motivation for re-teaching the Gita — His compassion cannot bear to see humanity bereft of saving knowledge.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara observes that Self-knowledge is obscured not because it ceases to exist but because unqualified recipients distort or forget it over time. The yoga is 'lost' in the sense that its true import is no longer understood, necessitating a fresh revelation."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that the royal sages who once practiced karma-yoga in its fullness gradually disappeared, and with them the living understanding of this teaching. The Lord therefore re-establishes it through a new recipient worthy of carrying it forward."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti reading emphasizes that whenever the world forgets God's teaching, the Lord out of infinite grace re-reveals it. The loss of knowledge is never permanent because God's love for His devotees is eternal and unfailing."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Hard-won insights can be lost if you don't practice them regularly. Journal your breakthroughs, revisit your principles, and keep your wisdom alive through daily application rather than letting time erode what you've learned.",
+      "career_business": "Companies lose critical knowledge when experienced employees leave without proper documentation or mentoring. Build systems — wikis, onboarding, pair-programming — that preserve wisdom beyond any single person's tenure.",
+      "health": "Health habits degrade without reinforcement. A fitness routine or meditation practice abandoned for months must be consciously restarted. Treat your health knowledge as something that requires ongoing practice to remain alive.",
+      "relationships": "Relationships deteriorate when partners stop communicating the values and commitments that brought them together. Regularly revisit and recommit to the principles that anchor your connection."
+    },
+    "questions": {
+      "personal_growth": [
+        "Why do I keep forgetting lessons I've already learned?",
+        "How do I maintain spiritual or personal growth momentum?",
+        "What causes wisdom to fade over time?",
+        "How do I keep my insights alive instead of losing them?"
+      ],
+      "career_business": [
+        "How do we prevent knowledge loss when key people leave?",
+        "Why do organizations keep repeating the same mistakes?",
+        "How do I document what I know for my successor?",
+        "What happens when institutional memory is lost?"
+      ],
+      "health": [
+        "Why do I keep falling off my health routines?",
+        "How do I restart a practice I abandoned?",
+        "Why is consistency so hard to maintain?",
+        "How do I prevent health knowledge from becoming just theory?"
+      ],
+      "relationships": [
+        "Why do couples stop doing what made them close?",
+        "How do I keep the spark of connection alive over years?",
+        "What causes relationships to slowly drift apart?",
+        "How do I recommit to values I once shared with someone?"
+      ]
+    },
+    "themes": ["lineage", "knowledge-loss", "time", "renewal"]
+  },
+  {
+    "id": "BG-4.3",
+    "chapter": 4,
+    "verse": 3,
+    "sanskrit": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः |\nभक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ॥३॥",
+    "iast": "sa evāyaṃ mayā te'dya yogaḥ proktaḥ purātanaḥ |\nbhakto'si me sakhā ceti rahasyaṃ hyetaduttamam ||3||",
+    "explanation": "Krishna tells Arjuna: this same ancient yoga is now being taught to you by Me today, because you are My devotee and My dear friend. This is indeed a supreme secret.",
+    "synthesis": "The qualification for receiving the highest knowledge is not intellectual brilliance but devotion and friendship with the Divine. Shankara sees this as the requirement of śraddhā (faith) and viveka (discrimination). Ramanuja emphasizes that God selects the recipient based on love and surrender. The Bhakti tradition celebrates this verse as proof that the deepest truths are shared in the intimacy of divine friendship, not in the formality of a lecture hall.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that Arjuna's qualification is twofold: he is a bhakta (devotee) and a sakhā (friend). The highest teaching requires both — faith opens the heart to receive, and intimacy ensures the teaching is transmitted without reservation or concealment."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja highlights that the Lord chooses to reveal this supreme secret (uttama rahasya) based on the recipient's devotion and closeness. Arjuna's surrender and friendship qualify him to receive what intellectual pride alone could never access."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "This verse is deeply beloved in the Bhakti tradition because it shows that God shares His deepest secrets not with scholars but with those who love Him. The intimacy of friendship (sakhya) and the trust of devotion (bhakti) together unlock the supreme mystery."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The most profound truths are shared in relationships of trust, not transactional exchanges. Cultivate genuine devotion to your path and openness with your mentors — the deepest teachings come to those who are ready in heart, not just in mind.",
+      "career_business": "The most valuable business insights are shared between trusted colleagues, not in formal reports. Build relationships of genuine trust and loyalty — people share their real knowledge with those they consider friends and allies.",
+      "health": "A doctor who knows you well will give you franker, more personalized advice than a stranger. Build long-term relationships with health practitioners who understand your history, values, and temperament.",
+      "relationships": "Vulnerability and trust unlock deeper communication. When you show genuine devotion and friendship, people share parts of themselves they hide from everyone else. Intimacy is earned through consistent love."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I become ready to receive deep wisdom?",
+        "Why do some teachers share more with certain students?",
+        "What does it mean to be a true devotee of growth?",
+        "How do trust and humility help me learn faster?"
+      ],
+      "career_business": [
+        "How do I build the kind of trust where people share real insights?",
+        "Why do the best mentors only open up to certain people?",
+        "How does genuine loyalty create professional opportunities?",
+        "What makes a business relationship truly reciprocal?"
+      ],
+      "health": [
+        "How do I find a doctor or healer I can truly trust?",
+        "Why does a long-term patient-doctor relationship matter?",
+        "How does openness with my practitioner improve my care?",
+        "What role does trust play in healing?"
+      ],
+      "relationships": [
+        "How do I earn someone's deepest trust?",
+        "Why do some people open up to me and others don't?",
+        "What makes friendship different from acquaintanceship?",
+        "How do I create a safe space for vulnerability?"
+      ]
+    },
+    "themes": ["devotion", "friendship", "trust", "secret-knowledge", "divine-grace"]
+  },
+  {
+    "id": "BG-4.4",
+    "chapter": 4,
+    "verse": 4,
+    "sanskrit": "अर्जुन उवाच |\nअपरं भवतो जन्म परं जन्म विवस्वतः |\nकथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ॥४॥",
+    "iast": "arjuna uvāca |\naparaṃ bhavato janma paraṃ janma vivasvataḥ |\nkathametadvijānīyāṃ tvamādau proktavāniti ||4||",
+    "explanation": "Arjuna questions Krishna: Your birth is recent, while the birth of Vivasvan (the Sun-god) was in the remote past. How am I to understand that You taught this yoga in the beginning?",
+    "synthesis": "Arjuna's question is the voice of rational inquiry — how can someone born in this age have taught in a previous era? This honest doubt sets the stage for Krishna's revelation of His divine, eternal nature. Shankara sees this as the necessary question that provokes the teaching on the unborn Self. Ramanuja reads it as Arjuna requesting clarification about the Lord's transcendent nature versus His incarnate form. The Bhakti tradition values Arjuna's willingness to ask humbly rather than pretend to understand.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara notes that Arjuna's doubt is based on identifying Krishna with His physical body. This is the fundamental error of avidyā — mistaking the eternal for the temporal. The question is necessary to dispel this confusion and reveal Krishna's true nature as the birthless Self."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that Arjuna is not doubting Krishna out of disrespect but genuinely seeking to understand the mystery of how the Supreme Lord takes birth while remaining eternal. This sets the stage for the crucial teaching on divine incarnation."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition appreciates Arjuna's honest questioning as a model for all devotees. Rather than suppressing doubt, a true seeker brings confusion to the Lord directly. Krishna's willingness to answer shows that God welcomes sincere inquiry born of love."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Honest questioning is the gateway to deeper understanding. Never pretend to understand what confuses you. The courage to say 'I don't get this' to a teacher or mentor opens the door to genuine insight.",
+      "career_business": "In business, questioning assumptions — even from authority figures — is essential. The best leaders welcome genuine inquiry because it reveals hidden contradictions and leads to better decisions.",
+      "health": "If a diagnosis or treatment plan doesn't make sense to you, ask questions. Blind compliance is not the same as trust. A good doctor will appreciate your engagement and explain until you truly understand.",
+      "relationships": "When something your partner says doesn't add up, ask with genuine curiosity rather than accusation. 'Help me understand' opens doors that 'that doesn't make sense' slams shut."
+    },
+    "questions": {
+      "personal_growth": [
+        "Is it okay to question my teacher or spiritual tradition?",
+        "How do I express doubt without being disrespectful?",
+        "When does healthy questioning become destructive skepticism?",
+        "How do I balance faith with critical thinking?"
+      ],
+      "career_business": [
+        "How do I question my boss without seeming insubordinate?",
+        "When should I challenge conventional wisdom at work?",
+        "How do I create a culture where questions are welcome?",
+        "Why do some leaders punish honest inquiry?"
+      ],
+      "health": [
+        "Should I question my doctor's recommendations?",
+        "How do I advocate for myself in medical settings?",
+        "When is a second opinion appropriate?",
+        "How do I ask better questions about my health?"
+      ],
+      "relationships": [
+        "How do I ask hard questions without starting a fight?",
+        "Is it okay to question my partner's logic?",
+        "How do I express confusion without sounding accusatory?",
+        "When does questioning become nagging?"
+      ]
+    },
+    "themes": ["inquiry", "doubt", "humility", "divine-nature", "rational-questioning"]
+  },
+  {
+    "id": "BG-4.5",
+    "chapter": 4,
+    "verse": 5,
+    "sanskrit": "श्रीभगवानुवाच |\nबहूनि मे व्यतीतानि जन्मानि तव चार्जुन |\nतान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ॥५॥",
+    "iast": "śrībhagavānuvāca |\nbahūni me vyatītāni janmāni tava cārjuna |\ntānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||5||",
+    "explanation": "The Lord says: Many births of Mine have passed, and so have yours, O Arjuna. I know them all, but you do not know yours, O scorcher of foes.",
+    "synthesis": "Krishna distinguishes between divine omniscience and human forgetfulness. Both the Lord and the individual soul have existed through many births, but only the Lord retains complete memory. Shankara uses this to distinguish the jīva (bound by ignorance) from Brahman (ever-knowing). Ramanuja sees the Lord's perfect memory as proof of His sovereignty over karma and time. The Bhakti tradition finds comfort here — the Lord remembers every devotee across every lifetime, never forgetting those who seek Him.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the individual self, though equally eternal, is veiled by beginningless ignorance (avidyā) and therefore cannot recall past lives. The Lord, being free from all limiting adjuncts, knows all births — His own and everyone else's."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that the Lord's knowledge of all His births demonstrates His transcendence over karma. Unlike the bound soul whose past is obscured by the effects of prior actions, the Lord incarnates by His own free will with full awareness."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition treasures the fact that God remembers every soul across every lifetime. Even when we forget our relationship with the Divine, He never forgets us. This is the foundation of divine grace — an eternal, unbroken remembrance on God's part."
+      }
+    ],
+    "applications": {
+      "personal_growth": "You may not remember every lesson life has taught you, but the patterns repeat until you learn them. Journaling, reflection, and self-awareness help you retain the wisdom of your experiences instead of repeating cycles unconsciously.",
+      "career_business": "Leaders who remember organizational history — past failures, successful strategies, cultural shifts — make better decisions than those who treat every challenge as unprecedented. Build institutional memory and learn from it.",
+      "health": "Your body carries the memory of every habit, injury, and choice — even when your conscious mind has moved on. Chronic conditions often trace back to forgotten patterns. Understanding your full health history is essential for genuine healing.",
+      "relationships": "We carry unconscious patterns from past relationships into new ones. Recognizing these inherited behaviors — attachment styles, conflict patterns, trust issues — gives you the power to break cycles rather than repeat them."
+    },
+    "questions": {
+      "personal_growth": [
+        "Why do I keep repeating the same life patterns?",
+        "How do I learn lessons so deeply that I never forget them?",
+        "Why does self-awareness seem to fade over time?",
+        "How do I break cycles I can't fully see?"
+      ],
+      "career_business": [
+        "Why does my organization keep making the same mistakes?",
+        "How do I learn from company history I wasn't part of?",
+        "What value does institutional memory bring to leadership?",
+        "How do I avoid reinventing the wheel at work?"
+      ],
+      "health": [
+        "Why does my body remember things my mind has forgotten?",
+        "How do past habits affect my current health?",
+        "Why do old injuries keep coming back?",
+        "How do I understand the full story behind a chronic condition?"
+      ],
+      "relationships": [
+        "Why do I attract the same type of person over and over?",
+        "How do past relationships affect my current one?",
+        "What unconscious patterns am I carrying from my family?",
+        "How do I break a cycle I inherited from my parents?"
+      ]
+    },
+    "themes": ["omniscience", "rebirth", "memory", "divine-nature", "self-awareness"]
+  },
+  {
+    "id": "BG-4.6",
+    "chapter": 4,
+    "verse": 6,
+    "sanskrit": "अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् |\nप्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ॥६॥",
+    "iast": "ajo'pi sannavyayātmā bhūtānāmīśvaro'pi san |\nprakṛtiṃ svāmadhiṣṭhāya sambhavāmyātmamāyayā ||6||",
+    "explanation": "Though I am unborn and imperishable, and though I am the Lord of all beings, I manifest by controlling My own divine nature (prakṛti) through My own māyā (divine creative power).",
+    "synthesis": "Krishna explains the paradox of divine incarnation: the birthless takes birth without losing His eternal nature. Shankara interprets māyā as the cosmic illusion that the Lord wields but is never subject to. Ramanuja sees the Lord's birth as a real but supernatural event — He assumes a divine body of His own will, not compelled by karma. The Bhakti tradition marvels that the infinite God voluntarily limits Himself to become accessible to His devotees.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the Lord's birth is not like ordinary birth caused by karma. He rules over His own māyā — the power of cosmic illusion — and appears to be born while remaining the unborn, unchanging Ātman. His incarnation is a play of consciousness, not a karmic compulsion."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja insists the Lord's incarnation is real, not illusory. He assumes a divine body made of pure sattva (śuddha-sattva) by His own will. Unlike bound souls whose births are determined by karma, the Lord's descent is entirely voluntary and purposeful."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition is awestruck by the Lord's willingness to descend into the material world. The infinite becomes finite, the unborn takes birth — all so that devotees can see, touch, and relate to God directly. This is the supreme expression of divine love."
+      }
+    ],
+    "applications": {
+      "personal_growth": "True leaders and teachers voluntarily enter difficult situations not because they must, but because they choose to serve. You can choose to step into challenging environments without being diminished by them — when your core identity is secure.",
+      "career_business": "The best leaders step into the trenches with their teams — not because they have to but because they choose to. Voluntary engagement with ground-level work, without losing strategic perspective, earns deep respect and loyalty.",
+      "health": "Choosing to enter discomfort — cold exposure, fasting, intense exercise — voluntarily builds resilience. The key is that you control the process rather than being forced into it. Voluntary hardship strengthens; involuntary hardship merely wears down.",
+      "relationships": "Choosing to be vulnerable in a relationship — sharing fears, admitting mistakes — is an act of voluntary descent. You don't lose your strength by opening up; you demonstrate it. True intimacy requires choosing to be accessible."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I stay true to myself while adapting to difficult environments?",
+        "Can I enter chaos without being consumed by it?",
+        "How do I voluntarily face hardship without losing my center?",
+        "What does it mean to be in the world but not of it?"
+      ],
+      "career_business": [
+        "How do I lead from the trenches without losing the big picture?",
+        "When should a leader get their hands dirty?",
+        "How do I stay strategic while being hands-on?",
+        "What makes voluntary humility in leadership so powerful?"
+      ],
+      "health": [
+        "How does voluntary discomfort build resilience?",
+        "Why is chosen hardship different from forced suffering?",
+        "How do I push my limits without breaking myself?",
+        "What role does intentional challenge play in health?"
+      ],
+      "relationships": [
+        "How do I show vulnerability without appearing weak?",
+        "Why does choosing to be open strengthen relationships?",
+        "How do I enter someone else's world without losing myself?",
+        "What does it mean to be strong enough to be soft?"
+      ]
+    },
+    "themes": ["divine-incarnation", "māyā", "voluntary-descent", "unborn", "divine-will"]
+  },
+  {
+    "id": "BG-4.7",
+    "chapter": 4,
+    "verse": 7,
+    "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत |\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥७॥",
+    "iast": "yadā yadā hi dharmasya glānirbhavati bhārata |\nabhyutthānamadharmasya tadātmānaṃ sṛjāmyaham ||7||",
+    "explanation": "Whenever there is a decline of dharma (righteousness) and a rise of adharma (unrighteousness), O Bharata, at that time I manifest Myself. This is one of the most celebrated verses in the entire Gita.",
+    "synthesis": "This iconic verse establishes the doctrine of divine intervention in human history. The Lord does not remain indifferent to the moral state of the world. Shankara reads this cosmically — the Self reasserts itself whenever ignorance dominates. Ramanuja sees it as the Lord's concrete, historical descents (avatāras) to restore the cosmic order. The Bhakti tradition finds in this verse the assurance that God will never abandon the world to darkness — wherever dharma is threatened, the Lord will come.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that 'dharma' here refers to the Vedic path of knowledge and action that leads to liberation. When this dharma declines due to the dominance of ignorance and desire, the Lord manifests to restore the conditions under which liberation is possible."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja takes this as a declaration of the Lord's avatāra doctrine. The Supreme Being descends in various forms — Rama, Krishna, and others — to protect devotees, destroy evil, and re-establish dharma. These incarnations are real, not symbolic."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "This is one of the most reassuring verses for devotees. No matter how dark the world becomes, the Lord promises to appear. The very existence of injustice contains within it the guarantee of divine response. The devotee need never despair."
+      }
+    ],
+    "applications": {
+      "personal_growth": "When your life feels most chaotic and your values are under siege, that crisis is itself the catalyst for transformation. The lowest point often precedes the greatest breakthrough. Trust that renewal emerges precisely when things seem most broken.",
+      "career_business": "Organizations face periodic crises where core values are tested — ethical scandals, cultural decay, market disruption. These moments demand leaders who will stand up and restore the mission. Be the person who rises when values are in decline.",
+      "health": "Health crises often become turning points. A diagnosis, a collapse, a moment of clarity about destructive habits — these are the moments when genuine transformation begins. The body's breakdown can be the signal for a new way of living.",
+      "relationships": "When a relationship hits its lowest point — betrayal, neglect, disconnection — that crisis can be the beginning of a deeper, more honest connection if both partners choose to do the hard work of restoration."
+    },
+    "questions": {
+      "personal_growth": [
+        "Why do my biggest breakthroughs come after my worst crises?",
+        "How do I find hope when everything seems to be falling apart?",
+        "Is there a purpose behind the chaos in my life?",
+        "How do I become the force for good when things go wrong?"
+      ],
+      "career_business": [
+        "How do I lead an organization through a values crisis?",
+        "When should I step up to fight for what's right at work?",
+        "How do I rebuild trust after an ethical failure?",
+        "What makes some companies emerge stronger from crisis?"
+      ],
+      "health": [
+        "Can a health crisis become a turning point for the better?",
+        "How do I use a diagnosis as motivation rather than despair?",
+        "Why did it take hitting bottom for me to change?",
+        "How do I find purpose in suffering?"
+      ],
+      "relationships": [
+        "Can a relationship survive betrayal and come back stronger?",
+        "How do I know when a crisis is the end versus a new beginning?",
+        "Why do some couples grow closer after the worst fights?",
+        "How do I restore trust after it's been broken?"
+      ]
+    },
+    "themes": ["dharma", "divine-incarnation", "avatāra", "crisis", "restoration", "hope"]
+  },
+  {
+    "id": "BG-4.8",
+    "chapter": 4,
+    "verse": 8,
+    "sanskrit": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् |\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥८॥",
+    "iast": "paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām |\ndharmasaṃsthāpanārthāya sambhavāmi yuge yuge ||8||",
+    "explanation": "For the protection of the righteous, the destruction of the wicked, and the establishment of dharma, I manifest Myself age after age. This verse completes the famous pair with 4.7.",
+    "synthesis": "The threefold purpose of divine incarnation is declared: protect the good, destroy evil, and re-establish dharma. Shankara sees the protection of the wise as creating conditions for Self-knowledge to flourish. Ramanuja emphasizes the Lord's personal engagement — He does not delegate the work of salvation but comes Himself. The Bhakti tradition sees the three purposes as expressions of divine love: shelter for devotees, justice against oppressors, and a moral order in which all beings can thrive.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the Lord protects the sādhus — those who follow the path of knowledge and dharma — because their existence is essential for the transmission of liberating wisdom. The destruction of the wicked removes obstacles to spiritual progress in the world."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja emphasizes that 'protection of the righteous' means the Lord becomes personally accessible to His devotees in each age. He does not merely send agents but comes Himself, demonstrating that the relationship between God and devotee is direct and personal."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "For devotees, this verse is a source of immense comfort. The Lord promises to come age after age — not once but repeatedly, tirelessly. The protection of the righteous is listed first, showing that the Lord's primary motivation is love for His devotees, not merely punishment of the wicked."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Stand for what is right even when it is costly. The universe supports those who align with dharma. Your role is to be among the 'sādhus' — the righteous — whose very existence calls forth protective forces in the world.",
+      "career_business": "In business, the threefold mandate applies: protect your good employees, address toxic behavior decisively, and constantly reinforce organizational values. Leaders who do all three build cultures that endure across cycles.",
+      "health": "Protect what's working in your health (good habits, supportive relationships), eliminate what's harmful (toxic inputs, destructive patterns), and establish sustainable daily practices. Health requires all three — defense, removal, and construction.",
+      "relationships": "Healthy relationships require protecting what's good between you, addressing harmful dynamics directly, and continuously re-establishing shared values. Ignoring any of the three leads to gradual decline."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I stand for what's right when I'm outnumbered?",
+        "What does it mean to be a force for good in the world?",
+        "How do I protect my values under pressure?",
+        "Am I living in a way that upholds dharma?"
+      ],
+      "career_business": [
+        "How do I protect good employees from toxic culture?",
+        "When is it time to remove someone who's harming the team?",
+        "How do I build values that outlast any single leader?",
+        "What does righteous leadership look like in practice?"
+      ],
+      "health": [
+        "How do I protect my good habits from erosion?",
+        "What harmful patterns do I need to eliminate completely?",
+        "How do I build a sustainable health routine?",
+        "Why is it not enough to just remove bad habits without adding good ones?"
+      ],
+      "relationships": [
+        "How do I protect what's good in my relationship?",
+        "When is it necessary to confront harmful behavior in a partner?",
+        "How do we rebuild shared values after they've eroded?",
+        "What does it mean to fight for a relationship?"
+      ]
+    },
+    "themes": ["dharma", "divine-protection", "avatāra", "righteousness", "justice"]
+  },
+  {
+    "id": "BG-4.9",
+    "chapter": 4,
+    "verse": 9,
+    "sanskrit": "जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः |\nत्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ॥९॥",
+    "iast": "janma karma ca me divyamevaṃ yo vetti tattvataḥ |\ntyaktvā dehaṃ punarjanma naiti māmeti so'rjuna ||9||",
+    "explanation": "One who truly understands the divine nature of My birth and activities, upon leaving the body, does not take rebirth but attains Me, O Arjuna. Knowing God's nature in truth is itself liberating.",
+    "synthesis": "Understanding the divine nature of Krishna's incarnation is not mere intellectual knowledge — it is transformative realization that breaks the cycle of rebirth. Shankara holds that this 'knowing in truth' means realizing one's identity with Brahman. Ramanuja interprets it as deep, loving contemplation of the Lord's divine qualities that draws the soul to God at death. The Bhakti tradition teaches that meditating on the Lord's līlā (divine play) purifies the heart so completely that the devotee naturally returns to God.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that knowing the Lord's birth and actions 'in truth' (tattvataḥ) means understanding that the birthless Ātman only appears to be born through māyā. This realization is identical with Self-knowledge, which liberates the knower from the cycle of birth and death."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that true understanding of the Lord's divine incarnation produces such deep love and devotion that the soul, at death, goes directly to the Lord's eternal abode. The knowledge referred to here is not abstract but relational — it is knowing God as He truly is."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this as one of the most hopeful verses in the Gita. Simply understanding and contemplating the Lord's divine descents with love and faith is enough to guarantee liberation. No elaborate ritual is required — only true knowing born of devotion."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Deep understanding transforms more than surface knowledge. When you truly grasp why you do what you do — not just intellectually but in your bones — behavioral change follows naturally. Pursue understanding at the level that changes you, not just informs you.",
+      "career_business": "Understanding the 'why' behind a company's mission at a deep level transforms an employee into a true ambassador. Surface-level knowledge of company values produces compliance; deep understanding produces commitment.",
+      "health": "Truly understanding how your body works — not just following rules — transforms your relationship with health. When you know why sleep, nutrition, and movement matter at a cellular level, healthy choices become natural rather than forced.",
+      "relationships": "Truly knowing another person — their fears, motivations, history, and dreams — changes the entire relationship. Surface knowledge leads to assumptions; deep understanding leads to genuine empathy and unshakeable connection."
+    },
+    "questions": {
+      "personal_growth": [
+        "What's the difference between knowing something and truly understanding it?",
+        "How does deep understanding lead to lasting change?",
+        "Why do some insights transform me while others fade quickly?",
+        "How do I move from intellectual knowledge to embodied wisdom?"
+      ],
+      "career_business": [
+        "How do I move from knowing the company mission to living it?",
+        "What makes some employees deeply committed while others just comply?",
+        "How does understanding purpose drive better performance?",
+        "Why is 'knowing why' more powerful than 'knowing what'?"
+      ],
+      "health": [
+        "How does understanding my body help me make better choices?",
+        "Why is health literacy so important for long-term wellness?",
+        "How do I move from following health rules to understanding health principles?",
+        "What's the difference between dieting and understanding nutrition?"
+      ],
+      "relationships": [
+        "How do I truly know someone beyond the surface?",
+        "What does it take to understand someone at the deepest level?",
+        "Why does deep understanding prevent so many conflicts?",
+        "How do I know if I truly understand my partner?"
+      ]
+    },
+    "themes": ["liberation", "divine-knowledge", "rebirth", "realization", "grace"]
+  },
+  {
+    "id": "BG-4.10",
+    "chapter": 4,
+    "verse": 10,
+    "sanskrit": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः |\nबहवो ज्ञानतपसा पूता मद्भावमागताः ॥१०॥",
+    "iast": "vītarāgabhayakrodhā manmayā māmupāśritāḥ |\nbahavo jñānatapasā pūtā madbhāvamāgatāḥ ||10||",
+    "explanation": "Free from attachment, fear, and anger, absorbed in Me, taking refuge in Me, purified by the austerity of knowledge — many have attained My state of being.",
+    "synthesis": "Krishna summarizes the path: freedom from the three great afflictions (attachment, fear, anger), absorption in the Divine, and purification through knowledge. Shankara sees this as the description of the jñānī who has transcended all mental modifications. Ramanuja emphasizes that taking refuge in the Lord (upāśritāḥ) is the central act. The Bhakti tradition highlights that many — not just a select few — have attained God through this path, making it accessible to all sincere seekers.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that attachment (rāga), fear (bhaya), and anger (krodha) are the three primary obstacles to Self-knowledge. When these are dissolved through the fire of knowledge (jñāna-tapas), what remains is the pure Self — which is identical with the Lord's own nature."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja emphasizes that surrender to the Lord (māmupāśritāḥ) combined with purification through knowledge leads to attaining the Lord's divine nature. The word 'many' (bahavaḥ) shows this is not reserved for a spiritual elite but available to all who follow this path."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition finds great encouragement in the word 'many' — countless souls have already traversed this path successfully. The combination of emotional purification (freedom from attachment, fear, anger) and loving refuge in God describes the complete devotee."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The three enemies of inner peace are attachment (clinging to outcomes), fear (anxiety about the future), and anger (resentment about the past). Working to release these three opens space for clarity, purpose, and genuine freedom.",
+      "career_business": "Professional growth requires releasing attachment to specific outcomes, fear of failure, and anger at competitors or setbacks. Leaders who operate from clarity rather than these three reactive states make consistently better decisions.",
+      "health": "Many health problems are worsened by attachment (to comfort foods, sedentary habits), fear (of diagnosis, of change), and anger (at one's body, at past choices). Releasing these emotional patterns is often the first step in genuine healing.",
+      "relationships": "The three poisons of relationships are possessive attachment, fear of abandonment, and chronic anger. A relationship purified of these three becomes a source of genuine freedom and joy rather than anxiety and control."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I let go of attachment without becoming apathetic?",
+        "What am I really afraid of at the deepest level?",
+        "How do I release anger without suppressing it?",
+        "Is it possible to be free from all three — attachment, fear, and anger?"
+      ],
+      "career_business": [
+        "How do I stay driven without being attached to outcomes?",
+        "How does fear of failure hold me back professionally?",
+        "Why does anger at competitors drain my energy?",
+        "How do I lead from clarity instead of reactivity?"
+      ],
+      "health": [
+        "How do attachment to comfort and fear of change harm my health?",
+        "Why does anger make my body feel worse?",
+        "How do I face a health fear without being paralyzed?",
+        "What role do emotions play in chronic health issues?"
+      ],
+      "relationships": [
+        "How do I love without possessive attachment?",
+        "Why does fear of abandonment push people away?",
+        "How do I stop reacting in anger to the people I love?",
+        "What does a relationship free from fear look like?"
+      ]
+    },
+    "themes": ["detachment", "fearlessness", "purification", "knowledge", "refuge"]
+  },
+  {
+    "id": "BG-4.11",
+    "chapter": 4,
+    "verse": 11,
+    "sanskrit": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् |\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥११॥",
+    "iast": "ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham |\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||11||",
+    "explanation": "In whatever way people approach Me, I reward them accordingly. All paths ultimately follow My path, O Partha. This celebrated verse declares that God reciprocates with each devotee according to their approach.",
+    "synthesis": "This is one of the most inclusive statements in world scripture — God responds to each seeker according to their capacity and sincerity. Shankara reads this as the Self reflecting back whatever the mind projects upon it, validating both the path of knowledge and the path of devotion. Ramanuja sees it as the Lord's gracious willingness to meet each soul where they are while gently drawing them toward the highest truth. The Bhakti tradition celebrates this verse as proof of divine impartiality and infinite love — no sincere seeker is turned away.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the Lord, like the wish-fulfilling tree (kalpa-vṛkṣa), grants results corresponding to each person's approach and desire. Those who seek worldly results receive them; those who seek liberation through knowledge attain the Self. The Lord is impartial — the differences lie in the seekers."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that the Lord reciprocates with infinite grace — meeting devotees in whatever form they worship Him. This does not imply all paths lead to identical results, but that every sincere approach receives a proportionate divine response."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition loves this verse for its radical inclusiveness. Whether you approach God as father, mother, friend, beloved, or master — He responds in kind. This is the basis for the many rasas (flavors) of devotion, each valid and complete in itself."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Life mirrors your approach. If you engage the world with generosity, it tends to be generous in return. If you approach challenges with curiosity rather than fear, they yield insights rather than anxiety. Your orientation shapes your experience.",
+      "career_business": "Customers, clients, and colleagues respond to the energy you bring. Approach people with genuine service and they reciprocate with loyalty. Approach with manipulation and they respond with distrust. Business is a mirror of intention.",
+      "health": "Your body responds to how you treat it. Approach it with respect — proper nutrition, rest, movement — and it rewards you with vitality. Neglect or punish it and it responds with breakdown. Health is a reciprocal relationship.",
+      "relationships": "People mirror the energy you bring to them. Approach someone with warmth and they warm up. Approach with suspicion and they close off. This is not manipulation — it is the natural law of reciprocity in human connection."
+    },
+    "questions": {
+      "personal_growth": [
+        "Is God really accepting of all paths to the divine?",
+        "How does my attitude shape what I get from life?",
+        "Why does the world seem to mirror my inner state?",
+        "How do I approach life in a way that invites good outcomes?"
+      ],
+      "career_business": [
+        "Why do some people seem to attract loyalty effortlessly?",
+        "How does my approach to clients shape their response?",
+        "Is business success really a reflection of service quality?",
+        "How do I create reciprocal professional relationships?"
+      ],
+      "health": [
+        "Does my body really mirror how I treat it?",
+        "How do I build a respectful relationship with my body?",
+        "Why does self-care create a positive cycle?",
+        "How do I shift from punishing my body to partnering with it?"
+      ],
+      "relationships": [
+        "Why do people mirror the energy I bring?",
+        "How do I break a negative cycle of reciprocity?",
+        "Is it true that I get what I give in relationships?",
+        "How do I approach someone who has closed off to me?"
+      ]
+    },
+    "themes": ["divine-reciprocity", "inclusiveness", "many-paths", "grace", "approach"]
+  },
+  {
+    "id": "BG-4.12",
+    "chapter": 4,
+    "verse": 12,
+    "sanskrit": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः |\nक्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥१२॥",
+    "iast": "kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ |\nkṣipraṃ hi mānuṣe loke siddhirbhavati karmajā ||12||",
+    "explanation": "Those who desire success in their actions worship the devas (celestial beings) in this world, for success born of action comes quickly in the human realm.",
+    "synthesis": "Krishna observes that most people pursue immediate, worldly results through ritualistic worship. This is not condemned but placed in context — such worship yields quick material results but not ultimate liberation. Shankara distinguishes between the desire-driven worshiper and the knowledge-seeker. Ramanuja notes that the Lord facilitates even material worship as a stepping-stone. The Bhakti tradition acknowledges that many begin their spiritual journey seeking worldly gains and gradually evolve toward pure devotion.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that worship of various devas for material results is legitimate within the Vedic framework but belongs to the lower (apara) knowledge. Such worship binds one to the cycle of karma. The verse sets up a contrast with the higher path of Self-knowledge described in subsequent verses."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that even worship of devas ultimately reaches the Supreme Lord, who is the inner controller of all devas. However, those who worship lesser powers for quick results receive limited, temporary benefits rather than the eternal fruit of devotion to the Lord Himself."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition recognizes that most people begin their spiritual journey seeking tangible benefits — health, wealth, success. This is not condemned but seen as an early stage. The wise devotee gradually shifts from asking God for things to simply wanting God Himself."
+      }
+    ],
+    "applications": {
+      "personal_growth": "It is natural to begin any pursuit seeking quick, tangible results. But lasting growth requires moving beyond short-term gains to deeper, slower forms of transformation. Quick wins motivate; sustained effort transforms.",
+      "career_business": "In business, quick wins are essential for momentum but insufficient for lasting success. Companies that only chase quarterly results eventually hollow out. Balance immediate performance with long-term capability building.",
+      "health": "Crash diets and intense short-term programs produce quick results but rarely last. Sustainable health comes from slower, steadier practices — consistent sleep, balanced nutrition, regular movement — that compound over years.",
+      "relationships": "Grand gestures create quick emotional highs but don't sustain relationships. Daily consistency — showing up, listening, being reliable — builds the deep trust that dramatic actions cannot replace."
+    },
+    "questions": {
+      "personal_growth": [
+        "Why am I always looking for quick fixes?",
+        "How do I move beyond wanting instant results?",
+        "Is there anything wrong with wanting material success?",
+        "How do I balance ambition with patience?"
+      ],
+      "career_business": [
+        "How do I balance short-term wins with long-term strategy?",
+        "Why does chasing quick results often backfire?",
+        "How do I stay patient while building something that lasts?",
+        "When is a quick win actually the right move?"
+      ],
+      "health": [
+        "Why don't crash diets work long-term?",
+        "How do I shift from quick fixes to sustainable health?",
+        "Why is slow progress actually faster in the long run?",
+        "How do I stay motivated when results are slow?"
+      ],
+      "relationships": [
+        "Why do grand gestures not fix relationship problems?",
+        "How is daily consistency more powerful than big moments?",
+        "Why do I keep looking for the 'one thing' that will fix us?",
+        "How do I build something that lasts instead of something that dazzles?"
+      ]
+    },
+    "themes": ["desire", "quick-results", "worship", "karma", "material-success"]
+  },
+  {
+    "id": "BG-4.13",
+    "chapter": 4,
+    "verse": 13,
+    "sanskrit": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः |\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥१३॥",
+    "iast": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ |\ntasya kartāramapi māṃ viddhyakartāramavyayam ||13||",
+    "explanation": "The four-fold order (varṇa) was created by Me according to the divisions of qualities (guṇa) and actions (karma). Though I am the creator of this system, know Me to be the imperishable non-doer.",
+    "synthesis": "Krishna declares that the social order is based on innate qualities and natural aptitudes, not birth. Crucially, He then transcends even this creation — He is the non-doer. Shankara uses this to teach that the Self is actionless even while associated with the body. Ramanuja sees the Lord as the ultimate architect who delegates action while remaining personally untouched. The Bhakti tradition emphasizes that the original intent was a natural division of labor based on temperament, not a hierarchy of superiority.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara emphasizes that the Lord creates the four varṇas based on guṇas (sattva, rajas, tamas) and corresponding karmas (actions). Yet He remains the non-doer because the Self is beyond all action. This teaches that even while acting in the world, one can know oneself as the actionless witness."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that the four-fold order is based on qualities and aptitudes, not birth alone. The Lord creates the system but is not bound by it. He is the efficient cause who remains transcendent — like a king who establishes laws but is not subject to them."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition emphasizes that in the eyes of God, the division is purely functional — based on one's natural qualities and calling, not on family or social status. Devotion transcends all such categories, as the Lord accepts anyone who approaches with love."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Discover your natural strengths and temperament rather than forcing yourself into roles that don't fit. Self-knowledge includes understanding your innate qualities — whether you're a thinker, leader, builder, or caretaker — and aligning your life accordingly.",
+      "career_business": "The best organizations place people according to their natural aptitudes, not seniority or credentials alone. Build teams where each person's role matches their strengths. A mismatch between talent and role is the root of most workplace dysfunction.",
+      "health": "Ayurveda and modern health science agree: your constitution (prakṛti) determines what diet, exercise, and lifestyle suit you. One-size-fits-all health advice fails because people are fundamentally different in temperament and physiology.",
+      "relationships": "Understanding your partner's natural temperament — whether they're analytical, nurturing, driven, or creative — prevents you from trying to change their fundamental nature. Love the person for who they are, not who you want them to be."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I discover my true calling and natural strengths?",
+        "Am I forcing myself into a role that doesn't fit?",
+        "How do I accept my nature instead of fighting it?",
+        "What is my unique contribution to the world?"
+      ],
+      "career_business": [
+        "How do I find the right role for my natural abilities?",
+        "Why does role mismatch cause so much workplace suffering?",
+        "How do I build a team based on strengths rather than titles?",
+        "What happens when people work against their natural grain?"
+      ],
+      "health": [
+        "Why does the same diet work for some people and not others?",
+        "How do I find the health approach that fits my body type?",
+        "Why is personalized health more effective than generic advice?",
+        "How do I honor my body's unique constitution?"
+      ],
+      "relationships": [
+        "How do I accept my partner's fundamental nature?",
+        "Why do I keep trying to change who someone is?",
+        "How does understanding temperament improve relationships?",
+        "What if my partner and I have very different natures?"
+      ]
+    },
+    "themes": ["varṇa", "guṇa", "natural-aptitude", "non-doership", "self-knowledge"]
+  },
+  {
+    "id": "BG-4.14",
+    "chapter": 4,
+    "verse": 14,
+    "sanskrit": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते ॥१४॥",
+    "iast": "na māṃ karmāṇi limpanti na me karmaphale spṛhā |\niti māṃ yo'bhijānāti karmabhirna sa badhyate ||14||",
+    "explanation": "Actions do not taint Me, nor do I have any desire for the fruits of action. One who understands Me thus is not bound by actions.",
+    "synthesis": "The Lord is not contaminated by action because He acts without desire for results. Anyone who truly understands this principle — and applies it — similarly becomes free from karmic bondage. Shankara sees this as the core teaching of actionless awareness. Ramanuja emphasizes that the Lord's desirelessness is the model for human action. The Bhakti tradition teaches that acting for God's sake, without personal desire, mirrors the Lord's own freedom.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the Lord is not tainted by actions because He is the actionless Self. Since the Self has no desire (spṛhā) for results, karma cannot adhere to it. One who knows the Self in this way becomes free from bondage even while the body continues to act."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that the Lord acts for the welfare of the world without any personal desire or need. Similarly, one who serves God without selfish motive is freed from karmic bondage. The key is not cessation of action but purification of motive."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this verse as the ultimate model for devotional action. Just as the Lord acts tirelessly for the world without any selfish desire, the devotee who offers all actions to God — expecting nothing in return — becomes free while still actively serving."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Freedom comes not from avoiding action but from releasing attachment to outcomes. You can work intensely, creatively, and passionately — as long as you're not psychologically dependent on a specific result. Process-focus liberates; outcome-obsession imprisons.",
+      "career_business": "The most effective leaders act decisively without being consumed by anxiety about results. When you do your best work and release the outcome, you paradoxically achieve better results because you're not distorted by fear or greed.",
+      "health": "Exercise for the love of movement, not just for weight loss. Eat well because you respect your body, not just to hit a number. When health practices become intrinsically motivated rather than outcome-driven, they become sustainable and joyful.",
+      "relationships": "Give love without keeping score. When you express care because it's your nature — not to get something back — relationships flourish. Transactional love creates anxiety; unconditional love creates freedom."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I work hard without being attached to results?",
+        "Why does outcome-obsession actually hurt my performance?",
+        "How do I enjoy the process when I'm fixated on the goal?",
+        "Is desirelessness the same as not caring?"
+      ],
+      "career_business": [
+        "How do I stay ambitious without being attached to success?",
+        "Why do the calmest leaders often achieve the most?",
+        "How do I release anxiety about results without becoming lazy?",
+        "What does detached excellence look like in practice?"
+      ],
+      "health": [
+        "How do I exercise for joy instead of just results?",
+        "Why does obsessing over health metrics backfire?",
+        "How do I build intrinsic motivation for healthy living?",
+        "What happens when I stop weighing myself and just live well?"
+      ],
+      "relationships": [
+        "How do I give love without expecting it back?",
+        "Is unconditional love actually possible?",
+        "Why does keeping score in relationships destroy them?",
+        "How do I love freely without being taken advantage of?"
+      ]
+    },
+    "themes": ["non-attachment", "desirelessness", "karma-freedom", "non-doership", "action"]
+  },
+  {
+    "id": "BG-4.15",
+    "chapter": 4,
+    "verse": 15,
+    "sanskrit": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः |\nकुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम् ॥१५॥",
+    "iast": "evaṃ jñātvā kṛtaṃ karma pūrvairapi mumukṣubhiḥ |\nkuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam ||15||",
+    "explanation": "Knowing this, the ancient seekers of liberation also performed action. Therefore, you too should perform action, following the example of those ancients.",
+    "synthesis": "Krishna urges Arjuna to act, citing the example of the ancients who pursued liberation through engaged action, not withdrawal. Shankara notes that even those who had attained Self-knowledge continued to act for the benefit of the world. Ramanuja emphasizes that karma-yoga is the established path validated by all previous great souls. The Bhakti tradition reads this as encouragement — if the greatest sages acted in the world while remaining free, so can you.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that even King Janaka and other liberated sages continued to perform action after attaining Self-knowledge — not for personal gain but for the welfare of the world (lokasaṅgraha). Arjuna is urged to follow this noble precedent rather than abandoning his duty."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja highlights that the path of karma-yoga is not inferior or preliminary — it was the chosen path of the greatest seekers of liberation. Arjuna should take confidence from this ancient tradition and perform his duty as a warrior with knowledge and devotion."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition encourages the devotee by pointing to predecessors. You are not walking an untested path — countless great souls before you combined action with devotion and achieved the highest. Their example is your assurance."
+      }
+    ],
+    "applications": {
+      "personal_growth": "You don't need to renounce the world to grow spiritually. The greatest sages acted in the world while maintaining inner freedom. Engage fully in life — work, family, community — while cultivating inner awareness.",
+      "career_business": "Action is not opposed to wisdom. The most effective professionals combine deep understanding with decisive action. Don't fall into analysis paralysis — learn from those who succeeded before you and act.",
+      "health": "Knowledge about health is useless without action. Don't just study nutrition or read about exercise — do it. The healthiest people are those who translate knowledge into daily practice, following the example of those who've succeeded.",
+      "relationships": "Love is an action, not just a feeling. The best relationships are built by people who consistently act with kindness, show up when it matters, and follow the example of couples who have navigated challenges successfully."
+    },
+    "questions": {
+      "personal_growth": [
+        "Can I grow spiritually while living a normal, active life?",
+        "Do I really need to renounce the world to find peace?",
+        "How did the great sages balance action with inner freedom?",
+        "Why does Krishna tell Arjuna to act, not withdraw?"
+      ],
+      "career_business": [
+        "How do I stop overthinking and start doing?",
+        "Why is action combined with wisdom the strongest approach?",
+        "How do I learn from predecessors without copying them blindly?",
+        "When is analysis paralysis holding me back?"
+      ],
+      "health": [
+        "Why do I know what to do but not do it?",
+        "How do I bridge the gap between health knowledge and action?",
+        "What makes some people consistent with healthy habits?",
+        "How do I stop reading about health and start living it?"
+      ],
+      "relationships": [
+        "How do I show love through action, not just words?",
+        "Why is consistent action more important than grand feelings?",
+        "What can I learn from couples who've lasted decades?",
+        "How do I translate good intentions into daily relationship habits?"
+      ]
+    },
+    "themes": ["action", "precedent", "karma-yoga", "liberation-through-action", "duty"]
+  },
+  {
+    "id": "BG-4.16",
+    "chapter": 4,
+    "verse": 16,
+    "sanskrit": "किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः |\nतत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥१६॥",
+    "iast": "kiṃ karma kimakarmeti kavayo'pyatra mohitāḥ |\ntatte karma pravakṣyāmi yajjñātvā mokṣyase'śubhāt ||16||",
+    "explanation": "What is action? What is inaction? Even the wise are confused on this matter. I shall explain to you that action, knowing which you shall be freed from evil (the inauspicious).",
+    "synthesis": "Krishna acknowledges that the distinction between right action and inaction is one of the most confusing topics in philosophy — even the wise struggle with it. Shankara sees this as preparation for the subtle teaching that the Self is always actionless. Ramanuja views it as Krishna's promise to clarify the true nature of karma-yoga. The Bhakti tradition notes that confusion about action is natural; what matters is turning to God for clarity rather than pretending to have figured it out alone.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the confusion arises because action (karma), inaction (akarma), and prohibited action (vikarma) are subtle and easily misunderstood. The verse prepares for the profound teaching that true inaction is the realization of the actionless Self, even while the body acts."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja notes that even great sages have been confused about what constitutes proper action versus inaction. Krishna promises to resolve this confusion by teaching the true nature of karma-yoga — action performed as worship, without selfish motive."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition finds comfort in knowing that confusion about right action is universal — even the wise struggle. The solution is not more intellectual analysis but surrendering the question to God. Krishna's willingness to clarify shows that the Lord guides those who honestly admit their confusion."
+      }
+    ],
+    "applications": {
+      "personal_growth": "It's okay to be confused about what you should do with your life. Even the wisest people struggle with this question. The honest admission of confusion is itself the beginning of clarity — it opens you to genuine guidance.",
+      "career_business": "The hardest decisions in business are not between good and bad options but between competing goods — or situations where inaction might be the wisest 'action.' Seek counsel from experienced mentors when you genuinely cannot see the right path.",
+      "health": "Health advice is often contradictory — eat this, don't eat that; exercise more, rest more. Confusion is natural. The key is finding a trusted guide and an approach that fits your unique constitution rather than chasing every trend.",
+      "relationships": "Sometimes the hardest question in a relationship is: should I act or hold back? Speak up or stay silent? Push for change or accept what is? Admitting this confusion to your partner often opens the door to mutual clarity."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I know what the right action is when I'm genuinely confused?",
+        "Is it okay to not know what to do?",
+        "When does inaction become laziness versus wisdom?",
+        "How do I find clarity when even smart people disagree?"
+      ],
+      "career_business": [
+        "How do I decide when doing nothing is the best strategy?",
+        "When is inaction actually the boldest move?",
+        "Why is the action vs. inaction question so hard in business?",
+        "How do I make decisions when experts disagree?"
+      ],
+      "health": [
+        "Why is health advice so contradictory?",
+        "How do I choose between conflicting health recommendations?",
+        "When should I intervene and when should I let my body heal naturally?",
+        "How do I find clarity in the noise of wellness culture?"
+      ],
+      "relationships": [
+        "When should I speak up and when should I stay quiet?",
+        "Is it better to confront or let things go?",
+        "How do I know when patience becomes avoidance?",
+        "Why is doing the right thing in relationships so confusing?"
+      ]
+    },
+    "themes": ["action", "inaction", "confusion", "discernment", "wisdom"]
+  },
+  {
+    "id": "BG-4.17",
+    "chapter": 4,
+    "verse": 17,
+    "sanskrit": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः |\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ॥१७॥",
+    "iast": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ |\nakarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ ||17||",
+    "explanation": "One must understand the nature of action (karma), the nature of forbidden action (vikarma), and the nature of inaction (akarma). The path of action is deep and difficult to understand.",
+    "synthesis": "Krishna introduces three categories: righteous action, prohibited action, and inaction — and declares that understanding their true nature is profoundly subtle. Shankara identifies the 'depth' as the paradox that true inaction coexists with external activity. Ramanuja sees the depth in understanding which actions bind and which liberate. The Bhakti tradition acknowledges the complexity while insisting that devotion simplifies it — act for God's sake, and the subtle distinctions take care of themselves.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara identifies three domains of understanding: karma (prescribed duty), vikarma (prohibited actions), and akarma (the actionless state of Self-realization). The 'deep path' refers to the paradox that liberation lies not in abandoning action but in recognizing the Self as ever-actionless."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that one must learn to distinguish between actions that elevate (karma), actions that degrade (vikarma), and the state of being untouched by action (akarma). The 'depth' is in understanding that selfless service to God transforms binding karma into liberating devotion."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition recognizes the complexity of karma theory but offers a practical simplification: when in doubt, act with devotion. The depths of karma are unfathomable to the intellect alone, but love for God illuminates the path forward even in confusion."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Life's moral landscape has three dimensions: what you should do, what you shouldn't do, and what appears passive but is actually the wisest response. Developing the discernment to navigate all three is a lifetime's work.",
+      "career_business": "In business, there are things you should do (karma), things you must never do (vikarma), and things that look like doing nothing but are strategic patience (akarma). The best leaders master all three.",
+      "health": "Health requires understanding helpful actions (good habits), harmful actions (destructive behaviors), and strategic rest (which looks like inaction but is deeply restorative). Many people confuse necessary rest with laziness.",
+      "relationships": "Sometimes the deepest act of love looks like doing nothing — giving space, not reacting, allowing someone to struggle and grow. Understanding when action, restraint, and patience are each appropriate is relational wisdom."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I tell the difference between right action and wrong action?",
+        "Why is doing the right thing so complicated sometimes?",
+        "How do I develop better moral discernment?",
+        "When is it wise to do nothing?"
+      ],
+      "career_business": [
+        "How do I know which opportunities to pursue and which to avoid?",
+        "What lines should I never cross in business?",
+        "When is strategic patience the best business decision?",
+        "How do I develop better judgment about action and inaction?"
+      ],
+      "health": [
+        "How do I know the difference between rest and laziness?",
+        "What health habits are actually harmful despite seeming good?",
+        "When is doing less for my health actually doing more?",
+        "How do I distinguish between healthy discipline and self-punishment?"
+      ],
+      "relationships": [
+        "When is giving space an act of love, not neglect?",
+        "How do I know when to intervene and when to step back?",
+        "What's the difference between patience and avoidance in love?",
+        "How do I develop relational wisdom about when to act?"
+      ]
+    },
+    "themes": ["action", "inaction", "forbidden-action", "discernment", "subtlety"]
+  },
+  {
+    "id": "BG-4.18",
+    "chapter": 4,
+    "verse": 18,
+    "sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः |\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥१८॥",
+    "iast": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ |\nsa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||18||",
+    "explanation": "One who sees inaction in action and action in inaction is truly wise among people. Such a person is a yogī and a true performer of all actions. This is one of the Gita's most profound and paradoxical teachings.",
+    "synthesis": "This celebrated verse contains the Gita's deepest paradox: the wise see stillness in the midst of activity and dynamic engagement in apparent stillness. Shankara reads this as the realization that the Self (Ātman) never acts — all action belongs to the guṇas. Ramanuja interprets it as performing action while maintaining the consciousness that God is the true agent. The Bhakti tradition sees the yogi who acts tirelessly for God while remaining internally at peace — the embodiment of devotion in action.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara gives the definitive Advaita reading: the body and mind act, but the Self witnesses without involvement. 'Inaction in action' means recognizing that the true Self never does anything. 'Action in inaction' warns that mere physical withdrawal is not liberation if the mind remains active with desire."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that seeing 'inaction in action' means performing one's duties without the sense of ownership — knowing that God is the true doer. 'Action in inaction' means that even apparent withdrawal involves subtle karmic activity if motivated by ego. True inaction is surrender to God."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition reads this as the state of the perfect devotee: one who works tirelessly in the world yet is inwardly absorbed in God (inaction in action), and one who understands that sitting still without devotion is not true renunciation (action in inaction)."
+      }
+    ],
+    "applications": {
+      "personal_growth": "True inner peace is not about doing nothing — it's about being centered while doing everything. The busiest person can have the stillest mind if their identity is not tangled up in their activity. Equally, someone sitting idle can be internally agitated.",
+      "career_business": "The best performers work intensely yet remain calm. They see 'inaction in action' — they act with full engagement but without the frantic anxiety that makes action stressful. Conversely, procrastination is 'action in inaction' — it looks passive but is driven by internal turbulence.",
+      "health": "Deep rest is not idleness — it is an active state of repair and recovery (action in inaction). Conversely, obsessive exercise can be a form of running away from stillness (inaction in action). True health requires understanding both paradoxes.",
+      "relationships": "Being fully present with someone — listening, holding space — looks passive but is one of the most powerful actions you can take (action in inaction). Conversely, being physically together while mentally elsewhere is a form of absence within apparent togetherness."
+    },
+    "questions": {
+      "personal_growth": [
+        "How can I be at peace while being intensely active?",
+        "Is my 'doing nothing' actually a form of avoidance?",
+        "How do I find stillness in the middle of a busy life?",
+        "What does it mean to be the eye of the storm?"
+      ],
+      "career_business": [
+        "How do the most effective leaders stay calm under pressure?",
+        "Is my procrastination actually driven by anxiety, not laziness?",
+        "How do I work hard without burning out?",
+        "What does 'flow state' have to do with inaction in action?"
+      ],
+      "health": [
+        "Is my rest truly restorative or just avoidance?",
+        "Am I exercising for health or running from my thoughts?",
+        "How do I find the balance between activity and rest?",
+        "Why does deep relaxation feel so active internally?"
+      ],
+      "relationships": [
+        "How can I be more present without doing anything differently?",
+        "Why is silent presence sometimes the most loving act?",
+        "Am I physically present but emotionally absent?",
+        "How do I stop 'doing' in relationships and start 'being'?"
+      ]
+    },
+    "themes": ["inaction-in-action", "paradox", "wisdom", "non-doership", "presence"]
+  },
+  {
+    "id": "BG-4.19",
+    "chapter": 4,
+    "verse": 19,
+    "sanskrit": "यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः |\nज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ॥१९॥",
+    "iast": "yasya sarve samārambhāḥ kāmasaṅkalpavarjitāḥ |\njñānāgnidagdhakarmaṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ ||19||",
+    "explanation": "One whose every undertaking is free from desire and selfish motive, whose actions are burned by the fire of knowledge — such a person is called a paṇḍita (truly wise) by the knowers of truth.",
+    "synthesis": "The truly wise person acts without selfish desire, and their accumulated karma is burnt away by the fire of knowledge. Shankara sees the 'fire of knowledge' as Self-realization that incinerates all karmic residue. Ramanuja interprets it as the purifying effect of performing all actions as service to God. The Bhakti tradition sees the fire of divine love consuming all selfish motive, leaving only pure, selfless action.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the fire of knowledge (jñānāgni) is the direct realization 'I am Brahman,' which burns all accumulated karma — past, present, and future. Such a person's actions, though they continue externally, produce no new karmic bondage because the sense of doership has been dissolved."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that the fire of knowledge is the clear understanding that all actions belong to God and are performed for His sake alone. When selfish desire (kāma) and egoistic resolve (saṅkalpa) are absent, actions become purified offerings rather than binding karma."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees the fire of divine love as the ultimate purifier. When every action is motivated by love for God rather than selfish desire, the accumulated weight of past karma is burnt away. The devotee becomes light and free, acting out of joy rather than compulsion."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Examine the motivation behind your actions. If every initiative begins with 'what's in it for me?', you'll accumulate stress and disappointment. When you act from genuine calling rather than selfish calculation, the quality of your life transforms.",
+      "career_business": "The wisest professionals plan carefully but without desperate attachment to outcomes. When your projects are driven by genuine value creation rather than ego or greed, they tend to succeed — and even failure doesn't devastate because your identity isn't at stake.",
+      "health": "When health choices are driven by self-love rather than vanity, fear, or competition, they become sustainable and joyful. The fire of genuine understanding — why this food, why this movement, why this rest — burns away the compulsiveness of diet culture.",
+      "relationships": "When you stop keeping score and act from genuine care, the 'karma' of resentment dissolves. The fire of understanding — truly seeing your partner's perspective — burns away accumulated grievances and frees both of you."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I purify my motivations for action?",
+        "What selfish desires are driving my plans without my awareness?",
+        "How does genuine understanding change the quality of action?",
+        "What would I do differently if I had no selfish motive?"
+      ],
+      "career_business": [
+        "Am I building this business for ego or genuine contribution?",
+        "How do I pursue success without being consumed by it?",
+        "What would my work look like if I removed all selfish motive?",
+        "How does purity of intention affect business outcomes?"
+      ],
+      "health": [
+        "Am I pursuing health for the right reasons?",
+        "How do I move from fear-based health to love-based health?",
+        "What would change if my health choices came from self-respect?",
+        "How do I burn away compulsive health behaviors?"
+      ],
+      "relationships": [
+        "Am I acting in this relationship for love or for what I get?",
+        "How do I stop keeping score with my partner?",
+        "What accumulated resentments do I need to release?",
+        "How does understanding dissolve old grievances?"
+      ]
+    },
+    "themes": ["desirelessness", "knowledge-fire", "wisdom", "purification", "selfless-action"]
+  },
+  {
+    "id": "BG-4.20",
+    "chapter": 4,
+    "verse": 20,
+    "sanskrit": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः |\nकर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ॥२०॥",
+    "iast": "tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ |\nkarmaṇyabhipravṛtto'pi naiva kiñcitkaroti saḥ ||20||",
+    "explanation": "Having abandoned attachment to the fruits of action, ever content, depending on nothing — such a person, even though fully engaged in action, does nothing at all.",
+    "synthesis": "The liberated person acts fully yet is untouched by action — a continuation of the paradox from 4.18. Content in the Self, requiring no external support, they perform actions that produce no karmic bondage. Shankara sees this as the jīvanmukta (liberated while living) who acts through prārabdha karma alone. Ramanuja sees the surrendered devotee who acts as God's instrument. The Bhakti tradition sees the devotee so absorbed in God that all action becomes effortless divine play.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara describes the state of jīvanmukti — liberation while still embodied. Such a person's body continues to act driven by past momentum (prārabdha karma), but the Self within has no sense of doership. The person literally does nothing despite appearing fully active."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that 'nirāśraya' (depending on nothing) means the devotee depends entirely on God and therefore on no worldly support. Such contentment arising from divine refuge makes action light and free — they act as instruments of the Lord's will."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition pictures the ideal devotee: busy in God's service yet inwardly still, content not because of results but because of the joy of serving the Beloved. Such a person needs nothing from the world because they have everything in God."
+      }
+    ],
+    "applications": {
+      "personal_growth": "True contentment is not the result of getting everything you want — it's the inner fullness that exists regardless of circumstances. When you act from this fullness rather than from lack, your actions become powerful yet effortless.",
+      "career_business": "The most effective professionals are those who don't need the job — not financially, but psychologically. When your identity and contentment don't depend on your work's outcome, you perform with freedom, creativity, and resilience.",
+      "health": "When you feel complete and content in yourself, health practices stop being desperate attempts to fix yourself and become natural expressions of self-care. Exercise feels like play, not punishment. Eating well feels like nourishment, not restriction.",
+      "relationships": "A person who is internally content brings gifts to a relationship rather than demands. When you don't need your partner to complete you, you can love them freely — and that freedom is the foundation of the deepest bonds."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I find contentment that doesn't depend on external success?",
+        "What would it feel like to act without needing a result?",
+        "How do I become self-sufficient without becoming isolated?",
+        "Is true contentment really possible in a world of constant desire?"
+      ],
+      "career_business": [
+        "How do I perform at my best without being driven by anxiety?",
+        "What does it mean to not psychologically need my job?",
+        "How do I maintain ambition while being content?",
+        "Why do people who seem to need success the least often achieve the most?"
+      ],
+      "health": [
+        "How do I shift from fixing myself to caring for myself?",
+        "What does health look like when it's not driven by insecurity?",
+        "How do I exercise from joy rather than fear of illness?",
+        "Why does self-acceptance improve health outcomes?"
+      ],
+      "relationships": [
+        "How do I love without needing my partner to complete me?",
+        "What does a relationship look like between two whole people?",
+        "How do I stop looking to relationships to fill my emptiness?",
+        "Why is independence attractive and neediness repulsive?"
+      ]
+    },
+    "themes": ["contentment", "non-attachment", "self-sufficiency", "effortless-action", "freedom"]
+  },
+  {
+    "id": "BG-4.21",
+    "chapter": 4,
+    "verse": 21,
+    "sanskrit": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः |\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥२१॥",
+    "iast": "nirāśīryatacittātmā tyaktasarvaparigrahaḥ |\nśārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam ||21||",
+    "explanation": "Free from expectations, with mind and body controlled, having renounced all possessiveness — performing action merely for the body's maintenance — such a person incurs no sin.",
+    "synthesis": "The liberated person lives simply, acts only as needed for bodily sustenance, and remains free from the karmic consequences of action. Shankara describes this as the natural lifestyle of the jñānī who has transcended identification with the body. Ramanuja sees the ideal karma-yogī who has relinquished possessiveness and acts minimally for survival while devoting all energy to God's service. The Bhakti tradition sees the simplicity of the devotee whose only possession is love for God.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the knower of the Self performs only those actions necessary for the body's maintenance (śārīra karma). Having abandoned all sense of ownership (parigraha), with mind and intellect fully controlled, such a person transcends the categories of merit and sin entirely."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that renunciation of possessiveness (tyakta-sarva-parigraha) does not necessarily mean owning nothing, but holding nothing with attachment. The person acts as a trustee of God's property, using only what is needed and remaining free from the taint of selfishness."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition admires the simplicity of the true devotee who needs very little because their heart is full of God. Such a person does what is needed for the body without complaint or craving, saving all their energy and desire for devotional service."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Simplify your life. When you reduce expectations, control your impulses, and let go of excessive accumulation, you free yourself from the anxiety and guilt that complex living generates. Minimalism is a form of spiritual freedom.",
+      "career_business": "Do what's necessary and do it well, without accumulating unnecessary obligations, titles, or possessions that weigh you down. The most effective people are often those with the simplest professional lives — clear focus, minimal distractions.",
+      "health": "Eat to nourish the body, not to satisfy emotional cravings. Exercise to maintain function, not to feed vanity. When health actions are stripped down to essentials, they become sustainable and guilt-free.",
+      "relationships": "Release expectations from your loved ones. When you stop expecting them to fulfill roles they never agreed to, you free both them and yourself. Relate to people as they are, not as projections of your desires."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I simplify my life without feeling deprived?",
+        "What expectations am I carrying that I should release?",
+        "How does letting go of possessions free my mind?",
+        "What is the minimum I truly need to be content?"
+      ],
+      "career_business": [
+        "Am I accumulating titles and obligations that don't serve me?",
+        "How do I simplify my professional life for greater effectiveness?",
+        "What work am I doing that I could let go of?",
+        "How does professional minimalism improve performance?"
+      ],
+      "health": [
+        "Am I eating for nourishment or emotional comfort?",
+        "How do I strip my health routine down to essentials?",
+        "What health habits am I doing out of guilt rather than genuine need?",
+        "How does simplicity improve physical wellbeing?"
+      ],
+      "relationships": [
+        "What unrealistic expectations am I placing on my partner?",
+        "How do I love someone without expecting anything in return?",
+        "What possessiveness do I need to release in my relationships?",
+        "How does letting go of expectations improve connection?"
+      ]
+    },
+    "themes": ["simplicity", "non-possessiveness", "self-control", "minimal-action", "freedom-from-sin"]
+  },
+  {
+    "id": "BG-4.22",
+    "chapter": 4,
+    "verse": 22,
+    "sanskrit": "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः |\nसमः सिद्धावसिद्धौ च कृत्वापि न निबध्यते ॥२२॥",
+    "iast": "yadṛcchālābhasantuṣṭo dvandvātīto vimatsaraḥ |\nsamaḥ siddhāvasiddhau ca kṛtvāpi na nibadhyate ||22||",
+    "explanation": "Content with whatever comes unsought, transcending the pairs of opposites, free from envy, equal in success and failure — such a person, even while acting, is not bound.",
+    "synthesis": "This verse describes the liberated person's relationship with the world: they accept what comes without craving, are unshaken by life's dualities, harbor no jealousy, and remain balanced in all outcomes. Shankara sees this as the natural state of one established in the Self. Ramanuja sees the surrendered devotee who trusts God's provision completely. The Bhakti tradition celebrates the freedom of one who has entrusted all outcomes to the Beloved.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the person established in Self-knowledge is naturally satisfied with what comes by chance (yadṛcchā), because their fullness comes from within. The pairs of opposites — heat and cold, pleasure and pain — no longer disturb one who has realized the unchanging Self."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that contentment with whatever God provides, freedom from envy, and equanimity in success and failure are the marks of true surrender. Such a person acts dutifully but leaves all results to the Lord, knowing His plan is perfect."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this as the portrait of the devotee who has completely entrusted their life to God. Whatever comes is received as God's gift. There is no envy because the devotee sees everyone as serving the same Lord. Success and failure are equally welcomed as God's will."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Practice gratitude for what arrives unsought rather than constantly chasing specific outcomes. Cultivate equanimity by reminding yourself that success and failure are both temporary states. Release envy — someone else's gain does not diminish you.",
+      "career_business": "The most resilient professionals are those who can handle both success and failure with composure. When a deal falls through or a project exceeds expectations, maintain the same centered presence. This equanimity becomes your greatest professional asset.",
+      "health": "Good health days and bad health days will come and go. The key is not to be elated on good days and devastated on bad ones, but to maintain a steady commitment to self-care regardless. Accept what your body gives you each day without comparison or envy.",
+      "relationships": "Don't compare your relationship to others. Envy of other couples poisons your own connection. Accept the gifts your relationship brings without demanding it match some external standard. Equanimity in good times and hard times builds lasting trust."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I find contentment when things don't go my way?",
+        "Why does comparing myself to others make me miserable?",
+        "How do I stay balanced when life swings between extremes?",
+        "Can I learn to be grateful for what I didn't ask for?"
+      ],
+      "career_business": [
+        "How do I handle professional failure without spiraling?",
+        "Why does envy of colleagues drain my energy?",
+        "How do I stay grounded after a big success?",
+        "What does equanimity look like in a competitive workplace?"
+      ],
+      "health": [
+        "How do I accept bad health days without losing hope?",
+        "Why does comparing my body to others harm my wellbeing?",
+        "How do I maintain health habits when results aren't showing?",
+        "What does it mean to accept my body as it is today?"
+      ],
+      "relationships": [
+        "How do I stop comparing my relationship to others?",
+        "Why does social media envy damage my partnership?",
+        "How do I accept my partner's flaws along with their gifts?",
+        "What does equanimity in love actually look like?"
+      ]
+    },
+    "themes": ["contentment", "equanimity", "non-envy", "acceptance", "freedom"]
+  },
+  {
+    "id": "BG-4.23",
+    "chapter": 4,
+    "verse": 23,
+    "sanskrit": "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः |\nयज्ञायाचरतः कर्म समग्रं प्रविलीयते ॥२३॥",
+    "iast": "gatasaṅgasya muktasya jñānāvasthitacetasaḥ |\nyajñāyācarataḥ karma samagraṃ pravilīyate ||23||",
+    "explanation": "For one who is free from attachment, who is liberated, whose mind is established in knowledge, and who acts as a sacrifice (yajña) — all karma is entirely dissolved.",
+    "synthesis": "When action is performed as sacrifice — without attachment, from a mind rooted in knowledge — all karmic residue dissolves completely. Shankara sees this as the complete cessation of karma through Self-knowledge. Ramanuja sees it as the purifying power of dedicating all action to God. The Bhakti tradition reads yajña as an offering of love — when every action is a love-offering to the Divine, no karma remains.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the liberated person's actions dissolve entirely because there is no doer, no motive, and no attachment to produce karmic residue. Knowledge burns not only the action but the very mechanism of karmic accumulation — the sense of individual doership."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that when all action is performed as yajña — sacred offering to the Lord — karma loses its binding power. The key transformation is from selfish action to sacred offering, which requires knowledge of God's supremacy and one's own role as servant."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees every act of service, prayer, and devotion as a yajña that purifies the heart. When the devotee's mind is fixed on God and every action is offered at His feet, karma dissolves like morning dew in sunlight. Nothing binds the one who lives for the Beloved."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Transform your daily actions from chores into offerings. When you cook, clean, work, or create with the spirit of service rather than obligation, the heaviness of routine dissolves and is replaced by a sense of sacred purpose.",
+      "career_business": "When work becomes service — to clients, to the team, to a meaningful mission — it stops generating the stress and burnout that self-serving ambition produces. Purpose-driven work is energizing where ego-driven work is exhausting.",
+      "health": "Approach your health practices as sacred rituals rather than mechanical duties. Preparing a healthy meal becomes an offering. Movement becomes a celebration of your body's capabilities. This attitude transforms drudgery into devotion.",
+      "relationships": "Acts of service in a relationship — cooking, listening, compromising — dissolve resentment when performed as offerings of love rather than transactions. The spirit in which you act determines whether it binds you or frees you."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I turn everyday tasks into meaningful offerings?",
+        "What does it mean to live life as a sacrifice?",
+        "How does purpose transform the quality of my actions?",
+        "Why does selfless action feel lighter than selfish action?"
+      ],
+      "career_business": [
+        "How do I transform my work from a job into a calling?",
+        "Why does purpose-driven work prevent burnout?",
+        "How do I make my daily tasks feel meaningful?",
+        "What happens when I work for service instead of recognition?"
+      ],
+      "health": [
+        "How do I make health habits feel sacred instead of tedious?",
+        "Why does intention change the experience of exercise?",
+        "How do I cook with love instead of obligation?",
+        "What transforms health discipline into health devotion?"
+      ],
+      "relationships": [
+        "How do I serve my partner without keeping score?",
+        "Why does the spirit of giving transform a relationship?",
+        "How do I turn acts of service into acts of love?",
+        "What happens when I stop seeing compromise as sacrifice?"
+      ]
+    },
+    "themes": ["sacrifice", "yajña", "karma-dissolution", "knowledge", "liberation"]
+  },
+  {
+    "id": "BG-4.24",
+    "chapter": 4,
+    "verse": 24,
+    "sanskrit": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् |\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥२४॥",
+    "iast": "brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam |\nbrahmaiva tena gantavyaṃ brahmakarmasamādhinā ||24||",
+    "explanation": "The offering is Brahman, the oblation is Brahman, offered by Brahman into the fire of Brahman. Brahman alone is to be reached by one who sees Brahman in every action. This profoundly non-dual verse sees the entire act of sacrifice as pervaded by the one reality.",
+    "synthesis": "This is one of the most celebrated verses of Advaita Vedanta — everything in the act of offering is Brahman: the instrument, the offering, the fire, the offerer, and the result. Shankara sees this as the ultimate statement of non-duality applied to action. Ramanuja reads it as seeing God's presence pervading every aspect of worship and life. The Bhakti tradition finds here the vision of a world saturated with the Divine — every action, every object, every moment drenched in God.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara gives this verse its fullest non-dual interpretation: the ladle (arpaṇa), the offering (havis), the fire (agni), and the offerer — all are Brahman. This is the vision of absolute unity. One who sees Brahman in every action (brahma-karma-samādhi) attains Brahman, because they never left it."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja interprets this as seeing the Lord's presence in every aspect of sacrifice and life. The material world is Brahman's body; therefore every instrument, offering, and act of worship is pervaded by God. This vision transforms mundane action into sacred communion."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition reads this as the vision of a God-intoxicated soul for whom everything is God. Eating becomes an offering to the divine fire within. Working becomes worship. Breathing becomes prayer. When everything is seen as Brahman, all of life becomes a sacred ceremony."
+      }
+    ],
+    "applications": {
+      "personal_growth": "When you see every action as sacred — eating, working, resting, relating — your entire life becomes a meditation. The separation between spiritual practice and daily life dissolves. You are always in the temple because everything is the temple.",
+      "career_business": "When you see the unity underlying business transactions — the product, the customer, the exchange, the purpose — work becomes a holistic practice rather than a fragmented series of tasks. Seeing the whole ecosystem as interconnected transforms how you lead and create.",
+      "health": "See the food you eat, the body that digests it, the energy it produces, and the life it sustains as one continuous sacred process. When eating becomes a ritual of gratitude rather than a mindless habit, your entire relationship with nourishment transforms.",
+      "relationships": "When you see the divine in yourself, your partner, and the love between you, the relationship becomes a spiritual practice. The boundary between giver and receiver dissolves — love is both the offering and the fire."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I see the sacred in everyday actions?",
+        "What would change if I treated all of life as a meditation?",
+        "How do I dissolve the boundary between spiritual and ordinary?",
+        "What does it mean to see Brahman everywhere?"
+      ],
+      "career_business": [
+        "How do I see my work as part of a larger sacred ecosystem?",
+        "What changes when I treat business as a holistic practice?",
+        "How does seeing interconnection improve my leadership?",
+        "Why does meaning transform the quality of work?"
+      ],
+      "health": [
+        "How do I make eating a sacred ritual?",
+        "What changes when I see my body as sacred?",
+        "How does gratitude transform my relationship with food?",
+        "Why does mindful eating change digestion and health?"
+      ],
+      "relationships": [
+        "How do I see the divine in my partner?",
+        "What happens when I treat our love as sacred?",
+        "How does seeing the whole relationship as one thing change it?",
+        "Why does reverence transform how we treat each other?"
+      ]
+    },
+    "themes": ["brahman", "non-duality", "sacred-action", "unity", "offering"]
+  },
+  {
+    "id": "BG-4.25",
+    "chapter": 4,
+    "verse": 25,
+    "sanskrit": "दैवमेवापरे यज्ञं योगिनः पर्युपासते |\nब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ॥२५॥",
+    "iast": "daivamevāpare yajñaṃ yoginaḥ paryupāsate |\nbrahmāgnāvapare yajñaṃ yajñenaivopajuhvati ||25||",
+    "explanation": "Some yogis worship the devas through sacrifice; others offer the self as sacrifice into the fire of Brahman. Krishna begins enumerating the many forms of yajña (sacrifice), showing that the spirit of offering is more important than the specific form.",
+    "synthesis": "Krishna begins listing various types of sacrifice to demonstrate that the principle of yajña pervades all spiritual practice. Shankara sees two approaches: ritualistic worship of the devas and the higher offering of the individual self into the universal Self. Ramanuja distinguishes between external worship and internal surrender. The Bhakti tradition appreciates the diversity — God accepts offerings in countless forms, from formal ritual to total self-surrender.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara distinguishes between the ritualist who worships devas through conventional sacrifice and the jñānī who offers the individual self (jīva) into the fire of Brahman through knowledge. The latter is the superior sacrifice because it dissolves the very sense of separateness."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja explains that some practitioners focus on ritualistic worship of various deities, while others practice the higher yoga of offering themselves entirely to the Supreme through meditation and devotion. Both are valid paths, but self-surrender reaches the ultimate goal."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees in this verse God's acceptance of all forms of worship. Whether through elaborate ritual or simple self-offering, the Lord receives every sincere sacrifice. The diversity of paths reflects the diversity of human temperaments."
+      }
+    ],
+    "applications": {
+      "personal_growth": "There are many valid forms of spiritual practice — ritual worship, meditation, self-inquiry, service. Don't judge others for their approach or feel your way is the only way. Find the form of offering that resonates with your nature and commit to it deeply.",
+      "career_business": "Contribution can take many forms — some lead from the front, others support from behind, some innovate, others execute. All forms of professional sacrifice (giving one's best) are valuable. Recognize and honor different modes of contribution.",
+      "health": "Health practices are as diverse as people — yoga, running, swimming, martial arts, dance. The specific form matters less than the spirit of dedication. Find the physical practice that feels like a genuine offering of your energy and commit.",
+      "relationships": "Love is expressed in many forms — words of affirmation, acts of service, physical touch, quality time, gifts. Understanding that your partner's way of showing love may differ from yours prevents misunderstandings and deepens appreciation."
+    },
+    "questions": {
+      "personal_growth": [
+        "What form of spiritual practice resonates most with my nature?",
+        "Am I judging others for practicing differently than I do?",
+        "How do I find my authentic way of offering to the divine?",
+        "Can all paths truly lead to the same destination?"
+      ],
+      "career_business": [
+        "How do I honor different styles of contribution in my team?",
+        "Am I valuing only one type of professional sacrifice?",
+        "How do I find my unique way of serving through work?",
+        "Why does diversity of approach strengthen organizations?"
+      ],
+      "health": [
+        "What type of physical practice suits my body and spirit?",
+        "Am I forcing myself into a health approach that doesn't fit?",
+        "How do I find exercise that feels like a gift rather than a punishment?",
+        "Why does enjoyment of a practice predict its sustainability?"
+      ],
+      "relationships": [
+        "What is my partner's love language?",
+        "Am I expressing love in a way my partner can receive?",
+        "How do I appreciate forms of love that differ from my own?",
+        "Why do couples struggle when they have different ways of showing care?"
+      ]
+    },
+    "themes": ["sacrifice", "diversity-of-paths", "worship", "self-offering", "yajña"]
+  },
+  {
+    "id": "BG-4.26",
+    "chapter": 4,
+    "verse": 26,
+    "sanskrit": "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति |\nशब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ॥२६॥",
+    "iast": "śrotrādīnīndriyāṇyanye saṃyamāgniṣu juhvati |\nśabdādīnviṣayānanye indriyāgniṣu juhvati ||26||",
+    "explanation": "Some offer the senses (hearing, etc.) into the fire of restraint; others offer sense objects (sound, etc.) into the fire of the senses. Both approaches — withdrawal and mindful engagement — are forms of sacrifice.",
+    "synthesis": "Two complementary approaches to mastering the senses are presented: restraining the senses from their objects, or consciously offering the objects to the senses as a sacred act. Shankara sees both as forms of sense-control serving Self-knowledge. Ramanuja sees disciplined engagement with the world as a form of worship. The Bhakti tradition finds here the possibility of transforming sensory experience itself into a divine offering.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains two modes of sense-sacrifice: some yogis restrain the senses completely (pratyāhāra), offering them into the fire of self-control. Others deliberately engage with sense objects in a controlled manner, offering the experience itself as a sacrifice. Both purify the mind."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that disciplined engagement with the world — enjoying God's creation mindfully — is as valid as complete withdrawal. The key is that both approaches involve a conscious, sacrificial attitude rather than mindless indulgence or harsh suppression."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition appreciates that even sensory experience can become an offering to God. When a devotee sees beauty, hears music, or tastes food as God's gifts, the senses become instruments of devotion rather than sources of bondage."
+      }
+    ],
+    "applications": {
+      "personal_growth": "There are two paths to mastering your senses: strict discipline (fasting, digital detox, silence) and mindful engagement (eating consciously, listening deeply, seeing beauty). Both are valid — find the approach that works for your temperament.",
+      "career_business": "Professional discipline can mean cutting distractions (closing email, blocking social media) or channeling them (using social media strategically, turning meetings into focused exchanges). Both restraint and directed engagement serve productivity.",
+      "health": "Some people thrive on strict dietary protocols; others do better with mindful, intuitive eating. Some need intense exercise; others need gentle, conscious movement. The sacrificial attitude — offering your practice with intention — matters more than the specific form.",
+      "relationships": "Sometimes love requires restraint — holding back criticism, pausing before reacting. Other times it requires full engagement — listening deeply, giving full attention. Both are forms of relational sacrifice."
+    },
+    "questions": {
+      "personal_growth": [
+        "Should I restrain my senses or learn to engage them mindfully?",
+        "How do I know if I need more discipline or more conscious enjoyment?",
+        "Can pleasure ever be spiritual?",
+        "How do I turn sensory experience into a form of meditation?"
+      ],
+      "career_business": [
+        "Is strict productivity discipline or mindful engagement better for me?",
+        "How do I turn distractions into focused tools?",
+        "When should I cut things out versus channel them?",
+        "How do I find my optimal balance of restraint and engagement?"
+      ],
+      "health": [
+        "Should I follow strict rules or practice intuitive health?",
+        "How do I eat mindfully without rigid dieting?",
+        "Is discipline or enjoyment the better path to fitness?",
+        "How do I turn exercise into a conscious practice?"
+      ],
+      "relationships": [
+        "When should I hold back and when should I fully engage?",
+        "How do I practice restraint without becoming distant?",
+        "When is silence golden and when is it harmful?",
+        "How do I give my full attention as an act of love?"
+      ]
+    },
+    "themes": ["sense-control", "sacrifice", "restraint", "mindful-engagement", "discipline"]
+  },
+  {
+    "id": "BG-4.27",
+    "chapter": 4,
+    "verse": 27,
+    "sanskrit": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे |\nआत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ॥२७॥",
+    "iast": "sarvāṇīndriyakarmāṇi prāṇakarmāṇi cāpare |\nātmasaṃyamayogāgnau juhvati jñānadīpite ||27||",
+    "explanation": "Others offer all the activities of the senses and the activities of the vital breath (prāṇa) into the fire of self-restraint kindled by knowledge. This describes the yogic practice of withdrawing all sensory and vital activity into meditative absorption.",
+    "synthesis": "This verse describes the highest form of inner sacrifice — offering all mental, sensory, and vital functions into the fire of self-discipline illuminated by knowledge. Shankara sees this as the practice of dhyāna-yoga leading to Self-realization. Ramanuja sees it as the integration of all faculties in single-pointed devotion to God. The Bhakti tradition reads this as total absorption in the Divine, where every breath and thought becomes an offering.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that this describes the yogi who withdraws all sensory functions and vital activities into the fire of meditation (ātma-saṃyama-yoga), which is kindled by the knowledge of the Self. This is the internal sacrifice that leads directly to liberation."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja describes the devotee who channels all sensory and vital energies into focused meditation on the Lord. The fire of self-restraint, illuminated by knowledge of God's nature, consumes all scattered activity and unifies the soul in divine contemplation."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this as the state of the devotee in deep meditation — every sense, every breath, every thought offered to God. This total offering of one's entire being is the highest form of devotion, where nothing is held back from the Beloved."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Meditation is the practice of offering all your scattered mental activity into the fire of focused awareness. When thoughts, sensations, and breathing are all gathered into one point of concentration, a powerful inner transformation occurs.",
+      "career_business": "Deep work — the ability to concentrate all mental faculties on a single task without distraction — is the professional equivalent of this verse. When you fully channel your energy into focused effort, the quality of output is exponentially higher.",
+      "health": "Pranayama and breathwork practices are literal expressions of this verse — offering the breath into the fire of conscious control. These practices regulate the nervous system, reduce stress, and create profound states of inner calm.",
+      "relationships": "Giving someone your complete, undivided attention — all senses focused, all distractions suspended — is one of the most powerful gifts you can offer. Total presence is the relational equivalent of this yogic sacrifice."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I gather my scattered attention into focused meditation?",
+        "What does it mean to offer all my senses to awareness?",
+        "How do I integrate breathwork into my spiritual practice?",
+        "Why is concentrated attention so transformative?"
+      ],
+      "career_business": [
+        "How do I achieve deep focus in a world of constant distraction?",
+        "What would happen if I gave total concentration to my most important work?",
+        "How do I channel all my energy into a single project?",
+        "Why does deep work produce exponentially better results?"
+      ],
+      "health": [
+        "How does breathwork regulate my nervous system?",
+        "What are the health benefits of pranayama practice?",
+        "How do I use breathing to manage stress and anxiety?",
+        "Why is conscious breathing so powerful for healing?"
+      ],
+      "relationships": [
+        "How do I give someone truly undivided attention?",
+        "Why is total presence the greatest gift I can give?",
+        "How do I put away all distractions when listening?",
+        "What happens when I'm fully present with my partner?"
+      ]
+    },
+    "themes": ["meditation", "prāṇāyāma", "concentration", "self-restraint", "inner-sacrifice"]
+  },
+  {
+    "id": "BG-4.28",
+    "chapter": 4,
+    "verse": 28,
+    "sanskrit": "द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे |\nस्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ॥२८॥",
+    "iast": "dravyayajñāstapoyajñā yogayajñāstathāpare |\nsvādhyāyajñānayajñāśca yatayaḥ saṃśitavratāḥ ||28||",
+    "explanation": "Some offer material possessions as sacrifice; some offer austerity; some offer yoga as sacrifice; while others, strict in their vows, offer study of scriptures and knowledge as sacrifice.",
+    "synthesis": "Krishna catalogues diverse forms of sacrifice: material generosity, ascetic discipline, yogic practice, scriptural study, and the pursuit of knowledge. All are valid paths. Shankara notes the progression from external to internal forms of sacrifice. Ramanuja appreciates that the Lord validates many temperaments and approaches. The Bhakti tradition sees the key commonality — all these sacrifices involve offering something precious in service of spiritual growth.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara observes a hierarchy from material sacrifice (dravya-yajña) to austerity, yoga, and finally knowledge-sacrifice (jñāna-yajña). Each is progressively more internal and purifying. The culmination in svādhyāya (study) and jñāna (knowledge) points toward the supreme sacrifice of the mind itself."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja appreciates the diversity of paths sanctioned by the Lord. Each person may find their entry point into spiritual life through generosity, discipline, meditation, or study. The common thread is sincere, vow-bound dedication to a practice as an offering to God."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition finds encouragement here for all devotees. Whether you can offer wealth, physical discipline, meditation, or intellectual study — every form of sacrifice is accepted. The Lord looks at the sincerity of the offering, not its worldly value."
+      }
+    ],
+    "applications": {
+      "personal_growth": "There are many ways to invest in your growth: financial investment in learning, disciplined practice, physical training, or deep study. Choose the form that fits your current stage and commit to it with the seriousness of a sacred vow.",
+      "career_business": "Professional development takes many forms: investing money in education, practicing discipline and consistency, maintaining physical and mental fitness, or dedicated study of your field. The most successful people combine multiple forms of professional sacrifice.",
+      "health": "Health is maintained through multiple forms of investment: money (quality food, healthcare), discipline (consistent habits), physical practice (exercise, yoga), and knowledge (understanding your body). A comprehensive approach addresses all dimensions.",
+      "relationships": "Relationships require sacrifice in multiple currencies: time, comfort, pride, and the effort of understanding. The strongest couples invest across all dimensions — material support, emotional discipline, quality time, and genuine effort to understand each other."
+    },
+    "questions": {
+      "personal_growth": [
+        "What form of sacrifice or investment is most natural for me?",
+        "Am I neglecting an important dimension of personal growth?",
+        "How do I commit to a practice with the seriousness of a vow?",
+        "What am I willing to give up for genuine transformation?"
+      ],
+      "career_business": [
+        "Am I investing enough in my own professional development?",
+        "What form of professional sacrifice would accelerate my growth?",
+        "How do I balance different forms of career investment?",
+        "What vow or commitment would transform my professional life?"
+      ],
+      "health": [
+        "Am I investing in all dimensions of health — money, time, discipline, knowledge?",
+        "What area of health investment am I neglecting?",
+        "How do I make health a serious commitment rather than a casual goal?",
+        "What health vow would change my life?"
+      ],
+      "relationships": [
+        "What form of sacrifice does my relationship need most right now?",
+        "Am I investing in all dimensions — time, effort, understanding?",
+        "What commitment would transform my closest relationship?",
+        "Why does sacrifice in love feel different from sacrifice elsewhere?"
+      ]
+    },
+    "themes": ["sacrifice", "diversity-of-practice", "discipline", "study", "commitment"]
+  },
+  {
+    "id": "BG-4.29",
+    "chapter": 4,
+    "verse": 29,
+    "sanskrit": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे |\nप्राणापानगती रुद्ध्वा प्राणायामपरायणाः ॥२९॥",
+    "iast": "apāne juhvati prāṇaṃ prāṇe'pānaṃ tathāpare |\nprāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ ||29||",
+    "explanation": "Some offer the outgoing breath (prāṇa) into the incoming breath (apāna), and the incoming into the outgoing, restraining the movement of both — devoted to the practice of prāṇāyāma (breath control).",
+    "synthesis": "Krishna describes prāṇāyāma — the yogic science of breath regulation — as a form of sacrifice. By offering one breath into another and eventually suspending both, the yogi gains mastery over the vital forces. Shankara sees this as a preparatory discipline for meditation. Ramanuja views it as a legitimate form of worship that purifies the body-mind complex. The Bhakti tradition values prāṇāyāma as a tool that calms the mind for deeper devotion.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains the technical practice: offering the outgoing breath into the incoming (pūraka), the incoming into the outgoing (recaka), and suspending both (kumbhaka). This pranayamic discipline stills the mind and prepares it for the direct realization of the Self."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja validates prāṇāyāma as a genuine form of sacrifice and worship. The control of breath represents the offering of one's vital energy to God. It purifies the subtle body and creates the inner conditions for sustained meditation and devotion."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition honors prāṇāyāma as a tool that quiets the restless mind, making it receptive to God's presence. When the breath is steady, the mind is steady; when the mind is steady, the heart opens to divine love."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Breathwork is one of the most accessible and powerful self-regulation tools available. Start with simple practices — extended exhale for calm, rhythmic breathing for balance — and experience how profoundly breath affects mind and emotions.",
+      "career_business": "Before a difficult meeting, presentation, or negotiation, a few minutes of conscious breathing can transform your mental state. Controlled breathing reduces cortisol, sharpens focus, and creates the calm confidence that inspires trust.",
+      "health": "Prāṇāyāma directly regulates the autonomic nervous system. Practices like alternate nostril breathing, box breathing, and coherent breathing have been shown to reduce blood pressure, anxiety, inflammation, and insomnia.",
+      "relationships": "When emotions escalate in a conflict, pausing to take several deep breaths before responding can prevent regrettable reactions. Teaching your partner the same technique creates a shared tool for navigating difficult moments together."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I start a breathwork practice?",
+        "Why does breathing consciously change my emotional state?",
+        "What simple breathing technique can I use daily?",
+        "How does prāṇāyāma prepare the mind for meditation?"
+      ],
+      "career_business": [
+        "How can I use breathing to stay calm in high-pressure situations?",
+        "What breathing technique works before presentations?",
+        "How does conscious breathing improve decision-making?",
+        "Why do elite performers use breathwork?"
+      ],
+      "health": [
+        "What are the proven health benefits of breathing exercises?",
+        "How does breathwork affect the nervous system?",
+        "Can breathing practices help with anxiety and insomnia?",
+        "What prāṇāyāma technique is best for stress relief?"
+      ],
+      "relationships": [
+        "How do I use breathing to calm down during an argument?",
+        "Can breathwork be a shared practice with my partner?",
+        "How do I pause before reacting in heated moments?",
+        "Why does a deep breath prevent so many regrettable words?"
+      ]
+    },
+    "themes": ["prāṇāyāma", "breath-control", "vital-energy", "sacrifice", "self-regulation"]
+  },
+  {
+    "id": "BG-4.30",
+    "chapter": 4,
+    "verse": 30,
+    "sanskrit": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति |\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ॥३०॥",
+    "iast": "apare niyatāhārāḥ prāṇānprāṇeṣu juhvati |\nsarve'pyete yajñavido yajñakṣapitakalmaṣāḥ ||30||",
+    "explanation": "Others, regulating their food intake, offer the vital breaths into the vital breaths. All of these are knowers of sacrifice, whose sins are destroyed by sacrifice.",
+    "synthesis": "Dietary discipline is presented as another form of sacrifice, and Krishna affirms that all these diverse practitioners are purified by their respective sacrifices. Shankara sees regulated diet as essential support for meditation. Ramanuja emphasizes that all sincere forms of sacrifice destroy accumulated sin. The Bhakti tradition celebrates the universality — whatever form your sincere offering takes, it purifies.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that regulating food (niyata-āhāra) means moderation in diet — taking only what is necessary and pure. This supports the other practices by keeping the body light and the mind clear. All these sacrificers, regardless of their specific method, are purified of sin through their dedication."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja notes that dietary discipline is a foundational sacrifice that supports all others. The verse's conclusion — that all these practitioners are purified by their respective sacrifices — demonstrates the Lord's generous acceptance of sincere effort in any form."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition is encouraged by Krishna's affirmation that all sincere sacrificers are purified. Whether your offering is breathwork, fasting, study, or meditation, the Lord accepts it and destroys impurities. The key is sincerity, not the specific form."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Dietary discipline is one of the most practical and immediate forms of self-mastery. What you eat affects your mood, energy, clarity, and spiritual sensitivity. Treating food choices as a conscious offering transforms an everyday act into a spiritual practice.",
+      "career_business": "What you consume mentally — news, social media, entertainment — affects your professional performance as much as physical food affects your body. Curate your information diet with the same intentionality you would bring to nutrition.",
+      "health": "Moderate, regulated eating is one of the most time-tested health practices across all traditions. The practice of fasting, mindful eating, and dietary discipline is a sacrifice that yields enormous health dividends.",
+      "relationships": "Sharing meals mindfully, cooking for loved ones with intention, and creating food rituals together are powerful relationship practices. The table is where families and couples connect, and treating it as sacred strengthens bonds."
+    },
+    "questions": {
+      "personal_growth": [
+        "How does what I eat affect my mental and spiritual clarity?",
+        "What would change if I treated every meal as a sacred act?",
+        "How do I develop a healthy relationship with food?",
+        "Why is dietary discipline considered a form of sacrifice?"
+      ],
+      "career_business": [
+        "How does my information diet affect my professional performance?",
+        "What mental junk food am I consuming daily?",
+        "How do I curate what I consume for maximum effectiveness?",
+        "Why do the most successful people guard their attention?"
+      ],
+      "health": [
+        "What does regulated eating look like in practice?",
+        "How do I practice intermittent fasting safely?",
+        "Why is moderation in food more effective than extreme diets?",
+        "How does fasting purify the body and mind?"
+      ],
+      "relationships": [
+        "How do shared meals strengthen family bonds?",
+        "Why is cooking for someone an act of love?",
+        "How do I create meaningful food rituals with my family?",
+        "What happens when we eat together mindfully?"
+      ]
+    },
+    "themes": ["dietary-discipline", "sacrifice", "purification", "fasting", "moderation"]
+  },
+  {
+    "id": "BG-4.31",
+    "chapter": 4,
+    "verse": 31,
+    "sanskrit": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् |\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ॥३१॥",
+    "iast": "yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam |\nnāyaṃ loko'styayajñasya kuto'nyaḥ kurusattama ||31||",
+    "explanation": "Those who partake of the nectar that remains after sacrifice reach the eternal Brahman. Not even this world is for the non-sacrificer — how then the other world, O best of the Kurus?",
+    "synthesis": "The remnants of sacrifice (prasāda) are likened to immortal nectar. Those who live in the spirit of sacrifice attain the eternal. Without sacrifice, one cannot even enjoy this world, let alone the next. Shankara sees sacrifice as essential for spiritual purification. Ramanuja emphasizes that a life without offering is empty and leads nowhere. The Bhakti tradition reads prasāda as divine grace — the sweetness that remains after you offer your best to God.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the 'nectar remaining after sacrifice' is the purified mind that results from selfless action and knowledge. Partaking of this nectar leads to Brahman. One who makes no sacrifice — who lives entirely for self — finds no fulfillment in this life or any other."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that those who live by the remnants of sacrifice — accepting only what remains after offering to God — attain the eternal. This applies literally (eating prasāda after worship) and metaphorically (living on what remains after giving your best to the Lord)."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition treasures the concept of prasāda — the grace that flows back after offering. When you give your best to God, what returns is sweeter than what you gave. A life without sacrifice is joyless because it misses the sweetness of divine reciprocity."
+      }
+    ],
+    "applications": {
+      "personal_growth": "A self-centered life is ultimately unsatisfying. Even worldly happiness requires some form of giving — contributing to others, serving a purpose beyond yourself. The 'nectar' of fulfillment comes only after you have first made an offering.",
+      "career_business": "Companies that contribute value to the world — not just extract profit — create lasting enterprises. The 'nectar' of business is the loyalty, reputation, and meaning that remain after you've genuinely served your customers and community.",
+      "health": "The benefits of health discipline are the 'nectar' that remains after the sacrifice of comfort. After the effort of a workout, the discipline of good nutrition, the restraint of sleep hygiene — what remains is vitality, clarity, and resilience.",
+      "relationships": "The sweetness in a relationship is what remains after you've both sacrificed ego, selfishness, and comfort for each other. Couples who give generously to the partnership enjoy a depth of connection that self-centered partners never taste."
+    },
+    "questions": {
+      "personal_growth": [
+        "What 'nectar' have I experienced after genuine sacrifice?",
+        "Why does a self-centered life feel empty?",
+        "How does giving create more fulfillment than taking?",
+        "What does it mean to live on the 'remnants' of offering?"
+      ],
+      "career_business": [
+        "What lasting value does my work create beyond profit?",
+        "How does genuine service generate enduring business success?",
+        "Why do purpose-driven companies outlast profit-only ones?",
+        "What is the 'nectar' my business leaves behind?"
+      ],
+      "health": [
+        "Why does the payoff of health discipline feel so sweet?",
+        "What remains after the effort of consistent exercise?",
+        "How do I access the vitality that comes from healthy sacrifice?",
+        "Why is post-effort satisfaction deeper than comfort satisfaction?"
+      ],
+      "relationships": [
+        "What sweetness comes from sacrificing ego for my partner?",
+        "Why do couples who give generously experience deeper love?",
+        "How does shared sacrifice create shared joy?",
+        "What is the 'nectar' of a relationship built on mutual offering?"
+      ]
+    },
+    "themes": ["prasāda", "sacrifice", "nectar", "fulfillment", "brahman"]
+  },
+  {
+    "id": "BG-4.32",
+    "chapter": 4,
+    "verse": 32,
+    "sanskrit": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे |\nकर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ॥३२॥",
+    "iast": "evaṃ bahuvidhā yajñā vitatā brahmaṇo mukhe |\nkarmajānviddhi tānsarvānevaṃ jñātvā vimokṣyase ||32||",
+    "explanation": "Thus, many forms of sacrifice are spread at the mouth of Brahman (the Vedas). Know them all to be born of action. Knowing this, you shall be liberated.",
+    "synthesis": "Krishna summarizes the catalogue of sacrifices: all are born from action, all are sanctioned by the Vedas, and understanding this leads to liberation. Shankara emphasizes that knowing the true nature of all these sacrifices — that they purify the mind for Self-knowledge — is liberating. Ramanuja sees this as validating the many paths while pointing to the unifying knowledge behind them all. The Bhakti tradition sees God at the center of all forms of sacrifice, unifying them in purpose.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that all these diverse sacrifices originate from action (karma) as taught in the Vedas (Brahman here meaning the Vedas). Understanding that all sacrifices serve to purify the mind for Self-knowledge is itself liberating, because it shifts focus from ritual to realization."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja notes that the diversity of sacrifices reflects the diversity of human temperaments and stages of development. All are born from action and sanctioned by scripture. Understanding the purpose behind all sacrifices — devotion to God — unifies them and leads to liberation."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees all forms of sacrifice as different expressions of the soul's innate desire to offer itself to God. Knowing this unifying truth — that all paths are offerings to the one Divine — brings freedom from the confusion of competing claims about the 'right' way."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Understanding that all sincere spiritual practices serve the same purpose — liberation from ignorance — frees you from sectarian anxiety. You don't need to do everything; you need to do something with full understanding and dedication.",
+      "career_business": "There are many valid business models, leadership styles, and paths to impact. Understanding that they all share common principles — value creation, service, integrity — frees you from the anxiety of choosing the 'one right way.' Master your chosen approach deeply.",
+      "health": "There are many valid paths to health — Ayurveda, Western medicine, traditional Chinese medicine, naturopathy. Understanding that they share common principles (balance, nourishment, rest, movement) frees you from health fad anxiety.",
+      "relationships": "There are many valid ways to love — through words, actions, presence, sacrifice. Understanding that they all express the same underlying devotion frees you from judging your partner's way as wrong simply because it differs from yours."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I stop worrying about finding the 'one right path'?",
+        "Can different spiritual practices really lead to the same place?",
+        "What is the common thread behind all forms of growth?",
+        "How do I commit deeply to one path without dismissing others?"
+      ],
+      "career_business": [
+        "Is there really more than one valid business philosophy?",
+        "How do I stop chasing every new strategy and commit?",
+        "What common principles underlie all business success?",
+        "How do I find confidence in my chosen approach?"
+      ],
+      "health": [
+        "How do I choose between so many conflicting health systems?",
+        "What do all health traditions have in common?",
+        "How do I commit to one approach without constant second-guessing?",
+        "Is there a unifying truth behind different healing traditions?"
+      ],
+      "relationships": [
+        "Why does my partner show love so differently from me?",
+        "Can different expressions of love all be equally valid?",
+        "How do I appreciate my partner's way without demanding they change?",
+        "What is the common thread behind all acts of love?"
+      ]
+    },
+    "themes": ["diversity-of-sacrifice", "vedic-teaching", "liberation", "action", "unity"]
+  },
+  {
+    "id": "BG-4.33",
+    "chapter": 4,
+    "verse": 33,
+    "sanskrit": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप |\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ॥३३॥",
+    "iast": "śreyāndravyamayādyajñājjñānayajñaḥ parantapa |\nsarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate ||33||",
+    "explanation": "Superior to the sacrifice of material things is the sacrifice of knowledge, O scorcher of foes. All actions in their entirety, O Partha, culminate in knowledge. This famous verse declares knowledge-sacrifice as the highest form of offering.",
+    "synthesis": "After enumerating many forms of sacrifice, Krishna declares that the sacrifice of knowledge (jñāna-yajña) surpasses all material offerings. All action finds its completion in knowledge. Shankara sees this as the decisive statement that jñāna is the ultimate goal. Ramanuja understands knowledge here as devotional knowledge of God's supreme nature. The Bhakti tradition reads this as affirming that wisdom born of devotion is the crowning jewel of all spiritual practice.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara considers this a pivotal verse: all forms of action and sacrifice ultimately serve to purify the mind so it can receive Self-knowledge (jñāna). Knowledge is not one sacrifice among many — it is the culmination and purpose of all sacrifices. When knowledge dawns, the need for all other practice ceases."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that knowledge here means the deep, experiential understanding of God's nature and one's relationship with Him. This knowledge crowns all other practices — charity, austerity, yoga, and breath control are all preparations for the supreme knowledge of divine love."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition understands jñāna-yajña as the sacrifice of knowing and loving God fully. Mere material offerings cannot compare to the offering of one's entire understanding to the Divine. The culmination of all devotion is the knowledge that dissolves the separation between lover and Beloved."
+      }
+    ],
+    "applications": {
+      "personal_growth": "All experiences, practices, and challenges ultimately serve one purpose: to deepen your understanding. Money can be lost, possessions can break, but genuine knowledge — the kind that transforms how you see reality — is the most valuable thing you can cultivate.",
+      "career_business": "In the knowledge economy, what you know and understand is more valuable than what you own. Invest in learning, research, and deep understanding. Companies that prioritize knowledge over material assets consistently outperform those that don't.",
+      "health": "Understanding your body — how it works, what it needs, why it responds the way it does — is more valuable than any single supplement, diet, or exercise program. Health knowledge is the meta-skill that makes all other health practices more effective.",
+      "relationships": "Understanding another person deeply — their history, fears, desires, and patterns — is worth more than any material gift. The sacrifice of truly learning who someone is requires time, attention, and humility, but yields the deepest connection."
+    },
+    "questions": {
+      "personal_growth": [
+        "Why is knowledge considered the highest form of sacrifice?",
+        "How does understanding transform more than material giving?",
+        "What is the difference between information and transformative knowledge?",
+        "How do all my experiences ultimately serve understanding?"
+      ],
+      "career_business": [
+        "Why is knowledge the most valuable asset in today's economy?",
+        "How do I invest in deep understanding rather than surface skills?",
+        "What knowledge would be most transformative for my career?",
+        "Why do learning organizations outperform others?"
+      ],
+      "health": [
+        "Why is understanding my body more valuable than any single remedy?",
+        "How does health literacy multiply the effect of every practice?",
+        "What fundamental health knowledge am I missing?",
+        "How do I move from following health rules to understanding health principles?"
+      ],
+      "relationships": [
+        "Why is deeply knowing someone the greatest gift?",
+        "What would change if I invested in understanding rather than impressing?",
+        "How does knowledge of my partner prevent unnecessary conflicts?",
+        "Why is emotional intelligence more valuable than material generosity?"
+      ]
+    },
+    "themes": ["knowledge-sacrifice", "jñāna", "supremacy-of-knowledge", "culmination", "wisdom"]
+  },
+  {
+    "id": "BG-4.34",
+    "chapter": 4,
+    "verse": 34,
+    "sanskrit": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया |\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥३४॥",
+    "iast": "tadviddhi praṇipātena paripraśnena sevayā |\nupadekṣyanti te jñānaṃ jñāninastattvadarśinaḥ ||34||",
+    "explanation": "Learn that knowledge by prostration (humility), by inquiry, and by service. The wise ones who have seen the truth will teach you knowledge. This celebrated verse prescribes the threefold approach to a teacher.",
+    "synthesis": "Having declared the supremacy of knowledge, Krishna now tells Arjuna how to obtain it: approach a realized teacher with humility (praṇipāta), sincere questioning (paripraśna), and dedicated service (sevā). Shankara sees this as the indispensable guru-disciple relationship for attaining Self-knowledge. Ramanuja emphasizes that truth must be received from those who have directly seen it. The Bhakti tradition reads this as the path of surrender to a teacher who embodies divine wisdom.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara emphasizes the threefold qualification of the student: prostration (humility that dissolves ego), repeated questioning (sincere inquiry, not argumentative debate), and service (which creates the conditions for the teacher to transmit knowledge). The teachers must be tattva-darśinaḥ — those who have directly realized the truth, not mere scholars."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja stresses that knowledge must come through an authentic ācārya (teacher) who has realized God directly. The student's role is threefold: surrender (praṇipāta), intelligent inquiry (paripraśna), and loving service (sevā). This relationship is the established means of receiving salvific knowledge."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition treasures the guru-disciple relationship as sacred. The three approaches mirror the devotee's relationship with God: humility, heartfelt prayer, and loving service. A true guru is one who has seen (darśinaḥ) the truth — their teaching flows from direct experience, not secondhand learning."
+      }
+    ],
+    "applications": {
+      "personal_growth": "The three keys to genuine learning: approach with humility (leave your ego at the door), ask sincere questions (not to challenge but to understand), and demonstrate commitment through service (show you're serious). This applies to any teacher-student relationship.",
+      "career_business": "The best professionals seek mentors and approach them with respect, intelligent questions, and willingness to contribute. This three-part approach — humility, inquiry, service — is the fastest path to acquiring expert knowledge in any field.",
+      "health": "Find a health practitioner who has genuine expertise (not just credentials), approach them with trust and openness, ask thoughtful questions about your condition, and follow through on their guidance. The patient-healer relationship mirrors the guru-student dynamic.",
+      "relationships": "Learning about your partner requires the same three qualities: humility (accepting you don't fully understand them), sincere questioning (asking with genuine curiosity), and service (showing through actions that you care enough to learn)."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I find a genuine teacher or mentor?",
+        "What does true humility before a teacher look like?",
+        "How do I ask better questions of those wiser than me?",
+        "What is the role of service in the learning process?"
+      ],
+      "career_business": [
+        "How do I approach a potential mentor effectively?",
+        "What makes someone willing to share their expertise with me?",
+        "How do I demonstrate I'm worthy of senior mentorship?",
+        "Why is service to a mentor the fastest path to learning?"
+      ],
+      "health": [
+        "How do I find a health practitioner I can truly learn from?",
+        "What questions should I ask to get the most from my doctor?",
+        "How does humility improve my health outcomes?",
+        "Why is compliance with expert guidance so important?"
+      ],
+      "relationships": [
+        "How do I learn about my partner with genuine humility?",
+        "What questions would help me truly understand someone?",
+        "How does service to a loved one deepen understanding?",
+        "Why does ego prevent me from learning about the people I love?"
+      ]
+    },
+    "themes": ["guru", "humility", "inquiry", "service", "knowledge-transmission"]
+  },
+  {
+    "id": "BG-4.35",
+    "chapter": 4,
+    "verse": 35,
+    "sanskrit": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव |\nयेन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ॥३५॥",
+    "iast": "yajjñātvā na punarmohamevaṃ yāsyasi pāṇḍava |\nyena bhūtānyaśeṣeṇa drakṣyasyātmanyatho mayi ||35||",
+    "explanation": "Having known that truth, you shall never again fall into delusion, O Pandava. By that knowledge, you will see all beings without exception in the Self — and then in Me.",
+    "synthesis": "True knowledge permanently destroys delusion and reveals the unity of all beings in the Self and in God. Shankara reads this as the vision of non-duality — all beings are the one Self. Ramanuja sees it as the vision that all beings are the body of God, inseparable from Him. The Bhakti tradition sees the ultimate vision: first recognizing all beings as connected, then seeing them all in the Beloved Lord.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that this knowledge is the direct realization of the non-dual Self. Once attained, delusion can never return because ignorance has been permanently dispelled by the light of knowledge. Seeing all beings in the Self means recognizing there is only one Ātman appearing as many."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja interprets this as the vision that all beings — from the highest god to the lowest creature — are the body of the one Supreme Lord. Seeing all beings in the Self means seeing God's presence pervading every being. This vision destroys delusion permanently."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition reads a beautiful progression: first, you see all beings in yourself (empathy and unity), and then you see them all in God (divine vision). This double vision — human compassion crowned by divine love — is the fruit of true spiritual knowledge."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Genuine understanding — not intellectual but experiential — permanently changes how you see the world. Once you truly see the connection between yourself and all beings, you cannot return to narrow self-interest. This is the irreversible expansion of consciousness.",
+      "career_business": "Systems thinking — seeing how everything in a business ecosystem is connected — prevents the kind of siloed, short-sighted thinking that creates problems. Once you see the interconnections, you can never go back to treating departments or stakeholders as separate.",
+      "health": "Holistic health awareness — understanding that mind, body, emotions, relationships, and environment are all connected — is transformative. Once you see your health as part of a larger system, you stop treating symptoms in isolation.",
+      "relationships": "When you truly see yourself in another person — feel their joy as your joy, their pain as your pain — the relationship transforms permanently. Genuine empathy, once awakened, cannot be un-learned."
+    },
+    "questions": {
+      "personal_growth": [
+        "What insight, once gained, can never be lost?",
+        "How do I develop the vision that sees myself in all beings?",
+        "What delusions am I still operating under?",
+        "How does unity-consciousness change daily life?"
+      ],
+      "career_business": [
+        "How do I develop systems thinking in my work?",
+        "What would change if I saw all stakeholders as interconnected?",
+        "How does holistic vision improve business decisions?",
+        "Why is siloed thinking so destructive?"
+      ],
+      "health": [
+        "How do I see my health as part of a larger system?",
+        "Why does treating symptoms in isolation fail?",
+        "What connects my mental, physical, and emotional health?",
+        "How does holistic awareness transform healing?"
+      ],
+      "relationships": [
+        "What would change if I truly felt what my partner feels?",
+        "How do I develop genuine empathy, not just sympathy?",
+        "Why does seeing myself in others transform relationships?",
+        "Can empathy, once deeply awakened, ever be lost?"
+      ]
+    },
+    "themes": ["non-delusion", "unity-vision", "self-in-all", "permanent-knowledge", "empathy"]
+  },
+  {
+    "id": "BG-4.36",
+    "chapter": 4,
+    "verse": 36,
+    "sanskrit": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः |\nसर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ॥३६॥",
+    "iast": "api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ |\nsarvaṃ jñānaplavenaiva vṛjinaṃ santariṣyasi ||36||",
+    "explanation": "Even if you are the worst sinner among all sinners, you shall cross over all sin by the boat of knowledge alone. This is one of the Gita's most compassionate and hopeful declarations.",
+    "synthesis": "No amount of past sin can obstruct the power of true knowledge to liberate. Shankara sees knowledge as destroying all karma — past, present, and future — because it reveals that the Self was never truly a doer. Ramanuja sees the Lord's grace as the boat of knowledge that carries even the worst sinner to safety. The Bhakti tradition finds in this verse the ultimate assurance: no soul is beyond redemption.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that Self-knowledge destroys the root of all sin — which is ignorance. Just as a fire burns fuel regardless of quantity, knowledge burns all accumulated karma regardless of how much has been accrued. The Self was never truly the sinner; knowledge simply reveals this truth."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that the boat of knowledge is the Lord's grace manifesting as understanding. Even the most burdened soul, when graced with true knowledge of God, crosses over the entire ocean of sin. This knowledge is not self-generated but divinely bestowed."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "This verse is a source of infinite hope for the Bhakti tradition. No matter what you've done, God's knowledge-grace can carry you across the ocean of sin. The worst sinner who turns to God with genuine understanding is immediately eligible for liberation. Divine love knows no limits."
+      }
+    ],
+    "applications": {
+      "personal_growth": "No matter what you've done, no matter how far you've fallen, genuine understanding can redeem you. The past does not define you when true insight transforms how you see yourself and the world. Redemption is always available.",
+      "career_business": "Past failures — even catastrophic ones — do not have to define your professional future. The knowledge gained from failure, genuinely understood and applied, can carry you across any obstacle. Many of the greatest business leaders failed badly before succeeding.",
+      "health": "Years of neglect, abuse, or poor health choices do not make recovery impossible. Understanding what went wrong and why — genuine health knowledge — is the boat that carries you from any starting point toward wellness. It is never too late.",
+      "relationships": "Even after serious betrayal or years of damage, genuine understanding — of yourself, of your partner, of what went wrong — can be the vessel that carries a relationship to new ground. Redemption in love is always possible for those willing to learn."
+    },
+    "questions": {
+      "personal_growth": [
+        "Is it really possible to overcome a deeply sinful past?",
+        "How does knowledge redeem what action cannot?",
+        "Can I forgive myself for what I've done?",
+        "Is there anyone truly beyond redemption?"
+      ],
+      "career_business": [
+        "Can I come back from a catastrophic professional failure?",
+        "How do I use past mistakes as fuel for future success?",
+        "Why do some people bounce back from career disaster?",
+        "Is my past really not a limitation on my future?"
+      ],
+      "health": [
+        "Is it too late to fix damage from years of neglect?",
+        "Can my body recover from decades of poor choices?",
+        "How do I start a health journey from rock bottom?",
+        "Why is it never too late to change my health trajectory?"
+      ],
+      "relationships": [
+        "Can a relationship recover from serious betrayal?",
+        "Is redemption possible after causing deep hurt?",
+        "How do I earn back trust I've destroyed?",
+        "Can understanding truly heal what seems beyond repair?"
+      ]
+    },
+    "themes": ["redemption", "knowledge-as-boat", "sin", "hope", "grace", "forgiveness"]
+  },
+  {
+    "id": "BG-4.37",
+    "chapter": 4,
+    "verse": 37,
+    "sanskrit": "यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन |\nज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥३७॥",
+    "iast": "yathaidhāṃsi samiddho'gnirbhasmasātkurute'rjuna |\njñānāgniḥ sarvakarmāṇi bhasmasātkurute tathā ||37||",
+    "explanation": "As a blazing fire reduces firewood to ashes, O Arjuna, so does the fire of knowledge reduce all karma to ashes.",
+    "synthesis": "The metaphor is vivid: knowledge is a fire that incinerates accumulated karma completely. Shankara sees this as the definitive statement that Self-knowledge destroys all karmic bondage — past, present, and potential future karma. Ramanuja sees the fire of devotional knowledge consuming the fuel of sin. The Bhakti tradition loves the image of a fierce, cleansing fire that leaves nothing but purity behind.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that just as fire does not discriminate between types of wood, knowledge-fire destroys all karma without exception — saṃcita (accumulated), prārabdha (currently active, for some teachers), and āgāmi (future). The ashes are inert — they produce no further bondage."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that knowledge of God's true nature and one's relationship with Him burns away the accumulated karma that keeps the soul in bondage. Like fire that reduces all fuel equally, divine knowledge purifies all impurities without exception."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees the fire of divine love-knowledge as the most powerful purifying force in existence. No amount of accumulated karma can withstand the blaze of genuine devotion and understanding. The devotee emerges from this fire completely cleansed and free."
+      }
+    ],
+    "applications": {
+      "personal_growth": "A single transformative insight can undo years of accumulated confusion and suffering. When you truly see through a limiting belief, pattern, or identity — it is like fire meeting dry wood. The old story burns away and cannot reassemble itself.",
+      "career_business": "A breakthrough understanding in business — seeing the real market need, understanding the true problem, grasping the core strategy — can burn away years of misdirected effort. Genuine strategic insight is more powerful than years of incremental work.",
+      "health": "Understanding the root cause of a health issue — the underlying pattern, the real trigger, the actual mechanism — is like a fire that burns through surface symptoms. Root-cause understanding transforms health more profoundly than treating symptoms ever could.",
+      "relationships": "A moment of genuine understanding between partners — seeing each other's deepest fears and motivations — can dissolve years of accumulated resentment. One honest conversation can be the fire that burns away a decade of misunderstandings."
+    },
+    "questions": {
+      "personal_growth": [
+        "What transformative insight could burn away my biggest limitation?",
+        "Why is one genuine realization more powerful than years of effort?",
+        "How do I access the fire of self-knowledge?",
+        "What accumulated beliefs need to be burned away?"
+      ],
+      "career_business": [
+        "What single insight would transform my entire approach?",
+        "How does strategic clarity burn away years of confusion?",
+        "Why is deep understanding more valuable than incremental progress?",
+        "What assumption, if changed, would change everything?"
+      ],
+      "health": [
+        "What root cause am I not seeing behind my symptoms?",
+        "How does understanding the real problem transform treatment?",
+        "Why does root-cause healing outperform symptom management?",
+        "What health insight would change everything for me?"
+      ],
+      "relationships": [
+        "What one honest conversation could dissolve years of resentment?",
+        "How does genuine understanding burn away accumulated hurt?",
+        "Why is one moment of true seeing worth years of therapy?",
+        "What am I not understanding about my partner that keeps us stuck?"
+      ]
+    },
+    "themes": ["knowledge-fire", "karma-destruction", "purification", "transformation", "metaphor"]
+  },
+  {
+    "id": "BG-4.38",
+    "chapter": 4,
+    "verse": 38,
+    "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते |\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥३८॥",
+    "iast": "na hi jñānena sadṛśaṃ pavitramiha vidyate |\ntatsvayaṃ yogasaṃsiddhaḥ kālenātmani vindati ||38||",
+    "explanation": "There is nothing in this world as purifying as knowledge. One who is perfected in yoga finds it spontaneously within oneself in due course of time. This is another of the chapter's most celebrated declarations.",
+    "synthesis": "Knowledge is declared the supreme purifier — nothing in existence matches it. And it arises naturally within the yogi who is devoted to practice, in due time. Shankara sees this as confirmation that Self-knowledge is the ultimate goal. Ramanuja emphasizes that this knowledge comes through yoga perfected over time. The Bhakti tradition reads this as assurance that devoted practice will inevitably yield the highest realization — patience and faith are rewarded.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara declares this verse as establishing the absolute supremacy of knowledge over all other means of purification — ritual, austerity, pilgrimage, charity. The yogi perfected through practice discovers this knowledge spontaneously within, confirming that the Self is self-luminous and self-revealing."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that persistent yoga practice — combining karma-yoga, jñāna-yoga, and bhakti-yoga — inevitably leads to the arising of purifying knowledge in due course. The phrase 'in due time' (kālena) reassures the practitioner that consistent effort will bear fruit."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition finds deep encouragement here: keep practicing, keep serving, keep loving God — and in time, the supreme purifying knowledge will arise within you of its own accord. The devotee need not strain for enlightenment; it comes naturally to the faithful heart."
+      }
+    ],
+    "applications": {
+      "personal_growth": "There is no shortcut to genuine wisdom, but there is a guaranteed path: consistent practice over time. Trust the process. The insights you seek are already within you — practice clears the way for them to emerge.",
+      "career_business": "Expertise cannot be rushed, but it can be trusted. The professional who dedicates themselves to consistent mastery of their craft will, in time, develop the intuitive judgment that no training program can install. Trust the compounding effect of daily practice.",
+      "health": "Consistent health practices — even modest ones — compound over time into something that feels like grace. One day you realize you have energy, clarity, and resilience you didn't have before. This isn't sudden — it's the accumulated fruit of patient daily practice.",
+      "relationships": "Deep understanding of another person develops over time through consistent presence, attention, and care. You cannot rush intimacy, but you can trust that faithful, patient love will reveal depths of connection you cannot currently imagine."
+    },
+    "questions": {
+      "personal_growth": [
+        "Why is knowledge considered the purest thing in existence?",
+        "How do I trust that wisdom will come in its own time?",
+        "What purifies the mind more deeply than any ritual?",
+        "How do I stay patient while waiting for deeper understanding?"
+      ],
+      "career_business": [
+        "How long does it take to develop genuine expertise?",
+        "Why can't wisdom be fast-tracked through courses?",
+        "How does patient, consistent practice build intuitive judgment?",
+        "What does it mean to trust the process in my career?"
+      ],
+      "health": [
+        "Why does consistent practice matter more than intensity?",
+        "How do small daily habits compound into transformation?",
+        "When will I start seeing the results of my health practices?",
+        "Why is patience the most underrated health strategy?"
+      ],
+      "relationships": [
+        "How does patience deepen intimacy over time?",
+        "Why can't deep connection be rushed?",
+        "What rewards come from years of faithful presence?",
+        "How do I trust the slow unfolding of a relationship?"
+      ]
+    },
+    "themes": ["knowledge-as-purifier", "patience", "yoga", "self-discovery", "time"]
+  },
+  {
+    "id": "BG-4.39",
+    "chapter": 4,
+    "verse": 39,
+    "sanskrit": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः |\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥३९॥",
+    "iast": "śraddhāvāṃllabhate jñānaṃ tatparaḥ saṃyatendriyaḥ |\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ||39||",
+    "explanation": "The one who has faith (śraddhā), who is devoted to it, and who has mastered the senses, attains knowledge. Having attained knowledge, one quickly reaches supreme peace.",
+    "synthesis": "Three prerequisites for knowledge are given: faith, dedication, and self-mastery. When these converge, knowledge arises and supreme peace follows swiftly. Shankara defines śraddhā as trust in the words of the guru and scripture. Ramanuja sees it as wholehearted commitment to the spiritual path. The Bhakti tradition reads faith as the heart's natural trust in God — the beginning, middle, and fruit of the spiritual journey.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara identifies three qualifications: śraddhā (faith in the teaching and teacher), tatparaḥ (single-pointed dedication), and saṃyatendriyaḥ (mastery over the senses). When all three are present, knowledge arises naturally and supreme peace (parā śānti) — which is liberation — follows quickly."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja teaches that faith opens the door, dedication keeps the practitioner on the path, and sense-control prevents distractions from derailing progress. This combination inevitably leads to knowledge of God, and from that knowledge flows a peace that surpasses all worldly comfort."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition places śraddhā (faith) first because it is the seed of all spiritual growth. Without faith, there is no beginning. With faith, dedication, and self-mastery, the devotee quickly reaches the supreme peace of knowing and being known by God."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Three ingredients for genuine transformation: faith (belief that change is possible), dedication (sustained commitment), and self-discipline (control over impulses). When all three align, growth happens rapidly and peace follows.",
+      "career_business": "Success in any field requires faith in your direction, dedicated effort, and the discipline to avoid distractions. Professionals who combine these three qualities accelerate faster than those who have talent but lack one of the three.",
+      "health": "Health transformation requires faith (believing you can heal), dedication (committing to the protocol), and self-control (resisting unhealthy impulses). When all three are present, results come much faster than expected — and lasting peace of mind follows.",
+      "relationships": "A thriving relationship requires faith (trust in the partnership), dedication (sustained investment of time and energy), and self-mastery (controlling reactive impulses). Couples who embody all three quickly reach a depth of peace that others envy."
+    },
+    "questions": {
+      "personal_growth": [
+        "Do I have genuine faith that transformation is possible for me?",
+        "Am I truly dedicated or just casually interested?",
+        "What role does self-discipline play in achieving inner peace?",
+        "How do faith, dedication, and discipline work together?"
+      ],
+      "career_business": [
+        "Do I really believe in the direction I'm pursuing?",
+        "Am I dedicated enough, or am I hedging my bets?",
+        "What distractions are preventing my professional breakthrough?",
+        "How do I cultivate all three — faith, dedication, discipline?"
+      ],
+      "health": [
+        "Do I believe I can actually achieve lasting health?",
+        "Am I committed enough to my health goals?",
+        "What impulses keep derailing my health progress?",
+        "How quickly could I transform if I aligned faith, dedication, and discipline?"
+      ],
+      "relationships": [
+        "Do I have faith in this relationship's potential?",
+        "Am I truly dedicated to making it work?",
+        "What reactive impulses damage my connection?",
+        "How do faith and self-control create peace in love?"
+      ]
+    },
+    "themes": ["faith", "dedication", "self-mastery", "peace", "knowledge"]
+  },
+  {
+    "id": "BG-4.40",
+    "chapter": 4,
+    "verse": 40,
+    "sanskrit": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति |\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः ॥४०॥",
+    "iast": "ajñaścāśraddadhānaśca saṃśayātmā vinaśyati |\nnāyaṃ loko'sti na paro na sukhaṃ saṃśayātmanaḥ ||40||",
+    "explanation": "The ignorant, the faithless, and the doubter are destroyed. For the doubting soul, there is neither this world, nor the next, nor happiness.",
+    "synthesis": "After praising faith, Krishna warns against its opposite: chronic doubt. Three types of spiritual failure are named — ignorance, lack of faith, and habitual doubt. The doubter is singled out as the most tragic, unable to enjoy this world or the next. Shankara sees doubt as the ultimate obstacle to Self-knowledge. Ramanuja warns that doubt about God's promises leads to paralysis. The Bhakti tradition distinguishes healthy questioning (like Arjuna's) from corrosive doubt that refuses any resolution.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara identifies three progressive failures: ajña (the merely ignorant, who can still be educated), aśraddadhāna (the faithless, who reject teaching), and saṃśayātmā (the chronic doubter, who neither accepts nor rejects but remains paralyzed). The doubter is worst off because they cannot benefit from any path."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja warns that doubt about God's nature, His promises, and the efficacy of the spiritual path leads to total destruction. The doubter cannot commit to any course of action and therefore wastes both this life and the next. Faith, even imperfect, is infinitely superior to paralytic doubt."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition distinguishes between Arjuna's honest questioning (which led to illumination) and the corrosive doubt described here (which leads to destruction). Bringing doubts to God is healthy; nursing doubts in isolation — refusing to seek answers — is spiritual suicide."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Chronic indecision is more destructive than making a wrong choice. The person who doubts everything — themselves, their path, their teachers — ends up paralyzed, unable to enjoy the present or build a future. At some point, you must commit.",
+      "career_business": "Analysis paralysis kills more careers and businesses than bad decisions do. The chronic doubter who cannot commit to a strategy, a market, or a decision ends up achieving nothing. Imperfect action beats perfect doubt every time.",
+      "health": "Constantly second-guessing your health choices — switching diets, abandoning routines, doubting practitioners — leads to worse outcomes than committing to a reasonable plan and sticking with it. Health doubt is itself a health hazard.",
+      "relationships": "Chronic doubt about a relationship — 'Is this the right person? Should I stay or go?' — destroys the relationship from within. At some point, you must commit or leave. Living in perpetual doubt denies both partners the chance to be happy."
+    },
+    "questions": {
+      "personal_growth": [
+        "Is my doubt protecting me or paralyzing me?",
+        "How do I distinguish healthy questioning from destructive doubt?",
+        "Why does chronic indecision lead to misery?",
+        "How do I break free from analysis paralysis?"
+      ],
+      "career_business": [
+        "Am I overthinking instead of acting?",
+        "How does doubt sabotage my professional progress?",
+        "When does due diligence become avoidance?",
+        "Why is imperfect action better than perfect doubt?"
+      ],
+      "health": [
+        "Am I constantly switching health approaches out of doubt?",
+        "How does health anxiety make my health worse?",
+        "When should I commit to a treatment plan and stop second-guessing?",
+        "Why is consistency with an imperfect plan better than no plan?"
+      ],
+      "relationships": [
+        "Is my doubt about the relationship justified or self-sabotaging?",
+        "How does chronic indecision hurt my partner?",
+        "When do I need to commit or leave?",
+        "Why is living in doubt worse than making a decision?"
+      ]
+    },
+    "themes": ["doubt", "faith", "destruction", "commitment", "paralysis"]
+  },
+  {
+    "id": "BG-4.41",
+    "chapter": 4,
+    "verse": 41,
+    "sanskrit": "योगसन्न्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् |\nआत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ॥४१॥",
+    "iast": "yogasannyastakarmāṇaṃ jñānasañchinnasaṃśayam |\nātmavantaṃ na karmāṇi nibadhnanti dhanañjaya ||41||",
+    "explanation": "One who has renounced actions through yoga, whose doubts have been cut asunder by knowledge, and who is self-possessed — actions do not bind such a person, O Dhananjaya (Arjuna).",
+    "synthesis": "The fully integrated person — who renounces through yoga, destroys doubt through knowledge, and is established in the Self — is completely free from karmic bondage. Shankara sees this as the jīvanmukta who has united karma-yoga, jñāna-yoga, and ātma-niṣṭhā. Ramanuja sees the devotee who has surrendered action to God, resolved all doubts about His nature, and is established in self-awareness. The Bhakti tradition reads this as the triumphant culmination: yoga, knowledge, and self-possession together create total freedom.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains three aspects of liberation: renunciation of action through yoga (offering all actions to the Self), destruction of doubt through knowledge (direct Self-realization), and self-possession (being established in the Ātman). Such a person acts in the world but is entirely unbound."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja describes the liberated devotee as one who has surrendered all actions to God (yoga-sannyasta-karma), resolved all philosophical doubts through knowledge of God's supreme nature (jñāna-sañchinna-saṃśaya), and is firmly self-aware. Actions flow through such a person like water off a lotus leaf."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition sees this verse as describing the complete devotee: one who has offered all actions to God, whose heart is free from the torment of doubt, and who is established in their identity as God's beloved. Such a person acts joyfully and freely in the world."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Freedom comes from three integrated practices: offering your actions to something greater than yourself (yoga), resolving your deepest questions through genuine understanding (knowledge), and being grounded in your true identity (self-possession). Together, these make you unshakeable.",
+      "career_business": "The most effective professionals combine service-orientation (not working for ego), intellectual clarity (understanding their field deeply), and personal groundedness (not being shaken by external circumstances). This combination creates professional invincibility.",
+      "health": "When you integrate healthy action (consistent practice), genuine understanding (knowing why you do what you do), and self-awareness (listening to your body's wisdom), health becomes effortless rather than burdensome. The integration is the key.",
+      "relationships": "The best partners bring three things: generosity of action (giving without keeping score), emotional clarity (having worked through their own confusion), and self-possession (not needing the relationship to feel whole). This combination creates relationships that are free rather than binding."
+    },
+    "questions": {
+      "personal_growth": [
+        "How do I integrate action, knowledge, and self-awareness?",
+        "What doubts still bind me that need to be resolved?",
+        "How do I act in the world without being bound by outcomes?",
+        "What does it mean to be truly self-possessed?"
+      ],
+      "career_business": [
+        "How do I combine service, clarity, and groundedness at work?",
+        "What professional doubts are holding me back?",
+        "How do I become unshakeable in my career?",
+        "What does professional freedom look like?"
+      ],
+      "health": [
+        "How do I integrate practice, understanding, and body awareness?",
+        "What health doubts do I need to resolve?",
+        "How do I make health effortless instead of burdensome?",
+        "What does true health freedom feel like?"
+      ],
+      "relationships": [
+        "How do I bring generosity, clarity, and self-possession to love?",
+        "What relationship doubts am I carrying that need resolution?",
+        "How do I love without being bound?",
+        "What does emotional freedom within partnership look like?"
+      ]
+    },
+    "themes": ["integration", "doubt-destruction", "self-possession", "freedom", "karma-yoga"]
+  },
+  {
+    "id": "BG-4.42",
+    "chapter": 4,
+    "verse": 42,
+    "sanskrit": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः |\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ॥४२॥",
+    "iast": "tasmādajñānasambhūtaṃ hṛtsthaṃ jñānāsinātmanaḥ |\nchittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata ||42||",
+    "explanation": "Therefore, with the sword of knowledge, cut asunder this doubt in your heart born of ignorance. Take refuge in yoga. Arise, O Bharata! This powerful closing verse is Krishna's rallying call to action through knowledge.",
+    "synthesis": "The chapter concludes with a stirring command: take the sword of knowledge, cut through the doubt that lives in your heart, stand firm in yoga, and rise to action. Shankara sees this as the final instruction to realize the Self and act from that realization. Ramanuja sees it as the Lord's urgent call to surrender doubt and commit to the path. The Bhakti tradition reads 'uttiṣṭha' (arise!) as the same battle cry that will echo through the Gita — God calling the soul to awaken, to fight, to live fully.",
+    "commentaries": [
+      {
+        "tradition": "advaita",
+        "teacher": "Adi Shankaracharya",
+        "text": "Shankara explains that the doubt born of ignorance (ajñāna-sambhūta saṃśaya) resides in the heart — the seat of the intellect. The sword of Self-knowledge alone can cut it. Once doubt is destroyed, one should take refuge in yoga (karma-yoga informed by jñāna) and arise to fulfill one's duty."
+      },
+      {
+        "tradition": "vishishtadvaita",
+        "teacher": "Ramanujacharya",
+        "text": "Ramanuja reads this as Krishna's urgent call: take the knowledge I have given you, use it to destroy the doubt born of ignorance, and commit fully to yoga — the path of devoted action. 'Arise!' is the Lord's command to stop hesitating and live with the courage of your understanding."
+      },
+      {
+        "tradition": "bhakti",
+        "teacher": "Traditional Bhakti perspective",
+        "text": "The Bhakti tradition hears in 'Arise, O Bharata!' the Lord's eternal call to every sleeping soul. Doubt is the chain that keeps us bound; knowledge is the sword that frees us. But we must wield it — we must rise, act, and live. The Lord gives the sword; we must swing it."
+      }
+    ],
+    "applications": {
+      "personal_growth": "Stop deliberating and start living. Take the understanding you have — however imperfect — and use it to cut through the doubt that paralyzes you. Stand up. Commit. Act. The sword of knowledge is already in your hand; you only need to use it.",
+      "career_business": "At some point, research and planning must yield to decisive action. Take what you know, make the best decision you can, and move forward with conviction. The cost of prolonged doubt always exceeds the cost of an imperfect decision.",
+      "health": "You already know more than enough to start. Cut through the doubt — 'Is this the right diet? The right exercise? The right time?' — and begin. Arise. Start moving. Start eating better. Start sleeping properly. The knowledge you need is already sufficient.",
+      "relationships": "Cut through the doubt about your relationship with decisive action: either commit fully or have the honest conversation you've been avoiding. The sword of understanding is yours. The question is whether you'll use it or continue letting doubt corrode your heart."
+    },
+    "questions": {
+      "personal_growth": [
+        "What doubt in my heart do I need to cut through right now?",
+        "Am I using 'I need more information' as an excuse for inaction?",
+        "How do I rise from doubt into decisive action?",
+        "What would I do if I had no doubt?"
+      ],
+      "career_business": [
+        "What decision am I postponing that I should make today?",
+        "How do I stop deliberating and start executing?",
+        "What doubt is holding my career hostage?",
+        "What would I do right now if I trusted myself completely?"
+      ],
+      "health": [
+        "What health change am I overthinking instead of starting?",
+        "Do I already know enough to begin my transformation?",
+        "What doubt am I hiding behind to avoid changing?",
+        "What if I just started today — right now?"
+      ],
+      "relationships": [
+        "What relationship doubt do I need to resolve once and for all?",
+        "Am I using doubt to avoid commitment or honest conversation?",
+        "What would happen if I cut through my hesitation?",
+        "How do I arise and show up fully in this relationship?"
+      ]
+    },
+    "themes": ["sword-of-knowledge", "doubt-destruction", "arise", "action", "yoga", "courage"]
+  }
+]
