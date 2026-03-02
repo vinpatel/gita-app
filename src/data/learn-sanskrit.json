@@ -1,0 +1,1193 @@
+[
+  {
+    "id": "day-1",
+    "day": 1,
+    "week": 1,
+    "title": "The Sacred Sounds",
+    "subtitle": "Meet the Devanagari vowels — the building blocks of Sanskrit",
+    "objective": "By the end of today, you will be able to recognize and pronounce all 13 Sanskrit vowels in Devanagari script, and understand why Sanskrit is called a 'perfectly phonetic' language.",
+    "concepts": [
+      {
+        "heading": "Why Devanagari?",
+        "explanation": "Devanagari literally means 'script of the divine city.' Unlike English, every letter represents exactly one sound — no silent letters, no ambiguity. What you see is what you say. The Gita was composed to be heard, and Devanagari preserves those sounds perfectly.",
+        "examples": []
+      },
+      {
+        "heading": "Short Vowels (ह्रस्व)",
+        "explanation": "These are held for one beat. Think of them as quick, crisp sounds.",
+        "examples": [
+          { "devanagari": "अ", "iast": "a", "meaning": "like 'u' in 'but' — the most common sound in Sanskrit" },
+          { "devanagari": "इ", "iast": "i", "meaning": "like 'i' in 'sit'" },
+          { "devanagari": "उ", "iast": "u", "meaning": "like 'u' in 'put'" },
+          { "devanagari": "ऋ", "iast": "ṛ", "meaning": "a vowel 'r' — like 'ri' in 'Krishna' (कृष्ण)" },
+          { "devanagari": "ऌ", "iast": "ḷ", "meaning": "a vowel 'l' — extremely rare, mostly theoretical" }
+        ]
+      },
+      {
+        "heading": "Long Vowels (दीर्घ)",
+        "explanation": "These are held for two beats — simply stretch the short vowel longer. In IAST, a macron (line above) marks them: ā, ī, ū.",
+        "examples": [
+          { "devanagari": "आ", "iast": "ā", "meaning": "like 'a' in 'father' — as in आत्मा (ātmā, the Self)" },
+          { "devanagari": "ई", "iast": "ī", "meaning": "like 'ee' in 'feet' — as in गीता (Gītā)" },
+          { "devanagari": "ऊ", "iast": "ū", "meaning": "like 'oo' in 'food' — as in रूप (rūpa, form)" },
+          { "devanagari": "ॠ", "iast": "ṝ", "meaning": "long vowel ṛ — extremely rare" }
+        ]
+      },
+      {
+        "heading": "Diphthongs (संध्यक्षर)",
+        "explanation": "Two vowel sounds blended into one. These are always long.",
+        "examples": [
+          { "devanagari": "ए", "iast": "e", "meaning": "like 'ay' in 'say' — as in एव (eva, indeed)" },
+          { "devanagari": "ऐ", "iast": "ai", "meaning": "like 'ai' in 'aisle' — as in ऐश्वर्य (aiśvarya, sovereignty)" },
+          { "devanagari": "ओ", "iast": "o", "meaning": "like 'o' in 'go' — as in ओम् (om)" },
+          { "devanagari": "औ", "iast": "au", "meaning": "like 'ow' in 'how' — as in औषधि (auṣadhi, medicine)" }
+        ]
+      },
+      {
+        "heading": "The Sacred Syllable OM (ॐ)",
+        "explanation": "OM contains three sounds: अ (a) + उ (u) + म (m). It begins many Gita chapters and represents the ultimate reality (Brahman). You just learned the vowels that make it up!",
+        "examples": [
+          { "devanagari": "ॐ", "iast": "om", "meaning": "The primordial sound — BG 7.8: 'I am the syllable OM'" }
+        ]
+      }
+    ],
+    "gita_connection": "In BG 7.8, Krishna says: 'praṇavaḥ sarva-vedeṣu' — 'I am the syllable OM in all the Vedas.' The vowel अ (a) is considered the origin of all sounds. Krishna says in BG 10.33: 'akṣarāṇām akāro'smi' — 'Among letters, I am the letter A.' You just learned the most sacred sounds in the tradition.",
+    "practice": [
+      {
+        "type": "recognize",
+        "instruction": "Look at each Devanagari vowel and say its IAST equivalent aloud. Cover the answers and test yourself.",
+        "items": ["अ → ?", "आ → ?", "इ → ?", "ई → ?", "उ → ?", "ऊ → ?", "ऋ → ?", "ए → ?", "ऐ → ?", "ओ → ?", "औ → ?"]
+      },
+      {
+        "type": "recognize",
+        "instruction": "Which vowel do you see in these Gita words? Identify the initial vowel.",
+        "items": ["आत्मा (starts with आ = ā)", "उपनिषद् (starts with उ = u)", "ईश्वर (starts with ई = ī)", "ऋषि (starts with ऋ = ṛ)", "ओम् (starts with ओ = o)"]
+      }
+    ],
+    "recap": "You learned all 13 Sanskrit vowels — 5 short, 4 long, and 4 diphthongs. Sanskrit is perfectly phonetic: one letter = one sound, always. The sacred syllable OM combines three of these vowels.",
+    "next_preview": "Tomorrow you'll learn the 25 consonant stops — and discover why Sanskrit organizes sounds more systematically than any other language on Earth."
+  },
+  {
+    "id": "day-2",
+    "day": 2,
+    "week": 1,
+    "title": "The Consonant Grid",
+    "subtitle": "25 stops organized by mouth position — Sanskrit's scientific genius",
+    "objective": "By the end of today, you will be able to read the 25 stop consonants (sparśa) organized in the 5×5 grid, and understand how mouth position and aspiration create the system.",
+    "concepts": [
+      {
+        "heading": "The 5×5 Grid — Sound Organized Scientifically",
+        "explanation": "Sanskrit organizes 25 consonants into a 5×5 grid. Rows go by mouth position (throat → lips). Columns go by voicing and aspiration. No other ancient language did this. Each row is called a varga (class).",
+        "examples": []
+      },
+      {
+        "heading": "Guttural (कवर्ग) — Throat sounds",
+        "explanation": "Made at the back of the throat, like English 'k' and 'g'. The 5 columns are: unvoiced, unvoiced aspirated, voiced, voiced aspirated, nasal.",
+        "examples": [
+          { "devanagari": "क", "iast": "ka", "meaning": "like 'k' in 'kite'" },
+          { "devanagari": "ख", "iast": "kha", "meaning": "aspirated k — like 'k' in 'khaki' with a puff of air" },
+          { "devanagari": "ग", "iast": "ga", "meaning": "like 'g' in 'go' — as in गीता (Gītā)" },
+          { "devanagari": "घ", "iast": "gha", "meaning": "aspirated g — as in घोर (ghora, terrible)" },
+          { "devanagari": "ङ", "iast": "ṅa", "meaning": "like 'ng' in 'sing' — never starts a word" }
+        ]
+      },
+      {
+        "heading": "Palatal (चवर्ग) — Roof-of-mouth sounds",
+        "explanation": "Made with the tongue touching the hard palate, like English 'ch' and 'j'.",
+        "examples": [
+          { "devanagari": "च", "iast": "ca", "meaning": "like 'ch' in 'church'" },
+          { "devanagari": "छ", "iast": "cha", "meaning": "aspirated ch" },
+          { "devanagari": "ज", "iast": "ja", "meaning": "like 'j' in 'joy' — as in जन्म (janma, birth)" },
+          { "devanagari": "झ", "iast": "jha", "meaning": "aspirated j" },
+          { "devanagari": "ञ", "iast": "ña", "meaning": "like 'ny' in 'canyon' — as in ज्ञान (jñāna, knowledge)" }
+        ]
+      },
+      {
+        "heading": "Retroflex (टवर्ग) — Curled-tongue sounds",
+        "explanation": "Made by curling the tongue back to touch the roof of the mouth. Unique to Indian languages. In IAST, marked with a dot below: ṭ, ḍ, ṇ.",
+        "examples": [
+          { "devanagari": "ट", "iast": "ṭa", "meaning": "retroflex t — tongue curled back" },
+          { "devanagari": "ठ", "iast": "ṭha", "meaning": "aspirated retroflex t" },
+          { "devanagari": "ड", "iast": "ḍa", "meaning": "retroflex d" },
+          { "devanagari": "ढ", "iast": "ḍha", "meaning": "aspirated retroflex d" },
+          { "devanagari": "ण", "iast": "ṇa", "meaning": "retroflex n — as in कृष्ण (Kṛṣṇa)" }
+        ]
+      },
+      {
+        "heading": "Dental (तवर्ग) — Teeth sounds",
+        "explanation": "Made with the tongue touching the upper teeth. The 'default' t/d in Sanskrit — softer than English.",
+        "examples": [
+          { "devanagari": "त", "iast": "ta", "meaning": "dental t — tongue on teeth, not the ridge" },
+          { "devanagari": "थ", "iast": "tha", "meaning": "aspirated dental t" },
+          { "devanagari": "द", "iast": "da", "meaning": "dental d — as in धर्म (dharma)" },
+          { "devanagari": "ध", "iast": "dha", "meaning": "aspirated dental d — as in धर्म (dharma)" },
+          { "devanagari": "न", "iast": "na", "meaning": "dental n — as in नमस्ते (namaste)" }
+        ]
+      },
+      {
+        "heading": "Labial (पवर्ग) — Lip sounds",
+        "explanation": "Made with the lips, like English 'p' and 'b'.",
+        "examples": [
+          { "devanagari": "प", "iast": "pa", "meaning": "like 'p' in 'spin' — as in पाण्डव (Pāṇḍava)" },
+          { "devanagari": "फ", "iast": "pha", "meaning": "aspirated p — NOT an 'f' sound" },
+          { "devanagari": "ब", "iast": "ba", "meaning": "like 'b' in 'boy' — as in ब्रह्मन् (brahman)" },
+          { "devanagari": "भ", "iast": "bha", "meaning": "aspirated b — as in भगवद् (bhagavad)" },
+          { "devanagari": "म", "iast": "ma", "meaning": "like 'm' in 'man' — as in मन (mana, mind)" }
+        ]
+      }
+    ],
+    "gita_connection": "In BG 10.33, Krishna says: 'akṣarāṇām akāro'smi' — 'Among letters, I am A.' The consonant grid reflects the Gita's teaching of divine order (ṛta) in the universe — even sounds follow a perfect system. When you see भगवद्गीता (Bhagavad Gītā), you now know: भ is labial voiced aspirated, ग is guttural voiced.",
+    "practice": [
+      {
+        "type": "recognize",
+        "instruction": "Identify the varga (class) of each consonant — is it guttural, palatal, retroflex, dental, or labial?",
+        "items": ["ग (guttural)", "ज (palatal)", "ड (retroflex)", "द (dental)", "ब (labial)", "ण (retroflex)", "म (labial)", "ञ (palatal)"]
+      },
+      {
+        "type": "recognize",
+        "instruction": "For each pair, identify which is aspirated and which is not.",
+        "items": ["क vs ख", "ग vs घ", "त vs थ", "प vs फ", "ज vs झ"]
+      },
+      {
+        "type": "transliterate",
+        "instruction": "Write the IAST for these Gita consonants.",
+        "items": ["क → ka", "ग → ga", "त → ta", "ध → dha", "भ → bha", "ण → ṇa", "म → ma"]
+      }
+    ],
+    "recap": "You learned the 25 stop consonants organized in a brilliant 5×5 grid: 5 mouth positions × 5 voicing/aspiration patterns. Aspirated consonants have a puff of air. Retroflexes curl the tongue back. This grid is Sanskrit's greatest phonetic achievement.",
+    "next_preview": "Tomorrow you'll complete the consonant inventory with semivowels, sibilants, and two special marks — anusvara and visarga — that appear constantly in the Gita."
+  },
+  {
+    "id": "day-3",
+    "day": 3,
+    "week": 1,
+    "title": "Completing the Sound System",
+    "subtitle": "Semivowels, sibilants, and the special marks that appear everywhere in the Gita",
+    "objective": "By the end of today, you will be able to recognize all remaining consonants (semivowels, sibilants, aspirate) plus visarga and anusvara — completing your knowledge of the full Devanagari alphabet.",
+    "concepts": [
+      {
+        "heading": "Semivowels (अन्तःस्थ) — Between Vowels and Consonants",
+        "explanation": "These four sounds are 'in-between' — they flow like vowels but start like consonants. Each one corresponds to a vowel: इ→य, ऋ→र, ऌ→ल, उ→व.",
+        "examples": [
+          { "devanagari": "य", "iast": "ya", "meaning": "like 'y' in 'yes' — as in योग (yoga)" },
+          { "devanagari": "र", "iast": "ra", "meaning": "a soft, tapped 'r' — as in राम (Rāma)" },
+          { "devanagari": "ल", "iast": "la", "meaning": "like 'l' in 'love' — as in लोक (loka, world)" },
+          { "devanagari": "व", "iast": "va", "meaning": "between 'v' and 'w' — as in विष्णु (Viṣṇu)" }
+        ]
+      },
+      {
+        "heading": "Sibilants (ऊष्मन्) — The Hissing Sounds",
+        "explanation": "Three 's' sounds, each made at a different mouth position. English has only one 's' — Sanskrit has three! In IAST, ś has an acute accent, ṣ has a dot below.",
+        "examples": [
+          { "devanagari": "श", "iast": "śa", "meaning": "palatal 's' — like 'sh' in 'ship' — as in शान्ति (śānti, peace)" },
+          { "devanagari": "ष", "iast": "ṣa", "meaning": "retroflex 's' — tongue curled back — as in कृष्ण (Kṛṣṇa)" },
+          { "devanagari": "स", "iast": "sa", "meaning": "dental 's' — like English 's' in 'sun' — as in संसार (saṃsāra)" }
+        ]
+      },
+      {
+        "heading": "The Aspirate",
+        "explanation": "A pure breath sound, like a sigh.",
+        "examples": [
+          { "devanagari": "ह", "iast": "ha", "meaning": "like 'h' in 'home' — as in हरि (Hari, a name of Viṣṇu)" }
+        ]
+      },
+      {
+        "heading": "Anusvara (अनुस्वार) — The Nasal Dot",
+        "explanation": "A dot above a letter (ं) that nasalizes the sound. In IAST it's written as ṃ. It appears constantly in the Gita — you'll see it in almost every verse. It takes the nasal quality of whatever consonant follows.",
+        "examples": [
+          { "devanagari": "संसार", "iast": "saṃsāra", "meaning": "the cycle of rebirth" },
+          { "devanagari": "अहं", "iast": "ahaṃ", "meaning": "I — as in BG 10.20: 'aham ātmā' (I am the Self)" },
+          { "devanagari": "संयोग", "iast": "saṃyoga", "meaning": "union, connection" }
+        ]
+      },
+      {
+        "heading": "Visarga (विसर्ग) — The Breath Mark",
+        "explanation": "Two dots after a letter (ः) — a soft 'h' sound with an echo of the preceding vowel. In IAST it's written as ḥ. Extremely common at the end of Sanskrit words and in sandhi.",
+        "examples": [
+          { "devanagari": "नमः", "iast": "namaḥ", "meaning": "salutation — as in 'namaḥ te' (salutations to you)" },
+          { "devanagari": "दुःख", "iast": "duḥkha", "meaning": "suffering, sorrow — a key Gita concept" },
+          { "devanagari": "पुरुषः", "iast": "puruṣaḥ", "meaning": "person, consciousness — ends with visarga" }
+        ]
+      }
+    ],
+    "gita_connection": "The visarga and anusvara appear in nearly every line of the Gita. For instance, BG 2.11 begins: 'aśocyān anvaśocas tvaṃ prajñāvādāṃś ca bhāṣase' — notice the anusvara in tvaṃ and the visarga implied throughout. Recognizing these marks is essential for reading any Gita verse.",
+    "practice": [
+      {
+        "type": "recognize",
+        "instruction": "Identify whether each character is a semivowel, sibilant, or special mark.",
+        "items": ["य (semivowel)", "श (sibilant — palatal)", "ष (sibilant — retroflex)", "व (semivowel)", "ह (aspirate)", "ं (anusvara)", "ः (visarga)"]
+      },
+      {
+        "type": "transliterate",
+        "instruction": "Write the IAST for these characters.",
+        "items": ["श → śa", "ष → ṣa", "स → sa", "य → ya", "र → ra", "ं → ṃ", "ः → ḥ"]
+      },
+      {
+        "type": "recognize",
+        "instruction": "Find the anusvara (ṃ) and visarga (ḥ) in these Gita words.",
+        "items": ["संन्यास (saṃnyāsa — anusvara on सं)", "दुःख (duḥkha — visarga on दुः)", "अहं (ahaṃ — anusvara on हं)", "प्रणमः (praṇamaḥ — visarga at end)"]
+      }
+    ],
+    "recap": "You now know the complete Devanagari alphabet: 13 vowels, 25 stops, 4 semivowels, 3 sibilants, 1 aspirate, plus anusvara (ṃ) and visarga (ḥ). That's every sound in Sanskrit. The alphabet is done!",
+    "next_preview": "Tomorrow is where the magic happens — you'll learn how vowels attach to consonants using mātrā marks. This is the key to reading actual Devanagari text."
+  },
+  {
+    "id": "day-4",
+    "day": 4,
+    "week": 1,
+    "title": "Vowel Marks — Unlocking Real Reading",
+    "subtitle": "How vowels attach to consonants with mātrā — and reading your first real words",
+    "objective": "By the end of today, you will be able to read simple Devanagari syllables and real Sanskrit words like कृष्ण (Kṛṣṇa), अर्जुन (Arjuna), and गीता (Gītā).",
+    "concepts": [
+      {
+        "heading": "The Inherent 'a' — Sanskrit's Default Vowel",
+        "explanation": "Every consonant in Devanagari has a built-in 'a' sound. When you see क, it's not just 'k' — it's 'ka'. This is the most important rule in Devanagari. You only write a separate vowel sign when the vowel is NOT 'a'.",
+        "examples": [
+          { "devanagari": "क", "iast": "ka", "meaning": "NOT just 'k' — the 'a' is built in" },
+          { "devanagari": "न म", "iast": "na ma", "meaning": "Two syllables: na + ma" }
+        ]
+      },
+      {
+        "heading": "Vowel Marks (मात्रा) — Changing the Built-in Vowel",
+        "explanation": "To change the default 'a' to another vowel, you add a mātrā (vowel mark) to the consonant. Each vowel has its own mark shape. Here they are attached to क (ka) as an example.",
+        "examples": [
+          { "devanagari": "का", "iast": "kā", "meaning": "long ā — a vertical stroke after the consonant" },
+          { "devanagari": "कि", "iast": "ki", "meaning": "short i — a hook BEFORE the consonant (written left)" },
+          { "devanagari": "की", "iast": "kī", "meaning": "long ī — a hook after the consonant" },
+          { "devanagari": "कु", "iast": "ku", "meaning": "short u — a hook below the consonant" },
+          { "devanagari": "कू", "iast": "kū", "meaning": "long ū — a tail below the consonant" },
+          { "devanagari": "कृ", "iast": "kṛ", "meaning": "vowel ṛ — a small hook below" },
+          { "devanagari": "के", "iast": "ke", "meaning": "e — a diagonal stroke above" },
+          { "devanagari": "कै", "iast": "kai", "meaning": "ai — two strokes above" },
+          { "devanagari": "को", "iast": "ko", "meaning": "o — stroke above AND after" },
+          { "devanagari": "कौ", "iast": "kau", "meaning": "au — two strokes above AND one after" }
+        ]
+      },
+      {
+        "heading": "Reading Real Gita Words",
+        "explanation": "Now let's put it together. Break each word into consonant + vowel mark syllables.",
+        "examples": [
+          { "devanagari": "गीता", "iast": "Gītā", "meaning": "ग (ga) + ी (ī) = गी; त (ta) + ा (ā) = ता → Gītā (song)" },
+          { "devanagari": "कृष्ण", "iast": "Kṛṣṇa", "meaning": "क (ka) + ृ (ṛ) = कृ; ष्ण = ṣṇa → Kṛṣṇa (the dark one)" },
+          { "devanagari": "अर्जुन", "iast": "Arjuna", "meaning": "अ (a); र् (r) + ज (ja) = र्जु; न (na) → Arjuna (the bright one)" },
+          { "devanagari": "कुरु", "iast": "Kuru", "meaning": "क (ka) + ु (u) = कु; र (ra) + ु (u) = रु → Kuru (the dynasty)" },
+          { "devanagari": "पाण्डव", "iast": "Pāṇḍava", "meaning": "प (pa) + ा (ā) = पा; ण्ड (ṇḍa); व (va) → sons of Pāṇḍu" }
+        ]
+      }
+    ],
+    "gita_connection": "The very title भगवद्गीता (Bhagavad Gītā) uses mātrā marks everywhere. भ (bha), ग (ga), व (va), द् (d with no vowel), गी (gī with long ī mātrā), ता (tā with long ā mātrā). You can now decode the title letter by letter! It means 'The Song of the Lord.'",
+    "practice": [
+      {
+        "type": "transliterate",
+        "instruction": "Read these syllables aloud and write their IAST.",
+        "items": ["का → kā", "कि → ki", "कू → kū", "गी → gī", "दे → de", "तो → to", "नौ → nau", "मा → mā", "पु → pu", "री → rī"]
+      },
+      {
+        "type": "transliterate",
+        "instruction": "Sound out these Gita words syllable by syllable and write the full IAST.",
+        "items": ["योग → yoga", "कर्म → karma", "गुरु → guru", "देव → deva", "माया → māyā", "सेना → senā"]
+      },
+      {
+        "type": "recognize",
+        "instruction": "What vowel mark (mātrā) is used in the highlighted syllable?",
+        "items": ["गी in गीता (long ī)", "कृ in कृष्ण (vowel ṛ)", "पा in पाण्डव (long ā)", "कु in कुरु (short u)", "दे in देव (e)"]
+      }
+    ],
+    "recap": "You learned the mātrā system — how vowels attach to consonants as marks rather than standalone letters. The inherent 'a' is built into every consonant. You can now read real Devanagari words from the Gita like गीता, कृष्ण, and अर्जुन.",
+    "next_preview": "Tomorrow tackles conjunct consonants — what happens when two consonants meet without a vowel between them. This is the key to reading words like क्षेत्र (kṣetra) and ज्ञान (jñāna)."
+  },
+  {
+    "id": "day-5",
+    "day": 5,
+    "week": 1,
+    "title": "Conjunct Consonants",
+    "subtitle": "When consonants combine — cracking the code of Sanskrit's complex clusters",
+    "objective": "By the end of today, you will be able to recognize common conjunct consonants in the Gita, understand how the virāma works, and decode cluster combinations like क्ष, ज्ञ, and त्र.",
+    "concepts": [
+      {
+        "heading": "The Virāma (हलन्त) — Killing the Inherent Vowel",
+        "explanation": "Remember, every consonant has a built-in 'a'. The virāma (a small diagonal stroke below: ्) removes it. So क = ka, but क् = just k. When two consonants lose the vowel between them, they merge into a conjunct.",
+        "examples": [
+          { "devanagari": "क्", "iast": "k", "meaning": "k with no vowel — the virāma (्) kills the inherent 'a'" },
+          { "devanagari": "त्", "iast": "t", "meaning": "bare 't' — often seen at the end of words like भगवत् (bhagavat)" }
+        ]
+      },
+      {
+        "heading": "How Conjuncts Form",
+        "explanation": "When consonant + virāma + consonant occur, they typically fuse into one combined shape. Some are intuitive (the first letter loses its vertical stroke), others are unique ligatures you just have to learn. The good news: about 10 conjuncts cover most of what you see in the Gita.",
+        "examples": [
+          { "devanagari": "त्र", "iast": "tra", "meaning": "t + r — as in मन्त्र (mantra, sacred formula)" },
+          { "devanagari": "स्त", "iast": "sta", "meaning": "s + t — as in नमस्ते (namaste)" },
+          { "devanagari": "द्व", "iast": "dva", "meaning": "d + v — as in द्वन्द्व (dvandva, pair of opposites)" },
+          { "devanagari": "न्द", "iast": "nda", "meaning": "n + d — as in आनन्द (ānanda, bliss)" }
+        ]
+      },
+      {
+        "heading": "Essential Gita Conjuncts",
+        "explanation": "These special ligatures appear constantly in the Gita. Memorize these — they are unique shapes that don't look like their component letters.",
+        "examples": [
+          { "devanagari": "क्ष", "iast": "kṣa", "meaning": "k + ṣ — as in क्षेत्र (kṣetra, field) in BG 13.1" },
+          { "devanagari": "ज्ञ", "iast": "jña", "meaning": "j + ñ — as in ज्ञान (jñāna, knowledge) — one of the Gita's most important words" },
+          { "devanagari": "श्र", "iast": "śra", "meaning": "ś + r — as in श्रद्धा (śraddhā, faith)" },
+          { "devanagari": "द्ध", "iast": "ddha", "meaning": "d + dh — as in बुद्धि (buddhi, intellect)" },
+          { "devanagari": "त्त", "iast": "tta", "meaning": "t + t — as in तत्त्व (tattva, truth/principle)" },
+          { "devanagari": "त्य", "iast": "tya", "meaning": "t + y — as in सत्य (satya, truth)" }
+        ]
+      },
+      {
+        "heading": "The Special Behavior of 'r' (र)",
+        "explanation": "The letter र (ra) behaves uniquely in conjuncts. When र comes BEFORE another consonant, it appears as a hook above (called repha): र्क = rka. When र comes AFTER another consonant, it appears as a small diagonal below: प्र = pra, क्र = kra.",
+        "examples": [
+          { "devanagari": "कर्म", "iast": "karma", "meaning": "r before m — the hook (repha) sits above म" },
+          { "devanagari": "प्र", "iast": "pra", "meaning": "r after p — the small stroke below प" },
+          { "devanagari": "ब्रह्म", "iast": "brahma", "meaning": "r after b, then h + m conjunct — 'the Absolute'" },
+          { "devanagari": "धर्म", "iast": "dharma", "meaning": "r before m — repha over म — 'righteousness'" }
+        ]
+      }
+    ],
+    "gita_connection": "BG 13.1 begins: 'idaṃ śarīraṃ kaunteya kṣetram ity abhidhīyate' — 'This body, O son of Kuntī, is called the field (kṣetra).' The word क्षेत्र contains the conjunct क्ष that you just learned. And ज्ञान (jñāna, knowledge) appears over 60 times in the Gita — it's one of the text's central concepts.",
+    "practice": [
+      {
+        "type": "recognize",
+        "instruction": "Break these conjuncts into their component consonants.",
+        "items": ["क्ष = क् + ष", "ज्ञ = ज् + ञ", "त्र = त् + र", "श्र = श् + र", "द्ध = द् + ध", "स्त = स् + त"]
+      },
+      {
+        "type": "transliterate",
+        "instruction": "Read these Gita words aloud, paying attention to the conjuncts.",
+        "items": ["ज्ञान → jñāna (knowledge)", "क्षेत्र → kṣetra (field)", "श्रद्धा → śraddhā (faith)", "बुद्धि → buddhi (intellect)", "तत्त्व → tattva (truth)", "मन्त्र → mantra (sacred formula)"]
+      },
+      {
+        "type": "recognize",
+        "instruction": "Is the र (ra) a repha (above) or a subscript (below) in these words?",
+        "items": ["कर्म — repha (r before m)", "प्रकृति — subscript (r after p)", "धर्म — repha (r before m)", "ब्रह्म — subscript (r after b)"]
+      }
+    ],
+    "recap": "Conjunct consonants form when two consonants meet without a vowel between them. The virāma removes the inherent 'a'. Some conjuncts like क्ष and ज्ञ are unique shapes you must memorize. The letter र has special repha (above) and subscript (below) forms.",
+    "next_preview": "Tomorrow is reading day! You'll put everything together to read complete words from the Gita — धर्म, कर्म, योग, आत्मा, ब्रह्म — and learn how IAST transliteration maps to Devanagari."
+  },
+  {
+    "id": "day-6",
+    "day": 6,
+    "week": 1,
+    "title": "Reading Real Sanskrit",
+    "subtitle": "Putting it all together — reading actual Gita words with confidence",
+    "objective": "By the end of today, you will be able to read 20+ key Sanskrit words from the Gita in Devanagari, transliterate them to IAST, and understand the systematic correspondence between script and sound.",
+    "concepts": [
+      {
+        "heading": "The IAST System — Your Transliteration Key",
+        "explanation": "The International Alphabet of Sanskrit Transliteration (IAST) is the standard Roman-letter system for Sanskrit. Every diacritical mark tells you something specific: macron (ā, ī, ū) = long vowel, dot below (ṭ, ḍ, ṇ, ṣ) = retroflex, accent (ś) = palatal sibilant, tilde-like (ñ) = palatal nasal.",
+        "examples": [
+          { "devanagari": "ā ī ū", "iast": "ā ī ū", "meaning": "Macron = long vowel (hold for 2 beats)" },
+          { "devanagari": "ṭ ḍ ṇ ṣ", "iast": "ṭ ḍ ṇ ṣ", "meaning": "Dot below = retroflex (curl tongue back)" },
+          { "devanagari": "ṃ ḥ", "iast": "ṃ ḥ", "meaning": "ṃ = anusvara (nasal), ḥ = visarga (breath)" }
+        ]
+      },
+      {
+        "heading": "Core Gita Vocabulary — Philosophical Terms",
+        "explanation": "These words are the backbone of the Gita's message. Read each one in Devanagari, check against the IAST, and note the meaning.",
+        "examples": [
+          { "devanagari": "धर्म", "iast": "dharma", "meaning": "righteousness, duty, cosmic order" },
+          { "devanagari": "कर्म", "iast": "karma", "meaning": "action, deed, and its consequences" },
+          { "devanagari": "योग", "iast": "yoga", "meaning": "union, discipline, spiritual path" },
+          { "devanagari": "आत्मा", "iast": "ātmā", "meaning": "the Self, the soul" },
+          { "devanagari": "ब्रह्म", "iast": "brahma", "meaning": "the Absolute, ultimate reality" },
+          { "devanagari": "ज्ञान", "iast": "jñāna", "meaning": "knowledge, wisdom" },
+          { "devanagari": "भक्ति", "iast": "bhakti", "meaning": "devotion, loving worship" },
+          { "devanagari": "मोक्ष", "iast": "mokṣa", "meaning": "liberation, freedom from rebirth" }
+        ]
+      },
+      {
+        "heading": "Core Gita Vocabulary — Characters and Concepts",
+        "explanation": "The people and ideas you'll encounter again and again in the Gita.",
+        "examples": [
+          { "devanagari": "कृष्ण", "iast": "Kṛṣṇa", "meaning": "the divine teacher, avatar of Viṣṇu" },
+          { "devanagari": "अर्जुन", "iast": "Arjuna", "meaning": "the warrior-hero, Krishna's student" },
+          { "devanagari": "गुण", "iast": "guṇa", "meaning": "quality — sattva, rajas, tamas (BG ch.14)" },
+          { "devanagari": "बुद्धि", "iast": "buddhi", "meaning": "intellect, discernment" },
+          { "devanagari": "मनस्", "iast": "manas", "meaning": "mind" },
+          { "devanagari": "प्रकृति", "iast": "prakṛti", "meaning": "nature, material world" },
+          { "devanagari": "पुरुष", "iast": "puruṣa", "meaning": "consciousness, spirit, person" },
+          { "devanagari": "संसार", "iast": "saṃsāra", "meaning": "cycle of birth and death" }
+        ]
+      },
+      {
+        "heading": "Reading Strategy",
+        "explanation": "When you encounter a Devanagari word: (1) identify each consonant, (2) check for mātrā marks that change the vowel, (3) watch for conjuncts and the virāma, (4) look for anusvara/visarga, (5) sound it out left to right. Sanskrit is perfectly phonetic — if you can identify the parts, you can read it.",
+        "examples": [
+          { "devanagari": "भगवद्गीता", "iast": "Bhagavadgītā", "meaning": "भ-ग-व-द्-गी-ता: The Song of the Lord — try sounding it out!" },
+          { "devanagari": "कुरुक्षेत्र", "iast": "Kurukṣetra", "meaning": "कु-रु-क्षे-त्र: The field of the Kurus — the battlefield" },
+          { "devanagari": "महाभारत", "iast": "Mahābhārata", "meaning": "म-हा-भा-र-त: The great epic containing the Gita" }
+        ]
+      }
+    ],
+    "gita_connection": "Every word you just read comes directly from the Gita. धर्म appears in the very first verse: 'dharmakṣetre kurukṣetre' (BG 1.1) — 'On the field of dharma, on the field of the Kurus.' You can now read the two most important words in the Gita's opening line in their original script.",
+    "practice": [
+      {
+        "type": "transliterate",
+        "instruction": "Read each Devanagari word and write its IAST transliteration without looking at the answers.",
+        "items": ["धर्म → ?", "योग → ?", "ज्ञान → ?", "आत्मा → ?", "भक्ति → ?", "मोक्ष → ?", "कृष्ण → ?", "गुण → ?"]
+      },
+      {
+        "type": "recognize",
+        "instruction": "Match the IAST to the correct Devanagari from memory.",
+        "items": ["karma → कर्म", "brahma → ब्रह्म", "buddhi → बुद्धि", "saṃsāra → संसार", "prakṛti → प्रकृति"]
+      },
+      {
+        "type": "transliterate",
+        "instruction": "Read these compound words from the Gita. Break them into syllables first, then transliterate.",
+        "items": ["भगवद्गीता → Bhagavadgītā", "कुरुक्षेत्र → Kurukṣetra", "महाभारत → Mahābhārata"]
+      }
+    ],
+    "recap": "You can now read real Sanskrit words from the Gita in Devanagari. You know 20+ key terms and can transliterate them to IAST. The reading strategy — identify consonants, check mātrā, watch for conjuncts, sound it out — works for any Sanskrit word.",
+    "next_preview": "Tomorrow is the Week 1 grand finale — you'll read your first complete Gita verse: BG 2.47, the famous 'karmaṇy evādhikāras te.' Every. Single. Syllable."
+  },
+  {
+    "id": "day-7",
+    "day": 7,
+    "week": 1,
+    "title": "Your First Complete Verse",
+    "subtitle": "Reading BG 2.47 — the most quoted verse in the Gita — syllable by syllable",
+    "objective": "By the end of today, you will be able to sound out every syllable of Bhagavad Gita 2.47 in Devanagari, the most famous verse about selfless action.",
+    "concepts": [
+      {
+        "heading": "The Verse: BG 2.47",
+        "explanation": "This is arguably the most quoted verse of the Gita. Krishna tells Arjuna the secret of action: you have a right to act, but never to the fruits of action. Let's read it in the original Sanskrit.",
+        "examples": [
+          { "devanagari": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन", "iast": "karmaṇy evādhikāras te mā phaleṣu kadācana", "meaning": "Your right is to action alone, never to its fruits at any time" },
+          { "devanagari": "मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि", "iast": "mā karmaphalaheturbhūr mā te saṅgo'stvakarmaṇi", "meaning": "Let not the fruit of action be your motive, nor let your attachment be to inaction" }
+        ]
+      },
+      {
+        "heading": "Line 1 Breakdown: कर्मण्येवाधिकारस्ते",
+        "explanation": "Let's decode this word by word. In Sanskrit, words often merge together (sandhi) — we'll learn about that next week. For now, let's just identify the syllables.",
+        "examples": [
+          { "devanagari": "कर्मणि", "iast": "karmaṇi", "meaning": "in action — क-र्-म-णि (ka-r-ma-ṇi)" },
+          { "devanagari": "एव", "iast": "eva", "meaning": "alone, only — ए-व (e-va)" },
+          { "devanagari": "अधिकारः", "iast": "adhikāraḥ", "meaning": "right, authority — अ-धि-का-रः (a-dhi-kā-raḥ)" },
+          { "devanagari": "ते", "iast": "te", "meaning": "your — ते (te)" }
+        ]
+      },
+      {
+        "heading": "Line 1 continued: मा फलेषु कदाचन",
+        "explanation": "The second half of line 1.",
+        "examples": [
+          { "devanagari": "मा", "iast": "mā", "meaning": "never, do not — मा (mā)" },
+          { "devanagari": "फलेषु", "iast": "phaleṣu", "meaning": "in the fruits — फ-ले-षु (pha-le-ṣu)" },
+          { "devanagari": "कदाचन", "iast": "kadācana", "meaning": "at any time — क-दा-च-न (ka-dā-ca-na)" }
+        ]
+      },
+      {
+        "heading": "Line 2 Breakdown: मा कर्मफलहेतुर्भूः",
+        "explanation": "The first half of line 2.",
+        "examples": [
+          { "devanagari": "कर्मफल", "iast": "karmaphala", "meaning": "fruit of action — a compound word: karma + phala" },
+          { "devanagari": "हेतुः", "iast": "hetuḥ", "meaning": "cause, motive — हे-तुः (he-tuḥ)" },
+          { "devanagari": "भूः", "iast": "bhūḥ", "meaning": "be, become — भूः (bhūḥ)" }
+        ]
+      },
+      {
+        "heading": "Line 2 continued: मा ते सङ्गोऽस्त्वकर्मणि",
+        "explanation": "The final quarter of the verse.",
+        "examples": [
+          { "devanagari": "सङ्गः", "iast": "saṅgaḥ", "meaning": "attachment — स-ङ्-गः (sa-ṅ-gaḥ)" },
+          { "devanagari": "अस्तु", "iast": "astu", "meaning": "let it be — अ-स्तु (a-stu)" },
+          { "devanagari": "अकर्मणि", "iast": "akarmaṇi", "meaning": "in inaction — अ-क-र्-म-णि (a-ka-r-ma-ṇi)" }
+        ]
+      }
+    ],
+    "gita_connection": "BG 2.47 is the heart of Karma Yoga — the yoga of selfless action. Krishna teaches Arjuna (and us) that we should act without attachment to results. This verse has inspired leaders from Mahatma Gandhi to modern mindfulness practitioners. You just read it in the original Sanskrit!",
+    "practice": [
+      {
+        "type": "read-verse",
+        "instruction": "Read the first line of BG 2.47 aloud, syllable by syllable. Point to each syllable as you read. Don't worry about speed — accuracy matters.",
+        "items": ["कर्मण्येवाधिकारस्ते → kar-ma-ṇy-e-vā-dhi-kā-ras-te", "मा फलेषु कदाचन → mā pha-le-ṣu ka-dā-ca-na"]
+      },
+      {
+        "type": "read-verse",
+        "instruction": "Now read the second line of BG 2.47 aloud.",
+        "items": ["मा कर्मफलहेतुर्भूः → mā kar-ma-pha-la-he-tur-bhūḥ", "मा ते सङ्गोऽस्त्वकर्मणि → mā te saṅ-go-stv-a-kar-ma-ṇi"]
+      },
+      {
+        "type": "translate",
+        "instruction": "Match each word to its meaning from memory.",
+        "items": ["कर्मणि = in action", "अधिकारः = right/authority", "फलेषु = in the fruits", "हेतुः = cause/motive", "सङ्गः = attachment", "अकर्मणि = in inaction"]
+      }
+    ],
+    "recap": "Congratulations — you just read the most famous verse of the Bhagavad Gita in its original Sanskrit! You identified every syllable of BG 2.47 using the Devanagari skills from this week: vowels, consonants, mātrā marks, conjuncts, anusvara, and visarga. Week 1 is complete.",
+    "next_preview": "Week 2 shifts from script to grammar. Day 8 tackles sandhi — the system of sound merging that makes Sanskrit words flow together. It's why 'karmaṇi eva' becomes 'karmaṇyeva' — and once you understand it, Sanskrit stops looking intimidating."
+  },
+  {
+    "id": "day-8",
+    "day": 8,
+    "week": 2,
+    "title": "Sandhi — The Art of Sound Merging",
+    "subtitle": "Why Sanskrit words flow together — and how to pull them apart",
+    "objective": "By the end of today, you will be able to recognize and reverse the most common sandhi rules in the Gita, understanding how separate words merge at their boundaries.",
+    "concepts": [
+      {
+        "heading": "What Is Sandhi?",
+        "explanation": "Sandhi (संधि) literally means 'joining.' When Sanskrit words are placed next to each other, the sounds at word boundaries change according to precise rules. This is why Sanskrit can look like one long unbroken chain of letters. But once you know the rules, you can split the chain back into individual words. Think of it as the opposite of spelling — instead of memorizing exceptions, you learn predictable patterns.",
+        "examples": [
+          { "devanagari": "कर्मणि + एव → कर्मण्येव", "iast": "karmaṇi + eva → karmaṇyeva", "meaning": "i + e → ye — the short i becomes y before a vowel" },
+          { "devanagari": "च + अपि → चापि", "iast": "ca + api → cāpi", "meaning": "a + a → ā — two short a's merge into one long ā" }
+        ]
+      },
+      {
+        "heading": "Vowel Sandhi (अच्-संधि) — The Big Three Rules",
+        "explanation": "When two vowels meet at a word boundary, they combine. These three rules cover most cases in the Gita.",
+        "examples": [
+          { "devanagari": "अ + अ → आ", "iast": "a + a → ā", "meaning": "Similar simple vowels merge: 'na + api → nāpi' (not even)" },
+          { "devanagari": "अ + इ → ए", "iast": "a + i → e", "meaning": "a + i/ī merge into e: 'na + iti → neti' (not so)" },
+          { "devanagari": "अ + उ → ओ", "iast": "a + u → o", "meaning": "a + u/ū merge into o: 'sa + uktam → soktam' (thus said)" }
+        ]
+      },
+      {
+        "heading": "Vowel Sandhi — Semivowel Changes",
+        "explanation": "When i, u, or ṛ appear before a different vowel, they convert to their semivowel form.",
+        "examples": [
+          { "devanagari": "इ + अ → य", "iast": "i + a → ya", "meaning": "i/ī before a different vowel → y: 'iti + uvāca → ityuvāca'" },
+          { "devanagari": "उ + अ → व", "iast": "u + a → va", "meaning": "u/ū before a different vowel → v: 'madhu + ari → madhvari'" }
+        ]
+      },
+      {
+        "heading": "Visarga Sandhi",
+        "explanation": "The visarga (ḥ) at the end of a word changes based on what follows. This is extremely common — almost every verse in the Gita has visarga sandhi.",
+        "examples": [
+          { "devanagari": "रामः + च → रामश्च", "iast": "rāmaḥ + ca → rāmaśca", "meaning": "ḥ before c/ch → ś: visarga becomes palatal sibilant" },
+          { "devanagari": "देवः + तत्र → देवस्तत्र", "iast": "devaḥ + tatra → devastatra", "meaning": "ḥ before t/th → s: visarga becomes dental sibilant" },
+          { "devanagari": "रामः + अपि → रामोऽपि", "iast": "rāmaḥ + api → rāmo'pi", "meaning": "aḥ before a vowel → o (with avagraha ऽ showing the dropped a)" }
+        ]
+      },
+      {
+        "heading": "The Avagraha (ऽ) — The Missing Letter Mark",
+        "explanation": "When an initial 'a' is dropped in sandhi, the avagraha sign (ऽ) marks where it was. It's like an apostrophe showing something was removed.",
+        "examples": [
+          { "devanagari": "सोऽयम्", "iast": "so'yam", "meaning": "saḥ + ayam → so'yam — 'this (person)'" },
+          { "devanagari": "कोऽर्जुनः", "iast": "ko'rjunaḥ", "meaning": "kaḥ + arjunaḥ — 'who is Arjuna?'" }
+        ]
+      }
+    ],
+    "gita_connection": "Look again at BG 2.47: 'karmaṇyevādhikāraste.' This is actually four separate words merged by sandhi: karmaṇi + eva + adhikāraḥ + te. The i+e → ye rule and aḥ+te → aste rule are both at work. Sandhi is why the Gita looks like continuous text — but now you can reverse-engineer it.",
+    "practice": [
+      {
+        "type": "translate",
+        "instruction": "Split these sandhi forms back into their original separate words.",
+        "items": [
+          "कर्मण्येव → कर्मणि + एव (karmaṇi + eva)",
+          "नैव → न + एव (na + eva)",
+          "चापि → च + अपि (ca + api)",
+          "सोऽपि → सः + अपि (saḥ + api)",
+          "देवस्तत्र → देवः + तत्र (devaḥ + tatra)"
+        ]
+      },
+      {
+        "type": "recognize",
+        "instruction": "Identify the type of sandhi in each example: vowel sandhi or visarga sandhi?",
+        "items": [
+          "ित्युवाच — vowel sandhi (i + u → yu)",
+          "रामश्च — visarga sandhi (ḥ + c → śc)",
+          "नैतत् — vowel sandhi (na + etat: a + e → ai)",
+          "तस्मादपि — vowel sandhi (tasmāt + api: t + a, but note consonant change too)"
+        ]
+      }
+    ],
+    "recap": "Sandhi is Sanskrit's system of sound-merging at word boundaries. The three main vowel sandhi rules (a+a→ā, a+i→e, a+u→o) plus semivowel changes and visarga sandhi cover most of what you'll encounter in the Gita. The avagraha (ऽ) marks a dropped initial 'a'.",
+    "next_preview": "Tomorrow you'll learn the 8 cases of Sanskrit nouns — the reason Sanskrit doesn't need fixed word order. This is the key to understanding WHO does WHAT to WHOM in any Gita verse."
+  },
+  {
+    "id": "day-9",
+    "day": 9,
+    "week": 2,
+    "title": "Nouns and the Eight Cases",
+    "subtitle": "How Sanskrit marks WHO does WHAT to WHOM — without needing word order",
+    "objective": "By the end of today, you will be able to recognize the 8 Sanskrit cases (vibhakti) and identify the most common case endings in Gita verses, understanding how word order is freed by case markers.",
+    "concepts": [
+      {
+        "heading": "Why Cases Matter",
+        "explanation": "In English, word order tells you who did what: 'Arjuna sees Krishna' vs 'Krishna sees Arjuna.' In Sanskrit, word endings do this job instead. The ending on a noun tells you its role in the sentence. This means words can appear in any order for poetic or emphatic effect — and the Gita uses this freedom constantly.",
+        "examples": [
+          { "devanagari": "अर्जुनः कृष्णं पश्यति", "iast": "arjunaḥ kṛṣṇaṃ paśyati", "meaning": "Arjuna sees Krishna — ḥ marks the doer, ṃ marks the object" },
+          { "devanagari": "कृष्णं पश्यति अर्जुनः", "iast": "kṛṣṇaṃ paśyati arjunaḥ", "meaning": "Same meaning! Word order changed, but case endings preserve the meaning" }
+        ]
+      },
+      {
+        "heading": "The 8 Cases (विभक्ति)",
+        "explanation": "Sanskrit has 8 cases. You don't need to master all of them — focus on the first three, which cover most of what you'll see in the Gita.",
+        "examples": [
+          { "devanagari": "प्रथमा (1st)", "iast": "Nominative — the doer/subject", "meaning": "रामः गच्छति — Rāma goes (Rāma is the doer)" },
+          { "devanagari": "द्वितीया (2nd)", "iast": "Accusative — the object", "meaning": "रामं पश्यति — sees Rāma (Rāma is the object)" },
+          { "devanagari": "तृतीया (3rd)", "iast": "Instrumental — by/with", "meaning": "रामेण सह — with/by Rāma" },
+          { "devanagari": "चतुर्थी (4th)", "iast": "Dative — for/to", "meaning": "रामाय — for Rāma" },
+          { "devanagari": "पञ्चमी (5th)", "iast": "Ablative — from", "meaning": "रामात् — from Rāma" },
+          { "devanagari": "षष्ठी (6th)", "iast": "Genitive — of/possessive", "meaning": "रामस्य — of Rāma / Rāma's" },
+          { "devanagari": "सप्तमी (7th)", "iast": "Locative — in/on/at", "meaning": "रामे — in Rāma" },
+          { "devanagari": "सम्बोधन (8th)", "iast": "Vocative — O! (direct address)", "meaning": "हे राम! — O Rāma!" }
+        ]
+      },
+      {
+        "heading": "Common Masculine Endings (-a stems)",
+        "explanation": "Most masculine nouns in the Gita end in -a. Here are the singular case endings — these alone will unlock a huge portion of the text.",
+        "examples": [
+          { "devanagari": "रामः", "iast": "-aḥ (nominative sg.)", "meaning": "the doer: arjunaḥ = Arjuna (as subject)" },
+          { "devanagari": "रामम्", "iast": "-am (accusative sg.)", "meaning": "the object: dharmam = dharma (as object)" },
+          { "devanagari": "रामेण", "iast": "-ena (instrumental sg.)", "meaning": "by/with: yogena = by yoga" },
+          { "devanagari": "रामस्य", "iast": "-asya (genitive sg.)", "meaning": "of: dharmasya = of dharma" },
+          { "devanagari": "रामे", "iast": "-e (locative sg.)", "meaning": "in: kṣetre = in the field" }
+        ]
+      },
+      {
+        "heading": "Gita Cases in Action",
+        "explanation": "Let's see how cases work in actual Gita verses.",
+        "examples": [
+          { "devanagari": "धर्मक्षेत्रे कुरुक्षेत्रे", "iast": "dharmakṣetre kurukṣetre", "meaning": "BG 1.1: 'In the field of dharma, in the field of the Kurus' — both locative (-e = in)" },
+          { "devanagari": "अर्जुन उवाच", "iast": "arjuna uvāca", "meaning": "'Arjuna said' — nominative (doer)" },
+          { "devanagari": "योगेन", "iast": "yogena", "meaning": "'by yoga' — instrumental (by means of)" }
+        ]
+      }
+    ],
+    "gita_connection": "The very first words of the Gita are 'dharmakṣetre kurukṣetre' (BG 1.1) — both words in the locative case (-e ending = 'in'). The king asks: 'In the field of dharma, in the field of the Kurus, what did they do?' The -e ending instantly tells you WHERE the action takes place.",
+    "practice": [
+      {
+        "type": "recognize",
+        "instruction": "Identify the case of each word based on its ending.",
+        "items": [
+          "अर्जुनः → nominative (doer) — ending -aḥ",
+          "धर्मम् → accusative (object) — ending -am",
+          "योगेन → instrumental (by) — ending -ena",
+          "क्षेत्रे → locative (in) — ending -e",
+          "कृष्णस्य → genitive (of) — ending -asya"
+        ]
+      },
+      {
+        "type": "translate",
+        "instruction": "Translate these simple phrases using case knowledge.",
+        "items": [
+          "अर्जुनः पश्यति → Arjuna sees (arjunaḥ = doer)",
+          "कृष्णम् अर्जुनः पश्यति → Arjuna sees Krishna (kṛṣṇam = object)",
+          "योगेन मुक्तिः → Liberation by yoga (yogena = by means of)",
+          "धर्मस्य रक्षणम् → Protection of dharma (dharmasya = of)"
+        ]
+      }
+    ],
+    "recap": "Sanskrit uses 8 cases to mark the role of every noun — subject, object, instrument, and more. This frees word order for poetic expression. The key endings for masculine -a stems are: -aḥ (doer), -am (object), -ena (by), -asya (of), -e (in). These five endings unlock a huge portion of the Gita.",
+    "next_preview": "Tomorrow you'll learn Sanskrit verbs — the action words. With just five key verb roots and their present tense forms, you'll be able to identify what's happening in most Gita verses."
+  },
+  {
+    "id": "day-10",
+    "day": 10,
+    "week": 2,
+    "title": "Verbs — The Action Words",
+    "subtitle": "Present tense basics and the key verbs of the Gita",
+    "objective": "By the end of today, you will be able to recognize present tense verb endings for third-person forms, and identify 10 key verb roots that appear throughout the Gita.",
+    "concepts": [
+      {
+        "heading": "Sanskrit Verb Basics",
+        "explanation": "Sanskrit verbs encode person (who), number (how many), and tense/mood (when/how). The verb root (dhātu) is like a seed — endings grow from it. The good news: for reading the Gita, you mainly need to recognize third-person forms ('he/she/it does' and 'they do') since most verses describe actions of Krishna, Arjuna, or the Self.",
+        "examples": [
+          { "devanagari": "√कृ", "iast": "√kṛ", "meaning": "to do, to make — the most important Gita verb (karma comes from this root!)" },
+          { "devanagari": "करोति / कुर्वन्ति", "iast": "karoti / kurvanti", "meaning": "he does / they do" }
+        ]
+      },
+      {
+        "heading": "Present Tense Endings (लट्-लकार)",
+        "explanation": "The present tense endings for the most common verb class. Focus on third person — that's what you'll see most in the Gita.",
+        "examples": [
+          { "devanagari": "-ति", "iast": "-ti", "meaning": "3rd person singular: 'he/she/it does' — गच्छति (gacchati, he goes)" },
+          { "devanagari": "-तः", "iast": "-taḥ", "meaning": "3rd person dual: 'those two do' — गच्छतः (gacchataḥ)" },
+          { "devanagari": "-न्ति", "iast": "-nti", "meaning": "3rd person plural: 'they do' — गच्छन्ति (gacchanti, they go)" },
+          { "devanagari": "-सि", "iast": "-si", "meaning": "2nd person singular: 'you do' — गच्छसि (gacchasi, you go)" },
+          { "devanagari": "-मि", "iast": "-mi", "meaning": "1st person singular: 'I do' — गच्छामि (gacchāmi, I go)" }
+        ]
+      },
+      {
+        "heading": "10 Essential Gita Verb Roots",
+        "explanation": "These verb roots appear again and again in the Gita. Knowing them unlocks the action in most verses.",
+        "examples": [
+          { "devanagari": "√कृ → करोति", "iast": "√kṛ → karoti", "meaning": "to do, to make — 'karma' comes from this root" },
+          { "devanagari": "√गम् → गच्छति", "iast": "√gam → gacchati", "meaning": "to go — 'he goes'" },
+          { "devanagari": "√विद् → वेत्ति", "iast": "√vid → vetti", "meaning": "to know — 'Veda' comes from this root" },
+          { "devanagari": "√भू → भवति", "iast": "√bhū → bhavati", "meaning": "to be, to become — 'bhava' (existence)" },
+          { "devanagari": "√वद् → वदति", "iast": "√vad → vadati", "meaning": "to speak, to say" },
+          { "devanagari": "√दृश् → पश्यति", "iast": "√dṛś → paśyati", "meaning": "to see — Arjuna 'sees' the armies (BG 1.26)" },
+          { "devanagari": "√मन् → मन्यते", "iast": "√man → manyate", "meaning": "to think — 'manas' (mind) comes from this root" },
+          { "devanagari": "√त्यज् → त्यजति", "iast": "√tyaj → tyajati", "meaning": "to abandon — as in 'tyāga' (renunciation)" },
+          { "devanagari": "√युज् → युनक्ति", "iast": "√yuj → yunakti", "meaning": "to yoke, to unite — 'yoga' comes from this root!" },
+          { "devanagari": "√जन् → जायते", "iast": "√jan → jāyate", "meaning": "to be born — 'janma' (birth)" }
+        ]
+      },
+      {
+        "heading": "Recognizing Verbs in the Gita",
+        "explanation": "In Gita verses, the verb is often the last word. Look for the -ti, -nti, or -te endings.",
+        "examples": [
+          { "devanagari": "न जायते म्रियते वा कदाचित्", "iast": "na jāyate mriyate vā kadācit", "meaning": "BG 2.20: 'It is not born, nor does it die' — both -te endings = verbs" },
+          { "devanagari": "पश्य मे योगम्", "iast": "paśya me yogam", "meaning": "BG 11.5: 'See my yoga!' — paśya is an imperative (command form)" },
+          { "devanagari": "श्रीभगवानुवाच", "iast": "śrībhagavān uvāca", "meaning": "'The Blessed Lord said' — uvāca is past tense of √vac (speak)" }
+        ]
+      }
+    ],
+    "gita_connection": "In BG 2.20, Krishna describes the eternal Self: 'na jāyate mriyate vā kadācit' — 'It is not born, nor does it ever die.' Both jāyate (is born, from √jan) and mriyate (dies, from √mṛ) end in -te, marking them as verbs. Spotting verb endings is your fastest path to understanding a verse's action.",
+    "practice": [
+      {
+        "type": "recognize",
+        "instruction": "Identify the verb in each phrase by looking for -ti, -nti, -te, or -si endings.",
+        "items": [
+          "अर्जुनः पश्यति → पश्यति (paśyati — he sees)",
+          "न जायते → जायते (jāyate — is born)",
+          "ये यजन्ति → यजन्ति (yajanti — they worship)",
+          "त्वं वेत्सि → वेत्सि (vetsi — you know)",
+          "अहं वदामि → वदामि (vadāmi — I speak)"
+        ]
+      },
+      {
+        "type": "translate",
+        "instruction": "Match each verb form to its root and meaning.",
+        "items": [
+          "करोति → √kṛ — he does",
+          "गच्छति → √gam — he goes",
+          "भवति → √bhū — he becomes",
+          "पश्यति → √dṛś — he sees",
+          "जायते → √jan — is born",
+          "वदति → √vad — he speaks"
+        ]
+      }
+    ],
+    "recap": "Sanskrit verbs encode person and number through endings. The key endings are: -ti (he/she), -nti (they), -te (middle voice he/she), -si (you), -mi (I). Ten essential verb roots — √kṛ, √gam, √vid, √bhū, √vad, √dṛś, √man, √tyaj, √yuj, √jan — cover most of the action in the Gita.",
+    "next_preview": "Tomorrow is vocabulary power day — you'll learn the 50 most frequent words in the Gita. With the script, sandhi, cases, and verbs you already know, adding vocabulary will let you understand significant portions of actual verses."
+  },
+  {
+    "id": "day-11",
+    "day": 11,
+    "week": 2,
+    "title": "The Gita's Essential Vocabulary",
+    "subtitle": "50 words that unlock the meaning of the Bhagavad Gita",
+    "objective": "By the end of today, you will know the 50 most important and frequently occurring words in the Gita, organized by category, giving you the vocabulary to follow the text's core arguments.",
+    "concepts": [
+      {
+        "heading": "The Self, God, and Reality",
+        "explanation": "These are the Gita's 'big picture' words — the concepts that define its philosophical vision.",
+        "examples": [
+          { "devanagari": "आत्मन्", "iast": "ātman", "meaning": "the Self, the soul — the Gita's most central concept" },
+          { "devanagari": "ब्रह्मन्", "iast": "brahman", "meaning": "the Absolute, ultimate reality" },
+          { "devanagari": "ईश्वर", "iast": "īśvara", "meaning": "the Lord, God, the supreme controller" },
+          { "devanagari": "भगवान्", "iast": "bhagavān", "meaning": "the Blessed Lord — how Krishna is addressed" },
+          { "devanagari": "पुरुष", "iast": "puruṣa", "meaning": "spirit, consciousness, person" },
+          { "devanagari": "प्रकृति", "iast": "prakṛti", "meaning": "nature, material world, primal matter" },
+          { "devanagari": "माया", "iast": "māyā", "meaning": "illusion, the power that conceals reality" },
+          { "devanagari": "परम", "iast": "parama", "meaning": "supreme, highest" }
+        ]
+      },
+      {
+        "heading": "The Three Paths",
+        "explanation": "The Gita teaches three main paths to liberation. These words define them.",
+        "examples": [
+          { "devanagari": "योग", "iast": "yoga", "meaning": "union, discipline, spiritual practice" },
+          { "devanagari": "कर्म", "iast": "karma", "meaning": "action, deed — and the path of selfless action" },
+          { "devanagari": "ज्ञान", "iast": "jñāna", "meaning": "knowledge, wisdom — the path of understanding" },
+          { "devanagari": "भक्ति", "iast": "bhakti", "meaning": "devotion — the path of loving surrender" },
+          { "devanagari": "ध्यान", "iast": "dhyāna", "meaning": "meditation, contemplation" },
+          { "devanagari": "त्याग", "iast": "tyāga", "meaning": "renunciation, letting go" },
+          { "devanagari": "संन्यास", "iast": "saṃnyāsa", "meaning": "complete renunciation, monasticism" }
+        ]
+      },
+      {
+        "heading": "Mind, Intellect, and Qualities",
+        "explanation": "The Gita's psychological vocabulary — how the inner world works.",
+        "examples": [
+          { "devanagari": "मनस्", "iast": "manas", "meaning": "mind — the faculty of thinking and feeling" },
+          { "devanagari": "बुद्धि", "iast": "buddhi", "meaning": "intellect, discernment, higher reason" },
+          { "devanagari": "गुण", "iast": "guṇa", "meaning": "quality — the three: sattva, rajas, tamas" },
+          { "devanagari": "सत्त्व", "iast": "sattva", "meaning": "goodness, purity, clarity" },
+          { "devanagari": "रजस्", "iast": "rajas", "meaning": "passion, activity, restlessness" },
+          { "devanagari": "तमस्", "iast": "tamas", "meaning": "darkness, inertia, ignorance" },
+          { "devanagari": "इन्द्रिय", "iast": "indriya", "meaning": "sense organ — the 10 senses" },
+          { "devanagari": "अहंकार", "iast": "ahaṃkāra", "meaning": "ego, the 'I-maker'" }
+        ]
+      },
+      {
+        "heading": "Ethics and Cosmic Order",
+        "explanation": "Words about right action, duty, and the moral framework of the Gita.",
+        "examples": [
+          { "devanagari": "धर्म", "iast": "dharma", "meaning": "duty, righteousness, cosmic law" },
+          { "devanagari": "अधर्म", "iast": "adharma", "meaning": "unrighteousness — the opposite of dharma" },
+          { "devanagari": "सत्य", "iast": "satya", "meaning": "truth" },
+          { "devanagari": "अहिंसा", "iast": "ahiṃsā", "meaning": "non-violence" },
+          { "devanagari": "श्रद्धा", "iast": "śraddhā", "meaning": "faith, trust, conviction" },
+          { "devanagari": "फल", "iast": "phala", "meaning": "fruit, result — as in 'fruit of action'" },
+          { "devanagari": "पाप", "iast": "pāpa", "meaning": "sin, wrongdoing" },
+          { "devanagari": "पुण्य", "iast": "puṇya", "meaning": "merit, virtue" }
+        ]
+      },
+      {
+        "heading": "States and Goals",
+        "explanation": "Where the spiritual journey leads.",
+        "examples": [
+          { "devanagari": "मोक्ष", "iast": "mokṣa", "meaning": "liberation, freedom from the cycle of rebirth" },
+          { "devanagari": "शान्ति", "iast": "śānti", "meaning": "peace — the Gita ends with 'oṃ tat sat śāntiḥ śāntiḥ śāntiḥ'" },
+          { "devanagari": "सुख", "iast": "sukha", "meaning": "happiness, pleasure" },
+          { "devanagari": "दुःख", "iast": "duḥkha", "meaning": "suffering, sorrow" },
+          { "devanagari": "संसार", "iast": "saṃsāra", "meaning": "the cycle of birth and death" },
+          { "devanagari": "मृत्यु", "iast": "mṛtyu", "meaning": "death" },
+          { "devanagari": "जन्म", "iast": "janma", "meaning": "birth" },
+          { "devanagari": "देह", "iast": "deha", "meaning": "body" }
+        ]
+      },
+      {
+        "heading": "Common Structural Words",
+        "explanation": "Small but mighty — these connectors and particles appear on nearly every line.",
+        "examples": [
+          { "devanagari": "च", "iast": "ca", "meaning": "and (placed after the word)" },
+          { "devanagari": "न", "iast": "na", "meaning": "not, no" },
+          { "devanagari": "एव", "iast": "eva", "meaning": "indeed, only, truly — adds emphasis" },
+          { "devanagari": "हि", "iast": "hi", "meaning": "for, because, certainly" },
+          { "devanagari": "तु", "iast": "tu", "meaning": "but, however" },
+          { "devanagari": "वा", "iast": "vā", "meaning": "or" },
+          { "devanagari": "इति", "iast": "iti", "meaning": "thus, so — marks the end of a quote or thought" },
+          { "devanagari": "तत्", "iast": "tat", "meaning": "that — as in 'tat tvam asi' (that you are)" },
+          { "devanagari": "सर्व", "iast": "sarva", "meaning": "all, everything" }
+        ]
+      }
+    ],
+    "gita_connection": "With these 50 words, you can follow the major arguments of the Gita. For example, BG 2.22: 'vāsāṃsi jīrṇāni yathā vihāya' — knowing that vāsāṃsi means 'garments,' jīrṇāni means 'worn out,' and deha means 'body,' you can grasp Krishna's famous metaphor: the soul changes bodies like a person changes clothes.",
+    "practice": [
+      {
+        "type": "translate",
+        "instruction": "Cover the meanings and test yourself. How many can you recall?",
+        "items": [
+          "आत्मन् → Self/soul", "ब्रह्मन् → the Absolute", "कर्म → action", "ज्ञान → knowledge",
+          "भक्ति → devotion", "धर्म → duty/righteousness", "मोक्ष → liberation",
+          "गुण → quality", "बुद्धि → intellect", "मनस् → mind",
+          "सुख → happiness", "दुःख → suffering", "शान्ति → peace"
+        ]
+      },
+      {
+        "type": "recognize",
+        "instruction": "Group these words by category: Path, Quality, or Goal.",
+        "items": [
+          "योग → Path", "सत्त्व → Quality", "मोक्ष → Goal",
+          "भक्ति → Path", "तमस् → Quality", "शान्ति → Goal",
+          "ज्ञान → Path", "रजस् → Quality", "सुख → Goal"
+        ]
+      },
+      {
+        "type": "translate",
+        "instruction": "Translate these common Gita phrases using your new vocabulary.",
+        "items": [
+          "कर्मयोग → karma-yoga (the yoga of action)",
+          "आत्मज्ञान → ātma-jñāna (self-knowledge)",
+          "सर्वधर्म → sarva-dharma (all duties)",
+          "मनःशान्ति → manaḥ-śānti (peace of mind)"
+        ]
+      }
+    ],
+    "recap": "You now know the 50 most essential Gita words across 6 categories: the divine (ātman, brahman, īśvara), the three paths (karma, jñāna, bhakti), the inner world (manas, buddhi, guṇa), ethics (dharma, satya, śraddhā), goals (mokṣa, śānti), and structural particles (ca, na, eva, hi). These words are the Gita's vocabulary backbone.",
+    "next_preview": "Tomorrow you'll learn Sanskrit's compound word system — how small words combine into massive compounds. This is the key to decoding long Sanskrit words that look intimidating but are actually just building blocks stacked together."
+  },
+  {
+    "id": "day-12",
+    "day": 12,
+    "week": 2,
+    "title": "Compound Words — Sanskrit's Building Blocks",
+    "subtitle": "How to decode long Sanskrit words by breaking them into parts",
+    "objective": "By the end of today, you will be able to recognize the 4 main types of Sanskrit compound words (samāsa) and break down long Gita compounds into their meaningful components.",
+    "concepts": [
+      {
+        "heading": "Why Compounds Matter",
+        "explanation": "Sanskrit loves to join words together into compounds — sometimes 3, 4, or even 10 words fused into one. This is why Sanskrit can look intimidating. But every compound follows predictable rules. Once you learn the 4 types, you can reverse-engineer any compound into its parts.",
+        "examples": [
+          { "devanagari": "कर्मफल", "iast": "karmaphala", "meaning": "karma + phala = 'fruit of action' — two simple words joined" },
+          { "devanagari": "महात्मा", "iast": "mahātmā", "meaning": "mahā + ātmā = 'great soul' — Mahatma Gandhi's title!" }
+        ]
+      },
+      {
+        "heading": "Type 1: Tatpuruṣa (Determinative) — 'X of Y'",
+        "explanation": "The most common type. The first word modifies the second, with an implied case relationship (of, for, by, in, from). The last word is the main word. Think of it as 'right-headed' — the meaning lives on the right.",
+        "examples": [
+          { "devanagari": "धर्मक्षेत्र", "iast": "dharmakṣetra", "meaning": "dharma + kṣetra = 'field of dharma' (BG 1.1)" },
+          { "devanagari": "कर्मयोग", "iast": "karmayoga", "meaning": "karma + yoga = 'yoga of action' — a central Gita teaching" },
+          { "devanagari": "आत्मज्ञान", "iast": "ātmajñāna", "meaning": "ātma + jñāna = 'knowledge of the Self'" },
+          { "devanagari": "कर्मफल", "iast": "karmaphala", "meaning": "karma + phala = 'fruit of action'" }
+        ]
+      },
+      {
+        "heading": "Type 2: Dvandva (Copulative) — 'X and Y'",
+        "explanation": "Two or more equal items joined together, meaning 'A and B.' Both words have equal weight.",
+        "examples": [
+          { "devanagari": "सुखदुःख", "iast": "sukhaduḥkha", "meaning": "sukha + duḥkha = 'happiness and suffering'" },
+          { "devanagari": "पापुण्य", "iast": "pāpapuṇya", "meaning": "pāpa + puṇya = 'sin and merit'" },
+          { "devanagari": "नामरूप", "iast": "nāmarūpa", "meaning": "nāma + rūpa = 'name and form'" }
+        ]
+      },
+      {
+        "heading": "Type 3: Karmadhāraya (Descriptive) — 'X that is Y'",
+        "explanation": "An adjective-noun compound where the first word describes the second. Like Tatpuruṣa but with an 'is' relationship instead of 'of.'",
+        "examples": [
+          { "devanagari": "महात्मा", "iast": "mahātmā", "meaning": "mahā + ātmā = 'great soul' (the soul that IS great)" },
+          { "devanagari": "सद्गुरु", "iast": "sadguru", "meaning": "sat + guru = 'true teacher' (teacher who IS true)" },
+          { "devanagari": "परमात्मा", "iast": "paramātmā", "meaning": "parama + ātmā = 'supreme Self' (the Self that IS supreme)" }
+        ]
+      },
+      {
+        "heading": "Type 4: Bahuvrīhi (Possessive) — 'One who has X'",
+        "explanation": "The trickiest type. The compound describes someone who POSSESSES the quality, not the quality itself. The meaning points OUTSIDE the compound to a person or thing.",
+        "examples": [
+          { "devanagari": "महाबाहु", "iast": "mahābāhu", "meaning": "mahā + bāhu = 'one who has mighty arms' — an epithet for Arjuna" },
+          { "devanagari": "चतुर्भुज", "iast": "caturbhuja", "meaning": "catur + bhuja = 'one who has four arms' — an epithet for Viṣṇu" },
+          { "devanagari": "पद्मनाभ", "iast": "padmanābha", "meaning": "padma + nābha = 'one whose navel is a lotus' — an epithet for Viṣṇu" }
+        ]
+      },
+      {
+        "heading": "Breaking Down Compounds — Your Strategy",
+        "explanation": "When you see a long word: (1) Look for words you already know inside it. (2) Try splitting at natural points. (3) Ask: is this 'X of Y' (tatpuruṣa), 'X and Y' (dvandva), 'X that is Y' (karmadhāraya), or 'one who has X' (bahuvrīhi)?",
+        "examples": [
+          { "devanagari": "भगवद्गीता", "iast": "bhagavadgītā", "meaning": "bhagavat + gītā = 'song of the Lord' — tatpuruṣa!" },
+          { "devanagari": "कुरुक्षेत्र", "iast": "kurukṣetra", "meaning": "kuru + kṣetra = 'field of the Kurus' — tatpuruṣa!" },
+          { "devanagari": "जन्ममृत्यु", "iast": "janmamṛtyu", "meaning": "janma + mṛtyu = 'birth and death' — dvandva!" }
+        ]
+      }
+    ],
+    "gita_connection": "The Gita's title itself is a tatpuruṣa compound: भगवद्गीता (bhagavad + gītā) = 'song of the Blessed Lord.' BG 2.48 uses the compound 'yoga-sthaḥ kuru karmāṇi' — 'established in yoga, perform actions.' The compound yogasthaḥ = yoga + stha = 'standing in yoga' — a bahuvrīhi meaning 'one who stands in yoga.'",
+    "practice": [
+      {
+        "type": "translate",
+        "instruction": "Break these compounds into their parts and identify the type.",
+        "items": [
+          "कर्मयोग → karma + yoga = yoga of action (tatpuruṣa)",
+          "सुखदुःख → sukha + duḥkha = pleasure and pain (dvandva)",
+          "महात्मा → mahā + ātmā = great soul (karmadhāraya)",
+          "पद्मनाभ → padma + nābha = lotus-naveled one (bahuvrīhi)",
+          "आत्मज्ञान → ātma + jñāna = knowledge of Self (tatpuruṣa)"
+        ]
+      },
+      {
+        "type": "translate",
+        "instruction": "Build the compound from these parts and give the meaning.",
+        "items": [
+          "dharma + yuddha → dharmayuddha (righteous war)",
+          "sarva + bhūta → sarvabhūta (all beings)",
+          "mahā + rāja → mahārāja (great king)",
+          "jñāna + yoga → jñānayoga (yoga of knowledge)"
+        ]
+      }
+    ],
+    "recap": "Sanskrit compounds join words into larger units. The four types are: Tatpuruṣa ('X of Y' — most common), Dvandva ('X and Y'), Karmadhāraya ('X that is Y'), and Bahuvrīhi ('one who has X'). Breaking compounds apart is your key to decoding long Sanskrit words.",
+    "next_preview": "Tomorrow you'll do a complete word-by-word analysis of BG 2.20, one of the Gita's most beautiful verses about the eternal soul. You'll use every skill you've learned: script, sandhi, cases, verbs, vocabulary, and compounds."
+  },
+  {
+    "id": "day-13",
+    "day": 13,
+    "week": 2,
+    "title": "Full Verse Analysis",
+    "subtitle": "Dissecting BG 2.20 word by word — the eternal soul verse",
+    "objective": "By the end of today, you will be able to perform a complete analysis of a Gita verse — reading the Devanagari, splitting sandhi, identifying cases and verb forms, and arriving at the meaning through your own understanding of the Sanskrit.",
+    "concepts": [
+      {
+        "heading": "The Verse: BG 2.20",
+        "explanation": "This verse describes the ātman (Self) as eternal and unchanging. Krishna uses six verbs to say what the Self does NOT do. It's one of the most philosophically important verses in the Gita.",
+        "examples": [
+          { "devanagari": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः", "iast": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ", "meaning": "It is not born, nor does it ever die; having come to be, it will not come to be again" },
+          { "devanagari": "अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे", "iast": "ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre", "meaning": "Unborn, eternal, everlasting, primeval — it is not slain when the body is slain" }
+        ]
+      },
+      {
+        "heading": "Line 1a: न जायते म्रियते वा कदाचित्",
+        "explanation": "Word-by-word analysis of the first quarter.",
+        "examples": [
+          { "devanagari": "न", "iast": "na", "meaning": "not — the particle of negation" },
+          { "devanagari": "जायते", "iast": "jāyate", "meaning": "is born — from √jan (to be born), present middle voice, 3rd sg." },
+          { "devanagari": "म्रियते", "iast": "mriyate", "meaning": "dies — from √mṛ (to die), present middle voice, 3rd sg." },
+          { "devanagari": "वा", "iast": "vā", "meaning": "or — connecting the two verbs" },
+          { "devanagari": "कदाचित्", "iast": "kadācit", "meaning": "ever, at any time — kada (when) + cit (ever)" }
+        ]
+      },
+      {
+        "heading": "Line 1b: नायं भूत्वा भविता वा न भूयः",
+        "explanation": "Sandhi note: नायं = न + अयम् (na + ayam, 'not this one'). The a+a→ā vowel sandhi rule!",
+        "examples": [
+          { "devanagari": "न + अयम् → नायम्", "iast": "na + ayam → nāyam", "meaning": "not + this one — vowel sandhi: a + a → ā" },
+          { "devanagari": "भूत्वा", "iast": "bhūtvā", "meaning": "having become — absolutive (gerund) of √bhū: 'after becoming'" },
+          { "devanagari": "भविता", "iast": "bhavitā", "meaning": "will become — future participle of √bhū" },
+          { "devanagari": "भूयः", "iast": "bhūyaḥ", "meaning": "again — adverb" }
+        ]
+      },
+      {
+        "heading": "Line 2a: अजो नित्यः शाश्वतोऽयं पुराणः",
+        "explanation": "A string of adjectives describing the ātman. Sandhi note: शाश्वतोऽयं = शाश्वतः + अयम् (aḥ + a → o + avagraha).",
+        "examples": [
+          { "devanagari": "अजः", "iast": "ajaḥ", "meaning": "unborn — a (not) + ja (born). Nominative case: describes the subject" },
+          { "devanagari": "नित्यः", "iast": "nityaḥ", "meaning": "eternal, constant — nominative singular" },
+          { "devanagari": "शाश्वतः", "iast": "śāśvataḥ", "meaning": "everlasting, perpetual — nominative singular" },
+          { "devanagari": "अयम्", "iast": "ayam", "meaning": "this (one) — demonstrative pronoun, nominative" },
+          { "devanagari": "पुराणः", "iast": "purāṇaḥ", "meaning": "ancient, primeval — nominative singular" }
+        ]
+      },
+      {
+        "heading": "Line 2b: न हन्यते हन्यमाने शरीरे",
+        "explanation": "The grand conclusion — even when the body is slain, the Self is not slain.",
+        "examples": [
+          { "devanagari": "न हन्यते", "iast": "na hanyate", "meaning": "is not slain — from √han (to kill), passive voice: 'is killed'" },
+          { "devanagari": "हन्यमाने", "iast": "hanyamāne", "meaning": "when being slain — present passive participle, locative case: 'when X is being killed'" },
+          { "devanagari": "शरीरे", "iast": "śarīre", "meaning": "body — locative case (-e ending): 'in/when the body'" }
+        ]
+      },
+      {
+        "heading": "Grammar Summary",
+        "explanation": "Skills you used to read this verse: Devanagari reading (Week 1), sandhi splitting (na+ayam→nāyam, śāśvataḥ+ayam→śāśvato'yam), case identification (nominative -aḥ for adjectives, locative -e for 'when/in'), verb recognition (-te endings), and vocabulary (na, vā, ca). Everything connects.",
+        "examples": []
+      }
+    ],
+    "gita_connection": "BG 2.20 is one of the Gita's philosophical cornerstones. Krishna is teaching Arjuna that the true Self (ātman) cannot be destroyed. The verse uses 6 forms of 'not' — na jāyate (not born), na mriyate (not dying), na bhavitā (will not become again), ajaḥ (unborn), na hanyate (not slain). This relentless negation is a powerful rhetorical technique: defining the infinite by what it is NOT.",
+    "practice": [
+      {
+        "type": "read-verse",
+        "instruction": "Read the full verse aloud in Devanagari, syllable by syllable. Then read it again more fluidly.",
+        "items": [
+          "न जायते म्रियते वा कदाचित्",
+          "नायं भूत्वा भविता वा न भूयः",
+          "अजो नित्यः शाश्वतोऽयं पुराणो",
+          "न हन्यते हन्यमाने शरीरे"
+        ]
+      },
+      {
+        "type": "translate",
+        "instruction": "Without looking at the analysis above, identify the sandhi in these forms and split them.",
+        "items": [
+          "नायम् → न + अयम् (a + a → ā)",
+          "शाश्वतोऽयम् → शाश्वतः + अयम् (aḥ + a → o with avagraha)",
+          "कदाचित् → कदा + चित् (when + ever)"
+        ]
+      },
+      {
+        "type": "translate",
+        "instruction": "Identify the grammatical form of each word.",
+        "items": [
+          "जायते → verb, present middle, 3rd singular (is born)",
+          "अजः → adjective, nominative singular (unborn)",
+          "शरीरे → noun, locative singular (in/when the body)",
+          "हन्यमाने → participle, passive, locative (when being slain)",
+          "भूत्वा → absolutive/gerund (having become)"
+        ]
+      }
+    ],
+    "recap": "You just performed a complete analysis of BG 2.20 — one of the most important verses in the Gita. You read Devanagari, split sandhi, identified case endings and verb forms, and understood the meaning directly from the Sanskrit. Every skill from the past 13 days came together.",
+    "next_preview": "Tomorrow is the final day — your graduation challenge. You'll read three of the Gita's most famous verses independently: the garment metaphor (2.22), the divine descent (4.7), and the ultimate surrender (18.66). You're ready."
+  },
+  {
+    "id": "day-14",
+    "day": 14,
+    "week": 2,
+    "title": "The Final Challenge",
+    "subtitle": "Read three famous Gita verses on your own — you've earned this",
+    "objective": "By the end of today, you will independently read and appreciate three of the most beloved verses of the Bhagavad Gita in their original Sanskrit, using every skill you've built over the past two weeks.",
+    "concepts": [
+      {
+        "heading": "Verse 1: BG 2.22 — The Garment Metaphor",
+        "explanation": "Krishna compares the soul changing bodies to a person changing clothes. This is one of the Gita's most accessible and beautiful metaphors.",
+        "examples": [
+          { "devanagari": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि", "iast": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi", "meaning": "Just as a person discards worn-out garments and puts on new ones" },
+          { "devanagari": "तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही", "iast": "tathā śarīrāṇi vihāya jīrṇāny anyāni saṃyāti navāni dehī", "meaning": "So the embodied soul discards worn-out bodies and enters new ones" }
+        ]
+      },
+      {
+        "heading": "BG 2.22 — Word by Word",
+        "explanation": "Let's break down the key words. Try to identify them yourself before reading the explanations.",
+        "examples": [
+          { "devanagari": "वासांसि", "iast": "vāsāṃsi", "meaning": "garments — neuter plural, accusative (object)" },
+          { "devanagari": "जीर्णानि", "iast": "jīrṇāni", "meaning": "worn out, old — neuter plural adjective agreeing with vāsāṃsi" },
+          { "devanagari": "यथा ... तथा", "iast": "yathā ... tathā", "meaning": "just as ... so — a comparison pair (learn this pattern!)" },
+          { "devanagari": "विहाय", "iast": "vihāya", "meaning": "having discarded — absolutive (gerund) of vi+√hā" },
+          { "devanagari": "नवानि", "iast": "navāni", "meaning": "new — neuter plural adjective" },
+          { "devanagari": "गृह्णाति", "iast": "gṛhṇāti", "meaning": "takes, puts on — from √grah (to seize/take), 3rd sg. present" },
+          { "devanagari": "नरः", "iast": "naraḥ", "meaning": "a person — nominative singular (the doer)" },
+          { "devanagari": "शरीराणि", "iast": "śarīrāṇi", "meaning": "bodies — neuter plural, accusative" },
+          { "devanagari": "देही", "iast": "dehī", "meaning": "the embodied one (the soul that dwells in a body) — nominative singular" }
+        ]
+      },
+      {
+        "heading": "Verse 2: BG 4.7 — The Divine Descent",
+        "explanation": "Krishna reveals why he incarnates in every age — whenever dharma declines and adharma rises. This verse is the foundation of the avatāra doctrine.",
+        "examples": [
+          { "devanagari": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत", "iast": "yadā yadā hi dharmasya glānir bhavati bhārata", "meaning": "Whenever there is a decline of dharma, O Bhārata" },
+          { "devanagari": "अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्", "iast": "abhyutthānam adharmasya tadātmānaṃ sṛjāmy aham", "meaning": "And a rise of adharma — then I create myself (I incarnate)" }
+        ]
+      },
+      {
+        "heading": "BG 4.7 — Word by Word",
+        "explanation": "Notice how the grammar reveals the meaning precisely.",
+        "examples": [
+          { "devanagari": "यदा यदा", "iast": "yadā yadā", "meaning": "whenever, whenever — the repetition adds emphasis: WHENEVER" },
+          { "devanagari": "हि", "iast": "hi", "meaning": "indeed, for — emphatic particle" },
+          { "devanagari": "धर्मस्य", "iast": "dharmasya", "meaning": "of dharma — genitive case (-asya = 'of')" },
+          { "devanagari": "ग्लानिः", "iast": "glāniḥ", "meaning": "decline, diminishing — nominative (subject)" },
+          { "devanagari": "भवति", "iast": "bhavati", "meaning": "comes to be, happens — from √bhū, 3rd sg. present" },
+          { "devanagari": "अभ्युत्थानम्", "iast": "abhyutthānam", "meaning": "rise, ascendancy — a compound: abhi + ut + √sthā (standing up against)" },
+          { "devanagari": "अधर्मस्य", "iast": "adharmasya", "meaning": "of adharma (unrighteousness) — genitive case" },
+          { "devanagari": "तदा", "iast": "tadā", "meaning": "then — correlative of yadā (whenever...then)" },
+          { "devanagari": "आत्मानम्", "iast": "ātmānam", "meaning": "myself — accusative of ātman (the Self/myself)" },
+          { "devanagari": "सृजामि", "iast": "sṛjāmi", "meaning": "I create, I manifest — from √sṛj, 1st person singular (-mi ending!)" },
+          { "devanagari": "अहम्", "iast": "aham", "meaning": "I — Krishna speaking: 'I create myself'" }
+        ]
+      },
+      {
+        "heading": "Verse 3: BG 18.66 — The Ultimate Surrender",
+        "explanation": "The Gita's grand finale. Krishna's final teaching: let go of everything and take refuge in the divine alone. This is called the carama śloka (final/ultimate verse) by many traditions.",
+        "examples": [
+          { "devanagari": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज", "iast": "sarvadharmān parityajya mām ekaṃ śaraṇaṃ vraja", "meaning": "Abandoning all dharmas, take refuge in me alone" },
+          { "devanagari": "अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः", "iast": "ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ", "meaning": "I shall liberate you from all sins — do not grieve" }
+        ]
+      },
+      {
+        "heading": "BG 18.66 — Word by Word",
+        "explanation": "Every grammar concept you've learned is here: compounds, cases, verbs, sandhi.",
+        "examples": [
+          { "devanagari": "सर्वधर्मान्", "iast": "sarvadharmān", "meaning": "all dharmas — sarva+dharma compound, accusative plural (object)" },
+          { "devanagari": "परित्यज्य", "iast": "parityajya", "meaning": "having abandoned — absolutive of pari+√tyaj (completely letting go)" },
+          { "devanagari": "माम्", "iast": "mām", "meaning": "me — accusative of 'I' (Krishna speaking)" },
+          { "devanagari": "एकम्", "iast": "ekam", "meaning": "alone, only — accusative, agreeing with mām" },
+          { "devanagari": "शरणम्", "iast": "śaraṇam", "meaning": "refuge, shelter — accusative (object)" },
+          { "devanagari": "व्रज", "iast": "vraja", "meaning": "go! take! — imperative of √vraj (to go), 2nd person sg." },
+          { "devanagari": "अहम्", "iast": "aham", "meaning": "I (Krishna)" },
+          { "devanagari": "त्वा", "iast": "tvā", "meaning": "you (Arjuna) — accusative enclitic" },
+          { "devanagari": "सर्वपापेभ्यः", "iast": "sarvapāpebhyaḥ", "meaning": "from all sins — sarva+pāpa compound, ablative plural (-ebhyaḥ = 'from')" },
+          { "devanagari": "मोक्षयिष्यामि", "iast": "mokṣayiṣyāmi", "meaning": "I shall liberate — future tense, 1st person, causative of √muc (to free)" },
+          { "devanagari": "मा शुचः", "iast": "mā śucaḥ", "meaning": "do not grieve — mā (don't) + śucaḥ (grieve, from √śuc)" }
+        ]
+      },
+      {
+        "heading": "What You've Achieved",
+        "explanation": "In 14 days, you went from zero Sanskrit to reading three of the Gita's most famous verses in the original. You can now: read Devanagari script, apply IAST transliteration, split sandhi, recognize case endings, identify verb forms, parse compounds, and appreciate the beauty of the original Sanskrit. You haven't just learned about Sanskrit — you've started reading it.",
+        "examples": []
+      }
+    ],
+    "gita_connection": "These three verses span the Gita's entire arc: BG 2.22 (Chapter 2) teaches the eternal nature of the soul, BG 4.7 (Chapter 4) reveals why the divine incarnates, and BG 18.66 (Chapter 18) delivers the ultimate teaching of surrender. Together, they capture the Gita's essence: the Self is eternal, God descends to restore dharma, and liberation comes through surrender. You can now appreciate all three in the language they were composed in.",
+    "practice": [
+      {
+        "type": "read-verse",
+        "instruction": "Read all three verses aloud in Devanagari. Take your time. Let the sounds flow.",
+        "items": [
+          "BG 2.22: वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि। तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥",
+          "BG 4.7: यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+          "BG 18.66: सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥"
+        ]
+      },
+      {
+        "type": "translate",
+        "instruction": "For each verse, identify: (a) the main verb, (b) one sandhi example, (c) one compound word.",
+        "items": [
+          "BG 2.22: verb = गृह्णाति (gṛhṇāti, takes); sandhi = नरोऽपराणि (naraḥ + aparāṇi); compound = शरीराणि (not a compound, but जीर्णानि is an adjective)",
+          "BG 4.7: verb = भवति (bhavati, happens) and सृजामि (sṛjāmi, I create); sandhi = ग्लानिर्भवति (glāniḥ + bhavati); compound = अभ्युत्थानम् (abhi+ut+sthāna, rising up)",
+          "BG 18.66: verb = व्रज (vraja, go!) and मोक्षयिष्यामि (mokṣayiṣyāmi, I shall liberate); sandhi = मामेकम् (mām + ekam); compound = सर्वधर्मान् (sarva+dharma, all dharmas)"
+        ]
+      },
+      {
+        "type": "read-verse",
+        "instruction": "Final practice: Close your eyes, take a breath, and recite any one of these three verses from memory — or as close to memory as you can manage. Even a partial recitation is a triumph.",
+        "items": [
+          "Choose your favorite of the three verses and recite it."
+        ]
+      }
+    ],
+    "recap": "You've completed the 14-day Sanskrit journey. You read three of the Gita's most iconic verses — the garment metaphor (2.22), the divine descent (4.7), and the ultimate surrender (18.66) — using skills you've built from scratch: Devanagari script, IAST transliteration, vowel marks, conjuncts, sandhi, cases, verbs, vocabulary, and compounds. You can now approach any Gita verse and begin to unlock its meaning in the original Sanskrit.",
+    "next_preview": "Your Sanskrit foundation is built. From here, you can deepen your journey: study more grammar, learn additional vocabulary, or simply continue reading the Gita verse by verse — each one will be a little easier than the last. The original Sanskrit is no longer a closed door. You have the key."
+  }
+]

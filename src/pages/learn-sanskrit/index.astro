@@ -1,0 +1,88 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import curriculum from '@data/learn-sanskrit.json';
+---
+
+<BaseLayout title="Learn Sanskrit in 14 Days" description="A 14-day Sanskrit course built around Bhagavad Gītā verses — learn to read Devanagari and understand the original text.">
+  <!-- Nav -->
+  <nav class="sticky top-0 z-50 bg-[--color-cream]/80 backdrop-blur-md border-b border-[--color-warm-100]">
+    <div class="max-w-5xl mx-auto px-6 py-4 flex items-center gap-4">
+      <a href={`${import.meta.env.BASE_URL}`} class="text-sm text-[--color-warm-400] hover:text-[--color-saffron] transition-colors">
+        ← Home
+      </a>
+      <span class="text-[--color-warm-200]">·</span>
+      <span class="font-[--font-display] text-lg text-[--color-warm-800]">Learn Sanskrit</span>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header class="relative py-16 sm:py-24 text-center px-6 overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-b from-[--color-saffron-muted] to-transparent pointer-events-none" aria-hidden="true"></div>
+    <div class="relative">
+      <p class="font-[--font-devanagari] text-2xl sm:text-3xl text-[--color-saffron] mb-4">संस्कृतम्</p>
+      <h1 class="font-[--font-display] text-4xl sm:text-5xl md:text-6xl text-[--color-warm-900] tracking-tight leading-tight mb-4">
+        Learn Sanskrit in 14 Days
+      </h1>
+      <p class="text-lg sm:text-xl text-[--color-warm-500] max-w-2xl mx-auto leading-relaxed">
+        From zero to reading Gītā verses in the original — one day at a time
+      </p>
+    </div>
+  </header>
+
+  <main class="max-w-3xl mx-auto px-6 pb-24">
+    <!-- Week 1 -->
+    <section class="mb-12">
+      <h2 class="font-[--font-display] text-2xl text-[--color-warm-900] mb-2">Week 1: The Script</h2>
+      <p class="text-sm text-[--color-warm-400] mb-6">Learn to read Devanagari — every letter, every sound</p>
+      <div class="space-y-3">
+        {curriculum.filter(d => d.week === 1).map(day => (
+          <a href={`${import.meta.env.BASE_URL}learn-sanskrit/day/${day.day}/`}
+             class="block rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-5 sm:p-6 shadow-sm hover:shadow-md hover:border-[--color-saffron-light] transition-all group">
+            <div class="flex items-start gap-4">
+              <span class="flex-shrink-0 w-10 h-10 rounded-full bg-[--color-saffron-muted] flex items-center justify-center font-[--font-display] text-lg text-[--color-saffron]">
+                {day.day}
+              </span>
+              <div class="flex-1 min-w-0">
+                <h3 class="font-[--font-display] text-lg text-[--color-warm-800] group-hover:text-[--color-saffron] transition-colors">
+                  {day.title}
+                </h3>
+                <p class="text-sm text-[--color-warm-400] mt-0.5">{day.subtitle}</p>
+              </div>
+              <span class="text-[--color-warm-300] group-hover:text-[--color-saffron] transition-colors mt-1">→</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Week 2 -->
+    <section class="mb-12">
+      <h2 class="font-[--font-display] text-2xl text-[--color-warm-900] mb-2">Week 2: The Language</h2>
+      <p class="text-sm text-[--color-warm-400] mb-6">Grammar, vocabulary, and reading real Gītā verses</p>
+      <div class="space-y-3">
+        {curriculum.filter(d => d.week === 2).map(day => (
+          <a href={`${import.meta.env.BASE_URL}learn-sanskrit/day/${day.day}/`}
+             class="block rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-5 sm:p-6 shadow-sm hover:shadow-md hover:border-[--color-saffron-light] transition-all group">
+            <div class="flex items-start gap-4">
+              <span class="flex-shrink-0 w-10 h-10 rounded-full bg-[--color-saffron-muted] flex items-center justify-center font-[--font-display] text-lg text-[--color-saffron]">
+                {day.day}
+              </span>
+              <div class="flex-1 min-w-0">
+                <h3 class="font-[--font-display] text-lg text-[--color-warm-800] group-hover:text-[--color-saffron] transition-colors">
+                  {day.title}
+                </h3>
+                <p class="text-sm text-[--color-warm-400] mt-0.5">{day.subtitle}</p>
+              </div>
+              <span class="text-[--color-warm-300] group-hover:text-[--color-saffron] transition-colors mt-1">→</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Footer note -->
+    <div class="text-center text-sm text-[--color-warm-400] mt-16">
+      <p>Built around real Bhagavad Gītā verses · IAST transliteration standard</p>
+    </div>
+  </main>
+</BaseLayout>

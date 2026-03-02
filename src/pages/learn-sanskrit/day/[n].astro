@@ -1,0 +1,144 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import curriculum from '@data/learn-sanskrit.json';
+
+export function getStaticPaths() {
+  const data = curriculum as any[];
+  return data.map((day) => ({
+    params: { n: String(day.day) },
+  }));
+}
+
+const dayNum = Number(Astro.params.n);
+const day = (curriculum as any[]).find((d) => d.day === dayNum);
+if (!day) return Astro.redirect(`${import.meta.env.BASE_URL}learn-sanskrit/`);
+
+const prev = dayNum > 1 ? dayNum - 1 : null;
+const next = dayNum < 14 ? dayNum + 1 : null;
+---
+
+<BaseLayout title={`Day ${day.day}: ${day.title}`} description={day.objective}>
+  <!-- Nav -->
+  <nav class="sticky top-0 z-50 bg-[--color-cream]/80 backdrop-blur-md border-b border-[--color-warm-100]">
+    <div class="max-w-5xl mx-auto px-6 py-4 flex items-center gap-4">
+      <a href={`${import.meta.env.BASE_URL}learn-sanskrit/`} class="text-sm text-[--color-warm-400] hover:text-[--color-saffron] transition-colors">
+        ← All Days
+      </a>
+      <span class="text-[--color-warm-200]">·</span>
+      <span class="font-[--font-display] text-lg text-[--color-warm-800]">Day {day.day} of 14</span>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header class="relative py-12 sm:py-20 text-center px-6 overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-b from-[--color-saffron-muted] to-transparent pointer-events-none" aria-hidden="true"></div>
+    <div class="relative">
+      <p class="text-sm tracking-wide text-[--color-saffron] uppercase mb-3">Week {day.week} · Day {day.day}</p>
+      <h1 class="font-[--font-display] text-3xl sm:text-4xl md:text-5xl text-[--color-warm-900] tracking-tight leading-tight mb-3">
+        {day.title}
+      </h1>
+      <p class="text-lg text-[--color-warm-500] max-w-2xl mx-auto">{day.subtitle}</p>
+    </div>
+  </header>
+
+  <main class="max-w-3xl mx-auto px-6 pb-24 flex-1">
+    <!-- Objective -->
+    <section class="mb-10">
+      <div class="rounded-2xl bg-[--color-saffron-muted] border border-[--color-saffron-light]/30 p-6">
+        <p class="text-sm font-medium text-[--color-saffron] uppercase tracking-wide mb-2">Today's Goal</p>
+        <p class="text-base text-[--color-warm-700] leading-relaxed">{day.objective}</p>
+      </div>
+    </section>
+
+    <!-- Concepts -->
+    {day.concepts.map((concept: any, i: number) => (
+      <section class="mb-10">
+        <h2 class="font-[--font-display] text-2xl text-[--color-warm-900] mb-4">{concept.heading}</h2>
+        <p class="text-base text-[--color-warm-700] leading-[1.85] mb-6">{concept.explanation}</p>
+
+        {concept.examples.length > 0 && (
+          <div class="rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] overflow-hidden">
+            <table class="w-full">
+              <thead>
+                <tr class="border-b border-[--color-warm-100]">
+                  <th class="text-left text-xs text-[--color-warm-400] uppercase tracking-wide px-5 py-3">Devanagari</th>
+                  <th class="text-left text-xs text-[--color-warm-400] uppercase tracking-wide px-5 py-3">IAST</th>
+                  <th class="text-left text-xs text-[--color-warm-400] uppercase tracking-wide px-5 py-3">Pronunciation</th>
+                </tr>
+              </thead>
+              <tbody>
+                {concept.examples.map((ex: any, j: number) => (
+                  <tr class={j < concept.examples.length - 1 ? 'border-b border-[--color-warm-50]' : ''}>
+                    <td class="px-5 py-3 font-[--font-devanagari] text-xl text-[--color-warm-800]">{ex.devanagari}</td>
+                    <td class="px-5 py-3 text-base italic text-[--color-saffron]">{ex.iast}</td>
+                    <td class="px-5 py-3 text-sm text-[--color-warm-500]">{ex.meaning}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
+      </section>
+    ))}
+
+    <!-- Gita Connection -->
+    <section class="mb-10">
+      <h2 class="font-[--font-display] text-2xl text-[--color-warm-900] mb-4">Gītā Connection</h2>
+      <div class="rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-6 shadow-sm">
+        <p class="text-base text-[--color-warm-700] leading-[1.85]">{day.gita_connection}</p>
+      </div>
+    </section>
+
+    <!-- Practice -->
+    <section class="mb-10">
+      <h2 class="font-[--font-display] text-2xl text-[--color-warm-900] mb-4">Practice</h2>
+      {day.practice.map((p: any) => (
+        <div class="mb-6">
+          <p class="text-base text-[--color-warm-700] mb-3">{p.instruction}</p>
+          <div class="rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-5">
+            <ul class="space-y-2">
+              {p.items.map((item: string) => (
+                <li class="font-[--font-devanagari] text-base text-[--color-warm-700]">{item}</li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      ))}
+    </section>
+
+    <!-- Recap -->
+    <section class="mb-12">
+      <h2 class="font-[--font-display] text-2xl text-[--color-warm-900] mb-4">Recap</h2>
+      <p class="text-base text-[--color-warm-700] leading-[1.85]">{day.recap}</p>
+    </section>
+
+    <!-- Next preview -->
+    {day.next_preview && (
+      <div class="rounded-2xl bg-[--color-warm-50] border border-[--color-warm-100] p-6 mb-12">
+        <p class="text-sm font-medium text-[--color-warm-400] uppercase tracking-wide mb-2">Coming Tomorrow</p>
+        <p class="text-base text-[--color-warm-600]">{day.next_preview}</p>
+      </div>
+    )}
+
+    <!-- Navigation -->
+    <div class="flex justify-between items-center pt-8 border-t border-[--color-warm-100]">
+      {prev ? (
+        <a href={`${import.meta.env.BASE_URL}learn-sanskrit/day/${prev}/`}
+           class="text-sm text-[--color-warm-400] hover:text-[--color-saffron] transition-colors">
+          ← Day {prev}
+        </a>
+      ) : <span />}
+      {next ? (
+        <a href={`${import.meta.env.BASE_URL}learn-sanskrit/day/${next}/`}
+           class="text-sm text-[--color-warm-400] hover:text-[--color-saffron] transition-colors">
+          Day {next} →
+        </a>
+      ) : (
+        <a href={`${import.meta.env.BASE_URL}`}
+           class="text-sm text-[--color-saffron] hover:text-[--color-warm-700] transition-colors">
+          Back to The Gītā →
+        </a>
+      )}
+    </div>
+  </main>
+</BaseLayout>
