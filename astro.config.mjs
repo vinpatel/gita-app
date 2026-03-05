@@ -3,7 +3,7 @@ import tailwindcss from '@tailwindcss/vite';
 import preact from '@astrojs/preact';
 
 export default defineConfig({
-  site: 'https://placeholder.github.io',
+  site: 'https://vinpatel.github.io',
   base: '/gita-app/',
   output: 'static',
   devToolbar: { enabled: false },
