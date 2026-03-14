@@ -6,24 +6,78 @@ const allShlokas = await getCollection('chapters');
 const chaptersWithData = new Set(allShlokas.map((s) => s.data.chapter));
 
 const chapterMeta = [
-  { num: 1, sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47 },
-  { num: 2, sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72 },
-  { num: 3, sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43 },
-  { num: 4, sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42 },
-  { num: 5, sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29 },
-  { num: 6, sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47 },
-  { num: 7, sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30 },
-  { num: 8, sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28 },
-  { num: 9, sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34 },
-  { num: 10, sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42 },
-  { num: 11, sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55 },
-  { num: 12, sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20 },
-  { num: 13, sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35 },
-  { num: 14, sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27 },
-  { num: 15, sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20 },
-  { num: 16, sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24 },
-  { num: 17, sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28 },
-  { num: 18, sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78 },
+  { num: 1, sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47,
+    color: 'from-slate-600 to-slate-800', accent: '#64748b', bg: 'bg-slate-50',
+    learn: 'Why inner conflict is the starting point of all growth',
+    takeaway: 'When you face impossible choices, the paralysis you feel isn\'t weakness — it\'s the beginning of wisdom. Every great transformation starts with a crisis of conscience.' },
+  { num: 2, sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72,
+    color: 'from-indigo-500 to-indigo-700', accent: '#6366f1', bg: 'bg-indigo-50',
+    learn: 'The self is indestructible — stop identifying with what changes',
+    takeaway: 'You are not your job, your body, or your emotions. The real you cannot be burned, broken, or diminished. Act from that unshakeable core.' },
+  { num: 3, sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43,
+    color: 'from-orange-500 to-orange-700', accent: '#f97316', bg: 'bg-orange-50',
+    learn: 'Act without obsessing over results — that\'s where freedom lives',
+    takeaway: 'Inaction is not an option. The universe demands participation. Do your work with full intensity, then let go of the outcome.' },
+  { num: 4, sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42,
+    color: 'from-amber-500 to-amber-700', accent: '#f59e0b', bg: 'bg-amber-50',
+    learn: 'Knowledge burns away karma like fire burns fuel',
+    takeaway: 'Understanding the truth about yourself and reality dissolves the chains of past actions. Seek a teacher, ask real questions, serve with humility.' },
+  { num: 5, sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29,
+    color: 'from-teal-500 to-teal-700', accent: '#14b8a6', bg: 'bg-teal-50',
+    learn: 'True renunciation is internal — you can be free while fully engaged',
+    takeaway: 'You don\'t need to quit your job or move to a cave. Drop the ego and desire from your actions, and every workplace becomes an ashram.' },
+  { num: 6, sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47,
+    color: 'from-violet-500 to-violet-700', accent: '#8b5cf6', bg: 'bg-violet-50',
+    learn: 'The mind is your greatest ally — or your worst enemy',
+    takeaway: 'Meditation isn\'t about emptying your mind. It\'s about training it to serve you. Start small, stay consistent, and no effort is ever wasted.' },
+  { num: 7, sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30,
+    color: 'from-cyan-500 to-cyan-700', accent: '#06b6d4', bg: 'bg-cyan-50',
+    learn: 'Everything in existence is one reality expressing itself in infinite forms',
+    takeaway: 'The divine isn\'t somewhere else — it\'s the taste in water, the light in the sun, the courage in the brave. Learn to see it everywhere.' },
+  { num: 8, sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28,
+    color: 'from-purple-500 to-purple-700', accent: '#a855f7', bg: 'bg-purple-50',
+    learn: 'What you think about at the end shapes what comes next',
+    takeaway: 'Your habitual thoughts define your destiny. Practice remembering what matters most — not just at death, but in every moment of letting go.' },
+  { num: 9, sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34,
+    color: 'from-rose-500 to-rose-700', accent: '#f43f5e', bg: 'bg-rose-50',
+    learn: 'A leaf, a flower, water — offered with love, the divine accepts',
+    takeaway: 'The most confidential knowledge: the universe responds to sincerity, not sophistication. Simple devotion with a pure heart outweighs elaborate ritual.' },
+  { num: 10, sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42,
+    color: 'from-emerald-500 to-emerald-700', accent: '#10b981', bg: 'bg-emerald-50',
+    learn: 'Everything extraordinary you see is a glimpse of the infinite',
+    takeaway: 'The tallest mountain, the deepest ocean, the sharpest mind — all are sparks of one splendor. When you see excellence anywhere, you\'re seeing the divine.' },
+  { num: 11, sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55,
+    color: 'from-fuchsia-500 to-fuchsia-700', accent: '#d946ef', bg: 'bg-fuchsia-50',
+    learn: 'Reality is vaster and more terrifying than the mind can hold',
+    takeaway: 'Arjuna sees everything — creation, destruction, all of time — in a single vision. The truth is overwhelming. Humility isn\'t optional; it\'s the only sane response.' },
+  { num: 12, sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20,
+    color: 'from-pink-500 to-pink-700', accent: '#ec4899', bg: 'bg-pink-50',
+    learn: 'The qualities of someone truly devoted: compassion, humility, contentment',
+    takeaway: 'Krishna\'s favorite chapter. The person who is forgiving, cheerful, self-controlled, and friendly to all — that\'s who reaches the highest. Love is the fastest path.' },
+  { num: 13, sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35,
+    color: 'from-sky-500 to-sky-700', accent: '#0ea5e9', bg: 'bg-sky-50',
+    learn: 'You are not the body — you are the awareness watching through it',
+    takeaway: 'The body is the field; you are the knower. Disease, aging, pleasure, pain — they happen to the field. The knower remains untouched. Learn the difference.' },
+  { num: 14, sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27,
+    color: 'from-lime-600 to-lime-800', accent: '#65a30d', bg: 'bg-lime-50',
+    learn: 'Three forces — clarity, passion, inertia — govern all your moods and choices',
+    takeaway: 'When you\'re calm and clear, that\'s sattva. Restless and driven, that\'s rajas. Foggy and stuck, that\'s tamas. Name them. Then rise above all three.' },
+  { num: 15, sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20,
+    color: 'from-yellow-500 to-yellow-700', accent: '#eab308', bg: 'bg-yellow-50',
+    learn: 'Cut the tree of attachment with the axe of detachment',
+    takeaway: 'The material world is like an upside-down banyan tree with roots above. Its branches entangle you. The weapon to free yourself? Dispassion and surrender.' },
+  { num: 16, sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24,
+    color: 'from-red-500 to-red-700', accent: '#ef4444', bg: 'bg-red-50',
+    learn: 'Fearlessness, purity, and compassion are divine — arrogance and anger are demonic',
+    takeaway: 'Both natures exist in every person. The divine leads to freedom; the demonic to bondage. Desire, anger, and greed are the three gates to self-destruction. Guard them.' },
+  { num: 17, sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28,
+    color: 'from-blue-500 to-blue-700', accent: '#3b82f6', bg: 'bg-blue-50',
+    learn: 'Your faith shapes what you eat, worship, give, and become',
+    takeaway: 'Faith isn\'t blind belief — it\'s the lens through which you see reality. Sattvic faith uplifts. Rajasic faith is showy. Tamasic faith is destructive. Choose wisely.' },
+  { num: 18, sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78,
+    color: 'from-amber-600 to-orange-800', accent: '#d97706', bg: 'bg-amber-50',
+    learn: 'Surrender everything to the divine — then act with full freedom',
+    takeaway: 'The grand finale. Krishna summarizes every path, reveals his deepest secret, and says: "Now do as you wish." Arjuna\'s doubt vanishes. He picks up his bow. The choice was always his.' },
 ];
 
 const chapters = chapterMeta.map((ch) => ({
@@ -33,108 +87,108 @@ const chapters = chapterMeta.map((ch) => ({
 }));
 
 const totalVerses = allShlokas.length;
-const availableChapters = chapters.filter((ch) => ch.available).length;
 ---
-<BaseLayout title="Home" description="The Bhagavad Gītā — 700 verses across 18 chapters, with 8 commentary traditions synthesized for modern life.">
+<BaseLayout title="Home" description="The Bhagavad Gītā — 700 verses across 18 chapters. Discover what each chapter teaches you about life, action, and freedom.">
 
   <main class="flex-1">
 
-    <!-- Hero — minimal, text-forward -->
-    <section class="max-w-2xl mx-auto px-6 pt-20 sm:pt-32 pb-16">
+    <!-- Hero -->
+    <section class="max-w-3xl mx-auto px-6 pt-16 sm:pt-24 pb-12">
+      <p class="font-[--font-devanagari] text-lg text-[--color-warm-400] mb-3 animate-fade-in">श्रीमद्भगवद्गीता</p>
       <h1 class="font-[--font-display] text-4xl sm:text-5xl md:text-6xl font-light text-[--color-warm-900] leading-[1.1] tracking-tight animate-slide-up">
         The Bhagavad Gītā
       </h1>
-      <p class="mt-6 text-lg sm:text-xl text-[--color-warm-500] leading-relaxed max-w-xl animate-fade-in">
-        700 verses of timeless wisdom — synthesized from eight commentary traditions, made actionable for modern life.
+      <p class="mt-5 text-lg sm:text-xl text-[--color-warm-500] leading-relaxed max-w-2xl animate-fade-in">
+        18 conversations between a warrior in crisis and his divine friend. Each one teaches you something you can use today.
       </p>
-      <div class="mt-6 flex flex-wrap gap-x-6 gap-y-1 text-sm text-[--color-warm-400] tracking-wide animate-fade-in">
-        <span>18 chapters</span>
-        <span>{totalVerses} verses</span>
-        <span>8 traditions</span>
+      <div class="mt-5 flex flex-wrap gap-x-5 gap-y-1 text-sm text-[--color-warm-400] tracking-wide animate-fade-in">
+        <span>{totalVerses} verses loaded</span>
+        <span>8 commentary traditions</span>
+        <span>Open source</span>
       </div>
     </section>
 
-    <!-- Divider -->
-    <div class="max-w-2xl mx-auto px-6">
-      <div class="h-px bg-[--color-warm-200]"></div>
-    </div>
-
-    <!-- Chapters — numbered list like 37signals -->
-    <section class="max-w-2xl mx-auto px-6 py-12 sm:py-16">
-      <ol class="space-y-0">
+    <!-- Chapter Cards -->
+    <section class="max-w-3xl mx-auto px-6 pb-16 sm:pb-24">
+      <div class="space-y-4">
         {chapters.map((ch) => (
           ch.available ? (
-            <li>
-              <a href={`${import.meta.env.BASE_URL}chapter/${ch.num}/`}
-                 class="group flex items-baseline gap-5 py-4 sm:py-5 border-b border-[--color-warm-100] hover:border-[--color-saffron-light]/50 transition-colors duration-200">
-                <span class="font-[--font-display] text-2xl sm:text-3xl font-light text-[--color-warm-300] group-hover:text-[--color-saffron] transition-colors duration-200 tabular-nums w-10 shrink-0 text-right">
-                  {String(ch.num).padStart(2, '0')}
-                </span>
-                <div class="min-w-0 flex-1">
-                  <div class="flex flex-wrap items-baseline gap-x-3 gap-y-0.5">
-                    <span class="font-[--font-display] text-xl sm:text-2xl text-[--color-warm-800] group-hover:text-[--color-saffron] transition-colors duration-200">
+            <a href={`${import.meta.env.BASE_URL}chapter/${ch.num}/`}
+               class="group block rounded-2xl border border-[--color-warm-100] overflow-hidden hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300">
+              <div class="flex flex-col sm:flex-row">
+                <!-- Color sidebar with number -->
+                <div class={`sm:w-24 shrink-0 bg-gradient-to-br ${ch.color} flex sm:flex-col items-center sm:items-center justify-between sm:justify-center gap-2 px-5 py-3 sm:py-6 sm:px-0`}>
+                  <span class="font-[--font-display] text-3xl sm:text-4xl font-light text-white/90">
+                    {String(ch.num).padStart(2, '0')}
+                  </span>
+                  <span class="text-[11px] text-white/60 tracking-wider uppercase sm:mt-1">
+                    {ch.loadedVerses < ch.verses ? `${ch.loadedVerses}/${ch.verses}` : ch.verses} verses
+                  </span>
+                </div>
+                <!-- Content -->
+                <div class="flex-1 p-5 sm:p-6">
+                  <div class="flex items-baseline gap-3 mb-1.5 flex-wrap">
+                    <h2 class="font-[--font-display] text-xl sm:text-2xl text-[--color-warm-900] group-hover:text-[--color-warm-700] transition-colors">
                       {ch.name}
-                    </span>
-                    <span class="font-[--font-devanagari] text-base text-[--color-warm-400]">
-                      {ch.sanskrit}
-                    </span>
+                    </h2>
+                    <span class="font-[--font-devanagari] text-sm text-[--color-warm-400]">{ch.sanskrit}</span>
                   </div>
-                  <span class="text-xs text-[--color-warm-400] tracking-wide mt-0.5 block">
-                    {ch.loadedVerses < ch.verses ? `${ch.loadedVerses} of ${ch.verses}` : ch.verses} verses
-                  </span>
+                  <!-- What you learn -->
+                  <p class="text-base font-medium text-[--color-warm-800] mb-2" style={`color: ${ch.accent}`}>
+                    {ch.learn}
+                  </p>
+                  <p class="text-sm text-[--color-warm-500] leading-relaxed">
+                    {ch.takeaway}
+                  </p>
                 </div>
-                <span class="text-[--color-warm-300] group-hover:text-[--color-saffron] transition-colors duration-200 shrink-0 hidden sm:block">&rarr;</span>
-              </a>
-            </li>
-          ) : (
-            <li class="flex items-baseline gap-5 py-4 sm:py-5 border-b border-[--color-warm-100]/50 opacity-35">
-              <span class="font-[--font-display] text-2xl sm:text-3xl font-light text-[--color-warm-300] tabular-nums w-10 shrink-0 text-right">
-                {String(ch.num).padStart(2, '0')}
-              </span>
-              <div class="min-w-0 flex-1">
-                <div class="flex flex-wrap items-baseline gap-x-3 gap-y-0.5">
-                  <span class="font-[--font-display] text-xl sm:text-2xl text-[--color-warm-300]">
-                    {ch.name}
-                  </span>
-                  <span class="font-[--font-devanagari] text-base text-[--color-warm-300]">
-                    {ch.sanskrit}
-                  </span>
-                </div>
-                <span class="text-xs text-[--color-warm-300] tracking-wide mt-0.5 block">
-                  {ch.verses} verses &middot; coming soon
-                </span>
               </div>
-            </li>
+            </a>
+          ) : (
+            <div class="rounded-2xl border border-[--color-warm-100]/50 overflow-hidden opacity-30">
+              <div class="flex flex-col sm:flex-row">
+                <div class="sm:w-24 shrink-0 bg-[--color-warm-200] flex sm:flex-col items-center sm:items-center justify-between sm:justify-center gap-2 px-5 py-3 sm:py-6 sm:px-0">
+                  <span class="font-[--font-display] text-3xl sm:text-4xl font-light text-white/70">
+                    {String(ch.num).padStart(2, '0')}
+                  </span>
+                  <span class="text-[11px] text-white/50 tracking-wider uppercase sm:mt-1">{ch.verses} verses</span>
+                </div>
+                <div class="flex-1 p-5 sm:p-6">
+                  <div class="flex items-baseline gap-3 mb-1.5">
+                    <h2 class="font-[--font-display] text-xl sm:text-2xl text-[--color-warm-300]">{ch.name}</h2>
+                    <span class="font-[--font-devanagari] text-sm text-[--color-warm-300]">{ch.sanskrit}</span>
+                  </div>
+                  <p class="text-sm text-[--color-warm-300]">{ch.learn}</p>
+                  <p class="mt-1 text-xs uppercase tracking-wider text-[--color-warm-300]">Coming soon</p>
+                </div>
+              </div>
+            </div>
           )
         ))}
-      </ol>
+      </div>
     </section>
 
-    <!-- Divider -->
-    <div class="max-w-2xl mx-auto px-6">
-      <div class="h-px bg-[--color-warm-200]"></div>
-    </div>
-
-    <!-- Bottom sections — what this is -->
-    <section class="max-w-2xl mx-auto px-6 py-12 sm:py-16">
-      <div class="grid sm:grid-cols-3 gap-10 sm:gap-8">
-        <div>
-          <h3 class="font-[--font-display] text-lg text-[--color-warm-800] mb-2">Multi-tradition</h3>
-          <p class="text-sm text-[--color-warm-500] leading-relaxed">
-            Every verse synthesized from Advaita, Dvaita, Vishishtadvaita, Bhakti, Kashmir Shaivism, and more.
-          </p>
-        </div>
-        <div>
-          <h3 class="font-[--font-display] text-lg text-[--color-warm-800] mb-2">Actionable</h3>
-          <p class="text-sm text-[--color-warm-500] leading-relaxed">
-            Each verse mapped to personal growth, career, health, and relationships — with reflection questions.
-          </p>
-        </div>
-        <div>
-          <h3 class="font-[--font-display] text-lg text-[--color-warm-800] mb-2">Learn Sanskrit</h3>
-          <p class="text-sm text-[--color-warm-500] leading-relaxed">
-            A <a href={`${import.meta.env.BASE_URL}learn-sanskrit/`} class="text-[--color-saffron] hover:text-[--color-warm-700] transition-colors">14-day course</a> to read the original Devanagari script and understand IAST transliteration.
-          </p>
+    <!-- Bottom features -->
+    <section class="border-t border-[--color-warm-200] bg-[--color-warm-50]/50">
+      <div class="max-w-3xl mx-auto px-6 py-12 sm:py-16">
+        <div class="grid sm:grid-cols-3 gap-10 sm:gap-8">
+          <div>
+            <h3 class="font-[--font-display] text-lg text-[--color-warm-800] mb-2">8 Traditions</h3>
+            <p class="text-sm text-[--color-warm-500] leading-relaxed">
+              Every verse includes perspectives from Advaita, Dvaita, Vishishtadvaita, Bhakti, Kashmir Shaivism, Shuddhadvaita, Karma Yoga, and Practical Vedanta.
+            </p>
+          </div>
+          <div>
+            <h3 class="font-[--font-display] text-lg text-[--color-warm-800] mb-2">4 Life Pillars</h3>
+            <p class="text-sm text-[--color-warm-500] leading-relaxed">
+              Each verse mapped to personal growth, career, health, and relationships — with reflection questions to make it real.
+            </p>
+          </div>
+          <div>
+            <h3 class="font-[--font-display] text-lg text-[--color-warm-800] mb-2">Learn Sanskrit</h3>
+            <p class="text-sm text-[--color-warm-500] leading-relaxed">
+              A <a href={`${import.meta.env.BASE_URL}learn-sanskrit/`} class="text-[--color-saffron] hover:text-[--color-warm-700] transition-colors underline underline-offset-2">14-day course</a> to read the original Devanagari script yourself.
+            </p>
+          </div>
         </div>
       </div>
     </section>
