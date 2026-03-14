@@ -6,24 +6,42 @@ const allShlokas = await getCollection('chapters');
 const chaptersWithData = new Set(allShlokas.map((s) => s.data.chapter));
 
 const chapterMeta = [
-  { num: 1, sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47 },
-  { num: 2, sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72 },
-  { num: 3, sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43 },
-  { num: 4, sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42 },
-  { num: 5, sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29 },
-  { num: 6, sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47 },
-  { num: 7, sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30 },
-  { num: 8, sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28 },
-  { num: 9, sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34 },
-  { num: 10, sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42 },
-  { num: 11, sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55 },
-  { num: 12, sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20 },
-  { num: 13, sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35 },
-  { num: 14, sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27 },
-  { num: 15, sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20 },
-  { num: 16, sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24 },
-  { num: 17, sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28 },
-  { num: 18, sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78 },
+  { num: 1, sanskrit: 'अर्जुनविषादयोग', name: 'Arjuna\'s Dilemma', verses: 47,
+    lesson: 'Inner conflict is the starting point of all growth' },
+  { num: 2, sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72,
+    lesson: 'Stop identifying with what changes' },
+  { num: 3, sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43,
+    lesson: 'Act without obsessing over results' },
+  { num: 4, sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42,
+    lesson: 'Knowledge burns karma like fire burns fuel' },
+  { num: 5, sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29,
+    lesson: 'Be free while fully engaged in the world' },
+  { num: 6, sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47,
+    lesson: 'The mind is your greatest ally or worst enemy' },
+  { num: 7, sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30,
+    lesson: 'One reality in infinite forms' },
+  { num: 8, sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28,
+    lesson: 'Your last thought shapes what comes next' },
+  { num: 9, sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34,
+    lesson: 'A leaf offered with love reaches the divine' },
+  { num: 10, sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42,
+    lesson: 'Everything extraordinary is a glimpse of the infinite' },
+  { num: 11, sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55,
+    lesson: 'Reality is vaster than the mind can hold' },
+  { num: 12, sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20,
+    lesson: 'Love is the fastest path' },
+  { num: 13, sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35,
+    lesson: 'You are the awareness, not the body' },
+  { num: 14, sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27,
+    lesson: 'Clarity, passion, inertia — name them, then rise above' },
+  { num: 15, sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20,
+    lesson: 'Cut the tree of attachment with detachment' },
+  { num: 16, sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24,
+    lesson: 'Desire, anger, greed — three gates to self-destruction' },
+  { num: 17, sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28,
+    lesson: 'Your faith shapes what you eat, give, and become' },
+  { num: 18, sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78,
+    lesson: 'Surrender everything — then act with full freedom' },
 ];
 
 const chapters = chapterMeta.map((ch) => ({
@@ -85,6 +103,7 @@ const totalVerses = allShlokas.length;
               </div>
               <p class="font-[--font-devanagari] text-lg text-[--color-warm-600] mb-1.5 leading-snug">{ch.sanskrit}</p>
               <h2 class="font-[--font-display] text-xl text-[--color-warm-800] group-hover:text-[--color-saffron] transition-colors duration-300">{ch.name}</h2>
+              <p class="mt-3 text-sm text-[--color-saffron] leading-relaxed font-medium">{ch.lesson}</p>
               <div class="absolute bottom-0 left-6 right-6 h-px bg-gradient-to-r from-transparent via-[--color-saffron-light] to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </a>
           ) : (
@@ -95,7 +114,8 @@ const totalVerses = allShlokas.length;
               </div>
               <p class="font-[--font-devanagari] text-lg text-[--color-warm-300] mb-1.5">{ch.sanskrit}</p>
               <h2 class="font-[--font-display] text-xl text-[--color-warm-300]">{ch.name}</h2>
-              <p class="mt-3 text-xs uppercase tracking-[0.15em] text-[--color-warm-300]">Coming soon</p>
+              <p class="mt-3 text-sm text-[--color-warm-300] leading-relaxed">{ch.lesson}</p>
+              <p class="mt-2 text-xs uppercase tracking-[0.15em] text-[--color-warm-300]">Coming soon</p>
             </div>
           )
         ))}
