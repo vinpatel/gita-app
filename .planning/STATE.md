@@ -3,12 +3,12 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-last_updated: "2026-03-01T17:47:15.111Z"
+last_updated: "2026-03-28T16:50:38.057Z"
 progress:
-  total_phases: 1
-  completed_phases: 1
-  total_plans: 4
-  completed_plans: 4
+  total_phases: 2
+  completed_phases: 2
+  total_plans: 6
+  completed_plans: 6
 ---
 
 # Project State
@@ -23,9 +23,9 @@ See: .planning/PROJECT.md (updated 2026-03-01)
 ## Current Position
 
 Phase: 01.1-life-problem-search (inserted after Phase 1)
-Plan: 1 of 3 complete in current phase (01.1-01 done; 01.1-02 and 01.1-03 remaining)
-Status: Active — plan 01.1-01 complete, ready for 01.1-02 (homepage integration)
-Last activity: 2026-03-28 — Completed plan 01.1-01: Fuse.js search index endpoint and LifeSearch island built.
+Plan: 2 of 3 complete in current phase (01.1-01, 01.1-02 done; 01.1-03 remaining)
+Status: Active — plan 01.1-02 complete, ready for 01.1-03
+Last activity: 2026-03-28 — Completed plan 01.1-02: /explore/ page and homepage search integration.
 
 Progress: [████░░░░░░] 40%
 
@@ -56,6 +56,7 @@ Progress: [████░░░░░░] 40%
 - Trend: Baseline established
 
 *Updated after each plan completion*
+| Phase 01.1-life-problem-search P02 | 1 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -88,6 +89,7 @@ Recent decisions affecting current work:
 - [01.1-01]: Store Fuse instance in useRef not useState — single instantiation, no re-creates on re-renders
 - [01.1-01]: Pass baseUrl as prop to LifeSearch island — never read import.meta.env.BASE_URL inside Preact islands
 - [01.1-01]: 200ms setTimeout on blur — allows result link clicks to register before dropdown closes
+- [Phase 01.1-02]: client:load on /explore/ — search is page's sole purpose; client:idle on homepage — chapter grid is primary
 
 ### Roadmap Evolution
 
@@ -105,5 +107,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-28
-Stopped at: Completed 01.1-01-PLAN.md — Fuse.js search index + LifeSearch island. Next: 01.1-02 (homepage integration).
+Stopped at: Completed 01.1-02-PLAN.md — /explore/ page and homepage search integration. Next: 01.1-03.
 Resume file: None
