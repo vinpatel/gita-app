@@ -17,7 +17,7 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 - [ ] **CONT-06**: Each shloka has practical life applications across 4 domains: Personal Growth, Career/Business, Health, Relationships
 - [ ] **CONT-07**: Each chapter has a summary with theme overview and key teachings
 - [x] **CONT-08**: All content uses Gita Press (Gorakhpur) edition as canonical source for shloka numbering (700-verse structure)
-- [ ] **CONT-09**: Each shloka is tagged with life themes (stress, decision-making, loss, anger, purpose, duty, etc.) for problem-based search
+- [x] **CONT-09**: Each shloka is tagged with life themes (stress, decision-making, loss, anger, purpose, duty, etc.) for problem-based search
 - [x] **CONT-10**: AI-generated content uses only public domain sources — no copyrighted commentary text reproduced
 
 ### Navigation
@@ -31,8 +31,8 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 
 - [ ] **UX-01**: Shloka pages use progressive reveal — Sanskrit shown first, then transliteration, explanation, commentaries, and practical applications revealed layer by layer
 - [ ] **UX-02**: Individual commentaries expand/collapse independently (accordion UI)
-- [ ] **UX-03**: User can search by keyword, theme, or life problem and get relevant shlokas with contextual guidance
-- [ ] **UX-04**: Problem-based search shows why each shloka is relevant to the user's query
+- [x] **UX-03**: User can search by keyword, theme, or life problem and get relevant shlokas with contextual guidance
+- [x] **UX-04**: Problem-based search shows why each shloka is relevant to the user's query
 
 ### Design
 
@@ -92,7 +92,7 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 | CONT-06 | Phase 2 | Pending |
 | CONT-07 | Phase 2 | Pending |
 | CONT-08 | Phase 1 | Complete |
-| CONT-09 | Phase 2 | Pending |
+| CONT-09 | Phase 2 | Complete |
 | CONT-10 | Phase 1 | Complete |
 | NAV-01 | Phase 3 | Pending |
 | NAV-02 | Phase 3 | Pending |
@@ -100,8 +100,8 @@ V1 delivers chapters 1 and 2 fully polished with all features. Chapter grid show
 | NAV-04 | Phase 3 | Pending |
 | UX-01 | Phase 3 | Pending |
 | UX-02 | Phase 3 | Pending |
-| UX-03 | Phase 4 | Pending |
-| UX-04 | Phase 4 | Pending |
+| UX-03 | Phase 4 | Complete |
+| UX-04 | Phase 4 | Complete |
 | DES-01 | Phase 3 | Pending |
 | DES-02 | Phase 3 | Pending |
 | DES-03 | Phase 3 | Pending |

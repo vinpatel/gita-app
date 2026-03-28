@@ -22,10 +22,10 @@ See: .planning/PROJECT.md (updated 2026-03-01)
 
 ## Current Position
 
-Phase: 1 of 5 (Foundation)
-Plan: 3 of 4 in current phase (01-01, 01-02, 01-03, 01-04 complete; all plans done — awaiting 01-03 human verification of live deployment)
-Status: Checkpoint — plan 01-03 Task 2 awaiting human verification of GitHub Pages live deployment
-Last activity: 2026-03-01 — Completed plan 01-03 Task 1: GitHub Actions CI/CD workflow created. Awaiting human to push to GitHub and verify Pages deployment.
+Phase: 01.1-life-problem-search (inserted after Phase 1)
+Plan: 1 of 3 complete in current phase (01.1-01 done; 01.1-02 and 01.1-03 remaining)
+Status: Active — plan 01.1-01 complete, ready for 01.1-02 (homepage integration)
+Last activity: 2026-03-28 — Completed plan 01.1-01: Fuse.js search index endpoint and LifeSearch island built.
 
 Progress: [████░░░░░░] 40%
 
@@ -84,6 +84,14 @@ Recent decisions affecting current work:
 - [Phase 01-foundation]: cancel-in-progress: false in GitHub Actions deploy — prevents half-finished Pages deployments leaving site broken
 - [Phase 01-foundation]: actions/configure-pages@v5 auto-injects site/base URLs — overrides astro.config.mjs placeholders from 01-01
 - [Phase 01-foundation]: withastro/action@v5 includes built-in Astro build cache (node_modules/.astro) — separate from npm package cache
+- [01.1-01]: Guard question array spreading with nullish coalescing — 58 Ch1/Ch2 verses have partial question objects missing health/relationships arrays
+- [01.1-01]: Store Fuse instance in useRef not useState — single instantiation, no re-creates on re-renders
+- [01.1-01]: Pass baseUrl as prop to LifeSearch island — never read import.meta.env.BASE_URL inside Preact islands
+- [01.1-01]: 200ms setTimeout on blur — allows result link clicks to register before dropdown closes
+
+### Roadmap Evolution
+
+- Phase 01.1 inserted after Phase 1: Life Problem Search — curated question-to-verse mappings with client-side fuzzy search and typeahead (URGENT, user priority)
 
 ### Pending Todos
 
@@ -96,6 +104,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-01
-Stopped at: Checkpoint in 01-03-PLAN.md — Task 2 (human-verify): GitHub Actions workflow created, awaiting user to push to GitHub and verify Pages deployment succeeds.
+Last session: 2026-03-28
+Stopped at: Completed 01.1-01-PLAN.md — Fuse.js search index + LifeSearch island. Next: 01.1-02 (homepage integration).
 Resume file: None
