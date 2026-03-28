@@ -1,0 +1,73 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import LifeSearch from '@components/islands/LifeSearch.tsx';
+---
+<BaseLayout
+  title="Explore the Gītā — Find Wisdom for Life's Challenges"
+  description="Search 700 verses of the Bhagavad Gītā for answers to life's hardest questions. Find wisdom on grief, anger, purpose, fear, and more."
+>
+  <main class="flex-1">
+
+    <!-- Hero -->
+    <section class="bg-gradient-to-b from-[--color-warm-50] to-white pt-16 pb-12 px-6">
+      <div class="max-w-2xl mx-auto text-center">
+        <p class="font-[--font-devanagari] text-base text-[--color-warm-400] mb-4">
+          श्रीमद्भगवद्गीता
+        </p>
+        <h1 class="font-[--font-display] text-4xl sm:text-5xl font-light text-[--color-warm-900] leading-[1.1] tracking-tight mb-4">
+          What are you struggling with?
+        </h1>
+        <p class="text-base sm:text-lg text-[--color-warm-500] leading-relaxed max-w-xl mx-auto mb-10">
+          The Bhagavad Gītā has been answering life's hardest questions for 5,000 years.
+          Type your question below.
+        </p>
+
+        <!-- Search island — hydrate immediately, this is the page's purpose -->
+        <LifeSearch baseUrl={import.meta.env.BASE_URL} client:load />
+
+        <!-- Example queries -->
+        <p class="mt-8 text-sm text-[--color-warm-400]">
+          Try:
+          <span class="inline-flex flex-wrap justify-center gap-x-2 gap-y-1 mt-1">
+            <span class="italic">"I feel lost"</span>
+            <span class="text-[--color-warm-300]">·</span>
+            <span class="italic">"how to deal with anger"</span>
+            <span class="text-[--color-warm-300]">·</span>
+            <span class="italic">"fear of failure"</span>
+            <span class="text-[--color-warm-300]">·</span>
+            <span class="italic">"letting go"</span>
+          </span>
+        </p>
+      </div>
+    </section>
+
+    <!-- About section -->
+    <section class="max-w-2xl mx-auto px-6 py-16">
+      <div class="grid sm:grid-cols-3 gap-8 text-center">
+        <div>
+          <p class="font-[--font-display] text-3xl text-[--color-saffron] mb-2">700+</p>
+          <p class="text-sm text-[--color-warm-500] leading-relaxed">verses indexed across all 18 chapters</p>
+        </div>
+        <div>
+          <p class="font-[--font-display] text-3xl text-[--color-saffron] mb-2">8</p>
+          <p class="text-sm text-[--color-warm-500] leading-relaxed">philosophical traditions synthesised per verse</p>
+        </div>
+        <div>
+          <p class="font-[--font-display] text-3xl text-[--color-saffron] mb-2">4</p>
+          <p class="text-sm text-[--color-warm-500] leading-relaxed">life pillars — growth, career, health, relationships</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Back to chapters -->
+    <div class="text-center pb-16">
+      <a
+        href={`${import.meta.env.BASE_URL}`}
+        class="inline-block text-sm text-[--color-saffron] hover:text-[--color-warm-700] transition-colors tracking-wide"
+      >
+        &larr; Browse all 18 chapters
+      </a>
+    </div>
+
+  </main>
+</BaseLayout>

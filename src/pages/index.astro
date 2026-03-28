@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import LifeSearch from '@components/islands/LifeSearch.tsx';
 import { getCollection } from 'astro:content';
 
 const allShlokas = await getCollection('chapters');
@@ -88,6 +89,19 @@ const totalVerses = allShlokas.length;
           <a href={`${import.meta.env.BASE_URL}learn-sanskrit/`} class="px-3 py-1 rounded-full bg-[--color-saffron]/80 text-xs text-white hover:bg-[--color-saffron] transition-colors">Learn Sanskrit</a>
         </div>
       </div>
+    </section>
+
+    <!-- Search — compact entry point in hero area -->
+    <section class="max-w-2xl mx-auto px-6 pt-6 pb-2">
+      <LifeSearch baseUrl={import.meta.env.BASE_URL} client:idle />
+      <p class="mt-3 text-center">
+        <a
+          href={`${import.meta.env.BASE_URL}explore/`}
+          class="text-xs text-[--color-saffron] hover:text-[--color-warm-700] transition-colors tracking-wide"
+        >
+          Or explore all life questions &rarr;
+        </a>
+      </p>
     </section>
 
     <!-- Chapter Grid — from version A -->
