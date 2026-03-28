@@ -36,6 +36,17 @@ Plans:
 - [ ] 01-03-PLAN.md — GitHub Actions CI/CD pipeline with caching and GitHub Pages deploy (Wave 3)
 - [x] 01-04-PLAN.md — MIT license, canonical source declaration, and AI content policy (Wave 1)
 
+### Phase 01.1: Life Problem Search (INSERTED)
+
+**Goal:** Users can type a real-life problem into a search box with typeahead suggestions and find relevant Gita verses — curated life-questions.json, client-side fuzzy search Preact island, and results with life applications
+**Requirements**: UX-03, UX-04, CONT-09
+**Depends on:** Phase 1
+**Plans:** 2 plans in 2 waves
+
+Plans:
+- [ ] 01.1-01-PLAN.md — Install Fuse.js, build-time search index endpoint, and LifeSearch Preact island (Wave 1)
+- [ ] 01.1-02-PLAN.md — /explore/ search page, homepage search integration, and human verification (Wave 2)
+
 ### Phase 2: Content Pipeline
 **Goal**: All 119 shlokas across chapters 1 and 2 exist as validated JSON files — reviewed for copyright compliance, theological accuracy, and transliteration consistency — ready for the UI to render
 **Depends on**: Phase 1
