@@ -86,7 +86,20 @@ export default function LifeSearch({ baseUrl, compact = false }: Props) {
   const fuseRef = useRef<Fuse<IndexEntry> | null>(null);
   const allQuestionsRef = useRef<string[]>([]);
   const inputRef = useRef<HTMLInputElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // Close suggestions on click outside
+  useEffect(() => {
+    const handleClickOutside = (e: MouseEvent) => {
+      if (containerRef.current && !containerRef.current.contains(e.target as Node)) {
+        setShowSuggestions(false);
+        setActiveSuggestion(-1);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
 
   const loadIndex = useCallback(async () => {
     if (fuseRef.current) return;
@@ -109,7 +122,7 @@ export default function LifeSearch({ baseUrl, compact = false }: Props) {
     }
   }, [baseUrl]);
 
-  const performSearch = useCallback((searchQuery: string) => {
+  const performSearch = useCallback((searchQuery: string, closeSuggestions = false) => {
     if (searchQuery.length < 2 || !fuseRef.current) {
       setResults([]);
       setSearchPerformed(false);
@@ -119,7 +132,9 @@ export default function LifeSearch({ baseUrl, compact = false }: Props) {
     const grouped = groupByVerse(hits);
     setResults(grouped);
     setSearchPerformed(true);
-    setShowSuggestions(false);
+    if (closeSuggestions) {
+      setShowSuggestions(false);
+    }
   }, []);
 
   const updateSuggestions = useCallback((value: string) => {
@@ -152,13 +167,13 @@ export default function LifeSearch({ baseUrl, compact = false }: Props) {
     setQuery(suggestion);
     setShowSuggestions(false);
     setSuggestions([]);
-    performSearch(suggestion);
+    performSearch(suggestion, true);
   }, [performSearch]);
 
   const handlePillClick = useCallback((theme: string) => {
     setQuery(theme);
     loadIndex().then(() => {
-      performSearch(theme);
+      performSearch(theme, true);
     });
   }, [loadIndex, performSearch]);
 
@@ -176,8 +191,7 @@ export default function LifeSearch({ baseUrl, compact = false }: Props) {
           if (activeSuggestion >= 0) {
             selectSuggestion(suggestions[activeSuggestion]);
           } else {
-            performSearch(query);
-            setShowSuggestions(false);
+            performSearch(query, true);
           }
         } else if (e.key === 'Escape') {
           setShowSuggestions(false);
@@ -185,7 +199,7 @@ export default function LifeSearch({ baseUrl, compact = false }: Props) {
         }
       } else if (e.key === 'Enter') {
         e.preventDefault();
-        performSearch(query);
+        performSearch(query, true);
       }
     },
     [showSuggestions, suggestions, activeSuggestion, selectSuggestion, performSearch, query]
@@ -220,7 +234,7 @@ export default function LifeSearch({ baseUrl, compact = false }: Props) {
   }
 
   return (
-    <div class="w-full max-w-2xl mx-auto">
+    <div ref={containerRef} class="w-full max-w-2xl mx-auto">
       {/* Search input */}
       <div class="relative">
         <span class="absolute left-4 top-1/2 -translate-y-1/2 text-[var(--color-warm-400)] pointer-events-none" aria-hidden="true">
