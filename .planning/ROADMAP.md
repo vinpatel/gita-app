@@ -171,8 +171,13 @@ This is a brownfield reskin and extension: existing content collections, routing
   3. Each of the 18 chapters can display its unique OKLCH hue as an accent color — visible in headers, borders, and badges — without that color bleeding into full-page backgrounds
   4. All pages are readable and scroll without horizontal overflow on a 375px viewport (iPhone SE)
   5. Hover states, reveal interactions, and page transitions animate; prefers-reduced-motion disables all animation without breaking layout
-**Plans**: TBD
+**Plans**: 3 plans in 3 waves
 **UI hint**: yes
+
+Plans:
+- [ ] 06-01-PLAN.md — Design tokens: semantic colors, dark/sepia overrides, fluid type scale, OKLCH chapter colors (Wave 1)
+- [ ] 06-02-PLAN.md — Font swap and BaseLayout: Inter + Noto Sans Devanagari, FOUC-proof theme toggle (Wave 2)
+- [ ] 06-03-PLAN.md — View Transitions (ClientRouter), animation system, responsive verification (Wave 3)
 
 ### Phase 7: Homepage & Navigation
 **Goal**: Users land on a search-first homepage that communicates the site's encyclopedic scope and provides both question-driven and chapter-driven entry points, with consistent site-wide navigation
@@ -262,7 +267,7 @@ This is a brownfield reskin and extension: existing content collections, routing
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 6. Design System | 0/? | Not started | - |
+| 6. Design System | 0/3 | Planned | - |
 | 7. Homepage & Navigation | 0/? | Not started | - |
 | 8. Verse Depth & Content Layers | 0/? | Not started | - |
 | 9. Commentary Panel | 0/? | Not started | - |
