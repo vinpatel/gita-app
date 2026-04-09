@@ -94,44 +94,44 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| DES-01 | TBD | Pending |
-| DES-02 | TBD | Pending |
-| DES-03 | TBD | Pending |
-| DES-04 | TBD | Pending |
-| DES-05 | TBD | Pending |
-| DES-06 | TBD | Pending |
-| DES-07 | TBD | Pending |
-| DES-08 | TBD | Pending |
-| NAV-01 | TBD | Pending |
-| NAV-02 | TBD | Pending |
-| NAV-03 | TBD | Pending |
-| NAV-04 | TBD | Pending |
-| VRS-01 | TBD | Pending |
-| VRS-02 | TBD | Pending |
-| VRS-03 | TBD | Pending |
-| VRS-04 | TBD | Pending |
-| VRS-05 | TBD | Pending |
-| VRS-06 | TBD | Pending |
-| VRS-07 | TBD | Pending |
-| VRS-08 | TBD | Pending |
-| SHR-01 | TBD | Pending |
-| SHR-02 | TBD | Pending |
-| SHR-03 | TBD | Pending |
-| SHR-04 | TBD | Pending |
-| AUT-01 | TBD | Pending |
-| AUT-02 | TBD | Pending |
-| AUT-03 | TBD | Pending |
-| AUT-04 | TBD | Pending |
-| AUT-05 | TBD | Pending |
-| RDX-01 | TBD | Pending |
-| RDX-02 | TBD | Pending |
-| RDX-03 | TBD | Pending |
+| DES-01 | Phase 6 | Pending |
+| DES-02 | Phase 6 | Pending |
+| DES-03 | Phase 6 | Pending |
+| DES-04 | Phase 6 | Pending |
+| DES-05 | Phase 6 | Pending |
+| DES-06 | Phase 6 | Pending |
+| DES-07 | Phase 6 | Pending |
+| DES-08 | Phase 6 | Pending |
+| NAV-01 | Phase 7 | Pending |
+| NAV-02 | Phase 7 | Pending |
+| NAV-03 | Phase 7 | Pending |
+| NAV-04 | Phase 7 | Pending |
+| VRS-01 | Phase 8 | Pending |
+| VRS-02 | Phase 8 | Pending |
+| VRS-03 | Phase 8 | Pending |
+| VRS-04 | Phase 8 | Pending |
+| VRS-05 | Phase 8 | Pending |
+| VRS-06 | Phase 9 | Pending |
+| VRS-07 | Phase 9 | Pending |
+| VRS-08 | Phase 9 | Pending |
+| SHR-01 | Phase 11 | Pending |
+| SHR-02 | Phase 12 | Pending |
+| SHR-03 | Phase 11 | Pending |
+| SHR-04 | Phase 12 | Pending |
+| AUT-01 | Phase 10 | Pending |
+| AUT-02 | Phase 10 | Pending |
+| AUT-03 | Phase 10 | Pending |
+| AUT-04 | Phase 10 | Pending |
+| AUT-05 | Phase 10 | Pending |
+| RDX-01 | Phase 13 | Pending |
+| RDX-02 | Phase 13 | Pending |
+| RDX-03 | Phase 13 | Pending |
 
 **Coverage:**
 - v1 requirements: 32 total
-- Mapped to phases: 0
-- Unmapped: 32 (pending roadmap creation)
+- Mapped to phases: 32
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-04-09*
-*Last updated: 2026-04-09 after redesign milestone initialization*
+*Last updated: 2026-04-09 — traceability completed after roadmap creation*

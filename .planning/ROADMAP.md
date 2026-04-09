@@ -1,22 +1,30 @@
-# Roadmap: Gita App
+# Roadmap: The Bhagavad Gita
 
-## Overview
+## Milestones
+
+- [x] **v1.0 Foundation** - Phases 1-5 (foundation, content pipeline, core UI, search, open source)
+- [x] **v1.1 Life Problem Search** - Phase 01.1 (curated question-to-verse search with typeahead)
+- [ ] **v2.0 Redesign** - Phases 6-13 (premium visual redesign, depth system, shareability, authority)
+
+---
+
+<details>
+<summary>v1.0 + v1.1 (Phases 1-5 + 01.1) - COMPLETE</summary>
+
+## Overview (v1.0)
 
 Build a static Bhagavad Gita web application that makes every shloka actionable wisdom. The critical path is content-first: schema and infrastructure before content generation, content before UI, search after content exists. V1 delivers chapters 1 and 2 fully polished — progressive reveal UX, synthesized multi-tradition commentary, and practical life applications — proving the template before scaling to all 700 shlokas.
 
-## Phases
+## Phases (v1.0)
 
-**Phase Numbering:**
-- Integer phases (1, 2, 3): Planned milestone work
-- Decimal phases (2.1, 2.2): Urgent insertions (marked with INSERTED)
-
-- [ ] **Phase 1: Foundation** - Astro 5 project scaffold, content schema, CI/CD, and legal guardrails
+- [x] **Phase 1: Foundation** - Astro 5 project scaffold, content schema, CI/CD, and legal guardrails
+- [x] **Phase 01.1: Life Problem Search** - Curated question-to-verse mappings with client-side fuzzy search and typeahead (INSERTED)
 - [ ] **Phase 2: Content Pipeline** - AI generation and human review of all 119 shlokas for chapters 1 and 2
 - [ ] **Phase 3: Core Reading UI** - Chapter grid, shloka pages, progressive reveal, and mobile-responsive design
 - [ ] **Phase 4: Search and SEO** - Pagefind full-text search, problem-based search, sitemap, and accessibility
 - [ ] **Phase 5: Open Source Readiness** - CONTRIBUTING.md, README, MIT license, and contribution templates
 
-## Phase Details
+## Phase Details (v1.0)
 
 ### Phase 1: Foundation
 **Goal**: A working Astro 5 project exists with a validated content schema, functional CI/CD, and legal guardrails established — so content generation can begin without risk of schema churn or copyright violation
@@ -32,8 +40,8 @@ Build a static Bhagavad Gita web application that makes every shloka actionable 
 
 Plans:
 - [x] 01-01-PLAN.md — Astro 5 project init with Tailwind v4, Preact, TypeScript strict, and folder structure (Wave 1)
-- [ ] 01-02-PLAN.md — Content Collection schema (Zod) for shloka data with IAST enforcement and test shloka (Wave 2)
-- [ ] 01-03-PLAN.md — GitHub Actions CI/CD pipeline with caching and GitHub Pages deploy (Wave 3)
+- [x] 01-02-PLAN.md — Content Collection schema (Zod) for shloka data with IAST enforcement and test shloka (Wave 2)
+- [x] 01-03-PLAN.md — GitHub Actions CI/CD pipeline with caching and GitHub Pages deploy (Wave 3)
 - [x] 01-04-PLAN.md — MIT license, canonical source declaration, and AI content policy (Wave 1)
 
 ### Phase 01.1: Life Problem Search (INSERTED)
@@ -44,8 +52,8 @@ Plans:
 **Plans:** 2/2 plans complete
 
 Plans:
-- [ ] 01.1-01-PLAN.md — Install Fuse.js, build-time search index endpoint, and LifeSearch Preact island (Wave 1)
-- [ ] 01.1-02-PLAN.md — /explore/ search page, homepage search integration, and human verification (Wave 2)
+- [x] 01.1-01-PLAN.md — Install Fuse.js, build-time search index endpoint, and LifeSearch Preact island (Wave 1)
+- [x] 01.1-02-PLAN.md — /explore/ search page, homepage search integration, and human verification (Wave 2)
 
 ### Phase 2: Content Pipeline
 **Goal**: All 119 shlokas across chapters 1 and 2 exist as validated JSON files — reviewed for copyright compliance, theological accuracy, and transliteration consistency — ready for the UI to render
@@ -119,15 +127,146 @@ Plans:
 - [ ] 05-02: CONTRIBUTING.md — content contribution guide, schema reference, review checklist, PR process
 - [ ] 05-03: Final deployment verification — live site audit, broken links check, build time confirmation
 
-## Progress
-
-**Execution Order:**
-Phases execute in numeric order: 1 → 2 → 3 → 4 → 5
+## Progress (v1.0)
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 3/4 | In Progress|  |
+| 1. Foundation | 4/4 | Complete | 2026-03-28 |
+| 01.1. Life Problem Search | 2/2 | Complete | 2026-03-28 |
 | 2. Content Pipeline | 0/4 | Not started | - |
 | 3. Core Reading UI | 0/8 | Not started | - |
 | 4. Search and SEO | 0/4 | Not started | - |
 | 5. Open Source Readiness | 0/3 | Not started | - |
+
+</details>
+
+---
+
+## v2.0 Redesign Milestone
+
+**Milestone Goal:** Transform the functional site into the most beautiful and authoritative Bhagavad Gita resource on the internet — premium dark-default design, scholar-grade depth system, built-in shareability, and Wikipedia-citable methodology infrastructure.
+
+This is a brownfield reskin and extension: existing content collections, routing (`/verse/{chapter}/{verse}/`, `/chapter/{n}/`), and Preact islands remain intact. We add tokens, new components, and new routes on top.
+
+## Phases (v2.0 Redesign)
+
+- [ ] **Phase 6: Design System** - Dark-default tokens, OKLCH chapter colors, typography scale, animation baseline, responsive foundation
+- [ ] **Phase 7: Homepage & Navigation** - Search-first homepage, redesigned chapter grid, persistent header with depth/theme controls
+- [ ] **Phase 8: Verse Depth & Content Layers** - 3-level depth toggle (Simple/Study/Scholar), content visibility control, localStorage persistence
+- [ ] **Phase 9: Commentary Panel** - Sefaria-style linked side panel, source attribution line, cross-chapter prev/next navigation
+- [ ] **Phase 10: Authority & Credibility** - Methodology + sources pages, Schema.org markup, SEO metadata, URL stability guarantee
+- [ ] **Phase 11: OG Image Pipeline** - Build-time per-verse OG images via Satori + resvg-js, /today deterministic verse route
+- [ ] **Phase 12: Share & Cite** - "Share as image" card generator (1:1 and 4:5 formats), "Cite this verse" widget (APA/MLA/Chicago)
+- [ ] **Phase 13: Reading Experience Polish** - Chapter progress tracking, explore/search continuity verification, Sanskrit rendering audit
+
+## Phase Details (v2.0 Redesign)
+
+### Phase 6: Design System
+**Goal**: A consistent visual language is available for all subsequent phases to consume — tokens, typography, chapter colors, animation rules, and responsive breakpoints all codified in CSS custom properties and Tailwind v4 theme blocks
+**Depends on**: Nothing (brownfield foundation — existing site continues to work throughout)
+**Requirements**: DES-01, DES-02, DES-03, DES-04, DES-05, DES-06, DES-07, DES-08
+**Success Criteria** (what must be TRUE):
+  1. Any page renders with a dark-default theme using warm off-white text; light mode and sepia mode toggle correctly via a persistent control that survives page navigation
+  2. Source Serif 4 appears for English translations, Noto Sans Devanagari (at 110% scale) for Sanskrit, and Inter for UI chrome across all pages
+  3. Each of the 18 chapters can display its unique OKLCH hue as an accent color — visible in headers, borders, and badges — without that color bleeding into full-page backgrounds
+  4. All pages are readable and scroll without horizontal overflow on a 375px viewport (iPhone SE)
+  5. Hover states, reveal interactions, and page transitions animate; prefers-reduced-motion disables all animation without breaking layout
+**Plans**: TBD
+**UI hint**: yes
+
+### Phase 7: Homepage & Navigation
+**Goal**: Users land on a search-first homepage that communicates the site's encyclopedic scope and provides both question-driven and chapter-driven entry points, with consistent site-wide navigation
+**Depends on**: Phase 6
+**Requirements**: NAV-01, NAV-02, NAV-03, NAV-04
+**Success Criteria** (what must be TRUE):
+  1. The homepage leads with a prominent search input ("What's troubling you?") and topic pills (anxiety, purpose, duty, loss, etc.) visible without scrolling on desktop and mobile
+  2. All 18 chapter cards appear below the search section with each card wearing its chapter accent color and showing the verse count
+  3. The site header on every page shows the "The Bhagavad Gita" wordmark, a theme toggle, and a depth-level selector
+  4. A tagline communicating multi-tradition encyclopedic scope (e.g., "18 Chapters. 700 Verses. 8 Traditions.") is visible on the homepage
+**Plans**: TBD
+**UI hint**: yes
+
+### Phase 8: Verse Depth & Content Layers
+**Goal**: Users can choose their reading depth on any verse page and see only the content appropriate to that level, with their preference persisted across sessions
+**Depends on**: Phase 6
+**Requirements**: VRS-01, VRS-02, VRS-03, VRS-04, VRS-05
+**Success Criteria** (what must be TRUE):
+  1. Every verse page has a clearly visible Simple / Study / Scholar toggle in or near the page header
+  2. Simple mode shows only the English translation and the life application section — all other content (transliteration, commentary, Sanskrit apparatus) is visually hidden
+  3. Study mode additionally shows IAST transliteration and word-by-word meanings
+  4. Scholar mode reveals all 8 tradition commentaries and the full Sanskrit apparatus
+  5. Choosing a depth level on one verse, then navigating to a different verse, shows the same depth level without re-selecting
+**Plans**: TBD
+**UI hint**: yes
+
+### Phase 9: Commentary Panel
+**Goal**: Users can explore tradition-specific commentary in context without a page reload and navigate fluidly between verses across chapter boundaries
+**Depends on**: Phase 8
+**Requirements**: VRS-06, VRS-07, VRS-08
+**Success Criteria** (what must be TRUE):
+  1. On desktop (Scholar mode), clicking a tradition name opens a side panel showing that tradition's commentary without navigating away from the verse page
+  2. On mobile, tradition commentaries are accessible as expandable sections within the page — no overlay required
+  3. Every verse page displays a source attribution line listing which of the 8 traditions contributed to the synthesis for that verse
+  4. The previous and next verse navigation buttons work at chapter boundaries — last verse of chapter N links forward to first verse of chapter N+1, first verse of chapter N links back to last verse of chapter N-1
+**Plans**: TBD
+**UI hint**: yes
+
+### Phase 10: Authority & Credibility
+**Goal**: Scholars and editors can verify the site's methodology and sources, and search engines can index and surface verse pages as high-authority results
+**Depends on**: Phase 6
+**Requirements**: AUT-01, AUT-02, AUT-03, AUT-04, AUT-05
+**Success Criteria** (what must be TRUE):
+  1. `/about/methodology` exists and documents the 5-layer content pipeline and 8-tradition synthesis process in readable prose with section headers
+  2. `/about/sources` exists and lists all classical and modern sources with full bibliographic citations (author, title, publisher, date)
+  3. Every verse page contains valid Schema.org `CreativeWork` or `ScholarlyArticle` structured data verifiable via Google's Rich Results Test tool
+  4. All existing URLs (`/verse/{chapter}/{verse}/`, `/chapter/{n}/`) resolve with 200 status — no regressions introduced
+  5. Every page carries a unique `<title>`, a `<meta name="description">`, and a canonical URL tag
+**Plans**: TBD
+
+### Phase 11: OG Image Pipeline
+**Goal**: Every verse page generates a share-ready preview image at build time, and a deterministic daily verse route provides a recurring social sharing hook
+**Depends on**: Phase 6
+**Requirements**: SHR-01, SHR-03
+**Success Criteria** (what must be TRUE):
+  1. Pasting any verse URL into Twitter, iMessage, or Slack shows a preview card displaying the translation line, verse reference (e.g., "BG 2.47"), and the chapter's accent color as background
+  2. The `/today` route resolves to a specific verse that is the same for all visitors on a given calendar date, with a share-ready card layout
+  3. OG image generation runs entirely at build time — no image service or CDN is required at runtime
+**Plans**: TBD
+
+### Phase 12: Share & Cite
+**Goal**: Users can generate a styled verse image for social media and a formatted academic citation directly from any verse page without leaving it
+**Depends on**: Phase 11
+**Requirements**: SHR-02, SHR-04
+**Success Criteria** (what must be TRUE):
+  1. A "Share as image" button on every verse page produces a downloadable or copyable styled card in 1:1 ratio (Instagram feed) and 4:5 ratio (Instagram Stories)
+  2. A "Cite this verse" control on every verse page generates ready-to-copy APA, MLA, and Chicago formatted citations
+  3. Both features operate entirely in-browser — no network requests beyond loading the current page are needed
+**Plans**: TBD
+**UI hint**: yes
+
+### Phase 13: Reading Experience Polish
+**Goal**: Users see their chapter reading progress on the homepage and the explore/search experience works seamlessly within the redesigned site
+**Depends on**: Phase 7
+**Requirements**: RDX-01, RDX-02, RDX-03
+**Success Criteria** (what must be TRUE):
+  1. The chapter grid on the homepage shows a visual progress indicator (e.g., filled arc or progress bar) for any chapter where at least one verse has been visited, driven entirely by localStorage
+  2. The `/explore/` page and its typeahead search function correctly under the new design with no broken styles or regressions in search behavior
+  3. Sanskrit Devanagari text on verse pages renders without tofu (missing glyph boxes) in Chrome, Firefox, and Safari on both desktop and mobile
+**Plans**: TBD
+**UI hint**: yes
+
+## Progress (v2.0 Redesign)
+
+**Execution Order:**
+6 → (7, 8 parallel) → 9 → (10, 11 parallel) → 12 → 13
+
+| Phase | Plans Complete | Status | Completed |
+|-------|----------------|--------|-----------|
+| 6. Design System | 0/? | Not started | - |
+| 7. Homepage & Navigation | 0/? | Not started | - |
+| 8. Verse Depth & Content Layers | 0/? | Not started | - |
+| 9. Commentary Panel | 0/? | Not started | - |
+| 10. Authority & Credibility | 0/? | Not started | - |
+| 11. OG Image Pipeline | 0/? | Not started | - |
+| 12. Share & Cite | 0/? | Not started | - |
+| 13. Reading Experience Polish | 0/? | Not started | - |
