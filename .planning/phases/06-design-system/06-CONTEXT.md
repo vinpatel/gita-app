@@ -1,48 +1,58 @@
 # Phase 6: Design System - Context
 
-**Gathered:** 2026-04-09
+**Gathered:** 2026-04-10
 **Status:** Ready for planning
 
 <domain>
 ## Phase Boundary
 
-Phase 6 delivers a consistent visual language for all subsequent v2.0 phases to consume: dark-default theme with light and sepia alternatives, OKLCH chapter color system, typography scale, animation baseline, and responsive foundation. All codified in CSS custom properties and Tailwind v4 theme blocks.
+Phase 6 delivers a bold, 37signals-inspired visual language and a life-lesson-first homepage. Solid primary colors, sans-serif bold headings, full-page search takeover, and 18 numbered life lessons as the front door. Light + Dark modes only. All codified in CSS custom properties and Tailwind v4 theme blocks.
 
 </domain>
 
 <decisions>
 ## Implementation Decisions
 
-### Theme Modes & Switching
-- **D-01:** 3-way theme toggle: Dark (default) / Light / Sepia. Cycling control in the site header. Applied via class on `<html>` element (`dark` | `light` | `sepia`). Persisted in localStorage key `theme`.
-- **D-02:** Dark mode palette: warm charcoal background (#1a1714), warm off-white text (#f5f0e8), secondary text (#a89b88), saffron gold accent (#C4832D). Vibe: "ancient library at night."
-- **D-03:** Light mode palette: current cream (#FAF7F2) base with warm-800 text. Existing warm palette carries over.
-- **D-04:** Sepia mode palette: aged parchment background (#f4e8c1), dark brown text (#3b2f1e), secondary (#6b5a42), saffron gold accent. Vibe: "reading a physical manuscript."
-- **D-05:** Theme toggle lives in the persistent site header bar, next to the depth-level selector (Phase 7 wires it up; Phase 6 provides the component and token infrastructure).
+### Color Palette & Mood
+- **D-01:** Bold primary colors like 37signals/HEY/Basecamp — saturated blue, warm yellow, forest green, burnt orange. Solid color blocks, not gradients or warm creams.
+- **D-02:** Each section or chapter can get a bold solid background color with white or dark text on top. No transparency, no blur, no gradients.
+- **D-03:** Saffron (#C4832D) remains the brand accent but lives alongside the bold primaries, not as the dominant palette.
 
-### Chapter Color System
-- **D-06:** 18 chapter colors generated using OKLCH color space with 20-degree hue increments. Used as accent touches only: header accent bar/border, chapter card left border/badge, verse page top stripe. Never full-page backgrounds. Saffron gold remains the global accent.
-- **D-07:** Chapter colors adapt per theme mode via auto lightness shift: same OKLCH hue, but lightness/chroma adjust — dark mode = brighter/more saturated, light mode = muted/deeper, sepia = warm-shifted. One `--chapter-hue` CSS custom property per chapter, lightness/chroma derived in CSS.
+### Theme Modes
+- **D-04:** Two modes only: Light (default) + Dark. Drop sepia entirely.
+- **D-05:** Light mode: bold solid colors on white/light neutral backgrounds. Dark mode: same bold colors, brighter/more saturated on dark backgrounds.
+- **D-06:** Theme toggle: simple Dark/Light switch. Persisted in localStorage key 'theme'. Applied via class on `<html>`.
 
-### Typography & Type Scale
-- **D-08:** Font stack: Cormorant Garamond (display headings — chapter titles, hero text), Source Serif 4 (body/translations/prose), Inter (UI chrome — nav, buttons, labels, metadata), Noto Sans Devanagari at 110% scale (Sanskrit/Devanagari text).
-- **D-09:** Replace Tiro Devanagari Sanskrit + Noto Serif Devanagari with Noto Sans Devanagari. Install `@fontsource/noto-sans-devanagari` (or variable variant). Remove Tiro and Noto Serif Devanagari packages.
-- **D-10:** 9-level fluid type scale using CSS clamp() — responsive sizes that scale between mobile and desktop with no breakpoint jumps. Headings reach 40px+ on desktop. Scale: text-xs through text-hero.
-- **D-11:** Headings use `text-wrap: balance` for visual harmony.
+### Homepage Layout
+- **D-07:** Homepage = bold numbered list of 18 life lessons. Full-width rows, huge numbers (1-18), lesson text large and prominent. Like a manifesto.
+- **D-08:** Search box at top of homepage, above the lessons list.
+- **D-09:** Each lesson is a direct link to the chapter page — no expand, no accordion, no hover preview. Click lesson → chapter page.
+- **D-10:** Chapter grid (current design) becomes secondary — the 18 life lessons ARE the primary navigation.
+
+### Search
+- **D-11:** Full-page takeover when user types in search box. Like Spotlight/Alfred overlay.
+- **D-12:** Shows matching life questions from the database, grouped by life area.
+- **D-13:** Accepts freeform queries — user can type any question and get matched to relevant verses.
+- **D-14:** Existing LifeSearch.tsx Preact island with Fuse.js can be adapted for the full-page takeover behavior.
+
+### Typography
+- **D-15:** Mix approach: Inter Bold for headings and UI elements. Source Serif 4 for body/reading text (verse translations, explanations).
+- **D-16:** Noto Sans Devanagari stays for Sanskrit text at 110% scale.
+- **D-17:** Drop Cormorant Garamond — Inter replaces it for display headings.
+- **D-18:** Fluid type scale still applies — headings should be large and bold.
 
 ### Animation & Motion
-- **D-12:** Contemplative & subtle animation personality: slow, gentle transitions (300-500ms). Fade + slight vertical shift for page enters. Staggered fade-in for lists (50ms delay between items). No bouncing, springs, or overshoots. Easing: ease-out for enters, ease-in for exits.
-- **D-13:** prefers-reduced-motion: instant swap — all animation/transition durations set to ~0ms. Content still appears/disappears but without movement or fading.
-- **D-14:** Use Astro View Transitions API (`<ViewTransitions />` component) for cross-page transitions. Crossfade (300ms) for page changes, morph for shared elements (chapter headers, verse refs). Graceful degradation in unsupported browsers.
+- **D-19:** Keep Astro View Transitions (ClientRouter) for page transitions — crossfade 300ms.
+- **D-20:** prefers-reduced-motion: disable all animation without breaking layout.
+- **D-21:** Minimal animation overall — the bold colors and typography do the work, not motion.
 
 ### Claude's Discretion
-- Exact OKLCH hue values for each of 18 chapters (within the 20-degree increment constraint)
-- Exact clamp() values for the 9-level type scale (within the 40px+ heading constraint)
-- CSS custom property naming conventions
-- Semantic color token naming (primary/secondary/tertiary/quaternary text tokens)
-- Responsive breakpoints and spacing scale
-- Whether theme toggle is Preact island or vanilla JS `<script>`
-- Structure of design system files (single global.css vs split partials)
+- Exact primary color values (specific hex/oklch for the bold palette)
+- CSS custom property naming
+- Responsive breakpoints and spacing
+- 18-chapter color assignment (which bold color for which chapter)
+- Search overlay implementation details (z-index, animation, close behavior)
+- Whether theme toggle is Preact island or vanilla JS
 
 </decisions>
 
@@ -52,17 +62,19 @@ Phase 6 delivers a consistent visual language for all subsequent v2.0 phases to 
 **Downstream agents MUST read these before planning or implementing.**
 
 ### Project Context
-- `.planning/PROJECT.md` -- Core value, constraints, design inspiration references (Sefaria, Quran.com, Linear, Daily Stoic, 37signals)
-- `.planning/REQUIREMENTS.md` -- DES-01 through DES-08 are this phase's requirements
-- `.planning/ROADMAP.md` -- Phase 6 success criteria and dependency map
+- `.planning/PROJECT.md` — Core value, constraints
+- `.planning/REQUIREMENTS.md` — DES-01 through DES-08 are this phase's requirements
+- `.planning/ROADMAP.md` — Phase 6 success criteria and dependency map
 
 ### Existing Code
-- `src/styles/global.css` -- Current Tailwind v4 theme block with warm palette tokens, animations. Will be heavily modified.
-- `src/layouts/BaseLayout.astro` -- Current font imports and page structure. Needs ViewTransitions, theme class, font changes.
-- `src/components/islands/` -- 3 existing Preact islands (ApplicationCards, CommentaryTabs, LifeSearch) that must work with new tokens.
+- `src/styles/global.css` — Current Tailwind v4 theme block. Will be heavily rewritten with bold palette.
+- `src/layouts/BaseLayout.astro` — Current font imports and page structure. Needs font changes, theme toggle update.
+- `src/pages/index.astro` — Current homepage with chapter grid. Has `chapterMeta` array with lesson fields. Will be redesigned.
+- `src/components/islands/LifeSearch.tsx` — 403-line Preact island with Fuse.js search. Adapt for full-page takeover.
+- `src/styles/global-version-a.css` — Backup of pre-Phase 6 global.css (keep as reference).
 
-### No External Specs
-No external design specs or ADRs exist. Requirements fully captured in decisions above.
+### Design Reference
+- 37signals.com, hey.com, basecamp.com — Bold solid color blocks, clean sans-serif typography, confident layout
 
 </canonical_refs>
 
@@ -70,42 +82,44 @@ No external design specs or ADRs exist. Requirements fully captured in decisions
 ## Existing Code Insights
 
 ### Reusable Assets
-- `global.css` @theme{} block: Tailwind v4 theme tokens already in place — extend with dark/sepia modes and chapter colors
-- `BaseLayout.astro`: Font loading pattern established — add Inter, swap Devanagari fonts, add ViewTransitions
-- Existing animations (fade-in, slide-up, breathe): Keep and extend with the contemplative motion system
+- `LifeSearch.tsx` — Fuse.js fuzzy search with question index, curated themes, verse grouping. Core search logic reusable — needs UI overhaul for full-page takeover.
+- `chapterMeta` in `index.astro` — Already has lesson text per chapter. Direct data source for the new homepage.
+- `global.css` @theme{} block — Tailwind v4 theme tokens pattern established. Rewrite with bold palette.
+- Existing animations (fade-in, slide-up) — Keep for transitions.
 
 ### Established Patterns
-- Tailwind v4 CSS-native config via `@theme{}` blocks — no tailwind.config.js (Phase 1 decision)
-- Self-hosted fonts via `@fontsource` packages (Phase 1 decision)
-- Preact islands in `src/components/islands/` with `client:load` / `client:visible` directives
-- CSS custom properties for design tokens (already used for colors, fonts, animations)
+- Tailwind v4 CSS-native config via `@theme{}` blocks
+- Self-hosted fonts via `@fontsource` packages
+- Preact islands with `client:load` / `client:visible` / `client:idle`
+- CSS custom properties for design tokens
 
 ### Integration Points
-- Theme toggle component needs to work with future header (Phase 7)
-- Chapter color tokens consumed by chapter grid (Phase 7), verse pages (Phase 8), commentary panel (Phase 9)
+- Theme toggle needs to work with future header (Phase 7)
+- Bold chapter colors consumed by chapter pages, verse pages, commentary panels
 - Typography scale used across all subsequent phases
-- View Transitions in BaseLayout.astro affect all page navigation site-wide
+- Search takeover component used site-wide
 
 </code_context>
 
 <specifics>
 ## Specific Ideas
 
-- Dark mode vibe: "ancient library at night" — warm charcoal, not cold/tech
-- Sepia mode vibe: "reading a physical manuscript" — parchment, not just tinted white
-- Chapter colors as accent touches only (left borders, top stripes, badges) — never full-page backgrounds
-- Saffron gold (#C4832D) remains the global accent across all modes
+- 37signals aesthetic: solid bold color blocks, not gradients or transparency
+- Homepage feels like a manifesto — "18 life lessons" with huge numbers
+- Search feels like Spotlight/Alfred — full-page takeover, immediate, powerful
+- Direct chapter links — no friction, click and go
+- Confident, opinionated design — not trying to look like every other spiritual site
 
 </specifics>
 
 <deferred>
 ## Deferred Ideas
 
-None -- discussion stayed within phase scope
+None — discussion stayed within phase scope
 
 </deferred>
 
 ---
 
 *Phase: 06-design-system*
-*Context gathered: 2026-04-09*
+*Context gathered: 2026-04-10*

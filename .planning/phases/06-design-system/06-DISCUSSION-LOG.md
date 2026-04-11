@@ -1,160 +1,99 @@
-# Phase 6: Design System - Discussion Log
+# Phase 6: Design System - Discussion Log (Redesign)
 
 > **Audit trail only.** Do not use as input to planning, research, or execution agents.
-> Decisions are captured in CONTEXT.md -- this log preserves the alternatives considered.
+> Decisions are captured in CONTEXT.md — this log preserves the alternatives considered.
 
-**Date:** 2026-04-09
+**Date:** 2026-04-10
 **Phase:** 06-design-system
-**Areas discussed:** Theme modes & switching, Chapter color system, Typography & type scale, Animation & motion
+**Areas discussed:** Color palette & mood, Homepage layout, Typography & fonts, Theme modes, Search, Lesson interaction
+**Note:** This is the SECOND discussion — first attempt (2026-04-09) was rejected after seeing the warm/scholarly design locally. User pivoted to 37signals-style bold design.
 
 ---
 
-## Theme Modes & Switching
-
-### How should the theme toggle work?
+## Color Palette & Mood
 
 | Option | Description | Selected |
 |--------|-------------|----------|
-| 3-way toggle | Dark / Light / Sepia cycling control, class on `<html>`, localStorage persistence | ✓ |
-| Dark + Light only | Skip sepia, simpler implementation | |
-| System-aware + manual | Respect prefers-color-scheme first, then manual override | |
+| Bold primaries | Like 37signals/HEY — saturated blue, yellow, green, orange. Bold solid color blocks. | ✓ |
+| Muted earth tones | Solid but softer — terracotta, olive, clay, slate. Warmer/spiritual. | |
+| One bold + neutrals | One signature color with clean white/dark neutral backgrounds. | |
 
-**User's choice:** 3-way toggle (Dark / Light / Sepia)
-
-### Where should the theme toggle live?
-
-| Option | Description | Selected |
-|--------|-------------|----------|
-| Header bar | Small icon button in persistent site header | ✓ |
-| Floating corner button | Fixed position, always visible | |
-| You decide | Claude picks | |
-
-**User's choice:** Header bar
-
-### Dark mode palette vibe
-
-| Option | Description | Selected |
-|--------|-------------|----------|
-| Warm charcoal | #1a1714 background, #f5f0e8 text, "ancient library at night" | ✓ |
-| Cool dark | Blue-gray dark, modern/tech feel | |
-| True black | #000000, OLED-friendly, maximum contrast | |
-
-**User's choice:** Warm charcoal
-
-### Sepia mode palette
-
-| Option | Description | Selected |
-|--------|-------------|----------|
-| Parchment warm | #f4e8c1 background, #3b2f1e text, "reading a physical manuscript" | ✓ |
-| Subtle sepia | Barely tinted, close to current cream | |
-| You decide | Claude picks | |
-
-**User's choice:** Parchment warm
+**User's choice:** Bold primaries
+**Notes:** User explicitly referenced 37signals multiple times. Rejected the warm cream/parchment palette from the previous Phase 6 attempt.
 
 ---
 
-## Chapter Color System
-
-### How should chapter colors be used?
+## Homepage Layout
 
 | Option | Description | Selected |
 |--------|-------------|----------|
-| Accent touches | Header bar/border, card badge, verse page stripe. Never full-page backgrounds. | ✓ |
-| Bold color sections | Prominent use in hero backgrounds, sidebar tinting | |
-| Minimal -- badges only | Small dot/pill badge only | |
+| Bold numbered list | Full-width rows, huge numbers (1-18), lesson text large. Like a manifesto. | ✓ |
+| Color-block cards | Each lesson gets its own bold-colored card/tile in a grid. | |
+| Alternating full-width | Each lesson is a full-width color band with alternating bold colors. | |
 
-**User's choice:** Accent touches
-
-### How should colors adapt across theme modes?
-
-| Option | Description | Selected |
-|--------|-------------|----------|
-| Auto lightness shift | Same hue, lightness/chroma adjust per mode | ✓ |
-| Fixed colors | Same values across all modes | |
-| You decide | Claude picks | |
-
-**User's choice:** Auto lightness shift
+**User's choice:** Bold numbered list
+**Notes:** Search box at top, above the lessons.
 
 ---
 
-## Typography & Type Scale
-
-### What happens to Cormorant Garamond?
+## Typography & Fonts
 
 | Option | Description | Selected |
 |--------|-------------|----------|
-| Keep all three | Cormorant (display) + Source Serif 4 (body) + Inter (UI) | ✓ |
-| Drop Cormorant | Source Serif 4 for both display and body | |
-| You decide | Claude picks | |
+| Keep current fonts | Cormorant Garamond + Source Serif 4 + Inter + Noto Sans Devanagari | |
+| Go sans-serif bold | Inter for everything. Bold weights. Clean, modern. | |
+| Mix: sans headings + serif body | Inter Bold for headings/UI. Source Serif 4 for reading text. | ✓ |
 
-**User's choice:** Keep all three
-
-### Devanagari font stack
-
-| Option | Description | Selected |
-|--------|-------------|----------|
-| Switch to Noto Sans Devanagari | Match requirements, drop Tiro + Noto Serif | ✓ |
-| Keep Tiro as primary | Tiro Devanagari Sanskrit primary, Noto Sans fallback | |
-| You decide | Claude picks | |
-
-**User's choice:** Switch to Noto Sans Devanagari
-
-### Type scale approach
-
-| Option | Description | Selected |
-|--------|-------------|----------|
-| Fluid clamp scale | CSS clamp() for responsive sizes, no breakpoint jumps | ✓ |
-| Fixed with breakpoints | Traditional fixed sizes per breakpoint | |
-| You decide | Claude picks | |
-
-**User's choice:** Fluid clamp scale
+**User's choice:** Mix — Inter Bold headings, Source Serif 4 body
+**Notes:** Drops Cormorant Garamond. Keeps Noto Sans Devanagari for Sanskrit.
 
 ---
 
-## Animation & Motion
-
-### Animation personality
+## Theme Modes
 
 | Option | Description | Selected |
 |--------|-------------|----------|
-| Contemplative & subtle | 300-500ms, fade + vertical shift, no springs/bounces | ✓ |
-| Crisp & modern | 150-250ms, sharp easing, Linear/Vercel feel | |
-| Minimal -- near zero | Only essential transitions | |
+| Just light | One mode only. Bold colors on white/light. Simplest. | |
+| Light + Dark | Two modes. Bold colors adapt for dark. No sepia. | ✓ |
+| Keep all three | Light, Dark, Sepia with bold color adaptation. | |
 
-**User's choice:** Contemplative & subtle
+**User's choice:** Light + Dark (drop sepia)
 
-### prefers-reduced-motion handling
+---
 
-| Option | Description | Selected |
-|--------|-------------|----------|
-| Instant swap | All durations to ~0ms, content still toggles | ✓ |
-| Gentle fade only | Remove transforms, keep opacity fades at 150ms | |
-| You decide | Claude picks based on WCAG | |
-
-**User's choice:** Instant swap
-
-### View Transitions API
+## Search Behavior
 
 | Option | Description | Selected |
 |--------|-------------|----------|
-| Yes, use View Transitions | Astro ViewTransitions component, crossfade + morph | ✓ |
-| No, standard navigation | Full page loads, zero JS overhead | |
-| You decide | Claude evaluates | |
+| Dropdown suggestions | Dropdown shows matching questions. Click to navigate. | |
+| Full-page takeover | Full-screen overlay like Spotlight/Alfred. Grouped by life area. | ✓ |
+| Inline expand | Results below search box, pushing content down. | |
 
-**User's choice:** Yes, use View Transitions
+**User's choice:** Full-page takeover
+**Notes:** Accepts freeform queries. Existing LifeSearch.tsx to be adapted.
+
+---
+
+## Lesson Interaction
+
+| Option | Description | Selected |
+|--------|-------------|----------|
+| Direct link to chapter | Click lesson → chapter page. Simplest. | ✓ |
+| Expand inline | Click → accordion with details and 'Read chapter' button. | |
+| Hover preview | Hover shows tooltip/card. Click goes to chapter. | |
+
+**User's choice:** Direct link to chapter
 
 ---
 
 ## Claude's Discretion
 
-- Exact OKLCH hue values for 18 chapters
-- Exact clamp() values for 9-level type scale
-- CSS custom property naming conventions
-- Semantic color token naming
-- Responsive breakpoints and spacing scale
-- Theme toggle implementation (Preact vs vanilla JS)
-- Design system file structure
+- Exact primary color hex values
+- CSS custom property naming
+- 18-chapter color assignment
+- Search overlay implementation details
+- Responsive breakpoints
 
 ## Deferred Ideas
 
-None -- discussion stayed within phase scope
+None
