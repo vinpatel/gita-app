@@ -1,14 +1,37 @@
 @import "tailwindcss";
 @source "../../src/**/*.{astro,tsx,ts}";
 
-/* Design tokens — crystal glass aesthetic */
-@theme {
-  /* Typography */
-  --font-display: 'Cormorant Garamond Variable', 'Georgia', serif;
-  --font-body: 'Source Serif 4 Variable', 'Georgia', serif;
-  --font-devanagari: 'Tiro Devanagari Sanskrit', 'Noto Serif Devanagari', serif;
+/* === BOLD DESIGN SYSTEM — 37signals inspired === */
 
-  /* Warm palette — parchment + ink */
+@theme {
+  /* Typography — Inter for headings/UI, Source Serif for reading */
+  --font-display: 'Inter Variable', system-ui, sans-serif;
+  --font-body: 'Source Serif 4 Variable', 'Georgia', serif;
+  --font-ui: 'Inter Variable', system-ui, sans-serif;
+  --font-devanagari: 'Noto Sans Devanagari Variable', sans-serif;
+
+  /* Colors — clean light mode only */
+  --color-bg: #ffffff;
+  --color-bg-raised: #f5f5f4;
+  --color-border: #e7e5e4;
+  --color-text: #1c1917;
+  --color-text-2: #57534e;
+  --color-text-3: #a8a29e;
+  --color-accent: #C4832D;
+  --color-accent-dim: #C4832D15;
+
+  /* Bold primaries — 37signals palette */
+  --color-blue: #1d4ed8;
+  --color-yellow: #eab308;
+  --color-green: #15803d;
+  --color-orange: #ea580c;
+  --color-red: #dc2626;
+  --color-purple: #7c3aed;
+  --color-teal: #0d9488;
+  --color-pink: #db2777;
+  --color-indigo: #4338ca;
+
+  /* Legacy warm palette (backward compat with existing islands) */
   --color-cream: #FAF7F2;
   --color-warm-50: #F8F5EF;
   --color-warm-100: #F0EBE1;
@@ -20,17 +43,45 @@
   --color-warm-700: #4A4035;
   --color-warm-800: #332D24;
   --color-warm-900: #1E1A14;
-
-  /* Accent — saffron gold */
   --color-saffron: #C4832D;
   --color-saffron-light: #E8B86D;
   --color-saffron-muted: #D4A95A20;
 
+  /* Fluid type scale (375px@16px/1.2 → 1280px@18px/1.25) */
+  --text-xs: clamp(0.78rem, 0.77rem + 0.03vw, 0.80rem);
+  --text-sm: clamp(0.94rem, 0.91rem + 0.11vw, 1.00rem);
+  --text-base: clamp(1.13rem, 1.07rem + 0.23vw, 1.25rem);
+  --text-md: clamp(1.35rem, 1.26rem + 0.39vw, 1.56rem);
+  --text-lg: clamp(1.62rem, 1.48rem + 0.61vw, 1.95rem);
+  --text-xl: clamp(1.94rem, 1.74rem + 0.90vw, 2.44rem);
+  --text-2xl: clamp(2.33rem, 2.04rem + 1.31vw, 3.05rem);
+  --text-3xl: clamp(2.80rem, 2.38rem + 1.85vw, 3.81rem);
+  --text-hero: clamp(3.35rem, 2.81rem + 2.43vw, 4.77rem);
+
   /* Animations */
   --animate-fade-in: fade-in 0.35s ease-out;
   --animate-slide-up: slide-up 0.4s ease-out;
-  --animate-breathe: breathe 6s ease-in-out infinite;
 }
+
+/* 18 chapter colors — matched to each chapter's temperament/teaching */
+.chapter-1  { --ch-bg: #374151; --ch-text: #fff; } /* Gray — confusion, inner turmoil */
+.chapter-2  { --ch-bg: #1d4ed8; --ch-text: #fff; } /* Blue — clarity, eternal wisdom */
+.chapter-3  { --ch-bg: #ea580c; --ch-text: #fff; } /* Orange — action, fire of karma */
+.chapter-4  { --ch-bg: #7c3aed; --ch-text: #fff; } /* Purple — ancient knowledge, mystical */
+.chapter-5  { --ch-bg: #0d9488; --ch-text: #fff; } /* Teal — freedom, equanimity */
+.chapter-6  { --ch-bg: #1e40af; --ch-text: #fff; } /* Deep blue — meditation, stillness */
+.chapter-7  { --ch-bg: #6d28d9; --ch-text: #fff; } /* Violet — realization, divine nature */
+.chapter-8  { --ch-bg: #1c1917; --ch-text: #fff; } /* Black — the imperishable, death/beyond */
+.chapter-9  { --ch-bg: #b45309; --ch-text: #fff; } /* Gold — royal knowledge, devotion */
+.chapter-10 { --ch-bg: #15803d; --ch-text: #fff; } /* Green — abundance, divine manifestation */
+.chapter-11 { --ch-bg: #dc2626; --ch-text: #fff; } /* Red — cosmic vision, awe/terror */
+.chapter-12 { --ch-bg: #db2777; --ch-text: #fff; } /* Pink — love, bhakti, devotion */
+.chapter-13 { --ch-bg: #115e59; --ch-text: #fff; } /* Dark teal — discernment, field/knower */
+.chapter-14 { --ch-bg: #854d0e; --ch-text: #fff; } /* Brown — three gunas, earthly nature */
+.chapter-15 { --ch-bg: #166534; --ch-text: #fff; } /* Forest — tree of life, detachment */
+.chapter-16 { --ch-bg: #9f1239; --ch-text: #fff; } /* Crimson — divine vs demonic, moral urgency */
+.chapter-17 { --ch-bg: #4338ca; --ch-text: #fff; } /* Indigo — faith, depth of conviction */
+.chapter-18 { --ch-bg: #c2410c; --ch-text: #fff; } /* Burnt orange — surrender, final liberation */
 
 @keyframes fade-in {
   from { opacity: 0; }
@@ -42,9 +93,25 @@
   to { opacity: 1; transform: translateY(0); }
 }
 
-@keyframes breathe {
-  0%, 100% { opacity: 0.4; }
-  50% { opacity: 0.8; }
+/* View Transition animations */
+::view-transition-old(root) {
+  animation: 300ms ease-in both vt-fade-out;
+}
+::view-transition-new(root) {
+  animation: 300ms ease-out both fade-in;
+}
+@keyframes vt-fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
 
 /* Base styles */
@@ -58,16 +125,25 @@
 
   body {
     font-family: var(--font-body);
-    background-color: var(--color-cream);
-    color: var(--color-warm-800);
-    line-height: 1.8;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    line-height: 1.7;
     letter-spacing: 0.01em;
   }
 
-  /* Elegant selection */
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    text-wrap: balance;
+  }
+
   ::selection {
-    background-color: var(--color-saffron-muted);
-    color: var(--color-warm-900);
+    background-color: var(--color-accent-dim);
+    color: var(--color-text);
+  }
+
+  a, button, [role="button"] {
+    transition: color 200ms ease-out, background-color 200ms ease-out, border-color 200ms ease-out, opacity 200ms ease-out;
   }
 }
 

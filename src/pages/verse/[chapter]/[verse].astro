@@ -23,7 +23,6 @@ if (!shloka) return Astro.redirect('/');
 
 const d = shloka.data;
 
-// Navigation — prev/next within same chapter
 const chapterShlokas = allShlokas
   .filter((s) => s.data.chapter === chapterNum)
   .sort((a, b) => a.data.verse - b.data.verse);
@@ -32,88 +31,61 @@ const prev = idx > 0 ? chapterShlokas[idx - 1] : null;
 const next = idx < chapterShlokas.length - 1 ? chapterShlokas[idx + 1] : null;
 
 const chapterNames: Record<number, string> = {
-  1: "Arjuna's Dilemma",
-  2: 'The Path of Knowledge',
-  3: 'The Path of Action',
-  4: 'Knowledge & Renunciation',
-  5: 'Renunciation of Action',
-  6: 'The Path of Meditation',
-  7: 'Knowledge & Realization',
-  8: 'The Imperishable Absolute',
-  9: 'Royal Knowledge',
-  10: 'Divine Manifestations',
-  11: 'The Cosmic Vision',
-  12: 'The Path of Devotion',
-  13: 'The Field & The Knower',
-  14: 'The Three Gunas',
-  15: 'The Supreme Person',
-  16: 'Divine & Demonic Natures',
-  17: 'Three Kinds of Faith',
-  18: 'Liberation Through Surrender',
+  1: "Arjuna's Dilemma", 2: 'The Path of Knowledge', 3: 'The Path of Action',
+  4: 'Knowledge & Renunciation', 5: 'Renunciation of Action', 6: 'The Path of Meditation',
+  7: 'Knowledge & Realization', 8: 'The Imperishable Absolute', 9: 'Royal Knowledge',
+  10: 'Divine Manifestations', 11: 'The Cosmic Vision', 12: 'The Path of Devotion',
+  13: 'The Field & The Knower', 14: 'The Three Gunas', 15: 'The Supreme Person',
+  16: 'Divine & Demonic Natures', 17: 'Three Kinds of Faith', 18: 'Liberation Through Surrender',
 };
 
-// Split Sanskrit lines for display
 const sanskritLines = d.sanskrit.split('\n').filter(Boolean);
 const iastLines = d.iast.split('\n').filter(Boolean);
 ---
 <BaseLayout title={`Verse ${chapterNum}.${verseNum} — ${chapterNames[chapterNum] ?? ''}`}>
 
-  <!-- Sticky navigation bar -->
-  <nav class="sticky top-0 z-20 bg-[--color-cream]/90 backdrop-blur-md border-b border-[--color-warm-100]/60">
-    <div class="max-w-3xl mx-auto px-6 py-3 flex items-center justify-between">
-      <a href={`${import.meta.env.BASE_URL}chapter/${chapterNum}/`}
-         class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400] hover:text-[--color-saffron] transition-colors duration-200">
-        Chapter {chapterNum}
-      </a>
-      <span class="font-[--font-display] text-sm text-[--color-warm-600]">
-        {chapterNum}.{verseNum}
-      </span>
-      <div class="flex gap-3">
-        {prev && (
-          <a href={`${import.meta.env.BASE_URL}verse/${chapterNum}/${prev.data.verse}/`}
-             class="text-xs uppercase tracking-[0.15em] text-[--color-warm-400] hover:text-[--color-saffron] transition-colors duration-200"
-             title={`Verse ${chapterNum}.${prev.data.verse}`}>
-            Prev
-          </a>
-        )}
-        {next && (
-          <a href={`${import.meta.env.BASE_URL}verse/${chapterNum}/${next.data.verse}/`}
-             class="text-xs uppercase tracking-[0.15em] text-[--color-warm-400] hover:text-[--color-saffron] transition-colors duration-200"
-             title={`Verse ${chapterNum}.${next.data.verse}`}>
-            Next
-          </a>
-        )}
-      </div>
-    </div>
-  </nav>
+  <!-- Verse header — chapter color background -->
+  <header class={`chapter-${chapterNum}`}>
+    <div class="px-6 py-10 sm:py-14" style={`background-color: var(--ch-bg); color: var(--ch-text);`}>
+      <nav class="max-w-3xl mx-auto flex items-center justify-between mb-8">
+        <a href={`${import.meta.env.BASE_URL}chapter/${chapterNum}/`}
+           class="text-sm opacity-70 hover:opacity-100 transition-opacity">
+          &larr; Chapter {chapterNum}
+        </a>
+        <div class="flex gap-4">
+          {prev && (
+            <a href={`${import.meta.env.BASE_URL}verse/${chapterNum}/${prev.data.verse}/`}
+               class="text-sm opacity-70 hover:opacity-100 transition-opacity">
+              &larr; Prev
+            </a>
+          )}
+          {next && (
+            <a href={`${import.meta.env.BASE_URL}verse/${chapterNum}/${next.data.verse}/`}
+               class="text-sm opacity-70 hover:opacity-100 transition-opacity">
+              Next &rarr;
+            </a>
+          )}
+        </div>
+      </nav>
 
-  <!-- Verse header — the sacred Sanskrit section -->
-  <header class="pt-10 sm:pt-14 pb-8 sm:pb-10 px-6 text-center">
-    <p class="text-xs uppercase tracking-[0.3em] text-[--color-warm-400] mb-6">
-      Chapter {chapterNum}: {chapterNames[chapterNum] ?? ''} &middot; Verse {verseNum}
-    </p>
+      <div class="max-w-3xl mx-auto text-center">
+        <p class="text-sm uppercase tracking-[0.3em] opacity-60 mb-6">
+          {chapterNames[chapterNum]} &middot; Verse {verseNum}
+        </p>
 
-    <!-- Sanskrit card — the heart of the verse -->
-    <div class="relative max-w-2xl mx-auto">
-      <!-- Decorative glow -->
-      <div class="absolute -inset-4 rounded-3xl bg-[--color-saffron-light] opacity-[0.04] blur-2xl pointer-events-none" aria-hidden="true"></div>
-
-      <div class="relative rounded-2xl bg-white/70 backdrop-blur-sm border border-[--color-warm-100] p-8 sm:p-10 md:p-12 shadow-sm">
-        <!-- Sanskrit (Devanagari) -->
         <div class="space-y-1">
           {sanskritLines.map((line) => (
-            <p class="font-[--font-devanagari] text-xl sm:text-2xl md:text-[1.7rem] text-[--color-warm-800] leading-[1.9]">
+            <p class="font-[--font-devanagari] text-xl sm:text-2xl leading-[1.9]" style="font-size: 110%;">
               {line}
             </p>
           ))}
         </div>
 
-        <div class="my-6 sm:my-8 mx-auto w-16 h-px bg-gradient-to-r from-transparent via-[--color-saffron-light] to-transparent"></div>
+        <div class="my-6 mx-auto w-16 h-px opacity-30 bg-current"></div>
 
-        <!-- IAST transliteration -->
         <div class="space-y-0.5">
           {iastLines.map((line) => (
-            <p class="text-sm sm:text-base italic text-[--color-warm-500] leading-[1.8] tracking-wide">
+            <p class="text-sm sm:text-base italic opacity-70 leading-[1.8] tracking-wide">
               {line}
             </p>
           ))}
@@ -122,11 +94,11 @@ const iastLines = d.iast.split('\n').filter(Boolean);
     </div>
   </header>
 
-  <main class="max-w-3xl mx-auto px-6 pb-24 flex-1">
+  <main class="max-w-3xl mx-auto px-6 py-12 pb-24 flex-1">
 
     <!-- Explanation -->
     <section class="mb-10">
-      <p class="text-base sm:text-lg text-[--color-warm-700] leading-[1.9]">
+      <p class="text-base sm:text-lg text-[--color-text] leading-[1.9]">
         {d.explanation}
       </p>
     </section>
@@ -134,7 +106,7 @@ const iastLines = d.iast.split('\n').filter(Boolean);
     <!-- Themes -->
     <div class="flex flex-wrap gap-2 mb-12">
       {d.themes.map((t) => (
-        <span class="rounded-full border border-[--color-warm-200] bg-white/40 px-3.5 py-1 text-xs text-[--color-warm-500] tracking-wide">
+        <span class="rounded-full border border-[--color-border] px-3.5 py-1 text-xs text-[--color-text-3] tracking-wide">
           {t}
         </span>
       ))}
@@ -142,44 +114,44 @@ const iastLines = d.iast.split('\n').filter(Boolean);
 
     <!-- Synthesis -->
     <section class="mb-12">
-      <h2 class="font-[--font-display] text-2xl sm:text-3xl text-[--color-warm-900] mb-5">Synthesis</h2>
-      <div class="rounded-2xl bg-white/60 backdrop-blur-sm border border-[--color-warm-100] p-6 sm:p-8 shadow-sm">
-        <p class="text-base text-[--color-warm-700] leading-[1.85]">{d.synthesis}</p>
+      <h2 class="font-[--font-display] text-2xl sm:text-3xl font-bold text-[--color-text] mb-5">Synthesis</h2>
+      <div class="rounded-xl border border-[--color-border] p-6 sm:p-8">
+        <p class="text-base text-[--color-text-2] leading-[1.85]">{d.synthesis}</p>
       </div>
     </section>
 
-    <!-- Commentaries — interactive tabs -->
+    <!-- Commentaries -->
     <section class="mb-12">
-      <h2 class="font-[--font-display] text-2xl sm:text-3xl text-[--color-warm-900] mb-5">
+      <h2 class="font-[--font-display] text-2xl sm:text-3xl font-bold text-[--color-text] mb-5">
         Commentaries
-        <span class="text-sm font-normal text-[--color-warm-400] ml-2">{d.commentaries.length} traditions</span>
+        <span class="text-sm font-normal text-[--color-text-3] ml-2">{d.commentaries.length} traditions</span>
       </h2>
       <CommentaryTabs client:visible commentaries={d.commentaries} />
     </section>
 
-    <!-- Life Applications & Questions — interactive pillar cards -->
+    <!-- Life Applications -->
     <section class="mb-12">
-      <h2 class="font-[--font-display] text-2xl sm:text-3xl text-[--color-warm-900] mb-5">
+      <h2 class="font-[--font-display] text-2xl sm:text-3xl font-bold text-[--color-text] mb-5">
         Apply This Verse
       </h2>
       <ApplicationCards client:visible applications={d.applications} questions={d.questions} />
     </section>
 
     <!-- Bottom navigation -->
-    <nav class="flex items-center justify-between pt-8 border-t border-[--color-warm-100]">
+    <nav class="flex items-center justify-between pt-8 border-t border-[--color-border]">
       {prev ? (
         <a href={`${import.meta.env.BASE_URL}verse/${chapterNum}/${prev.data.verse}/`}
            class="group flex flex-col items-start max-w-[45%]">
-          <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400] mb-1">Previous</span>
-          <span class="font-[--font-display] text-base text-[--color-warm-600] group-hover:text-[--color-saffron] transition-colors duration-200">
+          <span class="text-xs uppercase tracking-[0.2em] text-[--color-text-3] mb-1">Previous</span>
+          <span class="font-[--font-display] text-base font-bold text-[--color-text] group-hover:text-[--color-accent] transition-colors">
             Verse {chapterNum}.{prev.data.verse}
           </span>
         </a>
       ) : (
         <a href={`${import.meta.env.BASE_URL}chapter/${chapterNum}/`}
            class="group flex flex-col items-start max-w-[45%]">
-          <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400] mb-1">Back to</span>
-          <span class="font-[--font-display] text-base text-[--color-warm-600] group-hover:text-[--color-saffron] transition-colors duration-200">
+          <span class="text-xs uppercase tracking-[0.2em] text-[--color-text-3] mb-1">Back to</span>
+          <span class="font-[--font-display] text-base font-bold text-[--color-text] group-hover:text-[--color-accent] transition-colors">
             Chapter {chapterNum}
           </span>
         </a>
@@ -187,16 +159,16 @@ const iastLines = d.iast.split('\n').filter(Boolean);
       {next ? (
         <a href={`${import.meta.env.BASE_URL}verse/${chapterNum}/${next.data.verse}/`}
            class="group flex flex-col items-end max-w-[45%]">
-          <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400] mb-1">Next</span>
-          <span class="font-[--font-display] text-base text-[--color-warm-600] group-hover:text-[--color-saffron] transition-colors duration-200">
+          <span class="text-xs uppercase tracking-[0.2em] text-[--color-text-3] mb-1">Next</span>
+          <span class="font-[--font-display] text-base font-bold text-[--color-text] group-hover:text-[--color-accent] transition-colors">
             Verse {chapterNum}.{next.data.verse}
           </span>
         </a>
       ) : (
         <a href={`${import.meta.env.BASE_URL}chapter/${chapterNum}/`}
            class="group flex flex-col items-end max-w-[45%]">
-          <span class="text-xs uppercase tracking-[0.2em] text-[--color-warm-400] mb-1">Back to</span>
-          <span class="font-[--font-display] text-base text-[--color-warm-600] group-hover:text-[--color-saffron] transition-colors duration-200">
+          <span class="text-xs uppercase tracking-[0.2em] text-[--color-text-3] mb-1">Back to</span>
+          <span class="font-[--font-display] text-base font-bold text-[--color-text] group-hover:text-[--color-accent] transition-colors">
             Chapter {chapterNum}
           </span>
         </a>
@@ -204,6 +176,5 @@ const iastLines = d.iast.split('\n').filter(Boolean);
     </nav>
 
   </main>
-
 
 </BaseLayout>
