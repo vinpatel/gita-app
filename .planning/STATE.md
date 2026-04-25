@@ -86,6 +86,7 @@ None yet.
 | # | Description | Date | Commit | Directory |
 |---|-------------|------|--------|-----------|
 | 260425-crl | Add AEO files (llms.txt, llms-full.txt, ai.txt, sitemap-ai.xml) to public/ | 2026-04-25 | 9408f3e | [260425-crl-add-aeo-files-llms-txt-llms-full-txt-ai-](./quick/260425-crl-add-aeo-files-llms-txt-llms-full-txt-ai-/) |
+| fast | Fix IAST transliteration in 3 verses (6.45, 11.32, 15.2) | 2026-04-25 | b55b835 | — |
 
 ## Session Continuity
 
