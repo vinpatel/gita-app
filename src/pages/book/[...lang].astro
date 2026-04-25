@@ -78,6 +78,7 @@ const STRINGS: Record<string, Record<string, string>> = {
 
 const t = STRINGS[locale] ?? STRINGS.en;
 const someUntranslated = !isDefault && byChapter.some((c) => !c.translated);
+const goatcounter = import.meta.env.PUBLIC_GOATCOUNTER_CODE;
 ---
 <!doctype html>
 <html lang={htmlLang}>
@@ -86,6 +87,14 @@ const someUntranslated = !isDefault && byChapter.some((c) => !c.translated);
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={`The Bhagavad Gītā — Book edition (${LOCALE_LABELS[locale]?.english ?? locale}). All 18 chapters with Sanskrit, IAST, translation, and synthesis. Free download.`} />
     <title>{t.title} — Book Edition | bhagavad.net</title>
+    {goatcounter && (
+      <script
+        is:inline
+        async
+        data-goatcounter={`https://${goatcounter}.goatcounter.com/count`}
+        src="//gc.zgo.at/count.js"
+      ></script>
+    )}
     <style is:global>
       :root {
         --book-text: #1c1917;
@@ -400,7 +409,12 @@ const someUntranslated = !isDefault && byChapter.some((c) => !c.translated);
             </a>
           ))}
       </div>
-      <a class="download" href={pdfHref}>{t.download}</a>
+      <a
+        class="download"
+        href={pdfHref}
+        data-goatcounter-click={`pdf-download-${locale}`}
+        data-goatcounter-title={`Download PDF (${LOCALE_LABELS[locale]?.english ?? locale})`}
+      >{t.download}</a>
     </div>
 
     {someUntranslated && (

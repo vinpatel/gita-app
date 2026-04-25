@@ -37,6 +37,8 @@ jobs:
 
       - name: Build with Astro
         run: npx astro build
+        env:
+          PUBLIC_GOATCOUNTER_CODE: ${{ vars.PUBLIC_GOATCOUNTER_CODE }}
 
       - name: Install Playwright Chromium
         run: npx playwright install --with-deps chromium
