@@ -102,16 +102,25 @@ try {
 
   browser = await chromium.launch();
 
-  // OG image: visit /og/default/ and screenshot at 1200x630
+  // OG image: visit /og/default/ and screenshot at 2x DPI so the PNG
+  // is 2400x1200, which downscales sharply on retina displays. The
+  // logical OG dimensions remain 1200x630 (declared in meta tags).
   try {
-    const ogPage = await browser.newPage({ viewport: { width: 1200, height: 630 } });
+    const ogPage = await browser.newPage({
+      viewport: { width: 1200, height: 630 },
+      deviceScaleFactor: 2,
+    });
     const ogUrl = `http://127.0.0.1:${PORT}/og/default/`;
-    console.log(`[og] rendering ${ogUrl}`);
+    console.log(`[og] rendering ${ogUrl} at 2x DPI`);
     await ogPage.goto(ogUrl, { waitUntil: 'networkidle', timeout: 60_000 });
     await ogPage.evaluate(() => document.fonts && document.fonts.ready);
-    await ogPage.waitForTimeout(500);
+    await ogPage.waitForTimeout(800);
     const ogOut = join(DIST, 'og-default.png');
-    await ogPage.screenshot({ path: ogOut, type: 'png', clip: { x: 0, y: 0, width: 1200, height: 630 } });
+    await ogPage.screenshot({
+      path: ogOut,
+      type: 'png',
+      clip: { x: 0, y: 0, width: 1200, height: 630 },
+    });
     const ogStat = await stat(ogOut);
     console.log(`[og] generated ${ogOut} (${(ogStat.size / 1024).toFixed(0)} KB)`);
     await ogPage.close();

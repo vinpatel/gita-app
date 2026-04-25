@@ -14,15 +14,22 @@ import '@fontsource-variable/noto-sans-devanagari/wght.css';
     <meta name="robots" content="noindex" />
     <title>OG image · The Bhagavad Gītā</title>
     <style is:global>
-      html, body { margin: 0; padding: 0; background: #ffffff; }
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #ffffff;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: geometricPrecision;
+      }
+      *, *::before, *::after { box-sizing: border-box; }
       .og {
         width: 1200px;
         height: 630px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        padding: 70px 80px;
-        box-sizing: border-box;
+        padding: 56px 72px;
+        overflow: hidden;
         background:
           radial-gradient(circle at 85% 20%, rgba(196, 131, 45, 0.18), transparent 55%),
           radial-gradient(circle at 12% 90%, rgba(196, 131, 45, 0.12), transparent 50%),
@@ -48,25 +55,26 @@ import '@fontsource-variable/noto-sans-devanagari/wght.css';
       }
       .devanagari {
         font-family: 'Noto Sans Devanagari Variable', sans-serif;
-        font-size: 56px;
+        font-size: 48px;
         color: #C4832D;
-        margin-bottom: 8px;
+        margin: 28px 0 12px;
         font-weight: 600;
+        line-height: 1.2;
       }
       h1 {
-        font-size: 96px;
+        font-size: 84px;
         font-weight: 900;
-        line-height: 1.0;
-        margin: 0 0 28px;
+        line-height: 1.05;
+        margin: 0 0 22px;
         letter-spacing: -0.025em;
       }
       .tagline {
         font-family: 'Source Serif 4 Variable', Georgia, serif;
-        font-size: 30px;
+        font-size: 26px;
         color: #57534e;
         line-height: 1.35;
         margin: 0;
-        max-width: 880px;
+        max-width: 900px;
       }
       footer {
         display: flex;
@@ -109,8 +117,8 @@ import '@fontsource-variable/noto-sans-devanagari/wght.css';
     <div class="og">
       <div>
         <p class="badge"><span class="dot"></span>The Bhagavad Gītā</p>
-        <div class="devanagari" style="margin-top: 36px">श्रीमद्भगवद्गीता</div>
-        <h1>18 life lessons<br/>from a warrior in crisis.</h1>
+        <div class="devanagari">श्रीमद्भगवद्गीता</div>
+        <h1>18 life lessons from a warrior in crisis.</h1>
         <p class="tagline">700 verses · 8 commentary traditions · One free book in your language.</p>
       </div>
       <footer>
