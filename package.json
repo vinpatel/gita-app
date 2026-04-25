@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "pdf": "node scripts/generate-pdf.mjs"
   },
   "dependencies": {
     "@astrojs/preact": "^4.1.1",
@@ -21,5 +22,8 @@
     "fuse.js": "^7.1.0",
     "preact": "^10.26.1",
     "tailwindcss": "^4.0.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
   }
 }
