@@ -69,6 +69,23 @@ const totalVerses = allShlokas.length;
         <p class="mt-2 text-base text-[--color-text-3]">
           {totalVerses} verses &middot; 8 commentary traditions &middot; One search box.
         </p>
+        <p class="mt-5 text-base flex flex-wrap gap-x-6 gap-y-2 items-center">
+          <a
+            href={`${import.meta.env.BASE_URL}book/`}
+            class="font-[--font-display] font-bold text-[--color-text] inline-flex items-center gap-1.5 hover:text-[--color-accent] transition-colors"
+          >
+            Read as a book
+            <span aria-hidden="true">&rarr;</span>
+          </a>
+          <a
+            href={`${import.meta.env.BASE_URL}downloads/gita-en.pdf`}
+            class="text-[--color-text-2] hover:text-[--color-text] underline decoration-dotted underline-offset-4 decoration-[--color-text-3]"
+            data-goatcounter-click="pdf-download-en-home"
+            data-goatcounter-title="Download PDF (English) — homepage"
+          >
+            Download free PDF
+          </a>
+        </p>
       </div>
     </section>
 
