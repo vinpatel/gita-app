@@ -5,7 +5,7 @@ milestone_name: Redesign Milestone
 status: planning
 stopped_at: Phase 6 context gathered (redesign)
 last_updated: "2026-04-11T00:11:24.936Z"
-last_activity: 2026-04-09 — Redesign milestone initialized; ROADMAP.md and REQUIREMENTS.md written
+last_activity: 2026-04-25 - Completed quick task 260425-crl: Add AEO files (llms.txt, llms-full.txt, ai.txt, sitemap-ai.xml) to public/
 progress:
   total_phases: 4
   completed_phases: 2
@@ -28,7 +28,7 @@ See: .planning/PROJECT.md (updated 2026-04-09)
 Phase: 6 of 13 in redesign milestone (Phase 6 — Design System)
 Plan: 0 of ? in current phase
 Status: Ready to plan
-Last activity: 2026-04-09 — Redesign milestone initialized; ROADMAP.md and REQUIREMENTS.md written
+Last activity: 2026-04-25 - Completed quick task 260425-crl: Add AEO files (llms.txt, llms-full.txt, ai.txt, sitemap-ai.xml) to public/
 
 Progress: [░░░░░░░░░░] 0% (redesign milestone)
 
@@ -80,6 +80,12 @@ None yet.
 
 - [Phase 11 dependency]: Satori + resvg-js requires node >= 18 and may have build-time performance implications on 700 verses — verify before committing to per-verse OG generation strategy
 - [Phase 9 dependency]: Sefaria-style panel requires Preact island with no page reload — ensure commentary data is available in verse page props at build time (already in JSON, should be fine)
+
+### Quick Tasks Completed
+
+| # | Description | Date | Commit | Directory |
+|---|-------------|------|--------|-----------|
+| 260425-crl | Add AEO files (llms.txt, llms-full.txt, ai.txt, sitemap-ai.xml) to public/ | 2026-04-25 | 9408f3e | [260425-crl-add-aeo-files-llms-txt-llms-full-txt-ai-](./quick/260425-crl-add-aeo-files-llms-txt-llms-full-txt-ai-/) |
 
 ## Session Continuity
 
