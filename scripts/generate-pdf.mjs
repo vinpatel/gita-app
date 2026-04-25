@@ -1,17 +1,17 @@
-// Generates dist/downloads/gita-en.pdf from the built /book/ route.
-// Runs after `astro build` in CI. Spins up a tiny static server, drives
-// Chromium via Playwright, and prints to PDF. No persistent browser.
+// Generates dist/downloads/gita-{locale}.pdf for every available locale
+// by visiting the corresponding /book/ or /book/{lang}/ route. Runs after
+// `astro build` in CI. Spins up a tiny static server, drives Chromium
+// via Playwright, prints to PDF, repeats per locale.
 
 import { createServer } from 'node:http';
-import { readFile, mkdir, stat } from 'node:fs/promises';
+import { readFile, readdir, mkdir, stat } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join, extname, normalize, sep } from 'node:path';
 import { chromium } from 'playwright';
 
 const DIST = 'dist';
 const PORT = Number(process.env.PDF_PORT || 4321);
-const ROUTE = '/book/';
-const OUT = join(DIST, 'downloads', 'gita-en.pdf');
+const DEFAULT_LOCALE = 'en';
 
 const MIME = {
   '.html': 'text/html; charset=utf-8',
@@ -35,15 +35,11 @@ const MIME = {
 };
 
 async function resolveFile(urlPath) {
-  // Strip query string and decode
   let p = decodeURIComponent(urlPath.split('?')[0]);
-  // Default index.html for directories
   if (p.endsWith('/')) p += 'index.html';
-  // Prevent path traversal
   const candidate = normalize(join(DIST, p));
   if (!candidate.startsWith(DIST + sep) && candidate !== DIST) return null;
   if (!existsSync(candidate)) {
-    // Astro may have produced /foo as /foo/index.html
     const alt = normalize(join(DIST, p, 'index.html'));
     if (existsSync(alt)) return alt;
     return null;
@@ -54,6 +50,23 @@ async function resolveFile(urlPath) {
     return existsSync(indexed) ? indexed : null;
   }
   return candidate;
+}
+
+async function discoverLocales() {
+  // Source of truth lives next to the page data so dev and CI agree
+  const root = 'src/data';
+  const found = new Set([DEFAULT_LOCALE]);
+  const entries = await readdir(root, { withFileTypes: true });
+  for (const e of entries) {
+    if (!e.isDirectory()) continue;
+    const m = e.name.match(/^chapters-([a-z]{2,3})$/);
+    if (!m) continue;
+    const sub = await readdir(join(root, e.name)).catch(() => []);
+    if (sub.some((f) => f.startsWith('chapter-') && f.endsWith('.json'))) {
+      found.add(m[1]);
+    }
+  }
+  return [...found];
 }
 
 const server = createServer(async (req, res) => {
@@ -88,29 +101,37 @@ try {
   await mkdir(join(DIST, 'downloads'), { recursive: true });
 
   browser = await chromium.launch();
-  const page = await browser.newPage();
-  page.on('pageerror', (err) => console.warn(`[pdf] pageerror: ${err.message}`));
-  page.on('requestfailed', (req) =>
-    console.warn(`[pdf] request failed: ${req.url()} ${req.failure()?.errorText}`)
-  );
 
-  const url = `http://127.0.0.1:${PORT}${ROUTE}`;
-  console.log(`[pdf] navigating to ${url}`);
-  await page.goto(url, { waitUntil: 'networkidle', timeout: 90_000 });
+  const locales = await discoverLocales();
+  console.log(`[pdf] locales to generate: ${locales.join(', ')}`);
 
-  // Wait for fonts to settle (Devanagari + Source Serif must load before PDF)
-  await page.evaluate(() => document.fonts && document.fonts.ready);
-  await page.waitForTimeout(1000);
+  for (const locale of locales) {
+    const route = locale === DEFAULT_LOCALE ? '/book/' : `/book/${locale}/`;
+    const out = join(DIST, 'downloads', `gita-${locale}.pdf`);
+    const url = `http://127.0.0.1:${PORT}${route}`;
 
-  await page.pdf({
-    path: OUT,
-    format: 'A4',
-    margin: { top: '18mm', bottom: '18mm', left: '15mm', right: '15mm' },
-    printBackground: true,
-    preferCSSPageSize: true,
-  });
-  const s = await stat(OUT);
-  console.log(`[pdf] generated ${OUT} (${(s.size / 1024 / 1024).toFixed(2)} MB)`);
+    const page = await browser.newPage();
+    page.on('pageerror', (err) => console.warn(`[pdf:${locale}] pageerror: ${err.message}`));
+    page.on('requestfailed', (req) =>
+      console.warn(`[pdf:${locale}] request failed: ${req.url()} ${req.failure()?.errorText}`)
+    );
+
+    console.log(`[pdf:${locale}] navigating to ${url}`);
+    await page.goto(url, { waitUntil: 'networkidle', timeout: 90_000 });
+    await page.evaluate(() => document.fonts && document.fonts.ready);
+    await page.waitForTimeout(1000);
+
+    await page.pdf({
+      path: out,
+      format: 'A4',
+      margin: { top: '18mm', bottom: '18mm', left: '15mm', right: '15mm' },
+      printBackground: true,
+      preferCSSPageSize: true,
+    });
+    const s = await stat(out);
+    console.log(`[pdf:${locale}] generated ${out} (${(s.size / 1024 / 1024).toFixed(2)} MB)`);
+    await page.close();
+  }
 } catch (e) {
   console.error(`[pdf] FAILED: ${e.message}`);
   exitCode = 1;

@@ -1,0 +1,77 @@
+name: Translate chapter
+
+# Manually triggered workflow that translates a single chapter file
+# from English (src/data/chapters/) to a target locale (src/data/chapters-{locale}/)
+# using the Anthropic API. Commits the result back, which triggers the
+# normal deploy → PDF generation flow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      chapter:
+        description: "Chapter number (1-18)"
+        required: true
+        default: "1"
+        type: string
+      locale:
+        description: "Target locale code (hi, mr, gu, bn, ta, te, kn, ml, or, pa, sa)"
+        required: true
+        default: "hi"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-${{ inputs.locale }}-${{ inputs.chapter }}
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validate inputs
+        run: |
+          ch="${{ inputs.chapter }}"
+          loc="${{ inputs.locale }}"
+          case "$loc" in
+            hi|mr|gu|bn|ta|te|kn|ml|or|pa|sa) ;;
+            *) echo "::error::Unsupported locale: $loc"; exit 1 ;;
+          esac
+          if [ "$ch" -lt 1 ] || [ "$ch" -gt 18 ]; then
+            echo "::error::Chapter must be 1-18, got: $ch"
+            exit 1
+          fi
+
+      - name: Run translation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CHAPTER: ${{ inputs.chapter }}
+          LOCALE: ${{ inputs.locale }}
+        run: node scripts/translate-chapter.mjs
+
+      - name: Commit translation
+        env:
+          CHAPTER: ${{ inputs.chapter }}
+          LOCALE: ${{ inputs.locale }}
+        run: |
+          ch_padded=$(printf "%02d" "$CHAPTER")
+          file="src/data/chapters-${LOCALE}/chapter-${ch_padded}.json"
+          meta="src/data/i18n/chapter-meta.json"
+          if ! git diff --quiet -- "$file" "$meta"; then
+            git config user.name "vinpatel-bot"
+            git config user.email "vinpatel@users.noreply.github.com"
+            git add "$file" "$meta"
+            git commit -m "feat(i18n): translate chapter $CHAPTER to $LOCALE"
+            git push origin HEAD:main
+          else
+            echo "No changes to commit (translation matches existing file)."
+          fi

@@ -1,52 +1,91 @@
 ---
-import { getCollection } from 'astro:content';
 import '../../styles/global.css';
 import '@fontsource-variable/source-serif-4';
 import '@fontsource-variable/inter';
 import '@fontsource-variable/noto-sans-devanagari/wght.css';
 
-const allShlokas = await getCollection('chapters');
+import {
+  DEFAULT_LOCALE,
+  HTML_LANG,
+  LOCALE_LABELS,
+  discoverLocales,
+  loadChapterMeta,
+  loadVerses,
+} from '../../lib/book-data';
 
-type ChapterMeta = { sanskrit: string; name: string; verses: number; summary: string };
+export async function getStaticPaths() {
+  const locales = await discoverLocales();
+  return locales.map((loc) => ({
+    params: { lang: loc === DEFAULT_LOCALE ? undefined : loc },
+    props: { locale: loc },
+  }));
+}
 
-const chapterMeta: Record<number, ChapterMeta> = {
-  1: { sanskrit: 'अर्जुनविषादयोग', name: "Arjuna's Dilemma", verses: 47, summary: 'On the battlefield of Kurukshetra, Arjuna sees his relatives, teachers, and friends on both sides. Overwhelmed by sorrow and moral confusion, he drops his bow and refuses to fight.' },
-  2: { sanskrit: 'सांख्ययोग', name: 'The Path of Knowledge', verses: 72, summary: 'Krishna begins his teaching: the soul is eternal, the body is temporary. He introduces the core philosophy of the Gita, including detachment from results and the nature of a person of steady wisdom.' },
-  3: { sanskrit: 'कर्मयोग', name: 'The Path of Action', verses: 43, summary: 'Krishna explains why action is superior to inaction. One must perform duties without attachment to results, maintaining equanimity in success and failure.' },
-  4: { sanskrit: 'ज्ञानकर्मसंन्यासयोग', name: 'Knowledge & Renunciation', verses: 42, summary: 'Krishna reveals the ancient lineage of this teaching and explains how divine knowledge destroys the bondage of karma. He describes various forms of sacrifice and spiritual practice.' },
-  5: { sanskrit: 'कर्मसंन्यासयोग', name: 'Renunciation of Action', verses: 29, summary: 'The paths of renunciation and selfless action are compared. Krishna teaches that true renunciation is internal — acting without ego and desire while remaining engaged in the world.' },
-  6: { sanskrit: 'ध्यानयोग', name: 'The Path of Meditation', verses: 47, summary: 'Detailed instructions on meditation practice: posture, focus, diet, and lifestyle. Krishna addresses what happens to those who begin the spiritual path but do not complete it in one lifetime.' },
-  7: { sanskrit: 'ज्ञानविज्ञानयोग', name: 'Knowledge & Realization', verses: 30, summary: 'Krishna reveals his divine nature — both the material and spiritual dimensions of reality. He explains why few truly know him and describes four types of seekers.' },
-  8: { sanskrit: 'अक्षरब्रह्मयोग', name: 'The Imperishable Absolute', verses: 28, summary: "The nature of the imperishable Brahman, the process of death and rebirth, and how one's final thoughts determine the next destination. Krishna teaches the path beyond return." },
-  9: { sanskrit: 'राजविद्याराजगुह्ययोग', name: 'Royal Knowledge', verses: 34, summary: 'The most confidential knowledge: Krishna pervades all creation yet remains transcendent. Simple devotion — offering a leaf, flower, or water with love — reaches the divine directly.' },
-  10: { sanskrit: 'विभूतियोग', name: 'Divine Manifestations', verses: 42, summary: 'Krishna describes his divine manifestations throughout creation — the best, the most powerful, the most beautiful in every category. Everything extraordinary is a spark of his splendor.' },
-  11: { sanskrit: 'विश्वरूपदर्शनयोग', name: 'The Cosmic Vision', verses: 55, summary: "Arjuna is granted divine vision to behold Krishna's universal form — infinite, all-encompassing, terrifying and beautiful. He sees all of creation, destruction, and time itself." },
-  12: { sanskrit: 'भक्तियोग', name: 'The Path of Devotion', verses: 20, summary: 'Krishna declares devotion as the supreme path and describes the qualities of his dearest devotees: compassionate, humble, content, forgiving, and unwavering in faith.' },
-  13: { sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोग', name: 'The Field & The Knower', verses: 35, summary: 'The distinction between the body (the field) and the soul (the knower of the field). Krishna explains the elements of material nature and the qualities that lead to true knowledge.' },
-  14: { sanskrit: 'गुणत्रयविभागयोग', name: 'The Three Gunas', verses: 27, summary: 'The three qualities of material nature — sattva (goodness), rajas (passion), and tamas (ignorance) — and how they bind the soul. Krishna teaches how to transcend all three.' },
-  15: { sanskrit: 'पुरुषोत्तमयोग', name: 'The Supreme Person', verses: 20, summary: 'The metaphor of the cosmic banyan tree, rooted above and branching below. Krishna reveals himself as the Supreme Person, beyond both the perishable and imperishable.' },
-  16: { sanskrit: 'दैवासुरसम्पद्विभागयोग', name: 'Divine & Demonic Natures', verses: 24, summary: 'Two types of human tendencies: divine qualities (fearlessness, purity, compassion) and demonic qualities (arrogance, anger, ignorance). Krishna urges cultivation of divine nature.' },
-  17: { sanskrit: 'श्रद्धात्रयविभागयोग', name: 'Three Kinds of Faith', verses: 28, summary: 'Faith itself comes in three types, shaped by the gunas. Krishna examines how food, worship, austerity, and charity differ based on whether they arise from goodness, passion, or ignorance.' },
-  18: { sanskrit: 'मोक्षसंन्यासयोग', name: 'Liberation Through Surrender', verses: 78, summary: "The grand conclusion: Krishna summarizes all paths, reveals his most confidential teaching, and gives Arjuna the freedom to choose. Arjuna's doubt is destroyed; he is ready to act." },
-};
+const { locale } = Astro.props as { locale: string };
 
-const byChapter = Array.from({ length: 18 }, (_, i) => {
-  const num = i + 1;
-  const verses = allShlokas
-    .filter((s) => s.data.chapter === num)
-    .sort((a, b) => a.data.verse - b.data.verse);
-  return { num, ...chapterMeta[num], loaded: verses };
-});
+const meta = await loadChapterMeta(locale);
+const allLocales = await discoverLocales();
+
+const byChapter = await Promise.all(
+  Array.from({ length: 18 }, async (_, i) => {
+    const num = i + 1;
+    const { verses, translated } = await loadVerses(num, locale);
+    return { num, ...meta[num], loaded: verses, translated };
+  })
+);
 
 const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
+const isDefault = locale === DEFAULT_LOCALE;
+const baseHref = `${import.meta.env.BASE_URL}book/`;
+const otherLocales = allLocales.filter((l) => l !== locale);
+const pdfHref = `${import.meta.env.BASE_URL}downloads/gita-${locale}.pdf`;
+const htmlLang = HTML_LANG[locale] ?? 'en';
+
+const STRINGS: Record<string, Record<string, string>> = {
+  en: {
+    title: 'The Bhagavad Gītā',
+    subtitle: 'Multi-Tradition Synthesis',
+    contents: 'Contents',
+    chapter: 'Chapter',
+    of: 'of',
+    verse: 'Verse',
+    synthesis: 'Synthesis',
+    download: 'Download PDF',
+    backToSite: '← bhagavad.net',
+    versesAvailable: 'verses · 18 chapters · bhagavad.net',
+    comingSoon: 'Verses for this chapter are coming soon.',
+    closing: 'The Bhagavad Gītā · Book Edition',
+    closingTagline: 'bhagavad.net · Open source · Multi-tradition synthesis',
+    fallbackBanner: 'Translation in progress for this language. Showing English text where translation is not yet available.',
+  },
+  hi: {
+    title: 'श्रीमद्भगवद्गीता',
+    subtitle: 'बहु-परम्परा संश्लेषण',
+    contents: 'विषय-सूची',
+    chapter: 'अध्याय',
+    of: 'का',
+    verse: 'श्लोक',
+    synthesis: 'संश्लेषण',
+    download: 'पीडीएफ डाउनलोड करें',
+    backToSite: '← bhagavad.net',
+    versesAvailable: 'श्लोक · 18 अध्याय · bhagavad.net',
+    comingSoon: 'इस अध्याय के श्लोक शीघ्र ही उपलब्ध होंगे।',
+    closing: 'श्रीमद्भगवद्गीता · पुस्तक संस्करण',
+    closingTagline: 'bhagavad.net · ओपन सोर्स · बहु-परम्परा संश्लेषण',
+    fallbackBanner: 'इस भाषा के लिए अनुवाद कार्य जारी है। जहाँ अनुवाद उपलब्ध नहीं है वहाँ अंग्रेज़ी पाठ दिखाया गया है।',
+  },
+};
+
+const t = STRINGS[locale] ?? STRINGS.en;
+const someUntranslated = !isDefault && byChapter.some((c) => !c.translated);
 ---
 <!doctype html>
-<html lang="en">
+<html lang={htmlLang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="The Bhagavad Gītā — Book edition. All 18 chapters with Sanskrit, IAST, translation, and synthesis. Free download." />
-    <title>The Bhagavad Gītā — Book Edition | bhagavad.net</title>
+    <meta name="description" content={`The Bhagavad Gītā — Book edition (${LOCALE_LABELS[locale]?.english ?? locale}). All 18 chapters with Sanskrit, IAST, translation, and synthesis. Free download.`} />
+    <title>{t.title} — Book Edition | bhagavad.net</title>
     <style is:global>
       :root {
         --book-text: #1c1917;
@@ -82,15 +121,36 @@ const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
         display: flex;
         align-items: center;
         justify-content: space-between;
+        gap: 1rem;
         font-family: 'Inter Variable', system-ui, sans-serif;
         font-size: 0.85rem;
         z-index: 10;
+        flex-wrap: wrap;
       }
       .book-toolbar a {
         color: var(--book-muted);
         text-decoration: none;
       }
       .book-toolbar a:hover { color: var(--book-text); }
+      .book-toolbar .lang-switch {
+        display: flex;
+        gap: 0.4rem;
+        flex-wrap: wrap;
+      }
+      .book-toolbar .lang-switch a {
+        padding: 0.25rem 0.6rem;
+        border: 1px solid var(--book-rule);
+        border-radius: 999px;
+        font-size: 0.78rem;
+      }
+      .book-toolbar .lang-switch a.current {
+        background: var(--book-text);
+        color: #fff;
+        border-color: var(--book-text);
+      }
+      .book-toolbar .lang-switch a:hover {
+        border-color: var(--book-text);
+      }
       .book-toolbar .download {
         background: var(--book-text);
         color: #fff;
@@ -99,6 +159,16 @@ const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
         font-weight: 600;
       }
       .book-toolbar .download:hover { color: #fff; background: var(--book-accent); }
+
+      .fallback-banner {
+        background: #fef3c7;
+        border-bottom: 1px solid #fde68a;
+        color: #92400e;
+        padding: 0.6rem 2rem;
+        text-align: center;
+        font-family: 'Inter Variable', system-ui, sans-serif;
+        font-size: 0.8rem;
+      }
 
       .cover {
         text-align: center;
@@ -119,6 +189,11 @@ const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
         line-height: 1.05;
         margin: 0 0 1rem;
         letter-spacing: -0.02em;
+      }
+      .cover h1.devanagari-title {
+        font-family: 'Noto Sans Devanagari Variable', sans-serif;
+        font-size: 3rem;
+        font-weight: 700;
       }
       .cover .subtitle {
         font-family: 'Inter Variable', system-ui, sans-serif;
@@ -213,6 +288,10 @@ const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
         margin: 0 0 1rem;
         letter-spacing: -0.015em;
       }
+      .chapter-head h2.devanagari-h2 {
+        font-family: 'Noto Sans Devanagari Variable', sans-serif;
+        font-weight: 700;
+      }
       .chapter-head .summary {
         max-width: 32rem;
         margin: 1.2rem auto 0;
@@ -294,7 +373,7 @@ const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
           size: A4;
           margin: 18mm 15mm 18mm 15mm;
         }
-        .book-toolbar { display: none; }
+        .book-toolbar, .fallback-banner { display: none; }
         .book-shell { max-width: none; padding: 0; }
         body.book-body { font-size: 10.5pt; }
         .cover { padding: 4rem 0 3rem; page-break-after: always; }
@@ -306,20 +385,42 @@ const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
   </head>
   <body class="book-body">
     <div class="book-toolbar">
-      <a href={`${import.meta.env.BASE_URL}`}>&larr; bhagavad.net</a>
-      <a class="download" href={`${import.meta.env.BASE_URL}downloads/gita-en.pdf`}>Download PDF</a>
+      <a href={`${import.meta.env.BASE_URL}`}>{t.backToSite}</a>
+      <div class="lang-switch" aria-label="Language">
+        <a href={baseHref} class={isDefault ? 'current' : ''}>EN</a>
+        {otherLocales
+          .filter((l) => l !== DEFAULT_LOCALE)
+          .map((l) => (
+            <a
+              href={`${baseHref}${l}/`}
+              class={l === locale ? 'current' : ''}
+              aria-label={LOCALE_LABELS[l]?.english ?? l}
+            >
+              {LOCALE_LABELS[l]?.native ?? l.toUpperCase()}
+            </a>
+          ))}
+      </div>
+      <a class="download" href={pdfHref}>{t.download}</a>
     </div>
+
+    {someUntranslated && (
+      <div class="fallback-banner">{t.fallbackBanner}</div>
+    )}
 
     <div class="book-shell">
       <header class="cover">
         <div class="devanagari">श्रीमद्भगवद्गीता</div>
-        <h1>The Bhagavad Gītā</h1>
-        <p class="subtitle">Multi-Tradition Synthesis</p>
-        <p class="meta">{totalLoaded} verses · 18 chapters · bhagavad.net</p>
+        {locale === 'hi' ? (
+          <h1 class="devanagari-title">{t.title}</h1>
+        ) : (
+          <h1>{t.title}</h1>
+        )}
+        <p class="subtitle">{t.subtitle}</p>
+        <p class="meta">{totalLoaded} {t.versesAvailable}</p>
       </header>
 
-      <nav class="toc" aria-label="Table of contents">
-        <h2>Contents</h2>
+      <nav class="toc" aria-label={t.contents}>
+        <h2>{t.contents}</h2>
         <ol>
           {byChapter.map((c) => (
             <li>
@@ -333,25 +434,29 @@ const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
       {byChapter.map((c) => (
         <section id={`chapter-${c.num}`} class="chapter">
           <header class="chapter-head">
-            <p class="ch-num">Chapter {c.num} of 18</p>
+            <p class="ch-num">{t.chapter} {c.num} {t.of} 18</p>
             <p class="ch-sanskrit">{c.sanskrit}</p>
-            <h2>{c.name}</h2>
+            {locale === 'hi' ? (
+              <h2 class="devanagari-h2">{c.name}</h2>
+            ) : (
+              <h2>{c.name}</h2>
+            )}
             <p class="summary">{c.summary}</p>
           </header>
 
           {c.loaded.length === 0 && (
-            <p style="text-align:center;color:var(--book-faint);font-style:italic;">Verses for this chapter are coming soon.</p>
+            <p style="text-align:center;color:var(--book-faint);font-style:italic;">{t.comingSoon}</p>
           )}
 
           {c.loaded.map((v) => (
             <article class="verse">
-              <h3>Verse {c.num}.{v.data.verse}</h3>
-              <p class="sanskrit">{v.data.sanskrit}</p>
-              <p class="iast">{v.data.iast}</p>
-              <p class="explanation">{v.data.explanation}</p>
+              <h3>{t.verse} {c.num}.{v.verse}</h3>
+              <p class="sanskrit">{v.sanskrit}</p>
+              <p class="iast">{v.iast}</p>
+              <p class="explanation">{v.explanation}</p>
               <div class="synthesis">
-                <strong>Synthesis</strong>
-                {v.data.synthesis}
+                <strong>{t.synthesis}</strong>
+                {v.synthesis}
               </div>
             </article>
           ))}
@@ -360,8 +465,8 @@ const totalLoaded = byChapter.reduce((sum, c) => sum + c.loaded.length, 0);
 
       <div class="end-page">
         <div class="devanagari">ॐ शान्तिः शान्तिः शान्तिः</div>
-        <p>The Bhagavad Gītā · Book Edition</p>
-        <p>bhagavad.net · Open source · Multi-tradition synthesis</p>
+        <p>{t.closing}</p>
+        <p>{t.closingTagline}</p>
       </div>
     </div>
   </body>
