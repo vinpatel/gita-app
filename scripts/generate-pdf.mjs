@@ -102,6 +102,24 @@ try {
 
   browser = await chromium.launch();
 
+  // OG image: visit /og/default/ and screenshot at 1200x630
+  try {
+    const ogPage = await browser.newPage({ viewport: { width: 1200, height: 630 } });
+    const ogUrl = `http://127.0.0.1:${PORT}/og/default/`;
+    console.log(`[og] rendering ${ogUrl}`);
+    await ogPage.goto(ogUrl, { waitUntil: 'networkidle', timeout: 60_000 });
+    await ogPage.evaluate(() => document.fonts && document.fonts.ready);
+    await ogPage.waitForTimeout(500);
+    const ogOut = join(DIST, 'og-default.png');
+    await ogPage.screenshot({ path: ogOut, type: 'png', clip: { x: 0, y: 0, width: 1200, height: 630 } });
+    const ogStat = await stat(ogOut);
+    console.log(`[og] generated ${ogOut} (${(ogStat.size / 1024).toFixed(0)} KB)`);
+    await ogPage.close();
+  } catch (e) {
+    console.warn(`[og] failed: ${e.message}`);
+    // Non-fatal — site still ships, just without a fresh OG image
+  }
+
   const locales = await discoverLocales();
   console.log(`[pdf] locales to generate: ${locales.join(', ')}`);
 

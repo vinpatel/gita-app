@@ -53,7 +53,59 @@ const chapters = chapterMeta.map((ch) => ({
 
 const totalVerses = allShlokas.length;
 ---
-<BaseLayout title="18 Life Lessons" description="The Bhagavad Gītā — 18 life lessons from a warrior in crisis and his divine friend.">
+<BaseLayout
+  title="The Bhagavad Gītā — 18 Life Lessons, 700 Verses, 8 Commentary Traditions"
+  description="The Bhagavad Gītā in modern English with multi-tradition commentary on every verse — Advaita, Bhakti, Dvaita, Vishishtadvaita, Kashmir Shaivism, and more. Free, ad-free, and downloadable as a book."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" is:inline set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'WebSite',
+          '@id': 'https://bhagavad.net/#website',
+          'url': 'https://bhagavad.net/',
+          'name': 'The Bhagavad Gītā',
+          'description': 'Multi-tradition Bhagavad Gītā resource with 700 verses, 8 commentary traditions, and life-application questions.',
+          'inLanguage': 'en',
+          'potentialAction': {
+            '@type': 'SearchAction',
+            'target': {
+              '@type': 'EntryPoint',
+              'urlTemplate': 'https://bhagavad.net/?q={search_term_string}',
+            },
+            'query-input': 'required name=search_term_string',
+          },
+        },
+        {
+          '@type': 'Book',
+          '@id': 'https://bhagavad.net/#book',
+          'name': 'The Bhagavad Gītā',
+          'alternateName': ['Bhagavad Gita', 'श्रीमद्भगवद्गीता', 'Bhagavadgita'],
+          'author': { '@type': 'Person', 'name': 'Vyāsa' },
+          'translationOfWork': {
+            '@type': 'CreativeWork',
+            'name': 'श्रीमद्भगवद्गीता',
+            'inLanguage': 'sa',
+          },
+          'inLanguage': 'en',
+          'numberOfPages': 700,
+          'genre': ['Religious', 'Hindu philosophy', 'Sacred text'],
+          'isAccessibleForFree': true,
+          'url': 'https://bhagavad.net/book/',
+          'image': 'https://bhagavad.net/og-default.png',
+          'workExample': {
+            '@type': 'Book',
+            '@id': 'https://bhagavad.net/book/#en-edition',
+            'bookFormat': 'EBook',
+            'inLanguage': 'en',
+            'url': 'https://bhagavad.net/downloads/gita-en.pdf',
+            'isAccessibleForFree': true,
+          },
+        },
+      ],
+    })} />
+  </Fragment>
 
   <main class="flex-1">
 

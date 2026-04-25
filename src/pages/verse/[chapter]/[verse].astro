@@ -41,8 +41,53 @@ const chapterNames: Record<number, string> = {
 
 const sanskritLines = d.sanskrit.split('\n').filter(Boolean);
 const iastLines = d.iast.split('\n').filter(Boolean);
+
+const chapterName = chapterNames[chapterNum] ?? '';
+const seoTitle = `Bhagavad Gita ${chapterNum}.${verseNum} — Meaning, Translation & Commentary | ${chapterName}`;
+// Description: short, ~155 chars, leading with the topic + key teaching
+const explanationSnippet = d.explanation.length > 140
+  ? d.explanation.slice(0, 137).replace(/\s+\S*$/, '') + '…'
+  : d.explanation;
+const seoDescription = `Bhagavad Gītā Verse ${chapterNum}.${verseNum} — ${explanationSnippet}`;
+
+const verseJsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Article',
+      'headline': `Bhagavad Gita ${chapterNum}.${verseNum}: ${chapterName}`,
+      'description': explanationSnippet,
+      'inLanguage': 'en',
+      'isPartOf': { '@id': 'https://bhagavad.net/#book' },
+      'about': {
+        '@type': 'Quotation',
+        'text': d.iast,
+        'inLanguage': 'sa',
+      },
+      'url': `https://bhagavad.net/verse/${chapterNum}/${verseNum}/`,
+      'keywords': d.themes.join(', '),
+      'author': { '@type': 'Organization', 'name': 'bhagavad.net' },
+      'publisher': {
+        '@type': 'Organization',
+        'name': 'bhagavad.net',
+        'url': 'https://bhagavad.net/',
+      },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://bhagavad.net/' },
+        { '@type': 'ListItem', 'position': 2, 'name': `Chapter ${chapterNum}: ${chapterName}`, 'item': `https://bhagavad.net/chapter/${chapterNum}/` },
+        { '@type': 'ListItem', 'position': 3, 'name': `Verse ${chapterNum}.${verseNum}`, 'item': `https://bhagavad.net/verse/${chapterNum}/${verseNum}/` },
+      ],
+    },
+  ],
+};
 ---
-<BaseLayout title={`Verse ${chapterNum}.${verseNum} — ${chapterNames[chapterNum] ?? ''}`}>
+<BaseLayout title={seoTitle} description={seoDescription} ogType="article">
+  <Fragment slot="head">
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(verseJsonLd)} />
+  </Fragment>
 
   <!-- Verse header — chapter color background -->
   <header class={`chapter-${chapterNum}`}>

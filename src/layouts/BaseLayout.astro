@@ -8,10 +8,26 @@ import { ClientRouter } from 'astro:transitions';
 interface Props {
   title: string;
   description?: string;
+  image?: string;
+  ogType?: string;
+  /** If set, used verbatim. Otherwise built from Astro.url + Astro.site. */
+  canonical?: string;
 }
 
-const { title, description = 'The Bhagavad Gītā — Every shloka becomes actionable wisdom for your life' } = Astro.props;
+const {
+  title,
+  description = 'The Bhagavad Gītā — Every shloka becomes actionable wisdom for your life',
+  image = '/og-default.png',
+  ogType = 'website',
+  canonical,
+} = Astro.props;
+
 const goatcounter = import.meta.env.PUBLIC_GOATCOUNTER_CODE;
+
+const siteOrigin = Astro.site?.toString().replace(/\/$/, '') ?? 'https://bhagavad.net';
+const canonicalURL = canonical ?? `${siteOrigin}${Astro.url.pathname}`;
+const absoluteImage = image.startsWith('http') ? image : `${siteOrigin}${image}`;
+const fullTitle = `${title} | The Bhagavad Gītā`;
 ---
 <!doctype html>
 <html lang="en">
@@ -19,8 +35,30 @@ const goatcounter = import.meta.env.PUBLIC_GOATCOUNTER_CODE;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content="The Bhagavad Gītā" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={absoluteImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="en_US" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={absoluteImage} />
+
     <ClientRouter />
-    <title>{title} | The Bhagavad Gītā</title>
+    <title>{fullTitle}</title>
+
+    <slot name="head" />
+
     {goatcounter && (
       <script
         is:inline

@@ -1,0 +1,126 @@
+---
+// Source page for the default Open Graph image. Rendered as a 1200x630
+// card; Playwright screenshots it during the deploy build and writes
+// dist/og-default.png. The HTML page itself is also accessible at
+// /og/default/ but is excluded from the sitemap and has noindex.
+import '@fontsource-variable/inter';
+import '@fontsource-variable/source-serif-4';
+import '@fontsource-variable/noto-sans-devanagari/wght.css';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex" />
+    <title>OG image · The Bhagavad Gītā</title>
+    <style is:global>
+      html, body { margin: 0; padding: 0; background: #ffffff; }
+      .og {
+        width: 1200px;
+        height: 630px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 70px 80px;
+        box-sizing: border-box;
+        background:
+          radial-gradient(circle at 85% 20%, rgba(196, 131, 45, 0.18), transparent 55%),
+          radial-gradient(circle at 12% 90%, rgba(196, 131, 45, 0.12), transparent 50%),
+          #ffffff;
+        font-family: 'Inter Variable', system-ui, sans-serif;
+        color: #1c1917;
+      }
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 14px;
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: #57534e;
+      }
+      .badge .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #C4832D;
+      }
+      .devanagari {
+        font-family: 'Noto Sans Devanagari Variable', sans-serif;
+        font-size: 56px;
+        color: #C4832D;
+        margin-bottom: 8px;
+        font-weight: 600;
+      }
+      h1 {
+        font-size: 96px;
+        font-weight: 900;
+        line-height: 1.0;
+        margin: 0 0 28px;
+        letter-spacing: -0.025em;
+      }
+      .tagline {
+        font-family: 'Source Serif 4 Variable', Georgia, serif;
+        font-size: 30px;
+        color: #57534e;
+        line-height: 1.35;
+        margin: 0;
+        max-width: 880px;
+      }
+      footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 18px;
+        color: #57534e;
+      }
+      footer .stats {
+        display: flex;
+        gap: 28px;
+      }
+      footer .stat {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.2;
+      }
+      footer .stat .num {
+        font-size: 36px;
+        font-weight: 900;
+        color: #1c1917;
+        letter-spacing: -0.01em;
+      }
+      footer .stat .label {
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 0.16em;
+        color: #a8a29e;
+        margin-top: 2px;
+      }
+      footer .url {
+        font-size: 22px;
+        font-weight: 700;
+        color: #C4832D;
+        letter-spacing: 0.02em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="og">
+      <div>
+        <p class="badge"><span class="dot"></span>The Bhagavad Gītā</p>
+        <div class="devanagari" style="margin-top: 36px">श्रीमद्भगवद्गीता</div>
+        <h1>18 life lessons<br/>from a warrior in crisis.</h1>
+        <p class="tagline">700 verses · 8 commentary traditions · One free book in your language.</p>
+      </div>
+      <footer>
+        <div class="stats">
+          <div class="stat"><span class="num">700</span><span class="label">Verses</span></div>
+          <div class="stat"><span class="num">18</span><span class="label">Chapters</span></div>
+          <div class="stat"><span class="num">8</span><span class="label">Traditions</span></div>
+        </div>
+        <div class="url">bhagavad.net</div>
+      </footer>
+    </div>
+  </body>
+</html>

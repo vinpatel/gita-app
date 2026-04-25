@@ -79,14 +79,64 @@ const STRINGS: Record<string, Record<string, string>> = {
 const t = STRINGS[locale] ?? STRINGS.en;
 const someUntranslated = !isDefault && byChapter.some((c) => !c.translated);
 const goatcounter = import.meta.env.PUBLIC_GOATCOUNTER_CODE;
+
+const localeLabel = LOCALE_LABELS[locale]?.english ?? locale;
+const seoTitle = `The Bhagavad Gītā — Free PDF Book (${localeLabel}) | bhagavad.net`;
+const seoDescription = `The Bhagavad Gītā — Free book edition in ${localeLabel}. All 18 chapters with Sanskrit, IAST transliteration, English translation, and multi-tradition synthesis. Read online or download as PDF.`;
+const ogTitle = `The Bhagavad Gītā — Free PDF Book (${localeLabel})`;
+const canonicalUrl = `https://bhagavad.net${import.meta.env.BASE_URL}book/${isDefault ? '' : locale + '/'}`;
+const fullPdfUrl = `https://bhagavad.net${pdfHref.startsWith('/') ? pdfHref.slice(1) : pdfHref}`;
 ---
 <!doctype html>
 <html lang={htmlLang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content={`The Bhagavad Gītā — Book edition (${LOCALE_LABELS[locale]?.english ?? locale}). All 18 chapters with Sanskrit, IAST, translation, and synthesis. Free download.`} />
-    <title>{t.title} — Book Edition | bhagavad.net</title>
+    <meta name="description" content={seoDescription} />
+    <title set:html={seoTitle}></title>
+    <link rel="canonical" href={canonicalUrl} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="book" />
+    <meta property="og:site_name" content="The Bhagavad Gītā" />
+    <meta property="og:title" content={ogTitle} />
+    <meta property="og:description" content="The complete Bhagavad Gītā — all 18 chapters with Sanskrit, transliteration, translation, and multi-tradition synthesis. Free to read and download." />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content="https://bhagavad.net/og-default.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="book:author" content="Vyāsa" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={ogTitle} />
+    <meta name="twitter:description" content="The complete Bhagavad Gītā — all 18 chapters, multi-tradition synthesis. Free PDF." />
+    <meta name="twitter:image" content="https://bhagavad.net/og-default.png" />
+
+    <script type="application/ld+json" is:inline set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Book',
+      'name': 'The Bhagavad Gītā',
+      'alternateName': ['Bhagavad Gita', 'श्रीमद्भगवद्गीता'],
+      'author': { '@type': 'Person', 'name': 'Vyāsa' },
+      'inLanguage': locale,
+      'numberOfPages': 700,
+      'bookFormat': 'EBook',
+      'isAccessibleForFree': true,
+      'genre': ['Religious', 'Hindu philosophy', 'Sacred text'],
+      'url': canonicalUrl,
+      'image': 'https://bhagavad.net/og-default.png',
+      'workExample': {
+        '@type': 'Book',
+        'bookFormat': 'EBook',
+        'inLanguage': locale,
+        'url': fullPdfUrl,
+        'isAccessibleForFree': true,
+        'encodingFormat': 'application/pdf',
+      },
+      'potentialAction': {
+        '@type': 'ReadAction',
+        'target': canonicalUrl,
+      },
+    })} />
     {goatcounter && (
       <script
         is:inline

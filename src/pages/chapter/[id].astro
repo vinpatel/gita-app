@@ -42,8 +42,31 @@ const loadedCount = shlokas.length;
 
 const prevChapter = chapterNum > 1 ? chapterNum - 1 : null;
 const nextChapter = chapterNum < 18 ? chapterNum + 1 : null;
+
+const seoTitle = `Bhagavad Gita Chapter ${chapterNum}: ${ch.name} — All ${ch.verses} Verses with Multi-Tradition Commentary`;
+const seoDescription = `Bhagavad Gītā Chapter ${chapterNum} (${ch.sanskrit}, ${ch.name}) — ${ch.summary} Read every verse in Sanskrit, IAST transliteration, modern English translation, and 8 commentary traditions.`;
+
+const chapterJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  'name': `Bhagavad Gita Chapter ${chapterNum}: ${ch.name}`,
+  'description': ch.summary,
+  'inLanguage': 'en',
+  'isPartOf': { '@id': 'https://bhagavad.net/#book' },
+  'url': `https://bhagavad.net/chapter/${chapterNum}/`,
+  'breadcrumb': {
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://bhagavad.net/' },
+      { '@type': 'ListItem', 'position': 2, 'name': `Chapter ${chapterNum}: ${ch.name}`, 'item': `https://bhagavad.net/chapter/${chapterNum}/` },
+    ],
+  },
+};
 ---
-<BaseLayout title={`Chapter ${chapterNum}: ${ch.name}`}>
+<BaseLayout title={seoTitle} description={seoDescription} ogType="article">
+  <Fragment slot="head">
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(chapterJsonLd)} />
+  </Fragment>
 
   <!-- Chapter header — solid color background matching homepage -->
   <header class={`chapter-${chapterNum}`}>

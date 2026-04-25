@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Don't index helper routes
+Disallow: /og/
+Disallow: /_
+
+Sitemap: https://bhagavad.net/sitemap-index.xml
